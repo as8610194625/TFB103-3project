@@ -3,18 +3,19 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import time
 def kingstone(keyword,pages):
-    for page in range (0,int(pages)+1):
+    book =list()
+    bookhtml =list()
+    bookauthor =list()
+    bookpublisher = list()
+    imagehtml = list()
+    isbn = list()
+    for page in range (1,int(pages)+1):
         url = "https://www.kingstone.com.tw/search/key/{}/page/{}".format(keyword,str(page))
         headers = headers = {'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
         res = requests.get(url,headers=headers)
         soup = BeautifulSoup(res.text,"html.parser")
         article = soup.select('h3[class="pdnamebox"] a')
-        book =list()
-        bookhtml =list()
-        bookauthor =list()
-        bookpublisher = list()
-        imagehtml = list()
-        isbn = list()
+        
         for i in article:
             # book_name = i.text
             book.append(i.text)
@@ -28,7 +29,7 @@ def kingstone(keyword,pages):
             isbn.append(book_soup.select('ul[class="table_2col_deda"]')[1].select('li[class="table_td"]')[1].text)
             time.sleep(1)
             print("Loading.....")
-
+        print("第{}頁".format(page).center(20,"="))
     # print(len(book))
     # print(len(bookhtml))
     # print(len(bookauthor))
