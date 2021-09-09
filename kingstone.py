@@ -24,11 +24,18 @@ def kingstone(keyword,pages):
             book_res = requests.get(book_html,headers=headers)
             book_soup = BeautifulSoup(book_res.text,"html.parser")
             bookauthor.append(book_soup.select('li[class="basicunit"] a')[0].text)
-            bookpublisher.append(book_soup.select('li[class="basicunit"] a')[2].text)
+            if book_soup.select('li[class="basicunit"] a')[2].text == '?':
+                bookpublisher.append(book_soup.select('li[class="basicunit"] a')[3].text)
+            else:
+                bookpublisher.append(book_soup.select('li[class="basicunit"] a')[2].text)
             imagehtml.append(book_soup.select('div[class="alpha_main"] a')[0]['href'])
-            isbn.append(book_soup.select('ul[class="table_2col_deda"]')[1].select('li[class="table_td"]')[1].text)
-            time.sleep(1)
+            try:
+                isbn.append(book_soup.select('ul[class="table_2col_deda"]')[1].select('li[class="table_td"]')[1].text)
+            except IndexError:
+                isbn.append(0)
+            time.sleep(2)
             print("Loading.....")
+        time.sleep(10)
         print("第{}頁".format(page).center(20,"="))
     # print(len(book))
     # print(len(bookhtml))
@@ -45,7 +52,7 @@ def kingstone(keyword,pages):
         "圖片網址":imagehtml
     }
     df = pd.DataFrame(data=data)
-    df.to_csv("kingstontest_{}.csv".format(keyword),encoding="utf-8-sig",index=False)
+    df.to_csv("kingstone_{}.csv".format(keyword),encoding="utf-8-sig",index=False)
     print("Completed")
     
 kingstone(input("您要搜尋的書籍?"),input("您要總查詢的頁數?"))
