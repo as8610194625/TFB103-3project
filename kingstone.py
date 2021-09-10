@@ -9,6 +9,7 @@ def kingstone(keyword,pages):
     bookpublisher = list()
     imagehtml = list()
     isbn = list()
+    book_intros = list()
     for page in range (1,int(pages)+1):
         url = "https://www.kingstone.com.tw/search/key/{}/page/{}".format(keyword,str(page))
         headers = headers = {'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
@@ -16,12 +17,13 @@ def kingstone(keyword,pages):
         soup = BeautifulSoup(res.text,"html.parser")
         article = soup.select('h3[class="pdnamebox"] a')
         
-        for i in article:
+        for k,i in enumerate (article):
             # book_name = i.text
             book.append(i.text)
             book_html = "https://www.kingstone.com.tw/"+i['href']
             bookhtml.append(book_html)
             book_res = requests.get(book_html,headers=headers)
+            time.sleep(1)
             book_soup = BeautifulSoup(book_res.text,"html.parser")
             bookauthor.append(book_soup.select('li[class="basicunit"] a')[0].text)
             if book_soup.select('li[class="basicunit"] a')[2].text == '?':
@@ -33,9 +35,16 @@ def kingstone(keyword,pages):
                 isbn.append(book_soup.select('ul[class="table_2col_deda"]')[1].select('li[class="table_td"]')[1].text)
             except IndexError:
                 isbn.append(0)
-            time.sleep(2)
+            try:
+                book_intro = book_soup.select('div[class="pdintro_txt1field panelCon"]')[0]
+                book_intros.append(book_intro.text)
+            except IndexError:
+                book_intros.append(0)
+            
+            print(k+1,i.text)
             print("Loading.....")
-        time.sleep(10)
+            time.sleep(3)
+        time.sleep(5)
         print("第{}頁".format(page).center(20,"="))
     # print(len(book))
     # print(len(bookhtml))
@@ -51,9 +60,16 @@ def kingstone(keyword,pages):
         "ISBN":isbn,
         "圖片網址":imagehtml
     }
+    data_intro ={
+        "ISBN":isbn,
+        "書籍簡介":book_intros
+    }
+    
     df = pd.DataFrame(data=data)
+    df_intro = pd.DataFrame(data=data_intro)
     df.to_csv("kingstone_{}.csv".format(keyword),encoding="utf-8-sig",index=False)
+    df_intro.to_csv("kingstone_{}_intro.csv".format(keyword),encoding="utf-8-sig",index=False)
     print("Completed")
     
 kingstone(input("您要搜尋的書籍?"),input("您要總查詢的頁數?"))
-kingstone(input("Press Enter to exit!"))
+input("Press Enter to exit!")
