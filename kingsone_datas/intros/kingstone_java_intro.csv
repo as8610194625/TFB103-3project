@@ -59,11 +59,6 @@ Take advantage of 55% Book Stores Discount!Win the Royalty of Your Customers wit
 密集式範例學習最有效，關鍵語法與物件導向觀念解說！目前Java的應用範圍除了Internet的Web開發領域之外，它還具備一般程式語言的全部功能，甚至可能更強。例如：在企業級應用環境中，如金融、電信、保險等複雜環境中，面對高度的業務複雜性，百萬、千萬甚至更高的使用壓力下，利用Java技術所開發的應用系統都展現極佳的執行效能。應當承認，純粹作為語言來講Java並不具備所有的優勢，但如果在系統規畫時，考慮將系統部署在非Windows平台上，同時也希望具有：一次編譯，隨處執行（Compile once, run anywhere）的特性，那麼Java技術就是首選。像其他程式語言一樣，撰寫Java程式語言也可被用來發展各種應用，本書重點介紹Java Application的開發，從流程控制、陣列、演算法、類別物件、繼承介面、資料輸出輸入、網路程式設計、資料庫存取、使用者介面開發等等，都有深入淺出的介紹。
                     
 "
-9786203202021,"
-
-This book describes the fundamentals of object-oriented programming where classes, objects, inheritance hierarchy, polymorphism, data hiding, basics of java such as the structure of java program, keywords, syntaxes of class, interface, types of inhritances and packages exceptional handling such as try, catch, throw, throws, and finally, user-defined exceptions, applet and event-driven programming where different events and their handling, swing programming where the importance of swing components, and those various components handling, and network programming where socket, server socket terminology, and communication between client and server take place.
-                    
-"
 9781492082279,"
 
 Kotlin has raised the bar for programming languages on the Java Virtual Machine with its compatibility, readability, and tool support. But adopting a new language can be daunting, especially when you're working with business-critical Java code that must meet changing requirements.This book takes a novel approach to introducing Kotlin to Java programmers: showing you how to gradually refactor Java code to idiomatic Kotlin while continuing to evolve its functionality. But converting Java to Kotlin is just the starting point. Kotlin has many features beyond Java.Using worked examples, authors Duncan McGregor and Nat Pryce guide you through honing the converted code to make it simpler, more efficient, more expressive, and easier to change. You'll learn how to take advantage of functional constructs to improve program structure, reliability, and error handling.Once you finish this book, you'll be confident in writing Kotlin from scratch, converting your existing Java to Kotlin, and managing a mixed Java-Kotlin codebase as it evolves over time.
@@ -90,13 +85,11 @@ This book introduces the key concepts of Java programming through the eyes of a 
 How Can you Take Advantage of the Tremendous Development Tools and Versatility of Java in 2020? Keep reading to find out ... Java is a widely-used programming language on the Web and in computing applications. It is a free download solution that allows users to access the latest versions and implement updates. This particular Programming Language is present in the majority of today's Web Applications and Computing Technologies. Java's scalable characteristics make it suitable for deployment in a wide range of applications, including apps for small electronic devices like cell phones and software solutions for large scale operations such as data centres. The growing preference for deploying Java is attributable to its robust functional features and sound security credentials.Java bears the Unique Distinction of Operating as a Modernized Programming Language but also as a Platform. The Programming Language Component of Java is centred on the aspect of writing instructions and compiling commands.This book includes: Why is Java crucial in 2020 ? ✓Get to know the Richest Application Programming Interface ✓Different Type Open Source Libraries ✓Discover the 7 Best Development Tools of Java ✓Get access to Extraordinary Documentation Support ✓Keywords ✓Identifiers ✓What are the Variables ? ✓ Java Runtime Environment ✓Creating Objects ✓...And much more!The book provides details of the different basic aspects of Java to guide you through the beginner's level of this Programming Language. This guide highlights the underlying concepts of Java, provides relevant examples, and incorporates exercises that will help you understand its fundamental parameters, structure, characteristics, and operations. It guides you on the procedures for implementing end-user deployments of the different tools that are used in a Java development environment.Ready to become a Master of Java? Don't waste time ""Get the Book"" !
 
 "
-9781520609836,0
 9786203402407,"
 
 The use of ontologies for data representation is a broad research line within artificial intelligence. Ontologies are used to represent knowledge so that it can be interpreted by computer systems. The applications of ontologies are varied, ranging from the representation of data for the semantic web, expert systems and others. This book initially explains the most common methodologies for the development of ontologies, ranging from the simple methodology, through the Skeletal, until reaching the NeON, each has its own characteristics that make it useful depending on the problem to be modeled and the adoption of the knowledge engineer. Next, a semantic representation model is proposed to describe a university environment, then an ontology is built in Proteg矇. Finally, Java and Apache Jena are used to execute desktop queries and web services.
                     
 "
-9789333223850,0
 9781612740850,"
 
 An Introductory text on Java using the freely downloadable JDK (Java Development Kit) for Java's latest version, JDK 15.0. The easiest technical book you'll ever read. Open it up and see for yourself. Join Professor Smiley's Java class as he teaches essential skills in programming, coding and more. Using a student-instructor conversational format, this book starts at the very beginning with crucial programming fundamentals. You'll quickly learn how to identify customer needs so you can create an application that achieves programming objectives---just like experienced programmers. By identifying clear client goals, you'll learn important programming basics---like how computers view input and execute output based on the information they are given---then use those skills to develop real-world applications. Participate in this one-of-a-kind classroom experience and see why Professor Smiley is renowned for making learning fun and easy.
@@ -111,11 +104,6 @@ Take the guesswork out of learning Java effectively, get ready for a lucrative c
 9781617297601,"
 
 Sharpen your coding skills by exploring established computer science problems! Classic Computer Science Problems in Java challenges you with time-tested scenarios and algorithms. Summary Sharpen your coding skills by exploring established computer science problems! Classic Computer Science Problems in Java challenges you with time-tested scenarios and algorithms. You'll work through a series of exercises based in computer science fundamentals that are designed to improve your software development abilities, improve your understanding of artificial intelligence, and even prepare you to ace an interview. As you work through examples in search, clustering, graphs, and more, you'll remember important things you've forgotten and discover classic solutions to your ""new"" problems!  Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.  About the technology Whatever software development problem you're facing, odds are someone has already uncovered a solution. This book collects the most useful solutions devised, guiding you through a variety of challenges and tried-and-true problem-solving techniques. The principles and algorithms presented here are guaranteed to save you countless hours in project after project.  About the book Classic Computer Science Problems in Java is a master class in computer programming designed around 55 exercises that have been used in computer science classrooms for years. You'll work through hands-on examples as you explore core algorithms, constraint problems, AI applications, and much more.  What's inside  Recursion, memoization, and bit manipulation Search, graph, and genetic algorithms Constraint-satisfaction problems K-means clustering, neural networks, and adversarial search  About the reader For intermediate Java programmers.  About the author David Kopec is an assistant professor of Computer Science and Innovation at Champlain College in Burlington, Vermont.  Table of Contents  1 Small problems 2 Search problems 3 Constraint-satisfaction problems 4 Graph problems 5 Genetic algorithms 6 K-means clustering 7 Fairly simple neural networks 8 Adversarial search 9 Miscellaneous problems 10 Interview with Brian Goetz
-                    
-"
-9780415260985,"
-
-The Java programming language has been one of the most exciting internet-friendly technologies to emerge in the last decade. Java Programming for Spatial Sciences introduces the subject to those who wish to use computers to handle information with a geographical element. The book introduces object-oriented modeling including key concepts such as abstraction, inheritance and encapsulation. It shows how these ideas can be used to model, process and visualize geographic information leading the reader from initial ideas of class design through to the implementation of feature rich raster and vector models of space. It includes some of the more recent developments in internet technologies such as web-based applets, remote communication and XML, showing how these can be used to deliver geographic information in a modern computing environment. The text is aimed at new programmers as well as those in fields such as geography, GIS, remote sensing, archaeology and biology who wish to make use of geographic information. It provides a useful course text for advanced undergraduates and postgraduates in these fields. The material is heavily example-led, and contains programming exercises and quizzes, making it suitable for self-paced learning.
                     
 "
 9781484261828,"
@@ -137,11 +125,6 @@ A step by step guide that will help you learn the Java programming language Key 
 
 Do you want to learn Java rapidly and regardless of whether you don't have any specialized skills? If yes, then keep reading! How frequently have you pondered figuring out how to code, but you were discouraged on the grounds that you had no specialized foundation, you didn't have the opportunity to learn, or you simply didn't think you were sufficiently brilliant? Well we have uplifting news for you. This thorough guide will direct you bit by bit through learning a standout amongst other programming languages out there. In a matter of seconds, you will write code like an expert. Driven by Sun Microsystems in 1995, Java is known for its security and power. It stays one of the most promising programming languages following two decades. Even if you are an amateur or knowledgeable in other programming languages, this book should give a far reaching prologue to the Java inbox.Java is one of the most popular programming languages ​​today. For one thing, it is the programming language preferred by almost everyone when it comes to Android programming. Do you want to learn how to develop applications for your smartphone? Learn to program in this language!Java is widely used to develop secure and powerful web applications, mobile applications, corporate applications, and desktop applications.Java is celebrating its 25th birthday this year and has been one of the most popular programming languages used for developing enterprise software applications. Huge companies like Uber, Airbnb, Twitter and many others, use Java in their tech stack. This means that find a good job as Java developer is relatively easy. In the US the average salary of a Java developer is around 105 thousand dollars per year.Most books about data structures, algorithms, design patterns, automated testing and software architecture are based on Java. So knowing Java is like knowing English. Java in the programming world is like the English language of our world.This book coversGetting Ready for JavaThe World of Variables and OperatorsUnderstanding Arrays and StringProgramming Control StatementAdvanced object oriented programmingAnd much more!This book is for people who have absolutely no idea about programming. You will learn programming concepts and nuances that start with the basics while getting the details of Java programming.Ready to get started? Click the BUY NOW button!
                     
-"
-9781138742024,"
-
-This title was first published in 2000. Yogyakarta Special Region (known as Daerah Istimewa Yogyakarta in Bahasa Indonesia, or DIY) is located in the centre of the southern coast of Java. The region has a very long history and has undergone many changes and developments in agriculture, irrigation, population and immigration movements. Organized into four main sections, this text aims to provide a study of rural-urban integeration in the area, with particular reference to the consequences of development and employment. It introduces the region in geographical and economic terms, looking at the communities where fieldwork has been conducted. The results of these field studies are then presented, along with possible regional development policies geared towards encouraging the regional integration process. The important questions and implications of increasing rural-urban linkages for urban and societal changes in monsoon Asia are then reviewed on the basis of the lessons learned from the case studies in the DIY. Special attention is given to the consequences for employment and metropolitan changes in the wake of the changes taking place in this region. 
-
 "
 9783658303129,"
 
@@ -223,11 +206,6 @@ This book is the ultimate beginners' crash course to Java programming, as it wil
 An Easy Approach to JAVA is a introductory computer programming textbook that uses Java as the language of instruction. It is suitable for use in an introductory programming course and for people who are trying to learn programming on their own. There are no prerequisites beyond a general familiarity with the ideas of computers and programs. There is enough material for a full year of college-level programming. This book focus on concurrency issues and problems like deadlock, starvation, thread-safety, race conditions and then present ways to solve them using Java concurrency classes. This book is good on explaining what is wrong and why its wrong and how to make it right which is essential for Java book to succeed.
                     
 "
-9789354210303,"
-
-This book has been considered by academicians and scholars of great significance and value to literature. This forms a part of the knowledge base for future generations. So that the book is never forgotten we have represented this book in a print format as the same form as it was originally first published. Hence any marks or annotations seen are left intentionally to preserve its true nature.
-                    
-"
 9781946383235,"
 
    280 Java/J2EE Interview Questions 75 HR Interview Questions  Real life scenario based questions Strategies to respond to interview questions 2 Aptitude Tests   Java/J2EE Interview Questions You'll Most Likely Be Asked is a perfect companion to stand ahead above the rest in today's competitive job market. Rather than going through comprehensive, textbook-sized reference guides, this book includes only the information required immediately for job search to build an IT career. This book puts the interviewee in the driver's seat and helps them steer their way to impress the interviewer.  The following is included in this book:  (a) 280 Java/J2EE Interview Questions, Answers and proven strategies for getting hired as an IT professional (b) Dozens of examples to respond to interview questions (c) 75 HR Questions with Answers and proven strategies to give specific, impressive, answers that help nail the interviews (d) 2 Aptitude Tests download available on www.vibrantpublishers.com
@@ -285,11 +263,6 @@ Making extensive use of examples, this textbook on Java programming teaches the 
 9781735222233,"
 
 This book is useful for developers who has prior java development experience and wants to scale up or brush up their knowledge. It will be helpful for interview preparations. One can use it as a tool to crack the java interview. It is specially designed to brush-up the java concepts quickly.
-                    
-"
-9789564020877,"
-
-Camila tiene 18 a簽os y ya no soporta m獺s la rutina. Tras sufrir un violento asalto, decide dejar la comodidad de su hogar en Chile para viajar a Indonesia con una beca. All穩 descubrir獺 que nada es como ella esperaba, sintiendo un fuerte choque cultural. 聶Lograr獺 sobreponerse a los desaf穩os que se presenten en su camino?Las vivencias de la protagonista te inspirar獺n a crear tu propio camino en un libro entretenido y f獺cil de leer, donde tambi矇n te sorprender獺s conociendo los ex籀ticos paisajes de Indonesia.
                     
 "
 9781119680451,"
@@ -358,11 +331,6 @@ HTTP封包截取利用Fiddler封包截取工具來捕獲HTTP資料包，然後�
 Big Java: Early Objects, 7th Edition focuses on the essentials of effective learning and is suitable for a two-semester introduction to programming sequence. This text requires no prior programming experience and only a modest amount of high school algebra. Objects and classes from the standard library are used where appropriate in early sections with coverage on object-oriented design starting in Chapter 8. This gradual approach allows students to use objects throughout their study of the core algorithmic topics, without teaching bad habits that must be un-learned later. The second half covers algorithms and data structures at a level suitable for beginning students. Choosing the enhanced eText format allows students to develop their coding skills using targeted, progressive interactivities designed to integrate with the eText. All sections include built-in activities, open-ended review exercises, programming exercises, and projects to help students practice programming and build confidence. These activities go far beyond simplistic multiple-choice questions and animations. They have been designed to guide students along a learning path for mastering the complexities of programming. Students demonstrate comprehension of programming structures, then practice programming with simple steps in scaffolded settings, and finally write complete, automatically graded programs. The perpetual access VitalSource Enhanced eText, when integrated with your school's learning management system, provides the capability to monitor student progress in VitalSource SCORECenter and track grades for homework or participation. *Enhanced eText and interactive functionality available through select vendors and may require LMS integration approval for SCORECenter.
                     
 "
-9783752374681,"
-
-Reproduction of the original: From Jungle to Java by Arthur Keyser
-                    
-"
 9783030545178,"
 
 Java is now well-established as one of the world's major programming languages, used in everything from desktop applications to web-hosted applications and enterprise systems, and embedded in devices such as mobile phones and Blu-ray players.Foundational Java: Key Elements and Practical Programming presents a detailed guide to the core features of Java - and some more recent innovations - enabling the reader to build their skills and confidence though tried-and-trusted stages, supported by exercises that reinforce the key learning points. All of the most useful and commonly applied Java syntax and libraries are introduced, along with many example programs that can provide the basis for more substantial applications. Use of the Eclipse Integrated Development Environment (IDE) and the JUnit testing framework is integral to the book, ensuring maximum productivity and code quality when learning Java, although to ensure that skills are not confined to one environment the fundamentals of the Java compiler and run time are also explained. Additionally, coverage of the Ant tool will equip the reader with the skills to automatically build, test and deploy applications independent of an IDE.Topics and features: presents the most up-to-date information on Java, including Java 7; examines the key theme of unit testing, introducing the JUnit 4 testing framework to emphasize the importance of unit testing in modern software development; describes the Eclipse IDE, the most popular open source Java IDE, and also explains how Java can be run from the command line; includes coverage of the Ant build tool; contains numerous code examples and exercises throughout; provides downloadable source code, self-test questions, PowerPoint slides and other supplementary material at the website http: //www.introjava.com.This hands-on, classroom-tested textbook/reference is ideal for undergraduate students on introductory and intermediate courses on programming with Java. Professional software developers will also find this an excellent self-study guide/refresher on the topic.
@@ -376,11 +344,6 @@ Gain the essential Java language skills necessary for using the Android SDK plat
 9781484262795,"
 
 Get started with using the new Java MVC 1.0 framework for model, view, and controller development for building modern Java-based web, native, and microservices applications.  Beginning Java MVC teaches you the basics, then dives in to models, views, controllers. Next, you learn data binding, events, application types, view engines, and more. You will be given practical examples along the way to reinforce what you have learned. Furthermore, you'll work with annotations, internationalization, security, and deployment.  After reading this book, you'll have the know how to build your first full Java-based MVC application.  What You Will Learn  Discover the Java MVC 1.0 APIs and how to use them Master the Model, View and Controller design pattern Carry out data binding  Write events Work with view engines  Who This Book Is For  Those new to Java MVC 1.0. Some prior experience with Java programming recommended, especially with JSF or Struts.
-                    
-"
-9786202184595,"
-
-Este trabalho foi realizado, originalmente, a partir do conv穩vio com o povo Java矇 entre os anos de 2012 e 2014. Ao longo deste per穩odo o autor obteve o t穩tulo de mestre em hist籀ria pela Universidade Federal de Goi獺s (UFG). Essa pesquisa trata-se de uma perspectiva sobre a hist籀ria da rela癟瓊o entre o povo Java矇 (Iny) da Ilha do Bananal no estado de Tocantins com as pol穩ticas colonizadoras da coroa portuguesa e com o estado brasileiro, sobretudo em rela癟瓊o a ""educa癟瓊o"" n瓊o ind穩gena que os colonizadores tentaram implantar com objetivos espec穩ficos entre os Java矇 em diversas ocasi繭es. A investiga癟瓊o partiu de literatura especializada, fontes impressas e orais, essas 繳ltimas obtidas atrav矇s da gentil colabora癟瓊o de pessoas que vivem nas seguintes aldeias: Wari-Wari, Txuiri; S瓊o Jo瓊o, Boto Velho e Canoan瓊. A essas pessoas o eterno agradecimento, pelo recebimento, pela colabora癟瓊o e pela amizade. Esse trabalho n瓊o questiona em absolutamente nada a narrativa dos Java矇 sobre o seu passado, sendo apenas uma perspectiva de uma pessoa exterior ao lugar deste povo sobre os processos hist籀ricos em an獺lise.
                     
 "
 9781119619130,"
@@ -502,11 +465,6 @@ Java continues to grow and evolve, and this Cookbook continues to evolve in tand
 If you want to push your Java skills to the next level, this book provides expert advice from Java leaders and practitioners. You'll be encouraged to look at problems in new ways, take broader responsibility for your work, stretch yourself by learning new techniques, and become as good at the entire craft of development as you possibly can.Edited by Kevlin Henney and Trisha Gee, 97 Things Every Java Programmer Should Know reflects lifetimes of experience writing Java software and living with the process of software development. Great programmers share their collected wisdom to help you rethink Java practices, whether working with legacy code or incorporating changes since Java 8.A few of the 97 things you should know: ""Behavior Is Easy, State Is Hard""--Edson Yanaga""Learn Java Idioms and Cache in Your Brain""--Jeanne Boyarsky""Java Programming from a JVM Performance Perspective""--Monica Beckwith""Garbage Collection Is Your Friend""--Holly K Cummins""Java's Unspeakable Types""--Ben Evans""The Rebirth of Java""--Sander Mak""Do You Know What Time It Is?""--Christin Gorman
                     
 "
-9781528942423,"
-
-An escape during deportation from Britain by Kinolo Java, a high-profile trade union opponent of the Baraki regime in Algeria is followed by capture in Buckingham Palace which draws in the royals. Deported back to Algeria and facing certain death in prison, he escapes and is hunted down by assassins in Algeria, Spain and Morocco. This story of a life and death struggle against overwhelming odds reveals the darker politics of governments, driven by moral panics over illegal immigration in the media and the tabloid press. Murder, sex and betrayal loom over this story of one asylum seeker's escape from oppression and search for freedom and justice.
-                    
-"
 9786200118639,"
 
 This study developed membrane, plate and flat shell elements with drilling degrees of freedom using an object oriented approach and JAVA programming language. The membrane elements developed in the program included a four node and an eight node isoparametric elements (QUAD4 &QUAD8) respectively. The plate elements developed were the four node and the eight node discrete Kirchoff quadrilateral (DKQ4 & DKQ8) respectively. A bilinear degenerated shell element with drilling degrees of freedom was also developed. A finite element program using JAVA which addressed most of the deficiencies inherent in the work of Kansara (2004) and Nikishkov (2010) was developed. The program computed displacements and stresses at each node of the finite element model. The loads that could be applied to the structure included concentrated loads, uniformly distributed surface loads and various load combinations. Several test examples were analyzed using the developed finite element program and the results were compared with those obtained from Kansara (2004), the commercial finite element analysis program SAP 2000 and LISA.
@@ -517,49 +475,9 @@ This study developed membrane, plate and flat shell elements with drilling degre
 In uralten Spielen wie Schach oder Go k繹nnen sich die weltbesten Spieler verbessern, indem sie die von einer Maschine produzierten Strategien studieren, Robotische Systeme 羹ben ihre Bewegungen selbst, in Arcade Games erreichen lernf瓣hige Agenten innerhalb weniger Stunden ein 羹bermenschliches Niveau. Wie funktionieren diese spektakul瓣ren Algorithmen des best瓣rkenden Lernens? Mit gut verst瓣ndlichen Erkl瓣rungen und 羹bersichtlichen ?bungsbeispielen in Greenfoot und Java k繹nnen Sie sich die Prinzipien des best瓣rkenden Lernens aneignen und in eigenen intelligenten Agenten nutzbar machen. Greenfoot und der Java-Hamster werden gern im Informatik Unterricht an Schulen, aber auch in Einf羹hrungskursen zur (objektorientierten) Programmierung mit Java, bspw. an Fahhochschulen, wo auch das Hamster-Modell her-stammt.
 
 "
-9780008369941,"
-
-The 50th anniversary edition of this classic World War 2 adventure set in south-east Asia.February, 1942: Singapore lies burning and shattered, defenceless before the conquering hordes of the Japanese Army.The last boat escapes out of the harbour into the South China Sea, and on board are a desperate group of strangers, each with a secret to guard, each willing to kill to keep that secret safe.Dawn sees them far out to sea but with the first murderous dive bombers already aimed at their ship. Thus begins a nightmare succession of disasters wrought by the hell-bent Japanese, the unrelenting tropical sun and, ultimately, by the survivors themselves, as they head south by Java Head.
-                    
-"
 9781119617624,"
 
 The completely-updated preparation guide for the new OCP Oracle Certified Professional Java SE 11 Programmer II exam--covers Exam 1Z0-816 Java, a platform-independent, object-oriented programming language, is used primarily in mobile and desktop application development. It is a popular language for client-side cloud applications and the principal language used to develop Android applications. Oracle has recently updated its Java Programmer certification tracks for Oracle Certified Professional. OCP Oracle Certified Professional Java SE 11 Programmer II Study Guide ensures that you are fully prepared for this difficult certification exam. Covering 100% of exam objectives, this in-depth study guide provides comprehensive coverage of the functional-programming knowledge necessary to succeed. Every exam topic is thoroughly and completely covered including exceptions and assertions, class design, generics and collections, threads, concurrency, IO and NIO, and more. Access to Sybex's superior online interactive learning environment and test bank--including self-assessment tests, chapter tests, bonus practice exam questions, electronic flashcards, and a searchable glossary of important terms--provides everything you need to be fully prepared on exam day. This must-have guide:   Covers all exam objectives such as inheriting abstract classes and interfaces, advanced strings and localization, JDBC, and Object-Oriented design principles and patterns Explains complex material and reinforces your comprehension and retention of important topics Helps you master more advanced areas of functional programming Demonstrates practical methods for building Java solutions  OCP Oracle Certified Professional Java SE 11 Programmer II Study Guide will prove invaluable for anyone seeking achievement of this challenging exam, as well as junior- to senior-level programmers who uses Java as their primary programming language.
-                    
-"
-0,"
-
-
-
-
-
-
-
-
-"
-0,"
-
-
-
-
-
-
-
-
-"
-0,"
-
-
-
-
-
-
-
-
-"
-9781867407454,"
-
-Are there Java Business Integration problems defined? Does your organization need more Java Business Integration education? What are you trying to prove to yourself, and how might it be hijacking your life and business success? How do the Java Business Integration results compare with the performance of your competitors and other organizations with similar offerings? Are all key stakeholders present at all Structured Walkthroughs?  This astounding Java Business Integration self-assessment will make you the accepted Java Business Integration domain master by revealing just what you need to know to be fluent and ready for any Java Business Integration challenge.  How do I reduce the effort in the Java Business Integration work to be done to get problems solved? How can I ensure that plans of action include every Java Business Integration task and that every Java Business Integration outcome is in place? How will I save time investigating strategic and tactical options and ensuring Java Business Integration costs are low? How can I deliver tailored Java Business Integration advice instantly with structured going-forward plans?  There's no better guide through these mind-expanding questions than acclaimed best-selling author Gerard Blokdyk. Blokdyk ensures all Java Business Integration essentials are covered, from every angle: the Java Business Integration self-assessment shows succinctly and clearly that what needs to be clarified to organize the required activities and processes so that Java Business Integration outcomes are achieved.  Contains extensive criteria grounded in past and current successful projects and activities by experienced Java Business Integration practitioners. Their mastery, combined with the easy elegance of the self-assessment, provides its superior value to you in knowing how to ensure the outcome of any efforts in Java Business Integration are maximized with professional results.  Your purchase includes access details to the Java Business Integration self-assessment dashboard download which gives you your dynamically prioritized projects-ready tool and shows you exactly what to do next. Your exclusive instant access details can be found in your book. You will receive the following contents with New and Updated specific criteria:  - The latest quick edition of the book in PDF  - The latest complete edition of the book in PDF, which criteria correspond to the criteria in...  - The Self-Assessment Excel Dashboard  - Example pre-filled Self-Assessment Excel Dashboard to get familiar with results generation  - In-depth and specific Java Business Integration Checklists  - Project management checklists and templates to assist with implementation  INCLUDES LIFETIME SELF ASSESSMENT UPDATES  Every self assessment comes with Lifetime Updates and Lifetime Free Updated Books. Lifetime Updates is an industry-first feature which allows you to receive verified self assessment updates, ensuring you always have the most accurate information at your fingertips.
                     
 "
 9783658304935,"
@@ -587,11 +505,6 @@ Fully updated for Android Studio 4.0, Android 10 (Q), Android Jetpack and the mo
 JAVA PROGRAMMING FOR BEGINNERS  JAVA is a powerful programming language, with a wide variety of uses! This book is aimed at beginners, and will take you through all of the basics of JAVA programming, and will help you to hit the ground running!  You will learn the different functions and uses of JAVA, and this book will take you step by step through your very first JAVA program! This book will also explain some more advanced JAVA techniques that will keep you busy for a long time to come!  Here Is What You'll Learn About...  JAVA Basics JAVA Syntax Uses Of JAVA Why You Should Use JAVA Troubleshooting How To Create Your First Program Much, Much More!
                     
 "
-9781951302214,"
-
-Born in the gold mining hot bed of Tarkwa, Ghana, T. P. Manus Ulzen is the oldest of 5 children. His parents were both educators. He grew up in Bolgatanga, Wa, Wenchi, Accra, Kumasi and Takoradi in Ghana until he was 12 years old. He started high school at the age of 10 at St. Augustine's College, Cape Coast and continued his education at Kabulonga School for Boys in Lusaka, Zambia after his family left Ghana following the 1966 coup which ended Nkrumah's first republic. He returned to Ghana to complete his high school education at Ghana Secondary Technical School, Takoradi.Though, greatly interested in liberal arts pursuits, he chose medicine as a career and graduated from the University of Ghana Medical School at the age of 22, becoming the youngest physician in his country at the time. ﻿After working as a general physician in Cape Coast, he left Ghana in 1980 for Canada to begin his specialist training.He completed his post graduate studies in Psychiatry at the University of Toronto in 1985 and has since had a successful career as an academic psychiatrist. He has been on the faculty at the University of Toronto, Brody School of Medicine at East Carolina University and is now Professor and Chair of Psychiatry and Behavioral Medicine in the College of Community Health Sciences at the University of Alabama, Tuscaloosa, Alabama where he is also Associate Dean for Academic Affairs. He is married to Ekua Mensah, a musician and they have 3 children, Adwoa, Kweku and Kofi.
-                    
-"
 9781492056119,"
 
 Coding and testing are generally considered separate areas of expertise. In this practical book, Java expert Scott Oaks takes the approach that anyone who works with Java should be adept at understanding how code behaves in the Java Virtual Machine--including the tunings likely to help performance. This updated second edition helps you gain in-depth knowledge of Java application performance using both the JVM and the Java platform.Developers and performance engineers alike will learn a variety of features, tools, and processes for improving the way the Java 8 and 11 LTS releases perform. While the emphasis is on production-supported releases and features, this book also features previews of exciting new technologies such as ahead-of-time compilation and experimental garbage collections.Understand how various Java platforms and compilers affect performanceLearn how Java garbage collection worksApply four principles to obtain best results from performance testingUse the JDK and other tools to learn how a Java application is performingMinimize the garbage collector's impact through tuning and programming practicesTackle performance issues in Java APIsImprove Java-driven database application performance
@@ -600,11 +513,6 @@ Coding and testing are generally considered separate areas of expertise. In this
 9781660254972,"
 
 A funny customized lined notebook journal for a busy Embedded Java Engineer employee and team member. Give this keepsake book to a colleague, friend or family member, instead of a throw away greeting card to show how much they are appreciated. Can I sign this book? Yes, there's space on the first page to sign this book, just as you would a greeting card. Product Details: Pages: 100 lined pages with space for the date on each if required.Cover: Quality Matte finish.Size: Handy 6 x 9 inches.Format: Paperback.Gift Message Space? Yes, on first page.
-                    
-"
-9781867406181,"
-
-Is it economical; do you have the time and money? What stupid rule would you most like to kill? How is progress measured? Is the required Java Data Mining data gathered? Who will be responsible for making the decisions to include or exclude requested changes once Java Data Mining is underway?  Defining, designing, creating, and implementing a process to solve a challenge or meet an objective is the most valuable role... In EVERY group, company, organization and department.  Unless you are talking a one-time, single-use project, there should be a process. Whether that process is managed and implemented by humans, AI, or a combination of the two, it needs to be designed by someone with a complex enough perspective to ask the right questions. Someone capable of asking the right questions and step back and say, 'What are we really trying to accomplish here? And is there a different way to look at it?'  This Self-Assessment empowers people to do just that - whether their title is entrepreneur, manager, consultant, (Vice-)President, CxO etc... - they are the people who rule the future. They are the person who asks the right questions to make Java Data Mining investments work better.   This Java Data Mining All-Inclusive Self-Assessment enables You to be that person.  All the tools you need to an in-depth Java Data Mining Self-Assessment. Featuring 949 new and updated case-based questions, organized into seven core areas of process design, this Self-Assessment will help you identify areas in which Java Data Mining improvements can be made.  In using the questions you will be better able to:  - diagnose Java Data Mining projects, initiatives, organizations, businesses and processes using accepted diagnostic standards and practices  - implement evidence-based best practice strategies aligned with overall goals  - integrate recent advances in Java Data Mining and process design strategies into practice according to best practice guidelines  Using a Self-Assessment tool known as the Java Data Mining Scorecard, you will develop a clear picture of which Java Data Mining areas need attention.  Your purchase includes access details to the Java Data Mining self-assessment dashboard download which gives you your dynamically prioritized projects-ready tool and shows your organization exactly what to do next. You will receive the following contents with New and Updated specific criteria:  - The latest quick edition of the book in PDF  - The latest complete edition of the book in PDF, which criteria correspond to the criteria in...  - The Self-Assessment Excel Dashboard  - Example pre-filled Self-Assessment Excel Dashboard to get familiar with results generation  - In-depth and specific Java Data Mining Checklists  - Project management checklists and templates to assist with implementation  INCLUDES LIFETIME SELF ASSESSMENT UPDATES  Every self assessment comes with Lifetime Updates and Lifetime Free Updated Books. Lifetime Updates is an industry-first feature which allows you to receive verified self assessment updates, ensuring you always have the most accurate information at your fingertips.
                     
 "
 9786202513463,"
@@ -632,24 +540,9 @@ Think Java is a hands-on introduction to computer science and programming used b
 There are many good Java programming books on the market, but it's not easy to find one fit for a beginner. This book simplifies the complexity of Java programming and guides you through the journey to effectively work under the hood. You'll start with the fundamentals of Java programming and review how it integrates with basic mathematical concepts through many practical examples. You'll witness firsthand how Java can be a powerful tool or framework in your experimentation work.Learn Java with Math reveals how a strong math foundation is key to learning programming design. Using this as your motivation, you'll be programming in Java in no time. What You'll LearnExplore Java basicsProgram with Java using fun math-inspired examplesWork with Java variables and algorithmsReview I/O, loops, and control structuresUse projects such as the Wright brothers coin flip gameWho This Book Is For Those new to programming and Java but have some background in mathematics and are at least comfortable with using a computer.
                     
 "
-9789811406652,"
-
-Hidden Treasures, the third book in the Java Gold series explores exquisite ritual objects and statues, many of which are totally one-of-a- kind objects.  These hidden treasures from private collections document Java gold from the 7th to the 15th century. As is the case with courtly paraphernalia, the vast majority of Hindu-Buddhist images were used by the highest Javanese royalty during a period of fabulous prosperity. This fabulous collection is of paramount importance to collectors and connoisseurs of the world's most exceptional precious metal works of art.
-                    
-"
-9781472831613,"
-
-A highly illustrated study of the battle of the Java Sea, a key Japanese victory in their advance throughout Southeast Asia. The battle of the Java Sea, fought in February 1942, was the first major surface engagement of the Pacific War and one of the few naval battles of the entire war fought to a decisive victory. It was the culminating point of the Japanese drive to occupy the Netherlands East Indies (NEI) and, to defend the territory, the Allies assembled a striking force comprised of Dutch, American, British, and even an Australian ship, all under the command of a resolute Dutch admiral. On February 27, 1942, the Allied striking force set course to intercept the Japanese invasion force in the Java Sea. In one of the few such times during the whole of World War II a protracted surface engagement was fought unmolested by airpower. For over seven hours, the Allied force attempted to attack the Japanese invasion force, finally breaking off in the early evening. Some three hours later, the Allied force, now reduced to just four remaining cruisers and two destroyers, attempted another attack on the invasion convoy during which Japanese torpedoes scored heavily, sinking two Dutch cruisers and bringing the battle to a conclusion. Over the next two days, as the Allies attempted to flee, five more ships were sunk. From that point on, Allied naval power was eliminated from Southeast Asia. In this illustrated title, Mark Stille tells the full story of the battle of the Java Sea, explaining how and why the Japanese achieved such a resounding victory, and delving into the tremendous impact of the battle on the course of the Pacific War.
-                    
-"
 9781951442156,"
 
 Fully updated for Android Studio 3.6, Android 10 (Q), Android Jetpack and the modern architectural guidelines and components, the goal of this book is to teach the skills necessary to develop Android-based applications using the Java programming language.An overview of Android Studio is included covering areas such as tool windows, the code editor and the Layout Editor tool. An introduction to the architecture of Android is followed by an in-depth look at the design of Android applications and user interfaces using the Android Studio environment.Chapters are also included covering the Android Architecture Components including view models, lifecycle management, Room databases, app navigation, live data and data binding.More advanced topics such as intents are also covered, as are touch screen handling, gesture recognition and the playback and recording of audio. This edition of the book also covers printing, transitions, cloud-based file storage and foldable device support.The concepts of material design are also covered in detail, including the use of floating action buttons, Snackbars, tabbed interfaces, card views, navigation drawers and collapsing toolbars.In addition to covering general Android development techniques, the book also includes Google Play specific topics such as implementing maps using the Google Maps Android API, and submitting apps to the Google Play Developer Console.Other key features of Android Studio 3.6 and Android 10 are also covered in detail including the Layout Editor, the ConstraintLayout and ConstraintSet classes, constraint chains, barriers, direct reply notifications, view bindings and multi-window support.Chapters also cover advanced features of Android Studio such as App Links, Dynamic Feature Modules, the Android Studio Profiler and Gradle build configuration.Assuming you already have some programming experience, are ready to download Android Studio and the Android SDK, have access to a Windows, Mac or Linux system and ideas for some apps to develop, you are ready to get started.
-                    
-"
-9781693121685,"
-
-This book is a comprehensive guide to the Oracle's 1Z0-815 exam. In this book, you shall progressively explore the Java language piece by piece. If you do not have prior programming experience, fear not, the book is designed to dive into Java as a beginner and serve as a revision for programmers with previous experience with the language. Every certification objective has been explained simply and thoroughly across various chapters. The book also has visual components to enable photographic memory. The designed sample questions and detailed answer explanations, emphasize essential concepts and prepare you for the D-Day.
                     
 "
 9781484254066,"
@@ -667,11 +560,6 @@ Java Programming Applications discusses the basic concept of portability, NET, J
 JAVA  JAVA is one of the most useful programming languages used today! It is a language designed specifically for use on the internet, and allows the coder to create a range of entire applications!  Whether you are learning to code for personal enjoyment, or for employment opportunities, JAVA is a language that you absolutely must learn. Being quite a simple language, it is also well suited to those who are new to programming languages.  This book takes you from start to finish with all you need to know about JAVA. You will learn the uses of JAVA, a brief history of the language, the basics of writing JAVA code, and a range of powerful commands that will allow you to begin creating applications right away!  Here Is What You'll Learn About...  What Is JAVA Programming Language What Can JAVA Be Used For A History Of JAVA JAVA Data Structures The Different Variable Types What Applications Can Be Made Using JAVA JAVA Commands Much, Much More!
                     
 "
-9781681657059,"
-
-聶Quieres adentrarte en el mundo de la programaci籀n y conocer la Programaci籀n Orientada a Objetos? (Description in English below). Esta es la herramienta que necesitas. Este libro aborda, de forma secuencial y did獺ctica, desde los conceptos b獺sicos de la programaci籀n hasta la P.O.O.Todas las explicaciones est獺n respaldadas por esquemas y c籀digo que el lector podr獺 probar mientras aprende los lenguajes Java y C++ de forma amena y sencilla. Description in English: Do you want to enter the world of programming and learn Object Oriented Programming? This is the solution you need. This book deals, in a sequential and didactic way, with basic concepts of programming to understanding the P.O.O.All explanations are supported by schemas and code that the reader can try while learning the Java and C ++ languages in a pleasant and simple way. This work contains, all the codes for the examples featured on this book as well as resolved exercises so that the reader can practice all the acquired knowledge.
-                    
-"
 9781645641810,"
 
 This laboratory manual complements the Introduction toComputer Science: Java Programming textbook and classroom-related studies. The laboratory activities in this manual help develop the valuable skills needed to pursue a career in the computer science field as a Java programmer. Laboratory activities should be an essential part of your training. They link the concepts presented in the textbook to hands-on performance. You should not expect to learn Java programming skills only through the textbook, lectures, and demonstrations.  The activities in the Introduction to Computer Science: Java Programming laboratory manual correlate to the textbook chapters. Each chapter has at least two laboratory activities, each of which begin with a brief overview of the activity. In some cases, this overview also sets up a scenario that will be used for the activity. Following the overview are learning goals. These are the objectives to meet by completing the activity. 
@@ -680,71 +568,6 @@ This laboratory manual complements the Introduction toComputer Science: Java Pro
 9781838642884,"
 
 An enterprise Java developer's guide to learning JAX-RS, context and dependency injection, JavaServer Faces (JSF), and microservices with Eclipse MicroProfile using the latest features of Jakarta EEKey Features  Explore Jakarta EE's latest features and API specifications and discover their benefits Build and deploy microservices using Jakarta EE 8 and Eclipse MicroProfile Build robust RESTful web services for various enterprise scenarios using the JAX-RS, JSON-P, and JSON-B APIs  Book Description Jakarta EE is widely used around the world for developing enterprise applications for a variety of domains. With this book, Java professionals will be able to enhance their skills to deliver powerful enterprise solutions using practical recipes. This second edition of the Jakarta EE Cookbook takes you through the improvements introduced in its latest version and helps you get hands-on with its significant APIs and features used for server-side development. You'll use Jakarta EE for creating RESTful web services and web applications with the JAX-RS, JSON-P, and JSON-B APIs and learn how you can improve the security of your enterprise solutions. Not only will you learn how to use the most important servers on the market, but you'll also learn to make the best of what they have to offer for your project. From an architectural point of view, this Jakarta book covers microservices, cloud computing, and containers. It allows you to explore all the tools for building reactive applications using Jakarta EE and core Java features such as lambdas. Finally, you'll discover how professionals can improve their projects by engaging with and contributing to the community. By the end of this book, you'll have become proficient in developing and deploying enterprise applications using Jakarta EE. What you will learn  Work with Jakarta EE's most commonly used APIs and features for server-side development Enable fast and secure communication in web applications with the help of HTTP2 Build enterprise applications with reusable components Break down monoliths into microservices using Jakarta EE and Eclipse MicroProfile Improve your enterprise applications with multithreading and concurrency Run applications in the cloud with the help of containers Get to grips with continuous delivery and deployment for shipping your applications effectively  Who this book is for This book is for Java EE developers who want to build enterprise applications or update their legacy apps with Jakarta EE's latest features and specifications. Some experience of working with Java EE and knowledge of web and cloud computing will assist with understanding the concepts covered in this book.
-                    
-"
-9781222229967,"
-
-Let your writing take you on a journey - whether you're traveling the world, creating the perfect recipe for dinner or perfume, or even rediscovering you in your own words, this journal will be there with you every step of the way.A personal journal makes the perfect gift! Easy to carry, this journal is the perfect size for traveling.  120 lined pages. Good for note-taking or to use as a journal. Acid-free, archival paper takes pen or pencil beautifully. Complementary interior endsheets. 8 inches wide by 10 inches high.
-                    
-"
-9781222229912,"
-
-Let your writing take you on a journey - whether you're traveling the world, creating the perfect recipe for dinner or perfume, or even rediscovering you in your own words, this journal will be there with you every step of the way.A personal journal makes the perfect gift! Easy to carry, this journal is the perfect size for traveling.  120 lined pages. Good for note-taking or to use as a journal. Acid-free, archival paper takes pen or pencil beautifully. Complementary interior endsheets. 8 inches wide by 10 inches high.
-                    
-"
-9781222229950,"
-
-Let your writing take you on a journey - whether you're traveling the world, creating the perfect recipe for dinner or perfume, or even rediscovering you in your own words, this journal will be there with you every step of the way.A personal journal makes the perfect gift! Easy to carry, this journal is the perfect size for traveling.  120 lined pages. Good for note-taking or to use as a journal. Acid-free, archival paper takes pen or pencil beautifully. Complementary interior endsheets. 8 inches wide by 10 inches high.
-                    
-"
-9781222229943,"
-
-Let your writing take you on a journey - whether you're traveling the world, creating the perfect recipe for dinner or perfume, or even rediscovering you in your own words, this journal will be there with you every step of the way.A personal journal makes the perfect gift! Easy to carry, this journal is the perfect size for traveling.  120 lined pages. Good for note-taking or to use as a journal. Acid-free, archival paper takes pen or pencil beautifully. Complementary interior endsheets. 8 inches wide by 10 inches high.
-                    
-"
-9781222229875,"
-
-Let your writing take you on a journey - whether you're traveling the world, creating the perfect recipe for dinner or perfume, or even rediscovering you in your own words, this journal will be there with you every step of the way.A personal journal makes the perfect gift! Easy to carry, this journal is the perfect size for traveling.  120 lined pages. Good for note-taking or to use as a journal. Acid-free, archival paper takes pen or pencil beautifully. Complementary interior endsheets. 8 inches wide by 10 inches high.
-                    
-"
-9781222229905,"
-
-Let your writing take you on a journey - whether you're traveling the world, creating the perfect recipe for dinner or perfume, or even rediscovering you in your own words, this journal will be there with you every step of the way.A personal journal makes the perfect gift! Easy to carry, this journal is the perfect size for traveling.  120 lined pages. Good for note-taking or to use as a journal. Acid-free, archival paper takes pen or pencil beautifully. Complementary interior endsheets. 8 inches wide by 10 inches high.
-                    
-"
-9781681657530,"
-
-Este libro incluye una explicaci籀n completa y amigable de la sintaxis y sem獺ntica de UML 2.x, as穩 como una colecci籀n de ejemplos reales que te ayudar獺n a aprender r獺pidamente (Description in English below). Recorrer獺s los aspectos esenciales del An獺lisis y Dise簽o Orientado a Objetos con UML, desde la adquisici籀n de requisitos hasta la implementaci籀n en los lenguajes Java y C++. Se incluye una introducci籀n al estado del arte de la Ingenier穩a de Software, Diagramas inteligibles y explicaciones detalladas de la sintaxis UML 2.x, entre otros temas interesantes. Description in English: The formalisms of Object-Oriented Programming are a key part in the preparation of any computer scientist, although the knowledge of Software Analysis and Design is no less important. From this perspective we can affirm that there are two levels in the training of a software engineer: algorithmic programming capabilities and Object-Oriented Analysis and Design capabilities from an architectural prism. For this reason, it becomes increasingly necessary to study these two disciplines at university engineering and vocational training centers. Through the pages of this book, you will find not only a comprehensive and friendly explanation of UML 2.x syntax and semantics, but also a large collection of real-world examples that will help you to quickly learn its concepts. In addition, through the evolution of two software projects based on a chess video game and a CVS application, you will cover the essential aspects of Object-Oriented Analysis and Design with UML, from the acquisition of requirements to the implementation in Java and C++ languages. Therefore, in this volume you will find: An Introduction to the State of the Art of Software Engineering Intelligible diagrams and detailed explanations of UML 2.x syntax. Eleven types of diagrams plus domain modeling and design patterns. A complete chapter dedicated to OCL (Object Constraint Language)Java and C ++ implementation of the diagrams explained Download the codes and schematics from the Ra-Ma server. A complete reference to UML and Object Oriented Programming is also included.
-                    
-"
-9781222229868,"
-
-Let your writing take you on a journey - whether you're traveling the world, creating the perfect recipe for dinner or perfume, or even rediscovering you in your own words, this journal will be there with you every step of the way.A personal journal makes the perfect gift! Easy to carry, this journal is the perfect size for traveling.  120 lined pages. Good for note-taking or to use as a journal. Acid-free, archival paper takes pen or pencil beautifully. Complementary interior endsheets. 8 inches wide by 10 inches high.
-                    
-"
-9781222229882,"
-
-Let your writing take you on a journey - whether you're traveling the world, creating the perfect recipe for dinner or perfume, or even rediscovering you in your own words, this journal will be there with you every step of the way.A personal journal makes the perfect gift! Easy to carry, this journal is the perfect size for traveling.  120 lined pages. Good for note-taking or to use as a journal. Acid-free, archival paper takes pen or pencil beautifully. Complementary interior endsheets. 8 inches wide by 10 inches high.
-                    
-"
-9781222229899,"
-
-Let your writing take you on a journey - whether you're traveling the world, creating the perfect recipe for dinner or perfume, or even rediscovering you in your own words, this journal will be there with you every step of the way.A personal journal makes the perfect gift! Easy to carry, this journal is the perfect size for traveling.  120 lined pages. Good for note-taking or to use as a journal. Acid-free, archival paper takes pen or pencil beautifully. Complementary interior endsheets. 8 inches wide by 10 inches high.
-                    
-"
-9781222229929,"
-
-Let your writing take you on a journey - whether you're traveling the world, creating the perfect recipe for dinner or perfume, or even rediscovering you in your own words, this journal will be there with you every step of the way.A personal journal makes the perfect gift! Easy to carry, this journal is the perfect size for traveling.  120 lined pages. Good for note-taking or to use as a journal. Acid-free, archival paper takes pen or pencil beautifully. Complementary interior endsheets. 8 inches wide by 10 inches high.
-                    
-"
-9781222229936,"
-
-Let your writing take you on a journey - whether you're traveling the world, creating the perfect recipe for dinner or perfume, or even rediscovering you in your own words, this journal will be there with you every step of the way.A personal journal makes the perfect gift! Easy to carry, this journal is the perfect size for traveling.  120 lined pages. Good for note-taking or to use as a journal. Acid-free, archival paper takes pen or pencil beautifully. Complementary interior endsheets. 8 inches wide by 10 inches high.
-                    
-"
-9781222229974,"
-
-Let your writing take you on a journey - whether you're traveling the world, creating the perfect recipe for dinner or perfume, or even rediscovering you in your own words, this journal will be there with you every step of the way.A personal journal makes the perfect gift! Easy to carry, this journal is the perfect size for traveling.  120 lined pages. Good for note-taking or to use as a journal. Acid-free, archival paper takes pen or pencil beautifully. Complementary interior endsheets. 8 inches wide by 10 inches high.
                     
 "
 9781492056270,"
@@ -791,11 +614,6 @@ Are you looking for a quickest and easiest way to learn jQuery, JavaScript, and 
 Build enhanced visual experiences and design and deploy modern, easy-to-maintain, client applications across a variety of platforms. This book will show you how these applications can take advantage of the latest user interface components, 3D technology, and cloud services to create immersive visualizations and allow high-value data manipulation. The Definitive Guide to Modern Java Clients with JavaFX is a professional reference for building Java applications for desktop, mobile, and embedded in the Cloud age. It offers end-to-end coverage of the latest features in JavaFX and Java 13. After reading this book, you will be equipped to upgrade legacy client applications, develop cross-platform applications in Java, and build enhanced desktop and mobile native clients. What You Will LearnCreate modern client applications in Java using the latest JavaFX and Java 13Build enterprise clients that will enable integration with existing cloud services Use advanced visualization and 3D featuresDeploy on desktop, mobile, and embedded devicesWho This Book Is ForProfessional Java developers who are interested in learning the latest client Java development techniques to fill out their skillset. 
 
 "
-9781912049448,"
-
-Java's pilgrimage culture is a dense, batik-like pattern of contradictions: seriousness collides with laughter; curiosity with bewilderment; piety with scepticism; intense spirituality with, in some places, the joy of shopping.The pilgrimage culture on the island of Java in Indonesia - the world's largest Muslim country - is a rebuke to the conservative orthodoxy that has been gaining ground in Indonesia's religious landscape since the 1980s. In the rhetoric of this orthodoxy the ""real"" Islam is pure and exclusive. Piety comes from obedience to religious authority and its rules. Local pilgrimage is anything but pure and exclusive or rigidly authoritarian. It is powerfully Islamic but it fuses Islam with local history, the ancient power of place and a pastiche of devotional practices with roots deep in the pre-Islamic past. Quietly but tenaciously - just outside the great echo chamber of public space - it is growing as fast as the higher proﬁle neo-orthodoxy.Bandit Saints of Java delves deep under the surface of modern Indonesia, exploring personalities and stories in the weird world of local pilgrimage, where Middle Eastern Islam wrestles with the ancient power of Javanese civilisation. It paints an astonishing portrait of Islam as it is practised today - largely invisible to journalists, scholars and tourists - by many of Java's 130 million people.
-                    
-"
 9781119584704,"
 
 The comprehensive study aide for those preparing for the new Oracle Certified Professional Java SE Programmer I Exam 1Z0-815 Used primarily in mobile and desktop application development, Java is a platform-independent, object-oriented programming language. It is the principal language used in Android application development as well as a popular language for client-side cloud applications. Oracle has updated its Java Programmer certification tracks for Oracle Certified Professional.  OCP Oracle Certified Professional Java SE 11 Programmer I Study Guide covers 100% of the exam objectives, ensuring that you are thoroughly prepared for this challenging certification exam. This comprehensive, in-depth study guide helps you develop the functional-programming knowledge required to pass the exam and earn certification. All vital topics are covered, including Java building blocks, operators and loops, String and StringBuilder, Array and ArrayList, and more. Included is access to Sybex's superior online interactive learning environment and test bank--containing self-assessment tests, chapter tests, bonus practice exam questions, electronic flashcards, and a searchable glossary of important terms. This indispensable guide:   Clarifies complex material and strengthens your comprehension and retention of key topics Covers all exam objectives such as methods and encapsulation, exceptions, inheriting abstract classes and interfaces, and Java 8 Dates and Lambda Expressions Explains object-oriented design principles and patterns Helps you master the fundamentals of functional programming Enables you to create Java solutions applicable to real-world scenarios  There are over 9 millions developers using Java around the world, yet hiring managers face challenges filling open positions with qualified candidates. The OCP Oracle Certified Professional Java SE 11 Programmer I Study Guide will help you take the next step in your career.
@@ -836,16 +654,6 @@ In Pro CDI 2 in Java EE 8, use CDI and the CDI 2.0 to automatically manage the l
 See how Domain-Driven Design (DDD) combines with Jakarta EE MicroProfile or Spring Boot to offer a complete suite for building enterprise-grade applications. In this book you will see how these all come together in one of the most efficient ways to develop complex software, with a particular focus on the DDD process. Practical Domain-Driven Design in Enterprise Java starts by building out the Cargo Tracker reference application as a monolithic application using the Jakarta EE platform. By doing so, you will map concepts of DDD (bounded contexts, language, and aggregates) to the corresponding available tools (CDI, JAX-RS, and JPA) within the Jakarta EE platform. Once you have completed the monolithic application, you will walk through the complete conversion of the monolith to a microservices-based architecture, again mapping the concepts of DDD and the corresponding available tools within the MicroProfile platform (config, discovery, and fault tolerance). To finish this section, you will examine the same microservices architecture on the Spring Boot platform. The final set of chapters looks at what the application would be like if you used the CQRS and event sourcing patterns. Here you'll use the Axon framework as the base framework. What You Will LearnDiscover the DDD architectural principles and use the DDD design patternsUse the new Eclipse Jakarta EE platform Work with the Spring Boot frameworkImplement microservices design patterns, including context mapping, logic design, entities, integration, testing, and securityCarry out event sourcingApply CQRS Who This Book Is ForJunior developers intending to start working on enterprise Java; senior developers transitioning from monolithic- to microservices-based architectures; and architects transitioning to a DDD philosophy of building applications.
 
 "
-9789811198083,"
-
-Second book in the series of the immensely stunning bestseller Java Gold: Wealth of RingsGold body ornaments and objects are universally considered symbol of wealth, social status and powerThe gold jewellery from the late 7th to the early 16th century features an endless number of shapes, styles and motifs that mirror the brilliant creativity of Java's culture and its talented goldsmiths. Gold body ornaments and objects played an essential role as symbol of status and power as well as a magical substance associated with higher powers. These beautiful artworks also conveyed social, economic and cultural messages during public rituals and ceremonies
-
-"
-9781655993657,"
-
-TRAVEL ROCKET BooksReiseplanerInhalt des Reiseplaners: PERS?NLICHE INFORMATIONEN Trage die wichtigsten Daten ein um im Notfall alles direkt griffbereit zu haben.REISEVERLAUF Hast du mehrere Stationen deiner Reise? Dann trage sie auf dieser speziellen Seite ein um immer genau zu wissen, wann du wo sein willst.BUCKET LIST M繹chtest du gewisse Dinge unbedingt sehen oder erleben? Dann bietet dir die Bucket List au?reichend Platz daf羹r um nichts zu vergessen.WICHTIGE REISEDATEN Egal ob Hinflug, R羹ckflug oder Infos zu Zwischenstops. Auf diesen Seiten beh瓣lst du die Rahmenbedingungen deiner Reise immer im Blick.TO DO- UND PACKLISTE Damit du nichts vergisst, haben wir diese Listen gleich in unser Buch integriert. Sie bieten dir vordefinierte Dinge aber auch genug Platz um deine eigenen Dinge einzutragen.REISESPIELE Wir haben etwas gegen Langeweile! Du auch? Damit bei langen Reisestrecken keine Langeweile aufkommt, haben wir dir verschiedene kurzweilige Spiele mit reingepackt. KONTAKTE UND BEKANNSCHAFTEN Auf Reisen trifft man immer wieder interessante Menschen mit denen man in Kontakt bleiben m繹chte. Dieser Reiseplaner bietet dir daf羹r die Gelegenheit die Kontaktdaten zu notieren.GENUG PLATZ F?R DEINE EINTRAGUNGEN Auf mehr als 40 Doppelseiten hast du sicher genug Platz um jede menge Zeug zu notieren. HIGHTLIGHTS Erinnere dich am Ende deiner Reise nochmal an die sch繹nsten Momente, Orte und Menschen. Dazu hast du am Ende dieses Reisejournals noch einmal genug Platz.Dieser Reiseplaner begleitet dich 羹berall hin. Egal ob in die Berge ans Meer oder mit dem Rucksack rund um die Welt. Er ist handlich und passt auch in das kleinste Handgep瓣ck. Mit seinen 109 Seiten hat er die perfekte Gr繹?e um dein st瓣ndiger Begleiter zu sein. Dieses Journal ist in drei Bereiche aufgeteilt: VORBEREITUNGEN Dieser Bereich begleitet dich in deinen Reisevorbereitungen. Er beinhaltet wichtige pers繹nliche Informationen sowie Checkliste und du kannst hier die Eckdaten und deinen geplanten Reiseverlauf eintragenT?GLICHE EINTRAGUNGEN Auf 羹ber 40 Doppelseiten hast du genug Platz um jeden Tag deine Erlebnisse festzuhaltenZUSAMMENFASSUNGEN Auf diesen Seiten kannst du die sch繹nsten Momente und Erlebnisse deiner Reise nocheinmal zusammenfassenF羹r weitere Reiseplaner mit verschiedenen L瓣ndern und Regionen findest du bei Amazon unter ""TRAVEL ROCKET Books"".
-                    
-"
 9780321256171,0
 9781492058335,"
 
@@ -881,11 +689,6 @@ Learn practical uses for some of the hottest tech applications trending among te
 This book is written to help integrate children within the age of 11 and beginners alike into the art of computer programming using Java programming language. No prior knowledge is required in other to use this book. All the topics covered in this book utilizes a simple and easy to follow approach. There is a ""do it yourself"" exercise at the end of each lesson; these exercises give the readers an opportunity to apply what they've learned before proceeding to the next lesson. The exercises are written with a text editor in other to familiarize the readers with the basics of Java programming Language.
                     
 "
-9780367390136,"
-
-Because of its portability and platform-independence, Java is the ideal computer programming language to use when working on graph algorithms and other mathematical programming problems. Collecting some of the most popular graph algorithms and optimization procedures, A Java Library of Graph Algorithms and Optimization provides the source code for a library of Java programs that can be used to solve problems in graph theory and combinatorial optimization. Self-contained and largely independent, each topic starts with a problem description and an outline of the solution procedure, followed by its parameter list specification, source code, and a test example that illustrates the usage of the code. The book begins with a chapter on random graph generation that examines bipartite, regular, connected, Hamilton, and isomorphic graphs as well as spanning, labeled, and unlabeled rooted trees. It then discusses connectivity procedures, followed by a paths and cycles chapter that contains the Chinese postman and traveling salesman problems, Euler and Hamilton cycles, and shortest paths. The author proceeds to describe two test procedures involving planarity and graph isomorphism. Subsequent chapters deal with graph coloring, graph matching, network flow, and packing and covering, including the assignment, bottleneck assignment, quadratic assignment, multiple knapsack, set covering, and set partitioning problems. The final chapters explore linear, integer, and quadratic programming. The appendices provide references that offer further details of the algorithms and include the definitions of many graph theory terms used in the book.
-                    
-"
 9781260440232,"
 
 Publisher's Note: Products purchased from Third Party sellers are not guaranteed by the publisher for quality, authenticity, or access to any online entitlements included with the product.The Definitive Java Programming GuideFully updated for Java SE 11, Java: The Complete Reference, Eleventh Edition explains how to develop, compile, debug, and run Java programs. Best-selling programming author Herb Schildt covers the entire Java language, including its syntax, keywords, and fundamental programming principles. You'll also find information on key portions of the Java API library, such as I/O, the Collections Framework, the stream library, and the concurrency utilities. Swing, JavaBeans, and servlets are examined and numerous examples demonstrate Java in action. Of course, the very important module system is discussed in detail. This Oracle Press resource also offers an introduction to JShell, Java's interactive programming tool. Best of all, the book is written in the clear, crisp, uncompromising style that has made Schildt the choice of millions worldwide.Coverage includes: -Data types, variables, arrays, and operators-Control statements-Classes, objects, and methods-Method overloading and overriding-Inheritance-Local variable type inference-Interfaces and packages-Exception handling-Multithreaded programming-Enumerations, autoboxing, and annotations-The I/O classes-Generics-Lambda expressions-Modules-String handling-The Collections Framework-Networking-Event handling-AWT-Swing -The Concurrent API-The Stream API-Regular expressions-JavaBeans-Servlets-Much, much moreCode examples in the book are available for download at www.OraclePressBooks.com.
@@ -902,7 +705,6 @@ Use Java to develop neural network applications in this practical book. After le
 In just 21 days, you can acquire the knowledge and skills necessary to develop applications on your computer, web servers, and mobile devices. With this complete tutorial you'll quickly master the basics and then move on to more advanced features and concepts. Completely updated for Java 11 and 12, this book teaches you about the Java language and how to use it to create applications for any computing environment. By the time you have finished the book, you'll have well-rounded knowledge of Java and the Java class libraries.    No previous programming experience required. By following the 21 carefully organized lessons in this book, anyone can learn the basics of Java programming.   Learn at your own pace. You can work through each chapter sequentially to make sure you thoroughly understand all the concepts and methodologies, or you can focus on specific lessons to learn the techniques that interest you most.   Test your knowledge. Each chapter ends with a Workshop section filled with questions, answers, and exercises for further study. There are even certification practice questions.     Completely revised, updated, and expanded to cover the latest features of Java 11 and 12   Learn to develop Java applications using NetBeans-an excellent programming platform   Easy-to-understand, practical examples clearly illustrate the fundamentals of Java programming   Discover how to quickly develop programs with a graphical user interface   Find out about JDBC programming with the Derby database   Learn how to use Inner Classes and Lambda Expressions   Learn rapid application development with Apache NetBeans   Create a game using Java
 
 "
-9781731859495,0
 9781260440218,"
 
 Publisher's Note: Products purchased from Third Party sellers are not guaranteed by the publisher for quality, authenticity, or access to any online entitlements included with the product.Up-to-Date, Essential Java Programming Skills--Made Easy!Fully updated for Java Platform, Standard Edition 11 (Java SE 11), Java: A Beginner's Guide, Eighth Edition gets you started programming in Java right away. Best-selling programming author Herb Schildt begins with the basics, such as how to create, compile, and run a Java program. He then moves on to the keywords, syntax, and constructs that form the core of the Java language. The book also covers some of Java's more advanced features, including multithreaded programming, generics, lambda expressions, modules, and Swing. As an added bonus, an introduction to JShell, Java's interactive programming tool, is included. Best of all, it's written in the clear, crisp, uncompromising style that has made Schildt the choice of millions worldwide.Designed for Easy Learning: -Key Skills and Concepts--Chapter-opening lists of specific skills covered in the chapter-Ask the Expert--Q&A sections filled with bonus information and helpful tips-Try This--Hands-on exercises that show you how to apply your skills-Self Tests--End-of-chapter quizzes to reinforce your skills-Annotated Syntax--Example code with commentary that describes the programming techniques being illustrated
@@ -989,7 +791,6 @@ Reduce development time by organizing your programs as chains of functional inte
 將程式部署至生產環境的必備工具與最佳做法 “除了《Effective Java 3rd Edition》外，這本書是我的每位工程師都會購買的書籍，而且它將帶來千倍的回報！” —Martijn Verburg jClarity與LJC Leader CEO “Daniel與Abraham在本書廣泛探討大量的雲端基礎元件，以及持續交付的相關技術。對任何想要成為專業雲端Java開發者的人來說，這本書是他們的首選。” —Ben Evans 作者與諮詢CTO 持續交付已經為業界及整個軟體交付生命週期帶來巨大的價值，但是想要採取這種做法，代表開發者必須掌握新的、在舒適圈以外的技術。在這本實用書籍中，二位作者教導Java開發者掌握架構設計、自動品保、應用程式包裝以及在各種平台上進行部署的技巧。 ‧了解持續交付的核心概念，以及如何開始及完成改用這種技術的旅程 ‧設計架構，讓各種平台持續交付Java app ‧建構app工件，包括fat JAR、虛擬機器映像與作業系統容器(Docker)映像 ‧使用Jenkins、PMD與FindSecBug等持續整合工具自動檢查程式碼品質 ‧建立全面的組建管道，並設計軟體將部署與釋出程序分開 ‧了解為何功能與系統品質屬性測試對開發與交付都非常重要 ‧了解如何有效地在本地建構與測試app，並且觀察系統在生產環境運行的狀態
                     
 "
-9781469411217,0
 9781484237779,"
 
 Write your first code in Java using simple, step-by-step examples that model real-word objects and events, making learning easy. With this book you'll be able to pick up the concepts without fuss. Java for Absolute Beginners teaches Java development in language anyone can understand, giving you the best possible start. You'll see clear code descriptions and layout so that you can get your code running as soon as possible. After reading this book, you'll come away with the basics to get started writing programs in Java.Author Iuliana Cosmina focuses on practical knowledge and getting up to speed quickly--all the bits and pieces a novice needs to get started programming in Java. First, you'll discover how Java is executed, what type of language it is, and what it is good for. With the theory out of the way, you'll install Java, choose an editor such as IntelliJ IDEA, and write your first simple Java program. Along the way you'll compile and execute this program so it can run on any platform that supports Java. As part of this tutorial you'll see how to write high-quality code by following conventions and respecting well-known programming principles, making your projects more professional and efficient.Finally, alongside the core features of Java, you'll learn skills in some of the newest and most exciting features of the language: Generics, Lambda expressions, modular organization, local-variable type inference, and local variable syntax for Lambda expressions.Java for Absolute Beginners gives you all you need to start your Java 9+ programming journey. No experience necessary. What You'll LearnUse data types, operators, and the new stream APIInstall and use a build tool such as GradleBuild interactive Java applications with JavaFX Exchange data using the new JSON APIs Play with images using multi-resolution APIsUse the publish-subscribe frameworkWho This Book Is ForThose who are new to programming and who want to start with Java.
@@ -1143,7 +944,6 @@ Continuous delivery adds enormous value to the business and the entire software 
 本書累積作者多年教學及實務經驗，引入生活中的事物，對照程式中的邏輯概念，讓初學者對物件導向程式設計有概念。書中所附的程式範例，均為實用性的生活例子，讓初學者可在既有的基本需求功能上進行思考及設計。包括輸出/輸入函式、數學運算函式、字元轉換及字元分類函式等，由淺入深，引導讀者進入物件導向程式設計JAVA語言的世界。本書特色1.累積作者多年教學及實務經驗，由淺入深，引導初學者進入物件導向程式設計Java語言的世界。2.引入生活中的事物，對照程式設計中的邏輯概念，讓初學者對物件導向程式設計有概念。3.常用的Java語言內建類別方法介紹，讓初學者可在基本需求功能上進行思考及設計。4.書中所附光碟之程式範例，均為實用性的生活例子。例如：增進小學生對加減乘除學習能力之四則運算問題、讓讀者重溫兒時記憶之遊戲及貼近每個人生活中之體驗。
                     
 "
-9781469412511,0
 9789863125815,"
 
 
@@ -1201,7 +1001,6 @@ The #1 Java Guide for Serious Programmers: Fully Updated for Java SE 9, 10 & 11 
 	本書適用讀者：適合前端開發工程師、測試工程師、線上故障支援人員、介面開發和Web 開發人員，或對自動化測試感興趣者。
 
 "
-9781469406961,0
 9789576153631,"
 
 「關鍵語法與物件導向觀念解說」「一學就受用的網路程式設計書」輕鬆入門+熟練實作+問題導向+原文接軌，範例學習最有效！生活在現在科技發達的時代，電腦已是我們生活的基本配備，尤其我們想要把電腦學好的電腦人，最終是要達到網路層次，才算對得起自己，除了使用他人設計之網路工具，也應建立自己設計網路工具之能力。在嚮往成為網路設計者之前，我們需先建立起網路基礎能力，本書著重於Java網路程式設計、Java網路串流導引、與Java網路資料傳遞。本書重點內容：(1) 輕鬆入門：本書以Java初學入門觀點切入網路程式設計，輕鬆入門。(2) 熟練實作：任何學習重點都搭配範例實作並探討，完全剖析Java網路程式。(3) 問題導向：協助讀者提出問題，解決問題，本書編輯問題262則(147則範例、115則習題)。(4) 原文接軌：編輯中英文索引610個，涵蓋Java有關網路程式之中英文專有名詞，幫助中英文書藉相互參考。
@@ -1217,11 +1016,6 @@ The #1 Java Guide for Serious Programmers: Fully Updated for Java SE 9, 10 & 11 
 Build and deploy your Java-based Android apps using the popular and efficient Android Studio 4 suite of tools, an integrated development environment (IDE) for today's Android developers. With this book, you'll learn the latest and most productive tools in the Android tools ecosystem, ensuring quick Android app development and minimal effort on your part.  Among these tools, you'll use the new Android Studio 4 features, including an upgraded CPU profiler UI, a new build speed window, the multi-preview feature, and the live layout inspector.  After reading and using this book, you'll be able to efficiently build complete Java-based Android apps that run on any Android smartphone, tablet, smart watch and more. You'll also be able to publish those apps and sell them online and in the Google Play store.  What You Will Learn  Use Android Studio 4 to quickly and confidently build your first Android apps Build an Android user interface using activities and layouts, event handling, images, menus, and the action bar Work with new tools in Android Studio 4: Jetpack compose support, a smart editor for ProGuard rules, a new motion layout editor, a new Android Gradle plugin, and a fragment wizard with new fragment templates  Integrate data with data persistence  Access the cloud    Who This Book Is For Those who may be new to Android Studio 4 or Android Studio in general. You may or may not be new to Android development. Some prior experience with Java is recommended.
                     
 "
-9781925498394,"
-
-In the nation's capital, the Minister for Border Integrity is set to announce a hardline policy about offering assistance to asylum-seekers in boats. A group of Australian surf tourists have anchored their vessel, Java Ridge, beside an idyllic reef off the Indonesian coast. A few kilometers away, the Takalar is having engine trouble. Among the passengers fleeing from persecution are Roya and her pregnant mother. The storm now closing in on the two vessels will mean catastrophe for them all.
-                    
-"
 9781484235935,"
 
 Quickly find solutions to dozens of common programming problems with the Java Enterprise Edition Platform for small business web applications, enterprise database applications, and microservices solutions. Content is presented in the popular problem-solution format. Look up the programming problem that you want to solve. Read the solution. Apply the solution directly in your own code. Problem solved!Java EE 8 Recipes provides you with effective and proven solutions that can be used to accomplish just about any task that you may encounter. You can feel confident using the reliable solutions that are demonstrated in this book in your personal or corporate environment.Java is a mature programming language that has been refined over the years into a productive and lucrative language for those with the skills to wield it. One result of this years-long refining process is that that the language carries forward many older feature sets that no longer represent the best way of getting work accomplished. You can rest assured that Java EE 8 Recipes provides solutions using the most current approaches implemented in the most current Java Enterprise technologies, including JSON-P 1.1, JSF 2.3, and JAX-RS 2.1. Build a streamlined and reliable application that uses the latest in Java technologies, and develop it much faster than you did with the older technologies. Rejuvenate your Java expertise to use the freshest capabilities, or perhaps learn Java Enterprise development for the first time and discover one of the most widely used and most powerful technologies available for application development today. Develop productively. Develop with proven technology. Develop with Java Enterprise Edition. The book: Teaches how to develop RESTful enterprise applications quickly using the most current Java EE technologiesExplores different solutions for developing sophisticated web user interfacesWalks you through a myriad of different concepts to apply while working with databases using Java technologiesWhat You'll LearnDevelop Java Enterprise applications using the latest in Java EE technologiesBuild great-looking user interfaces using Java Server FacesEmploy Java Servlet technology and standard frameworks in developing professional web applicationsCreate enterprise-level database applications using Enterprise Java Beans and JAX-RS RESTFul web servicesMake use of Arquillian to build a cohesive test suite for Java EE applicationsManage Java EE application security through Java EE's container feature setWho This Book Is ForJava developers who want to develop effective and proven solutions without reading a lengthy manual and scrubbing for techniques. A beginning Java programmer will find the book handy for learning a variety of different solutions for the platform, while advanced developers will enjoy the ease of the problem-solution approach to quickly broaden their knowledge of the platform's latest technologies.
@@ -1233,14 +1027,11 @@ Quickly find solutions to dozens of common programming problems with the Java En
 Kubernetes is becoming the de-facto platform to deploy our enterprise Java-based applications. However, this movement also implies some changes in the way we code our applications. Also, you can get in trouble easily if you containerize and run a Java application without taking proper measures. Containers are the basic units in Kubernetes, so it's important to have this process done correctly.In this book, you'll learn about Quarkus, a Java ecosystem way to develop cloud-first, container-native, serverless-focused and Kubernetes-optimized microservices. Through the course of the book, authors Alex Soto and Jason Porter provide several detailed solutions for installing, interacting with, and using Quarkus in development and production. You'll learn how to adapt the system to your particular needs and become familiar with how Quarkus works within the wider Java ecosystem. Each standalone chapter features recipes written in O'Reilly's popular problem-solution-discussion format.Recipes in this cookbook focus on: Enabling live reloading in dev mode, shortening the development cycleConnecting to and communicating with KafkaDeveloping with Reactive Programming ModelSimplifying persistence with PanacheEasily adding fault tolerance to your servicesGathering metrics for a deployed applicationBuilding your application as a k8s ready containerUsing Quarkus for Amazon Lambda functionsUtilizing Spring knowledgeEasing development with OpenAPIEnabling security in your servicesTesting a native Quarkus application
                     
 "
-9781469407210,0
 9781260452198,"
 
 Publisher's Note: Products purchased from Third Party sellers are not guaranteed by the publisher for quality, authenticity, or access to any online entitlements included with the product.Prepare for the Java SE 8 OCA and OCP Programmer exams with this money-saving, comprehensive study packageDesigned as a complete self-study program, this collection offers a variety of proven, exam-focused resources to use in preparation for for OCA and OCP certification exams 1Z0-808 and 1Z0-809. Comprised of OCA Java SE 8 Programmer I Exam Guide and OCP Java SE 8 Programmer II Exam Guide, this bundle thoroughly covers every topic on both exams--all at a discount of 23% off MSRP.OCA/OCP Java SE 8 Programmer Certification Bundle (Exams 1Z0-808 & 1Z0-809) contains hundreds of practice questions that match those on the live exams in content, style, tone, format, and difficulty. Step-by-step exercises; self-tests; and ""Exam Watch,"" ""Inside the Exam,"" and ""On the Job"" sections highlight salient points and aid in learning. You will get real-world examples, professional insights, and concise explanations. This authoritative, cost-effective bundle serves both as a study tool AND a valuable on-the-job reference. - This bundle is 23% cheaper than purchasing the books individually - Written by a team of Java OCA and OCP experts- Electronic content includes 330 practice exam questions in a fully-customizable test engine
 
 "
-9781984521446,0
-9781984521453,0
 9789865030131,"
 
 本書是一本能夠讓您真正學會物件導向程式設計和建立物件導向思維的書，筆者使用大量程式範例和圖例來幫助讀者學習程式設計和驗證所學，能夠讓讀者循序漸進的學習程式語言的基礎、程式設計方法和Java物件導向程式設計，進而作為未來學習物件導向分析與設計的墊腳石。這也是國內第一本使用IntelliJ IDEA整合開發環境，和使用NClass類別圖設計工具的Java語言學習手冊，能夠輕鬆讓讀者使用NClass繪製UML類別圖後，自動產生Java類別程式碼。
@@ -1668,11 +1459,6 @@ Prepare students to meet Java programming challenges
 "
 9781546592310,0
 9781119398721,0
-9780768412666,"
-
-Selecting 40 invigorating excerpts from their exciting and popular books, Pastor Bill Johnson and his Bethel Church associates have created an excellent blend of rich, generous, fortifying spiritual inspiration. Take a deep whiff of what Bill, his wife Beni, and their friends Kris Vallotton, Danny Silk, Kevin Dedmon, and Banning Liebscher have brewed specially for you. Step 1: Select an espresso-size chapter.Step 2: Sit back and relax in God's presence.Step 3: Learn to listen to His voice.Step 4: Follow His directions. God will take you into supernatural new territory, and your explorations will not end until you are fully walking in His perfect plan for your life. Each time you enjoy a few more sips, you will be warmed and energized to step out into your world with renewed Kingdom effectiveness. May each sip of every chapter be spiritual java for your soul.
-                    
-"
 9789864766758,"
 
 ‧提供Java 9新功能快速索引 ‧深入探討Java模組平臺系統 ‧JDK基礎與IDE操作交相對照 ‧提供Lab實作檔案 ‧作者數年來實務教育訓練中，匯整學員在課程中遇到的觀念、實作、應用或認證考試上等問題之經驗集合。 ‧針對Java SE 9新功能重新改版，無論是章節架構或範例程式碼上，皆作了重新審閱與翻新。 ‧詳細介紹Java 9模組化之後，JVM、JRE、Java SE API、JDK與IDE之間的關係與對照。 ‧必要時從Java SE API的原始碼分析，了解各種語法在Java SE API中如何應用。 ‧建議練習的範例提供Lab檔案，更能掌握練習重點。 ‧IDE操作納為本書教學內容之一，更能與實務結合。
@@ -1785,7 +1571,6 @@ Numerical computation, knowledge discovery and statistical data analysis integra
 “一本極好又務實的資料結構入門書籍，讓讀者擁有剛好的理論知識以進行演算法分析，同時兼顧實際應用。” -Barry Wittman Associate Professor Elizabethtown College “經由閱讀本書，讀者進入Java collection framework的世界，使用Ant和JUnit，並建立一個有趣的網路搜尋引擎雛型，繼Think Java之後又一力作！” -Chris Mayfield Associate Professor James Madison University 如果你是在學學生，或是準備要應徵軟體工程師的話，本書較其它同類型的書籍更清楚、簡明和深入，幫助你學習或複習，軟體工程中資料結構和演算法的一些重點。 藉由闡明理論架構之上的實用知識和技巧，作者Allen Downey呈現給你的是如何用資料結構，實作有效率的演算法，以及分析測量演算法的效率。你會用到很多Java collection framework(JCF）裡的重要類別，知道這些類別是如何被實作以及知道它們的執行效能。每一個章節都有實作練習題，還有對應的測試程式檢查讀者練習題解答是否正確。 ‧使用像list和map這樣的資料結構，並瞭解其動作原理 ‧製作一個可以讀取維基百科網頁、分析網頁內容而且瀏覽產出資料tree ‧分析程式碼以預測程式碼執行效率，以及程式要用多少記憶體 ‧為Map介面作數個實作類別，過程中包括使用雜湊表以及二元搜尋樹 ‧建立一個簡單的網頁搜尋引擎，引擎包含爬蟲和儲存網頁內容的索引器，以及能將資料回傳給使用者的檢索器
                     
 "
-9780741261564,0
 9789864636365,"
 
 「資料結構」在資訊學科中是一門重要的課程。本書的內容依不同的主題共分為14章，在各章的每一小節中均附有練習題及類似題，旨在讓讀者測試對該小節所談及的內容是否已全盤了解。在各章末有「動動腦時間」，並標註與該題的相關章節。每章的重要主題均附有範例程式加以測試，以期讓讀者對理論能有進一步的認識與了解。
@@ -2032,6 +1817,7 @@ Get up and running fast with the basics of programming using Java as an example 
 	◎此書是全世界OpenCV書中以Java展示最多的範例，約320個
 
 "
+9781118821138,0
 9780648852834,"
 
 Are you looking to teach children how to code? Or are you looking to start coding?
@@ -2042,13 +1828,11 @@ Are you looking to teach children how to code? Or are you looking to start codin
 Are you looking to teach children how to code? Or are you looking to start coding?
                     
 "
-9781118821138,0
 9781119272090,"
 
 Your complete certification guide on the path to Oracle Java SE The Oracle Java SE Certification track now consists of three levels - Associate (OCA), Professional (OCP), and Master (OCM). This valuable kit helps you attain success at the OCA and OCP levels, providing clarification of the complex material along with plenty of practice that covers all exam objectives. OCA / OCP Oracle Java SE 8 Programmer Certification Kit is the ideal tool for preparing for the OCA and OCP exams. With two comprehensive study guides in one package, this kit serves as a helpful companion throughout your journey to Oracle Java SE 8 certification. The release of Java 8 brought the language's biggest changes to date, and for the first time, candidates are required to learn functional programming to pass the exam. The OCA: Oracle Certified Associate Java SE 8 Programmer I Study Guide has you covered, with thorough functional programming explanation and information on all key topic areas Java programmers need to know, covering one hundred percent of the material on Exam 1Z0-808. Once you're OCA certified, the OCP: Oracle Certified Professional Java SE 8 Programmer II Study Guide is your comprehensive companion for preparing for Exam 1Z0-809 as well as upgrade Exam 1Z0-810 and Exam 1Z0-813. You'll review the basics of object-oriented programming, understand functional programming, apply your knowledge to database work, and much more. From the basic to the advanced, this guide walks you through everything you need to know to confidently take the OCP 1Z0-809 exam (and upgrade exams 1Z0-810 and 1Z0-813).   Work confidently with operators, conditionals, and loops  Understand object-oriented design principles and patterns  Master functional programming fundamentals  Understand abstract classes, interfaces, and class design  Learn object-oriented design principles and patterns  Delve into functional programming, advanced strings, and localization  Master IO, NIO, and JDBC with expert-led database practice  If you're ready to take the next step in your IT career and tackle these challenging exams, OCA / OCP Oracle Java SE 8 Programmer Certification Kit is your ideal companion on the road to certification, and can give you the confidence you need.
                     
 "
-9780741257765,0
 9781285856919,0
 9781593276379,0
 9789863794240,"
@@ -2080,17 +1864,6 @@ Micro Java Games Development explains game development for devices that support 
 
 	本書對於有一定網站開發、設計經驗，並想瞭解巨型網站架構和支撐這種架構的系統的開發、測試等的相關工程人員有很大的參考價值；對於沒有網站開發設計經驗的人員，透過本書也能體認巨型網站的架構及相關問題的解決思路和方案。
 
-"
-9780741252029,0
-9781982211172,"
-
-Growing up in the tumultuous sixties in a small town was both frustrating and a blessing. This book attempts to describe the confusion of a young girl who could not understand why everyone didn't just give peace and love a chance. The sadness of the Vietnam War, the meanness of kids in school, the perceptions people had of her made her both hopeful and cynical. Her mission to promote peace, love, and understanding creates an amusing, tearful, and interesting endeavor for the reader.
-                    
-"
-9781982211196,"
-
-Growing up in the tumultuous sixties in a small town was both frustrating and a blessing. This book attempts to describe the confusion of a young girl who could not understand why everyone didn't just give peace and love a chance. The sadness of the Vietnam War, the meanness of kids in school, the perceptions people had of her made her both hopeful and cynical. Her mission to promote peace, love, and understanding creates an amusing, tearful, and interesting endeavor for the reader.
-                    
 "
 9780596004002,"
 
@@ -2214,6 +1987,7 @@ For courses in computer programming in Java.
 Publisher's Note: Products purchased from Third Party sellers are not guaranteed by the publisher for quality, authenticity, or access to any online entitlements included with the product.Use Raspberry Pi with Java to create innovative devices that power the internet of things! Raspberry Pi with Java: Programming the Internet of Things (IoT) fills an important gap in knowledge between seasoned Java developers and embedded-hardware gurus, taking a project-based approach to skills development from which both hobbyists and professionals can learn. By starting with simple projects based on open-source libraries such as Pi4J, hobbyists can get immediate results without a significant investment in time or hardware.  Later projects target simplified industrial use cases where professionals can start to apply their skills to practical problems in the fields of home automation, healthcare, and robotics. This progression prepares you to be an active participant in the IoT revolution that is reshaping our lives.For the hobbyist: Hardware used in projects is affordable and easily accessibleFollows a project-based learning approach with a gradual learning curveProjects are based on open-source code repositories with commercial friendly licensesFor the professional computer engineer: Uses an industry-standard platform that allows for high performance, secure, production-ready applicationsIntroduces Java SE Embedded for large devices and Java ME Embedded for small devicesCode is portable to a wide variety of ARM and MIPS based platformsProvides practical skill development with advanced projects in the fields of home automation, healthcare, and robotics
                     
 "
+9780071808552,0
 ,"
 
 
@@ -2268,19 +2042,10 @@ Publisher's Note: Products purchased from Third Party sellers are not guaranteed
 	3.擬真試題練習：透過範例及試題演練，測試觀念、掌握程度並熟悉認證考試題型。
 
 "
-9780071808552,0
 9781617290909,"
 
 Summary Play for Java shows you how to build Java-based web applications using the Play 2 framework. The book starts by introducing Play through a comprehensive overview example. Then, you'll look at each facet of a typical Play application, both by exploring simple code snippets and by adding to a larger running example. Along the way, you'll contrast Play and JEE patterns and learn how a stateless web application can fit seamlessly in an enterprise environment. About the Book For a Java developer, the Play web application framework is a breath of fresh air. With Play you get the power of Scala's strong type system and functional programming model, and a rock-solid Java API that makes it a snap to create stateless, event-driven, browser-based applications ready to deploy against your existing infrastructure. Play for Java teaches you to build Java-based web applications using Play 2. This book starts with an overview example and then explores each facet of a typical application by discussing simple snippets as they are added to a larger example. Along the way, you'll contrast Play and JEE patterns and learn how a stateless web application can fit seamlessly in an enterprise Java environment. You'll also learn how to develop asynchronous and reactive web applications. The book requires a background in Java. No knowledge of Play or of Scala is assumed. Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. What's InsideBuild Play 2 applications using JavaLeverage your JEE skillsWork in an asynchronous waySecure and test your Play applicationAbout the Authors Nicolas Leroux is a core developer of the Play framework. Sietse de Kaper develops and deploys Java-based Play applications. Table of ContentsPART 1 INTRODUCTION AND FIRST STEPSAn introduction to PlayThe parts of an applicationA basic CRUD applicationPART 2 CORE FUNCTIONALITYAn enterprise app, Play-styleControllers--handling HTTP requestsHandling user inputModels and persistenceProducing output with view templatesPART 3 ADVANCED TOPICSAsynchronous dataSecurityModules and deploymentTesting your application
                     
-"
-9789863757191,"
-
-
-	培養同學具備程式設計的概念及實作，以讓學生能自行設計一些更有彈性的應用程式(例如：數學上重複性及複雜性的計算)。
-
-	使得在設計程式的過程中，培養將邏輯思考模式轉化成電腦語言的能力，並且獲得自我成就感。
-
 "
 9789572244845,"
 
@@ -2305,6 +2070,14 @@ Summary Play for Java shows you how to build Java-based web applications using t
  ■實際體驗應用程式開發：為了讓讀者能夠瞭解，並驗證如何以Swing開發視窗，本書最後還提供多文件編輯器、即時通訊程式、MP3播放器、圖檔瀏覽器、視訊播放器…等，目前最熱門之視窗程式的實作範例。
  ■範例眾多說明詳盡：全書提供136個範例，讓您從實際範例紮實學習，除了列出完整程式碼與詳盡解說外，更堅持詳盡的程式碼註解，保證程式閱讀輕鬆無負擔。
  ■超有料隨書光碟：本書隨書光碟將提供安裝程式，協助您快速安裝本書範例、JDK與JDK說明文件，並提供瀏覽程式方便讀者快速檢視各章範例程式檔。
+
+"
+9789863757191,"
+
+
+	培養同學具備程式設計的概念及實作，以讓學生能自行設計一些更有彈性的應用程式(例如：數學上重複性及複雜性的計算)。
+
+	使得在設計程式的過程中，培養將邏輯思考模式轉化成電腦語言的能力，並且獲得自我成就感。
 
 "
 9780134034089,0
@@ -2419,7 +2192,11 @@ The release of Java SE 8 introduced significant enhancements that impact the Cor
                     
 "
 9781430268277,0
-9781499089110,0
+9780071835886,"
+
+Publisher's Note: Products purchased from Third Party sellers are not guaranteed by the publisher for quality, authenticity, or access to any online entitlements included with the product.Proven Methods for Building Secure Java-Based Web ApplicationsDevelop, deploy, and maintain secure Java applications using the expert techniques and open source libraries described in this Oracle Press guide. Iron-Clad Java presents the processes required to build robust and secure applications from the start and explains how to eliminate existing security bugs. Best practices for authentication, access control, data protection, attack prevention, error handling, and much more are included. Using the practical advice and real-world examples provided in this authoritative resource, you'll gain valuable secure software engineering skills.Establish secure authentication and session management processesImplement a robust access control design for multi-tenant web applicationsDefend against cross-site scripting, cross-site request forgery, and clickjackingProtect sensitive data while it is stored or in transitPrevent SQL injection and other injection attacksEnsure safe file I/O and uploadUse effective logging, error handling, and intrusion detection methodsFollow a comprehensive secure software development lifecycle""In this book, Jim Manico and August Detlefsen tackle security education from a technical perspective and bring their wealth of industry knowledge and experience to application designers. A significant amount of thought was given to include the most useful and relevant security content for designers to defend their applications. This is not a book about security theories, it's the hard lessons learned from those who have been exploited, turned into actionable items for application designers, and condensed into print."" ―From the Foreword by Milton Smith, Oracle Senior Principal Security Product Manager, Java
+                    
+"
 9789863756644,"
 
 
@@ -2438,11 +2215,6 @@ The release of Java SE 8 introduced significant enhancements that impact the Cor
 	本書適合所有Java程式設計師、軟體設計師、架構師以及軟體發展愛好者，對於有一定經驗的Java工程師，本書必能協助突破技術瓶頸、深入Java核心開發！
 
 "
-9780071835886,"
-
-Publisher's Note: Products purchased from Third Party sellers are not guaranteed by the publisher for quality, authenticity, or access to any online entitlements included with the product.Proven Methods for Building Secure Java-Based Web ApplicationsDevelop, deploy, and maintain secure Java applications using the expert techniques and open source libraries described in this Oracle Press guide. Iron-Clad Java presents the processes required to build robust and secure applications from the start and explains how to eliminate existing security bugs. Best practices for authentication, access control, data protection, attack prevention, error handling, and much more are included. Using the practical advice and real-world examples provided in this authoritative resource, you'll gain valuable secure software engineering skills.Establish secure authentication and session management processesImplement a robust access control design for multi-tenant web applicationsDefend against cross-site scripting, cross-site request forgery, and clickjackingProtect sensitive data while it is stored or in transitPrevent SQL injection and other injection attacksEnsure safe file I/O and uploadUse effective logging, error handling, and intrusion detection methodsFollow a comprehensive secure software development lifecycle""In this book, Jim Manico and August Detlefsen tackle security education from a technical perspective and bring their wealth of industry knowledge and experience to application designers. A significant amount of thought was given to include the most useful and relevant security content for designers to defend their applications. This is not a book about security theories, it's the hard lessons learned from those who have been exploited, turned into actionable items for application designers, and condensed into print."" ―From the Foreword by Milton Smith, Oracle Senior Principal Security Product Manager, Java
-                    
-"
 9781502370600,0
 9789863793007,"
 
@@ -2456,7 +2228,6 @@ Publisher's Note: Products purchased from Third Party sellers are not guaranteed
 Java in easy steps, 5th edition instructs you how to easily create your own exciting Java programs. Now, updated for Java 8, it contains separate chapters on the major features of the Java language. Complete example programs with colorized code illustrate each important aspect of Java programming - all in easy steps. Java in easy steps, 5th edition begins by explaining how to download and install the free Java Development Kit (JDK) for the Java SE (Standard Edition) platform. This allows you to quickly begin creating your own executable programs by copying the examples. The book assumes no previous knowledge of any programming language so it's ideal for the newcomer to computer programming. Each chapter builds your knowledge of Java. By the end of this book you will have gained a sound understanding of the Java language and be able to write your own Java programs and compile them into executable files that can be run on any Java-enabled computer. Covers Java 8.
                     
 "
-9780741249807,0
 9788441535817,0
 9781617291999,0
 9781507718902,0
@@ -2741,7 +2512,6 @@ Publisher's Note: Products purchased from Third Party sellers are not guaranteed
 Summary Making Java Groovy is a practical handbook for developers who want to blend Groovy into their day-to-day work with Java. It starts by introducing the key differences between Java and Groovy--and how you can use them to your advantage. Then, it guides you step-by-step through realistic development challenges, from web applications to web services to desktop applications, and shows how Groovy makes them easier to put into production. About this Book You don't need the full force of Java when you're writing a build script, a simple system utility, or a lightweight web app--but that's where Groovy shines brightest. This elegant JVM-based dynamic language extends and simplifies Java so you can concentrate on the task at hand instead of managing minute details and unnecessary complexity. Making Java Groov is a practical guide for developers who want to benefit from Groovy in their work with Java. It starts by introducing the key differences between Java and Groovy and how to use them to your advantage. Then, you'll focus on the situations you face every day, like consuming and creating RESTful web services, working with databases, and using the Spring framework. You'll also explore the great Groovy tools for build processes, testing, and deployment and learn how to write Groovy-based domain-specific languages that simplify Java development. Written for developers familiar with Java. No Groovy experience required. Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. What's InsideEasier JavaClosures, builders, and metaprogrammingGradle for builds, Spock for testingGroovy frameworks like Grails and GriffonAbout the Author Ken Kousen is an independent consultant and trainer specializing in Spring, Hibernate, Groovy, and Grails. Table of ContentsPART 1: UP TO SPEED WITH GROOVYWhy add Groovy to Java? Groovy by exampleCode-level integrationUsing Groovy features in JavaPART 2: GROOVY TOOLSBuild processesTesting Groovy and Java projectsPART 3: GROOVY IN THE REAL WORLDThe Spring frameworkDatabase accessRESTful web services Building and testing web applications
                     
 "
-9781469401928,0
 9780132575652,0
 9781305076532,0
 9780071827195,"
@@ -2865,9 +2635,9 @@ On the Internet, there are almost no barriers against international commerce. Ex
 本書是一本能夠讓您真正學會物件導向程式設計和建立物件導向思維的書，筆者使用大量程式範例和圖例來幫助讀者學習程式設計和驗證所學，能夠讓讀者循序漸進的學習程式語言的基礎、程式設計方法和Java物件導向程式設計，進而作為未來學習物件導向分析與設計的墊腳石。 這也是國內第一本使用IntelliJIDEA整合開發環境，和使用NClass類別圖設計工具的Java語言學習手冊，能夠輕鬆讓讀者使用NClass繪製UML類別圖後，自動產生Java類別程式碼。
                     
 "
+9781430244257,0
 9780133813456,0
 9781118769959,0
-9781430244257,0
 9781449365110,"
 
 Learn how to develop REST-style and SOAP-based web services and clients with this quick and thorough introduction. This hands-on book delivers a clear, pragmatic approach to web services by providing an architectural overview, complete working code examples, and short yet precise instructions for compiling, deploying, and executing them. You'll learn how to write services from scratch and integrate existing services into your Java applications.  With greater emphasis on REST-style services, this second edition covers HttpServlet, Restlet, and JAX-RS APIs; jQuery clients against REST-style services; and JAX-WS for SOAP-based services. Code samples include an Apache Ant script that compiles, packages, and deploys web services. Learn differences and similarities between REST-style and SOAP-based services Program and deliver RESTful web services, using Java APIs and implementations Explore RESTful web service clients written in Java, JavaScript, and Perl Write SOAP-based web services with an emphasis on the application level Examine the handler and transport levels in SOAP-based messaging Learn wire-level security in HTTP(S), users/roles security, and WS-Security Use a Java Application Server (JAS) as an alternative to a standalone web server
@@ -2908,11 +2678,6 @@ Android development is hot, and many programmers are interested in joining the f
 	•    是一本值得向大家介紹的好書
 	•    範例光碟的內容：Android 4.4 App開發之鑰的範例程式。
 
-"
-9780794607425,"
-
-The  Java & Bali Travel Map  from Periplus is designed as a convenient, easy-to-use tool for travelers. Created using durable coated paper, this map is made to open and fold multiple times, whether it's the entire map that you want to view or one panel at a time. Following highways and byways, this map will show you how to maneuver your way to banks, gardens, hotels, golf courses, museums, monuments, restaurants, churches and temples, movie theaters, shopping centers and more! This 4th edition includes maps and plans that are scaled to:  Area Maps:  Western Java 1:600,000  Eastern Java 1:600,000 Bali 1:600,000 Southern Bali 1:120,000  Yogyakarta 1:100,000City Plan:  Central Jakarta 1:70,000Periplus Travel Maps cover most of the major cities and travel destinations in the Asia-Pacific region. The series includes an amazing variety of fascinating destinations, from the multifaceted subcontinent of India to the bustling city-state of Singapore and the 'western style' metropolis of Sydney to the Asian charms of Bali. All titles are continuously updated, ensuring they keep up with the considerable changes in this fast-developing part of the world. This extensive geographical reach and attention to detail mean that Periplus Travel Maps are the natural first choice for anyone traveling in the region.
-                    
 "
 9789865714826,"
 
@@ -3091,7 +2856,6 @@ A reference that answers your questions as you move through your coding The dema
 "
 9780071828093,0
 9780982477533,0
-9781402792601,0
 9780132940955,0
 9789862579381,"
 
@@ -3138,13 +2902,11 @@ Java 7 Recipes offers solutions to common programming problems encountered every
 9781118087886,0
 9781118129425,0
 9780672335747,0
-9781469401553,0
 9780071633604,"
 
 Publisher's Note: Products purchased from Third Party sellers are not guaranteed by the publisher for quality, authenticity, or access to any online entitlements included with the product.Develop, Compile, and Debug High-Performance Java ApplicationsTake your Java skills to the next level using the expert programming techniques contained in this Oracle Press guide. Featuring real-world code samples and detailed instructions, Java Programming demonstrates how to fully utilize the powerful features of Java SE 7. Find out how to design multithreaded and network applications, integrate structured exception handling, use Java libraries, and develop Swing-based GUIs and applets. Inheritance, generics, and utility classes are are covered in this practical resource.Create custom classes, methods, arrays, and operatorsControl program flow using conditional statementsHandle multithreaded, network, and I/O programmingLearn new constructs in multithreadingIncorporate enums, annotations, and autoboxingRecover from errors, input failures, and exceptionsUse Java Swing to build lightweight GUIs and appletsCut development time using the collections frameworkWork with the latest Java libraries and utility classes
 
 "
-9781908206442,0
 9781118252536,0
 9789862018477,"
 
@@ -3189,11 +2951,6 @@ Java 7 Programming for Absolute Beginners introduces the new core, open source J
 對Java程式師來說，Java虛擬機器是既熟悉又神秘，很少能夠抑制自己探究它的衝動，分析JVM的書籍更是少之又少。本書化繁為簡帶領讀者在輕鬆中領略Java虛擬機器的奧秘。同時從核心理論和實際運用的角度去探討Java虛擬機器，並對JVM進行全面而深入的分析。不僅理論分析透徹，而且書中包含大量經典案例與實務應用。作者將多年來在Java虛擬機器領域的實務經驗和研究心得呈現在本書中，不僅有系統地講解Java虛擬機器工作機制和底層原理，更難能可貴的是與實作結合，可作為學習虛擬機器的精選教材。
                     
 "
-9780768432855,"
-
-Selecting 40 invigorating excerpts from their exciting and popular books, Pastor Bill Johnson and his Bethel Church associates have created an excellent blend of rich, generous, fortifying spiritual inspiration. Take a deep whiff of what Bill, his wife Beni, and their friends Kris Vallotton, Danny Silk, Kevin Dedmon, and Banning Liebscher have brewed specially for you. Step 1: Select an espresso-size chapter.Step 2: Sit back and relax in God's presence.Step 3: Learn to listen to His voice.Step 4: Follow His directions. God will take you into supernatural new territory, and your explorations will not end until you are fully walking in His perfect plan for your life. Each time you enjoy a few more sips, you will be warmed and energized to step out into your world with renewed Kingdom effectiveness. May each sip of every chapter be spiritual java for your soul.
-                    
-"
 9789865836078,"
 
 JSP、Servlet、Struts、Hibernate、AOP、WebWork、Spring、EJB⋯，好複雜，這麼多技術到底都是做什麼的？它們有什麼關聯呢？近幾年，Web 程式發展異常迅猛，不僅出現了形形色色的購物網站、交友網站、銀行自助系統等，還出現像Palm OS Web作業系統、可以替代Office等傳統辦公軟體的Google Document等功能強大的Web程式。這些主要得益於Web程式的精簡型用戶端的特點，即不需要客戶安裝任何軟體，只需要使用瀏覽器即可完成操作。Web程式可以非常簡單，簡單到只有幾個HTML頁面、幾張圖片，例如小型企業的介紹性網站等。也可以非常複雜，例如Google Document 網站，完全可以替代Word、Excel、PPT、PDF 閱讀器等；Google Talk 也完全可以替代QQ、MSN等。實現這些Web程式所用到的技術也很多，最流行的有微軟的.NET技術和Java相關技術。Java 相關技術作為最流行的開發技術之一，在Web 開發領域也有著非常廣泛的應用。但Java Web開發所涉及的技術比較繁雜，涉及很多開發Framework 和工具，而且它們各有所長，並不完全是一個完善的體系。這對需要掌握Java Web開發的人來說，有一定的困難。筆者曾經任職於IBM 中國研究院、諾基亞北京研發中心和用友軟體等公司，有幸系統地學習了Java Web開發的的技術，並從事大量的實際專案，累積了豐富的開發經驗。為了幫助讀者更好、更快速地掌握Java Web 開發，筆者花費一年多的時間寫作本書，把Java Web 開發所涉及的技術進行歸納和總結，以最簡單易懂的實例進行講解。相信讀者學習完本書內容，可以很全面地掌握Java Web開發所涉及的技術，也會清楚它們之間的關聯，提升Java Web 開發水準。
@@ -3205,11 +2962,6 @@ JSP、Servlet、Struts、Hibernate、AOP、WebWork、Spring、EJB⋯，好複雜
                     
 "
 9781840784435,0
-9781600784156,"
-
-Ideal for an entertaining start to the day or a fun coffee break, these java-themed word puzzles are a mental workout with a humor buzz. For more than 40 years, millions of newspaper readers have delighted in solving Jumble(R), which appears in hundreds of national papers and in these puzzle books that offer hours of challenging wordplay and fun. Each page features a series of mixed-up words coupled with a cartoon clue, and one letter from each word is used to form the answer to the puzzle.
-                    
-"
 9781118604670,0
 9788441530430,0
 9781118289068,0
@@ -3258,7 +3010,6 @@ Java 語言的開發人群越來越多，大量程式師已經進入或正打算
 9780132989961,0
 9781463718077,0
 9781133593546,0
-9789971695132,0
 9781743044995,0
 9780071606301,"
 
@@ -3297,7 +3048,6 @@ Publisher's Note: Products purchased from Third Party sellers are not guaranteed
 9780132990004,0
 9780132989992,0
 9780132128810,0
-9781153632546,0
 9781430233275,"
 
 Pro Java ME Apps gives you, the developer, the know-how required for writing sophisticated Java ME applications and for taking advantage of this huge potential market. Java ME is the largest mobile software platform in the world, supported by over 80% of all phones. You'll cover what Java ME is and how it compares to other mobile software platforms, how to properly design and structure Java ME applications, how to think like an experienced Java ME developer, what common problems and pitfalls you may run into, how to optimize your code, and many other key topics.  Unlike other Java ME books out there, which only teach the reader the basics of Java ME by way of a few simple examples, this book presents a broader, eagle-eye picture of a complete Java ME application and what writing one involves. From there, the book presents, explains, and helps you to implement all the essential aspects of Java ME development, from the user interface to client-server communication. As this unfolds, the decisions and reasoning behind the code are also presented.  The book assumes that the reader is already familiar with Java ME and Java applications in general.  Based on and geared towards real-life Java ME scenarios  Guides the reader through the entire process of developing a high-quality Java ME application  Explains the decisions made at each step, gives advice and examples of good practices vs. bad practices
@@ -3382,11 +3132,6 @@ Unlike many Flex books that presume readers want to develop applications from sc
 "
 9780132772389,0
 9780132892827,0
-9789862016350,"
-
-本書以包羅萬象的IT這個大江湖為背景，將Java職場中從入門前的學校菜鳥到成長為技術達人的過程展現給讀者，內容豐富又不失趣味性。在本書中不但有就職前的行業探秘、誤區排除，也有入行後的口訣傳授和江湖新銳兵器介紹。不僅與讀者朋友們探討了Java江湖中做事的學問，還探討了一些職場中做人的道理，可以說本書是Java開發人員的職場寶典。書中設計了兩位主人公：職場新手的蔡佳娃和業內高手牛開復，並以蔡佳娃的成長歷練為主線，描述笨手笨腳的蔡佳娃如何在師兄牛開付的幫助下，從懵懂無知的大學生，一步一步成長為獨當一面的開發人員。雖然主要內容分成兩大篇，但在蔡佳娃成長的故事內容下，可以分成三個成長階段看待：．第一個階段是學生時代的能力養成辦法．第二階段是進入職場後的能力提昇途徑．第三階段是晉升達人必須學習的關鍵心法第一階段的閱讀，適合於尚在學校對前途感到迷茫的大學生，甚至苦惱於求職履歷填寫方式的畢業學生；第二階段的閱讀，更是提供給已經在IT職場中的各種程式設計師們，一個不可多的修練指南，除此之外，本階段描述的職場工作倫理，也是非IT人員可以借鏡的地方；第三階段則適合於已經可以獨立作業的開發人員，甚至是已經在IT江湖闖蕩數年的老鳥，提供了很多新的思路與策略。雖然本書提及的IT環境是以中國為主，但是這幾年來台灣人才到大陸發展的機會越來越高，透過本書的詳細介紹，也可以幫助本國人才了解中國在IT產業上的職場環境與人才需求，以此為參考，增加自己將來在兩岸發展的籌碼。
-                    
-"
 9781934356401,0
 9780132940948,0
 9780982477526,0
@@ -3396,7 +3141,6 @@ Unlike many Flex books that presume readers want to develop applications from sc
 
 "
 9780137081851,0
-9781155226873,0
 9789862765340,"
 
 “絕對是Java系統效能優化的大師級作品… 假如你喜歡了解這些詳盡細節，這本書就是為你而寫的。” - James Gosling，Java語言的創建者 由於Java平台和多核/多處理器硬體系統的進步，讓Java軟體的效能和擴展性有顯著地提昇。 《Java效能優化指南》介紹最新的效能監控工具，可以應用在數種常用的硬體架構和作業系統上。作者提供了許多別處無法找到獨家秘訣和實戰經驗。 從本書你將會學到：如何建立實驗及解讀實驗結果以找出效能瓶頸，如何採取有效的行動來解決效能問題。你也將會深入瞭解微型基準測試和專業的編程技巧。根據這個基礎，你可以進一步學習如何對Java HotSpot VM、標準程式、多執行緒程式和Web程式進行最佳化。還有更多的內容，包含： ‧採取積極主動的手段，讓程式可以達到效能和擴展性目標 ‧在Windows、Linux和Oracle Solaris環境下，在OS層級監控Java程式的效能 ‧使用現代Java Virtual Machine（JVM）和OS監測工具，在幾乎不影響目標系統的效能的情況下，對執行中的目標系統進行效能分析 ‧深入瞭解Java HotSpot VM底層，協助你應付大部分的Java效能問題 ‧整合Java層級和程式層級的監控 ‧精通Java method和heap的效能分析 ‧優化調整Java HotSpot VM的啟動時間、記憶體容量、回應時間和延遲時間 ‧決定何時應該改寫Java程式來達到效能目標 ‧針對Java SE和Java EE程式進行系統化的效能分析和效能優化 ‧最佳化Java HotSpot VM的執行效能 使用這本書，無論你的Java程式有多複雜、在哪種平台上執行或已經執行多久了，你將有能力最大化Java程式的效能和價值。
@@ -3418,7 +3162,6 @@ Unlike many Flex books that presume readers want to develop applications from sc
                     
 "
 9781158624232,0
-9781158624263,0
 9789862573068,"
 
 本書從最基礎的Java程式設計開始解說，透過理論和實作的穿插，使您能輕鬆的學習並加以執行。用深入淺出的語言來指導您的方向，透過不斷的練習和磨練，跟著書中一步又一步詳細的步驟來成就您豐富的經驗和技巧。另外，本書有大量的實例供您能徹底學習並研究，讓您在學習Java的路上，不僅能了解如何撰寫Java程式，也了解什麼是物件導向，以及如何以Java的觀點思考與實作物件導向，讓您能獲得最大最多的成就。 結合理論的講解以及程式的實際演練來做引導，依循程式設計的步驟，配合適當的範例，注重質與量的特點，來降低您學習的障礙，使您對Java程式設計不再頭痛，能運用自如，並且用最直接的邏輯來思考創造。再經過不斷的試誤和驗證，漸漸地就能掌握程式設計的語言。本書配上詳盡的範例，以及重要觀念的「示意圖」對照，每一章節後面更配有「本章進階應用練習實例」單元，讓您不僅認識Java程式設計，更能熟悉且駕馭它。本書特色市面上關於Java程式設計的書籍琳瑯滿目，以國外的Java書為例，大部份注重於理論的講解，於完整範例的考慮上稍嫌不足，對初學者而言，這類書籍缺乏程式實際演練的機會。反觀國內書籍對於此點著墨甚多，以實作來引導觀念、注重範例的質與量為主要特點。筆者希望結合國外程式語言設計系列書與國內書籍優點，並依循程式設計的步驟，配合適當的範例，來降低許多學習的障礙。希望可以提供讀者Java的學習方針，更能實際去培養讀者有關Java程式的撰寫風格，成為一本真正有實用價值的教學用書。．Java 語言簡介、JDK的安裝與環境設定、入門概念和解析… ．資料型態、變數、運算式、流程控制、陣列… ．字元和字串、類別及物件、繼承與多形… ．抽象類別、介面、套件、巢狀類別… ．Java的視窗環境與事件處理、AWT視窗元件的使用、認識Swing套件… ．繪圖及多媒體、Java Applet、例外處理、資料流的I/O控制… ．JDBC和資料庫、多執行緒、網路程式設計… 本書附光碟．本書完整範例檔．補充教材
@@ -3442,7 +3185,6 @@ With its focus on creating efficient data structures and algorithms, this compre
                     
 "
 9780136083825,0
-9780727878496,0
 9789862763100,"
 
 JWorld@TW技術論譠版主、Java權威技術顧問與專業講師 林信良 全新改版！ ‧涵蓋OCP/JP（原SCJP）考試範圍 ‧Coin專案、JSR166y、JDBC 4.1、NIO.2等Java SE 7新功能介紹 ‧JDK基礎與IDE操作交相對照 ‧提供實作檔案與操作錄影教學 ‧本書為作者數年來實務教學過程中，匯整學員在課程中遇到的觀念、實作、應用或認證考試上等問題之集合。 ‧針對Java SE 7新功能全面改版，無論是章節架構或範例程式碼上，皆作了全面重新審閱與翻新。 ‧詳細介紹JVM、JRE、Java SE API、JDK與IDE之間的關係與對照。 ‧必要時從Java SE API的原始碼分析，了解各種語法在Java SE API中如何應用。 ‧建議練習的範例提供Lab檔案，更能掌握練習重點。 ‧IDE操作納為本書教學內容之一，更能與實務結合，提供錄影教學以更能掌握操作步驟。
@@ -3459,7 +3201,6 @@ JWorld@TW技術論譠版主、Java權威技術顧問與專業講師 林信良 �
 What if you could condense Java down to its very best features and build better applications with that simpler version? In this book, veteran Sun Labs engineer Jim Waldo reveals which parts of Java are most useful, and why those features make Java among the best programming languages available.Every language eventually builds up crud, Java included. The core language has become increasingly large and complex, and the libraries associated with it have grown even more. Learn how to take advantage of Java's best features by working with an example application throughout the book. You may not like some of the features Jim Waldo considers good, but they'll actually help you write better code.Learn how the type system and packages help you build large-scale softwareUse exceptions to make code more reliable and easier to maintainManage memory automatically with garbage collectionDiscover how the JVM provides portability, security, and nearly bug-free codeUse Javadoc to embed documentation within the codeTake advantage of reusable data structures in the collections libraryUse Java RMI to move code and data in a distributed networkLearn how Java concurrency constructs let you exploit multicore processors
                     
 "
-9780741447319,0
 9780073523354,0
 9789862574959,"
 
@@ -3469,10 +3210,8 @@ What if you could condense Java down to its very best features and build better 
 9781463706340,0
 9780763774936,0
 9780131471061,0
-9781153802598,0
 9780136091813,0
 9780132570817,0
-9781153807074,0
 9789862572177,"
 
 本書包含348個典型實際範例以及1個綜合開發範例 多媒體教學視訊讓你學習不脫鉤本書特色實例教學：以應用為目標，用實例進行講解，提高實作能力 視訊教學：每個實例都對應一個多媒體教學視訊，增加您的學習效率 廣泛應用：涵蓋Java程式設計所涉及的核心技術與主流應用 步驟詳細：每一個實例都詳細的講解操作步驟，並提供原始程式碼 技巧豐富：本書穿插了大量的技巧、說明和重點分析，讓您輕鬆掌握重點本書附光碟本書重點範例原始碼多媒體教學視訊
@@ -3509,12 +3248,6 @@ Over the past few years, the now-open source Adobe Flex framework has been adopt
                     
 "
 9780757574412,0
-9781155382814,0
-9781609575625,"
-
-Dr. Lahay is a Maryland native, born at Mt. Sinai Hospital and grew up in Catonsville-Woodlawn area of Baltimore County. He joined the Marine Corps and spent the next 10 years in peacetime and war defending a grateful Nation. While home on leave in August of 1987, Dr. Lahay who grew up attending private school, accepted the Lord Jesus Christ as His personal Savior and was baptized into Believer's baptism at Brantley Baptist Church at the age of 21. He went back to his duty station and met his wife of 22 years, Silvia while stationed in San Diego, California. Together with the Lord's strength and grace they are raising two godly children. After leaving the Marines, Dr. Lahay went to work for Lockheed Martin, while there earned his undergraduate degree. Still searching for satisfaction; he answered the Lord's call to full-time ministry in February of 1998. He enrolled in Seminary as a full-time student while serving a church in Rochester New York. Dr. Lahay has pastored churches in New York, Montana and currently in Deep Creek Maryland. Doctor Lahay is a board certified Marriage and Family Therapist as well as a Licensed Clinical Pastoral Counselor. He became the shepherd of Deep Creek Baptist church in 2007 and enjoys the grace of every day. If you are in the area, feel free to stop in and share a cup of coffee. No matter what your day may bring, be sure to keep the Son in your eyes, as you ""let go and Let God""!
-                    
-"
 9781158614363,0
 9781461016670,0
 9780596158040,0
@@ -3534,7 +3267,6 @@ Dr. Lahay is a Maryland native, born at Mt. Sinai Hospital and grew up in Catons
 本書探討很多應用設計模式來解決實際專案中的問題，在內容上深入、技術上實用，和實際開發結合程度很高，書中大部分的範例程式都是從實際專案中簡化而來，很多例子都可以直接拿到實際專案中使用。如果你想要深入透徹地瞭解和掌握設計模式，並期望能真正把設計模式應用到專案中去，這是你不可錯過的一本好書。
                     
 "
-9781156247754,0
 9781607416616,0
 9781616100476,0
 9789862571590,"
@@ -3544,7 +3276,6 @@ Dr. Lahay is a Maryland native, born at Mt. Sinai Hospital and grew up in Catons
 "
 9780321356680,0
 9780470482674,0
-9781553415466,0
 9780470525111,0
 9781111822866,0
 9789862016121,"
@@ -3574,7 +3305,6 @@ Java Message Service, Second Edition, is a thorough introduction to the standard
                     
 "
 9780136060611,0
-9780794606183,0
 9789862760055,"
 
 Java安全領域的百科全書密碼學領域的權威經典5大網路社群一致鼎力推薦當你在MSN與好友聊天時，當你透過購物網站shopping時，當你用電子郵件與客戶交流時，當你公司的應用伺服器與合作夥伴交換商業資料時……你是否考慮過你的資料是否安全？你的隱私是否會被洩露？你的信用卡是否會被盜用？你的競爭對手是否能竊取你的敏感資料？任何一項透過網路交換的資料都有可能是不安全的，然而我們卻越來越依賴網路。如果使用者密碼、聊天訊息、銀行帳號、郵件內容、商業敏感資料等透過明文傳輸，後果將不堪設想。自己的帳號被盜用、隱私成為公眾話題、信用卡被人濫用、競爭對手盜用自己的資料……於是，為了確保資料不被侵犯，資料加密與解密技術應用在企業應用中均扮演著非常重要的角色。如果你在思考下面這些問題，也許本書就是你想要的！．作為一名系統架構師，如何讓你的系統沒有安全隱患？作為一名程式設計師，如何讓你編寫的程式碼沒有安全漏洞？．為什麼密碼學是解決一切安全問題的特效藥？密碼學究竟是怎麼樣的一門學問？近千年來，它經歷了怎樣的發展歷程？它是如何延續至今並逐步發展壯大？．部落格、論壇、社群、網路聊天、企業資料交換應用、網路銀行平台等網路應用都無法逃避網路安全問題，如何在合適的環境選用合適的加密演算法，從而提高系統的安全性？．Java 6支援哪些加密演算法？如何擴充Java 6尚不支援的加密演算法？如何增強系統的安全等級？．訊息摘要演算法和檔案校驗演算法有什麼關聯？它與普通的循環冗餘校驗演算法有何差別？如何使用訊息摘要演算法隱蔽敏感資料？．為何Base 64演算法可以隱蔽敏感訊息卻無法真正有資料加密的作用，而對稱式加密演算法卻能輕而易舉地加密資料？Base 64演算法與對稱式加密演算法之間究竟有何關係？．Sun並沒有提供官方的Base 64演算法支援，我們又該如何建構該演算法？針對Base 64演算法，Apache Commons Codec和Bouncy Castle提供了怎樣的支援？在其他加密演算法中又有怎樣的作用？．對稱式加密演算法已經幾乎能勝任所有的加密需求，為何要研發非對稱式加密演算法？對稱式加密演算法究竟有何缺點？非對稱式演算法會是對稱式演算法的取代者嗎？．數位簽章是手寫簽名的數位化產物，其演算法與訊息摘要有何關聯？為什麼這種演算法在結合非對稱式加密演算法密鑰後就具備了認證身分的作用？．對稱式加密演算法和非對稱式加密演算法如何分發密鑰，數位憑證在其中充當了何種角色？數位憑證又是如何發放的？．數位憑證集多種加密演算法於一身，它是如何傳遞密鑰的？又是如何有身分認證的作用？在HTTPS協定中又是如何與SSL/TLS協定相互結合建構安全平台的？．KeyTool和OpenSSL建構的數位憑證究竟有何差別？如何在Java中使用這些工具建構的數位憑證？．基於HTTPS協定的網路銀行平台，堪稱安全級別最高的網路應用，更是密碼學應用領域中最成功的案例。Java 6提供了完備的HTTPS協定相關的API，如何使用這些API建構固若金湯的HTTPS平台？．HTTPS協定和SSL/TLS協定有何關係？這些協定與數位認證、加密演算法有何關聯？如何使用HTTPS協定建構安全的網路應用？．單向認證服務和雙向認證服務兩者之間有何不同？它們與HTTPS協定有何關係？如何運用這兩種認證服務保護我們的應用程式？
@@ -3623,12 +3353,6 @@ Have you thought about building games for your cell phone or other wireless devi
                     
 "
 9781933370958,0
-9781458849403,0
-9789574445998,"
-
-以科技見長的陳漢平，不僅會設計電腦，拿起筆來寫散文更得心應手，透過他細膩的觀察，幽默趣味的書寫，看到冷調科技的溫暖面，不論是談部落格、解析火星文，或是矽谷大小事，都讓我們對科技有不同的認識。此外他更分享自己看文學作品的心得，從《紅樓夢》談職場或是談《水滸傳》中的創業精神，在在讓我們看到一位科技人中生命的另外一面，也更展現出散文的數位風情。本書特色：★輕鬆幽默筆調，書寫網路現象、觀察當今科技生活。★每篇增加關鍵字，讓讀者在閱讀趣味之外可獲得更多相關知識。
-                    
-"
 9781430210092,"
 
 ""The Java(TM) landscape is littered with libraries, tools, and specifications. What's been lacking is the expertise to fuse them into solutions to real-world problems. These patterns are the intellectual mortar for J2EE software construction."" --John Vlissides, coauthor of Design Patterns: Elements of Reusable Object-Oriented SoftwarePro Java(TM) EE Spring Patterns focuses on enterprise patterns, best practices, design strategies, and proven solutions using key Java EE technologies including JavaServer Pages(TM), Servlets, Enterprise JavaBeans(TM), and Java Message Service APIs.This Java EE patterns resource, catalog, and guide, with its patterns and numerous strategies, documents and promotes best practices for these technologies, implemented in a very pragmatic way using the Spring Framework and its counters. This title Introduces Java EE application design and Spring framework fundamentals  Describes a catalog of patterns used across the three tiers of a typical Java EE application  Provides implementation details and analyses each pattern with benefits and concerns  Describes the application of these patterns in a practical application scenario
@@ -3656,7 +3380,6 @@ Professional Java Native Interfaces takes a solutions-based approach in showing 
 9781584505655,0
 9780596521127,0
 9780072263848,0
-9780006172482,0
 9789866551833,"
 
 (1) 輕鬆入門：本書以Java初學入門觀點切入網路程式設計，輕鬆入門。(2) 熟練實作：任何學習重點都搭配範例實作並探討，完全剖析Java網路程式。(3) 問題導向：協助讀者提出問題，解決問題，本書編輯問題262則(147則範例、115則習題)。(4) 原文接軌：編輯中英文索引610個，涵蓋Java有關網路程式之中英文專有名詞，幫助中英文書藉相互參考。本書特色 生活在現在科技發達的時代，電腦已是我們生活的基本配備，尤其我們想要把電腦學好的電腦人，最終是要達到網路層次，才算對得起自己，除了使用他人設計之網路工具，也應建立自己設計網路工具之能力。在嚮往成為網路設計者之前，我們需先建立起網路基礎能力，本書著重於Java網路程式設計、Java網路串流導引、與Java網路資料傳遞。
@@ -3690,19 +3413,18 @@ All true craftsmen need the best tools to do their finest work, and programmers 
 附書光碟DVD*1􀂙 突出核心技術，注重解決方案􀂙 精挑細選的模組典型，涉及範圍廣泛􀂙 程式碼統一規範，關鍵程式碼和函式幾乎均有注釋􀂙 提供開發經驗技巧，隨處可見到注意、說明、技巧等提示􀂙 超值DVD光碟提供：‧書中案例的原始程式碼‧280分鐘影音教學檔多媒體播放機模組網路五子棋遊戲作為專案開發人員，相信許多人都有過因專案時間緊迫而加班的經歷。如果有現成的模組作參考，專案的開發進度會大幅度提高。本書提供二十個Java典型模組，幾乎涵蓋Java程式開發的各個面向。以模組的核心技術為導向，介紹模組的設計概念和實現過程，特別適合作為專案開發人員的參考書。本書共分為二十二章，涉及二十個典型模組，首先介紹Java開發環境和Eclipse開發工具，使初學者能夠快速掌握Java語言開發環境；之後透過二十個典型模組涵蓋程式開發的各個領域，內容包括圖形影像處理、多媒體、資料庫、網路通信、報表列印、硬體相關、檔案處理、軟體安全等多項專題；最後一章對Java應用程式的打包與部署進行了詳細講解，使讀者能夠快速掌握Java應用程式的打包方法。本書案例涵蓋領域廣泛，實用性強。讀者可以瞭解各個領域的特點，能夠針對某一領域進行軟體開發，也可以透過光碟中提供的模組原始程式碼進行二次開發，以減少開發系統所需要的時間。本書適合軟體開發人員以及大專院校師生參考學習。讀者在使用本書時遇到問題，可以透過明日科技網站進行諮詢，明日科技圖書服務網站是www.mingrisoft.com服務信箱是mingrisoft@mingrisoft.com
                     
 "
+9780596514198,0
 9789572238493,"
 
 公信力最具權威的「TQC+ 物件導向程式語言Java 6」，認證屬於程式語言的重要觀念，題型包含基本認識、條件判斷式、迴圈、遞迴程式設計、陣列設計能力以及物件導向程式設計與例外處理等，完整包含Java程式語言的重要觀念，藉由題型之設計，可協助讀者學習最紮實的重要觀念及程式撰寫能力，並厚實自身能力，運用物件導向概念，撰寫出精簡並富邏輯性的程式。本書特色「TQC+ 物件導向程式語言認證Java 6」，係為TQC+ 軟體設計領域之物件導向程式語言認證能力鑑定，以實務操作方式進行認證，評核符合企業需求的新時代專業設計人才。亦為考核「TQC+ Java程式設計專業人員」必備專業技能之一。．內附完整的測驗題及操作題，題型設計均以實務應用為導向，品質及認證公信力最具權威！．「TQC+ 物件導向程式語言認證Java 6」範例題目包含基本認識、條件判斷式、迴圈、遞迴程式設計、陣列設計能力以及物件導向程式設計與例外處理等，完整涵蓋Java程式語言的重要觀念，學習最紮實的重要觀念及程式撰寫能力。．透過本書所附光碟之範例題目練習系統依類別進行自我測驗，提升使用者學習效率。．配合中華民國電腦技能基金會(www.csf.org.tw)測驗流程，一舉取得專業證照，讓您求學、求職更具競爭力。本書範例題目內容為認證題型與命題方向之示範，正式測驗試題不以範例題目為限。
                     
 "
-9780596514198,0
 9781840783469,0
 9789866382840,"
 
 行動設備程式設計無論是目前還是未來都是相當被看好的產業。有鑑於此，作者將多年在教學與產業上的經驗行諸於文，希望能讓想進入這個領域的夥伴可以快速的學會基本技術與掌握方向所以，本書除了介紹行動網路的概念外，也有系統而全面性的講述J2ME各種手機程式設計方法。包括網路程式設計、遊戲開發、以及多媒體，最後並提供3個完整的手機程式專案開發實例。因此，本書非常適合手機程式初學者、廣大的Java程式設計師、更適合大專院校師生做為專業參考用書或學習教材。本書特色．完整清楚的範例實作：相信可藉由本書引領進入這道Java手機程式設計之門後而擁有更寬廣的未來。．循序漸進的設計流程：由最宏觀的願景開始講起，但從最基礎的業界規格、基本介面著手，進而學習網路程式設計、資料記錄程式設計、遊戲程式設計以及多媒體設計等等，最後也以如何完成願景而努力來結束。
                     
 "
-9781408681947,0
 9780321512093,0
 9781423901624,0
 9780071490030,0
@@ -3808,6 +3530,7 @@ Bruce Tate, author of the Jolt Award-winning Better, Faster, Lighter Java has an
 ＊本書適合下列的人‧Java程式設計的新手，即希望可以快速上手的初學者。‧已經學過Java程式設計的老手，但是只會按照書本範例重打一遍，或是只會死背語法與程式，不知道如何撰寫程式的邏輯來解決問題而感到徬徨無助的人。＊適合老師用來教「Java程式設計」一學期的課程。本書特色：＊全書分為九章，針對基本的程式邏輯設計重點詳加解說＊本書的特色是以What、Why、When、Where、How的角度來詳細介紹與說明各章節的內容，能使學習者真正了解程式邏輯設計，並能學以致用＊另一個特色是內附JAVA LAB實習手冊，提供超過數百題上機實作習題，使學習者可以透過實作而能學好程式邏輯設計的基本功夫
                     
 "
+9780262693257,0
 9789861545769,"
 
 
@@ -3830,8 +3553,6 @@ Bruce Tate, author of the Jolt Award-winning Better, Faster, Lighter Java has an
  █ 本書網站 您可在本書持續更新中的網站上，找到大量的補充資訊來幫助您學習：http://www.cs.princeton.edu/IntroProgramming。 
 
 "
-9780262693257,0
-9780195147360,0
 9789862012505,"
 
 本書以初學基礎觀點，輕鬆切入JSP / Html / Java / Access設計資料庫的互動網頁操作程式，每一個學習重點都涵蓋了JSP網頁與Access資料庫之設計與應用，藉由148則範例完全剖析JSP/Access基礎程式設計之各類問題，最後以三個實例系統貫穿全書，帶領讀者快速進入實務應用的領域。本書特色　　JSP / Access / JAVA環境：JSP使用jdk6.0、Tomcat6.0及Access 2007等最新版系統，介紹如何以Java語言支援JSP/Html網頁與資料庫之應用，建立第一個JSP網站資料庫。　　互動式網頁設計：包括物件概念、輸入互動、預設物件、Java Bean應用、資料庫基礎操作、使用者認證等。　　JSP與資料庫指令：包括Java Bean與資料庫、資料查詢、集合運算、聚合函數、巢式子查詢等。　　交易管理設計：以銀行交易轉帳為例，詳細討論交易處理、轉帳交易與故障修補。　　基礎網頁框架：包括網頁框架設計與應用。將網頁分隔成數個次網頁，各個次網頁之間互相關連，使網頁多元生動，倍增功能應用。　　JSP / Access應用實例：包括甄試與查榜系統、網路銀行系統、學生操行成績電腦化系統，三套系統實例引導完整設計與操作。 
@@ -3848,7 +3569,6 @@ Boiled-down essentials of the top-selling Schaum's Outline series for the studen
 
 "
 9781598634761,0
-9789067182737,0
 9780975212899,0
 9780596101879,"
 
@@ -3965,7 +3685,6 @@ Java is not only a popular technology but has also become the standard technolog
 本書可說是一本完整的Java設計書，十分重視章節的「主題性」以及「應用層面」，所以章節前半部會從議題「基本觀念」導入，後半部則是基本觀念的延伸探討或整合應用。 ．清晰的觀念及技術：Java 語言基礎、Java 類別的種類及 Package 使用、Java 物件導向設計技術、Java 之視窗應用程式的基礎。 ．完全掌握Java事件處理機制：介紹Java事件處理機制，包括：視窗事件、滑鼠事件、鍵盤事件、Focus事件及多視窗之間的事件互動，是國內中文書之最。 ．實例介紹Java I/O 處理技術，清楚了解I/O的應用：各種I/O儲存及處理方式、Zip 壓縮之 I/O 處理、印表機列印等技術，都有詳細介紹及實用範例。 鞭辟入裡介紹Java多執行緒：分別介紹 Timer & TimerTask及Java多執行緒，並詳述執行緒的生命週期，執行順序及優先權，執行緒的管理：同步、溝通和群組。 ．生動的Java網際網路技術介紹－IP、UDP、TCP、URL：各種Java網路技術講解，並以實用範例導入。 本書特點 完整介紹Java，內容豐富，且多以範例說明。 作者觀念清晰，本書為目前Java最新內容，而且比其他書籍擁有更深入與實務的內容。
 
 "
-9780972705578,0
 9788441518650,0
 9788441509481,0
 9780619243968,0
@@ -4075,23 +3794,6 @@ Java擁有純正的物件導向血統，並擁有高擴充性和跨平台的弁�
                     
 "
 9780470124512,0
-9789869026901,"
-
-
-本書是由比爾•強生牧師、貝妮•強生師母以及伯特利教會的同工們所撰寫的暢銷書籍中，節錄出四十篇的精選短篇文章。這些短文不但能鼓動人心，並且富含豐盛、慷慨以及提振心靈的屬靈啟示。
-
-	用力吸一口比爾與他妻子貝妮，還有他們的朋友克里斯•韋羅頓、丹尼‧席克、岱凱文與班寧•力普哲為你特別沖泡的咖啡香氣。
-
-	第一步：選一篇跟義式濃縮咖啡一樣大小的章節。
-	第二步：在神的同在中放輕鬆。
-	第三步：學習聆聽神的話語。
-	第四步：遵從祂的引導。
-
-	神會帶領你進入一個超自然的領域中，新的領受也會源源不絕地出現，直到你完全走在神為你生命所預備的完美計畫中。
-
-	當你每次喝了幾口屬靈咖啡之後，你不但能感受到溫暖，並且能夠精神奕奕地帶著更新過的神國能力進到你的世界裡。但願在各個章節中你喝下的每一口，都能成為幫助你靈魂的屬靈咖啡。
-
-"
 9789862042090,"
 
 1. 輕鬆奠定紮實基礎 – 這一本書專為初學者設計，從事件驅動設計觀念為起點，詳細講解Swing元件的用途與運用技巧，並為您建立運用Swing開發視窗程式的紮實基礎。2. 強調事件驅動觀念 – 開發視窗程式事件驅動是非常重要的觀念，而瞭解Swing元件可回應之事件，更是關鍵。本書除特別加強這個部分的介紹外，還特別提供建立各種事件回應機制的說明範例。3. 深入說明版面佈局 – Swing的版面佈局是控制視窗畫面配置的重要機制，本書將詳細介紹各佈局管理員的特性與應用方式，絕不隨便帶過，更說明其他書籍鮮少說明的SpringLayout佈局管理員。4. 詳細介紹Swing元件 – 對於Swing各種元件的介紹，除包含基本的功能、用途與元件類別常用方法外，針對較複雜的JList、JTree…等元件，更深入說明配合運作的相關介面、類別。5. 元件實務應用示範 – 本書不僅針對Swing元件做功能性的介紹，還將說明實務應用。特別推薦，5-4節運用驗證類別建立身份證字號檢查文字欄。6. 實際體驗應用程式開發 – 為了讓讀者能夠瞭解，並驗證如何以Swing開發視窗，本書最後還提供多文件編輯器、即時通訊程式、FTP程式、MP3播放器、圖檔瀏覽器、視訊播放器…等，目前最熱門之視窗程式的實作範例。7. 範例眾多說明詳盡 – 全書提供137個範例，讓您從實際範例紮實學習，除了列出完整程式碼與詳盡解說外，更堅持詳盡的程式碼註解，保證程式閱讀輕鬆無負擔。8. 超有料隨書光碟 – 本書隨書光碟將提供安裝程式，協助您快速安裝本書範例、JDK與JDK說明文件，並提供瀏覽程式方便讀者快速檢視各章範例程式檔。
@@ -4144,7 +3846,6 @@ Java廣泛的應用範圍與跨平台的特性，使得專為Java程式開發人
                     
 "
 9788441525924,0
-9783825865795,0
 9789861492605,"
 
 市面上Java的書很多，各有其特色，本書由一群多年教學經驗的教師與具實務應用程式設計經驗的工程師共同編著，清楚易懂的架構及表達方式，能有效提升讀者學習的效率，降低學習挫折感，本書在各章也以完整範例詮釋，利用範例與理論的結合，讓您在做中學，完全明瞭理論架構，非常適用初學者自學及教學應用。本書特色1. 不需任何程式語言基礎就可以學習。2. 本書內容採取循序方式，由淺而深編寫，只要依序教與學，就能在最短時間融會貫通。3. 以最精簡的文字介紹常用基本程式語言，與最常用類別的方法。4. 書中的範例多，講解仔細，實例精彩且實用，其他入門書少見。5. 以易讀且詳實的文字與範例說明物件導向程式設計精神。6. 本書所使用的Java編譯程式為J2SE的最新版本JDK 6，若您仍在使用JDK5.0或更早版本，則本書範例中的類別檔在執行之前，建議您先用javac編譯原始程式碼。 
@@ -4329,7 +4030,6 @@ Intended for intermediate Java programmers, analysts, and architects, this guide
 
 "
 9780131856455,0
-9789628734238,0
 9780596009205,"
 
 Learning a complex new language is no easy task especially when it s an object-oriented computer programming language like Java. You might think the problem is your brain. It seems to have a mind of its own, a mind that doesn't always want to take in the dry, technical stuff you're forced to study. The fact is your brain craves novelty. It's constantly searching, scanning, waiting for something unusual to happen. After all, that's the way it was built to help you stay alive. It takes all the routine, ordinary, dull stuff and filters it to the background so it won't interfere with your brain's real work--recording things that matter. How does your brain know what matters? It's like the creators of the Head First approach say, suppose you're out for a hike and a tiger jumps in front of you, what happens in your brain? Neurons fire. Emotions crank up. Chemicals surge. That's how your brain knows.And that's how your brain will learn Java. Head First Java combines puzzles, strong visuals, mysteries, and soul-searching interviews with famous Java objects to engage you in many different ways. It's fast, it's fun, and it's effective. And, despite its playful appearance, Head First Java is serious stuff: a complete introduction to object-oriented programming and Java. You'll learn everything from the fundamentals to advanced topics, including threads, network sockets, and distributed programming with RMI. And the new. second edition focuses on Java 5.0, the latest version of the Java language and development platform. Because Java 5.0 is a major update to the platform, with deep, code-level changes, even more careful study and implementation is required. So learning the Head First way is more important than ever. If you've read a Head First book, you know what to expect--a visually rich format designed for the way your brain works. If you haven't, you're in for a treat. You'll see why people say it's unlike any other Java book you've ever read.By exploiting how your brain works, Head First Java compresses the time it takes to learn and retain--complex information. Its unique approach not only shows you what you need to know about Java syntax, it teaches you to think like a Java programmer. If you want to be bored, buy some other book. But if you want to understand Java, this book's for you.
@@ -4651,18 +4351,18 @@ UML is a graphical notation for drawing diagrams of software concepts. This hand
                     
 "
 9780596004651,0
-9781844804511,0
-9789861253367,"
-
-主要介紹JAVA程式設計的基本觀念，特別是物件的設計、字串的處理、輸出與輸入介紹及例外的處理。以淺顯易懂的生活智慧解釋程式寫作，讓學生快速學習程式設計。書末介紹基本的資料結構原理，藉以提升自己的程式能力，並增進對資料結構的了解。本書附有範例程式，讀者可經由範例的演練增加程式設計的熟練度。
-                    
-"
 9781930110465,"
 
 This book describes how to create Instant Messaging applications in Java and covers the Jabber IM protocols. If you want to create new IM systems, integrate them with your existing software, or wish to know more about the Jabber protocols, this is the book for you.
                     
 "
 9781930110359,0
+9781844804511,0
+9789861253367,"
+
+主要介紹JAVA程式設計的基本觀念，特別是物件的設計、字串的處理、輸出與輸入介紹及例外的處理。以淺顯易懂的生活智慧解釋程式寫作，讓學生快速學習程式設計。書末介紹基本的資料結構原理，藉以提升自己的程式能力，並增進對資料結構的了解。本書附有範例程式，讀者可經由範例的演練增加程式設計的熟練度。
+                    
+"
 9789861540405,"
 
 *涵蓋UML的實用範圍，成為Java程式設計師的有用工具。*展示Java程式碼演算法對應UML的圖形。*涵蓋Java程式設計師相關的每一類圖形，包括類別圖、物件圖、循序圖、合作圖、及狀態圖。*介紹一個輕量形的專案dX，可以應用在RUP或XP驅動的開發程序中，讓你可以成功的為軟體塑模。*包含一個鉅細靡遺從頭到尾的研究案例：遠端服務的客戶端、伺服器、Sockets、及測試。
@@ -4734,12 +4434,12 @@ Shows Java developers everything they need to know to build Java database applic
 
 "
 9781931182195,0
+9780077094607,0
 9789861490762,"
 
 隨著各家電信公司不斷推出手機加值服務，消費者對於手機的運用已從基本的鈴聲下載、簡訊服務，發展到提供手機遊戲服務的需求日益提高，根據專門從事電信、軟體和IT服務諮詢公司 Ovum Ltd的報告中指出，行動遊戲的全球產值到2006年時，市場的規模更可達到約４４億美金…面對這樣龐大的市場商機，您準備好迎接這股熱潮了嗎？本書沒有使用很艱澀的理論，完全採用範例圖解的解說方式，逐步建立讀者遊戲製作的觀念，並培養使用Java製作出遊戲的開發基礎，最後再以Java Sun所提供JDK來設計、開發和測試完整的J2ME手機遊戲。對於完全不懂任何J2ME與JAVA 語言的讀者 來說，本書絕對是您快速進入設計、製作手機遊戲的領域，同時讓您具備基礎的Java語言撰寫能力的第一首選。Part 1：紮穩馬步，從零開始Part2：實務設計，自己動手作Part 3： 持續發想，為創意加分
 
 "
-9780077094607,0
 9781861004109,0
 9781861003898,0
 9781861004819,0
@@ -5008,7 +4708,6 @@ Enterprise Java Bean是一種完全物件導向網路交易元件，除具備J2E
 "
 9780764508813,0
 9789578247567,0
-,0
 9780764526466,0
 9789577178350,"
 
@@ -5045,21 +4744,6 @@ Extreme Programming does not mean programming naked while rollerblading down the
 9789574662593,"
 
 市面上中文的資料結構書籍數量雖然不少，但是大部分書籍除了考試用書外，都偏重於程式的撰寫，而缺少對資料結構詳盡的說明，本書將以資料結構理論與程式實例並重，讓有心學習資料結構的讀者，能藉由本書了解資料結構的奧妙。
-                    
-"
-9780892818136,"
-
-The story of John Chang, the first man to be documented performing pyrokinesis, telekinesis, levitation, telepathy, and other paranormal abilities. - The author, a mechanical engineer, provides scientific explanations of how these powers work. - For the first time, the discipline of Mo-Pai is introduced to the West. In 1988 the documentary Ring of Fire was released to great acclaim. The most startling sequence in the film is that of a Chinese-Javanese acupuncturist who demonstrates his full mastery of the phenomenon of chi, or bio-energy, by generating an electrical current within his body, which he uses first to heal the filmmaker of an eye infection and then to set a newspaper on fire with his hand. Ring of Fire caused thousands to seek out this individual, John Chang, in pursuit of instruction. Of the many Westerners who have approached him, John Chang has accepted five as apprentices. Kosta Danaos is the second of those five. In his years of study with John Chang, Danaos has witnessed and experienced pyrokinesis, telekinesis, levitation, telepathy, and much more exotic phenomena. He has spoken with spirits and learned the secrets of reincarnation. Most important, he has learned John Chang's story. John Chang is the direct heir to the lineage of the sixth-century b.c. sage Mo-Tzu, who was Confucius's greatest rival. His discipline, called the Mo-Pai, is little-known in the West and has never before been the subject of a book. Now, John Chang has decided to bridge the gap between East and West by allowing a book to be published revealing the story of his life, his teachings, and his powers. It will surely expedite what may well become the greatest revolution of the twenty-first century--the verification and study of bio-energy.
-                    
-"
-9781602664142,"
-
-This amazing story of a life totally given over to God will teach you to see with spiritual eyes as you've never seen before. Be prepared to take a journey of wonder and joy as you learn how God can and will use you in your everyday life through the supernatural empowerment of the Holy Spirit. All it takes is a willing vessel-a vessel fit for a king! God revealed to Becki his call on her early on in life. Then she derailed into immorality, which led to a life of alcohol and drugs. Throughout this time her marriage suffered and she turned to God for help. Miraculously God delivered her then he transformed her life into a life of Glory unto God. See how God took her step-by-step in building a ministry. Becki, the Founder/President of Mighty God Ministries, has a weekly television program and two weekly services at a large community church in Fullerton, California. God has fully equipped Becki with the anointing of an Apostolic Ministry, which includes healings, miracles, angel visitations, signs and wonders, and teaching on the Holy Spirit. You will be encouraged and become sensitive to the Holy Spirit plus begin to see how God can use you in your own life To Become a Vessel of Glory Fit for the King.
-                    
-"
-9781602664135,"
-
-This amazing story of a life totally given over to God will teach you to see with spiritual eyes as you've never seen before. Be prepared to take a journey of wonder and joy as you learn how God can and will use you in your everyday life through the supernatural empowerment of the Holy Spirit. All it takes is a willing vessel-a vessel fit for a king! God revealed to Becki his call on her early on in life. Then she derailed into immorality, which led to a life of alcohol and drugs. Throughout this time her marriage suffered and she turned to God for help. Miraculously God delivered her then he transformed her life into a life of Glory unto God. See how God took her step-by-step in building a ministry. Becki, the Founder/President of Mighty God Ministries, has a weekly television program and two weekly services at a large community church in Fullerton, California. God has fully equipped Becki with the anointing of an Apostolic Ministry, which includes healings, miracles, angel visitations, signs and wonders, and teaching on the Holy Spirit. You will be encouraged and become sensitive to the Holy Spirit plus begin to see how God can use you in your own life To Become a Vessel of Glory Fit for the King.
                     
 "
 9781861004253,0
@@ -5420,7 +5104,6 @@ PART III　XML篇 是XML篇，在說明標註語言HTML，XML和CSS、XSL的演�
                     
 "
 9789572312070,0
-9781604190625,0
 9789570321937,"
 
 本書以最具親合力的Java Applet為起點，帶領您朝Java康莊大道邁進。具以下特點：
@@ -5431,6 +5114,7 @@ PART III　XML篇 是XML篇，在說明標註語言HTML，XML和CSS、XSL的演�
 
 "
 9789575273828,0
+9789574992379,0
 9789578247635,"
 
 《Java 學習手冊》介紹了 Java 最基礎的部份。本書深入探討了 Java 2 標準版，內容涵蓋初學者所需要知道的所有基礎知識，此外也包括當今最熱門的 Swing 與 JFC、用於簽署 applet 與其它 Java classes 的新工具，並示範如何設計網路用戶端與伺服端程式、servlet、JavaBeans、與新穎的使用者界面。
@@ -5438,7 +5122,6 @@ PART III　XML篇 是XML篇，在說明標註語言HTML，XML和CSS、XSL的演�
 
 "
 9781861004840,0
-9789574992379,0
 9789574994489,0
 9789574662128,0
 9789572311387,0
@@ -5587,12 +5270,12 @@ Enterprise Java Bean是網路上作為分散式交易(transaction)的元件，�
 Java在視窗環境設計技術上，具有很強大的功能，不過坊間圖書都太過專業，讓初學者不得其門而入，為此我們特別為JAVA SWING開闢七個章節，使用最簡單的方式，告訴您在Java中如何設計視窗環境介面，至於資料庫部分，坊間書籍對於中文資料處理方面根本就沒有提及，全部使用英文資料去處理，殊不知如果在Java存中文資料到資料庫裡，會有亂碼問題，我們除了教您如何處理無法使用中文資料的問題外，我們還教您如何取得安裝與使用MySQL，讓您一次完整學會。
                     
 "
+9789575663681,0
 9789574934140,"
 
 這是一本很容易學習為什麼以及如何使用Java的書籍 —— Java是卓越的網際網路程式語言 —— 書中涵蓋Java的核心概念，其中包括：物件導向程式設計(OOP)的基本概念、程式控制敘述、陣列、字串、方法、類別、物件以及套件。讀者也可以從書中了解例外處理、I/O系統、多執行緒程式設計以及applet的細節。此外，為了加快學習的腳步，所有的原始程式碼都放在網站上。
                     
 "
-9789575663681,0
 9789572311943,0
 9789575274030,0
 9789572223840,0
@@ -5718,7 +5401,6 @@ Design patterns have become a staple of object-oriented design and programming b
 9789574992683,0
 9789572232682,0
 9789575661830,0
-9780517704622,0
 9789577176738,"
 
 
@@ -5769,7 +5451,6 @@ Java Servlet AP
 9789577172655,0
 9789579641913,0
 9789576419140,0
-,0
 9789574991778,0
 9789575271169,0
 9789576529443,0
@@ -5812,13 +5493,11 @@ Java Servlet AP
 9789576418204,0
 9789572222614,0
 9789576529009,0
-9781882185610,0
 9789579862004,0
 9789572221723,0
 9789579625098,0
 9789579625081,0
 9789577171924,0
-9780728602175,0
 9789579896061,0
 9789579905510,0
 9789572222089,0
@@ -5837,4 +5516,3 @@ Java Servlet AP
 
 "
 ,0
-9789067650625,0

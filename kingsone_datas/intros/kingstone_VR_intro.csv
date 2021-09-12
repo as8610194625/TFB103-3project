@@ -1,0 +1,548 @@
+﻿ISBN,書籍簡介
+9789865466565,"
+
+本研究旨在開發體驗學習教育訓練工具，透過編撰做中學之職安教育活動，由沉浸式虛擬實境活動來強化危害認知與工安體感，使學員能矯正不安全態度及行為。
+                    
+"
+9780367491673,"
+
+Based on the technical accumulation and practice of Huawei iLab in the Cloud VR field, this book systematically describes the advantages of Cloud VR technologies; technical requirements on clouds, networks, and terminals as well as solution implementation; Cloud VR experience evaluation baselines and methods; and current business practices.  Cloud VR introduces cloud computing and cloud rendering to VR services. With fast and stable networks, cloud-based display output and audio output are coded, compressed, and transmitted to user terminals, implementing cloud-based VR service content and content rendering. Cloud VR has stringent requirements on bandwidth and latency, making it a proficient application for 5G and gigabit home broadband networks in the era of ""dual G"".  As the first advocate of Cloud VR, Huawei iLab developed the first prototype of the Cloud VR technical solution, initiated the industry's first Cloud VR industry cooperation plan - VR OpenLab with partners - and incubated the world's first Cloud VR commercial project with China Mobile Fujian. Cloud VR: Technology and Application is the first official publication of Huawei iLab's research and practice achievements. It systematically and thoroughly introduces the Cloud VR concept, solution architecture, key technologies, and business practices and is of great value in academic and social applications. This book is easy to understand, practical, and suitable for VR vendors, VR technology enthusiasts, carriers, network vendors, cloud service providers, universities, and other enterprises and scientific research institutes.
+                    
+"
+9789813365483,"
+
+This book constitutes selected and revised papers from the First International Conference on VR/AR and 3D Displays, ICVRD 2020, held in Hangzhou, China, in December 2020.The 12 full papers presented were thoroughly reviewed and selected from 29 submissions. The papers present recent serearch on virtual reality, augmented reality, 3D displays and related topics, including but not limited to human-computer interaction, near-eye displays, naked eye 3D displays, modeling, simulation, animation, and applications.
+                    
+"
+9781484263174,"
+
+Gain an in-depth knowledge in immersive web development to create augmented reality (AR) and virtual reality (VR) applications inside web browsers using WebXR API, WebGL, Three.js, and A-Frame. This project-based book will provide the practice and portfolio content to make the most of what the futures of spatial computing and immersive technology have to offer.Beginning with technical analysis of how web browsers function, the book covers programming languages such as WebGL, JavaScript, and HTML, with an eye on a complete understanding of the WebXR lifecycle. You'll then explore how contemporary web browsers work at the code level and see how to set up a local development server and use it with the Visual Studio Code IDE to create 3D animation in the WebGL programming language. With a familiarity of the web-rendering pipeline in place, you'll venture on to WebGL abstractions such as the Three.js JavaScript library and Mozilla's A-Frame XR Framework, which use WebXR to create high-end visual effects. In the final projects of the book, you'll create an augmented reality web session for an Android phone device, and create a VR scene in A-Frame (built on Three.js) to demo essential components of the WebXR API pertaining to user positioning and interaction.Game engines have become common-place for the creation of mixed reality content. However, developers not interested in learning entirely new workflows may be better suited to work within a medium almost universally open to all--the web; AR and VR Using the WebXR API will show you the way.What You'll LearnMaster the creation of virtual reality and augmented reality features for web pagePrepare to work as an immersive web developer with a portfolio of projects in sought-after technologiesReview the fundamentals of writing shaders in WebGLExperience the unity between client, server, and cloud architecture as it applies to location-based ARWho This Book Is ForAspiring immersive web developers and developers already familiar with the fundamentals of web development who want to further explore topics such as spatial computing, computer vision, spatial anchors, and cloud-computing for multi-user social experiences.
+                    
+"
+9781013270949,"
+
+This open access book constitutes the refereed proceedings of the First International Conference on VR Technologies in Cultural Heritage, VRTCH 2018, held in Brasov, Romania in May 2018. The 13 revised full papers along with the 5 short papers presented were carefully reviewed and selected from 21 submissions. The papers of this volume are organized in topical sections on data acquisition and modelling, visualization methods / audio, sensors and actuators, data management, restoration and digitization, cultural tourism. This work was published by Saint Philip Street Press pursuant to a Creative Commons license permitting commercial use. All rights not granted by the work's license are retained by the author or authors.
+                    
+"
+9781013270956,"
+
+This open access book constitutes the refereed proceedings of the First International Conference on VR Technologies in Cultural Heritage, VRTCH 2018, held in Brasov, Romania in May 2018. The 13 revised full papers along with the 5 short papers presented were carefully reviewed and selected from 21 submissions. The papers of this volume are organized in topical sections on data acquisition and modelling, visualization methods / audio, sensors and actuators, data management, restoration and digitization, cultural tourism. This work was published by Saint Philip Street Press pursuant to a Creative Commons license permitting commercial use. All rights not granted by the work's license are retained by the author or authors.
+                    
+"
+9781484260760,"
+
+Create assets for history-based games. This book covers the fundamental principles required to understand and create architectural visualizations of historical locations using digital tools. You will explore aspects of 3D design visualization and VR integration using industry-preferred software. Some of the most popular video games in recent years have historical settings (Age of Empires, Call of Duty, etc.). Creating these games requires creating historically accurate game assets. You will use Blender to create VR-ready assets by modeling and unwrapping them. And you will use Substance Painter to texture the assets that you create.You will also learn how to use the Quixel Megascans library to acquire and implement physically accurate materials in the scenes. Finally, you will import the assets into Unreal Engine 4 and recreate a VR integrated heritage that can be explored in real time. Using VR technology and game engines, you can digitally recreate historical settings for games. What You Will LearnCreate high-quality, optimized models suitable for any 3D game engineMaster the techniques of texturing assets using Substance Painter and Quixel MegascansKeep assets historically accurateIntegrate assets with the game engineCreate visualizations with Unreal Engine 4Who Is This Book ForGame developers with some experience who are eager to get into VR-based games
+
+"
+9789865223427,"
+
+V R 漫畫創作敘事技藝面向與創作方法概述本創作研究透過VR 案例分析與文獻探討，並結合VR 實作研究的創作驗證與發現，歸納出能強化VR 漫畫創作實境沉浸感與敘事移情感的六大敘事技藝。在營造實境沉浸感部分有三種技藝面向：（一）空間感技藝：創造出具有三維空間特性的VR 場景、環境、人物、道具及音效。（二）時間感技藝：運用連續性及示意性動作、重點式動態及具有改變敘事時間功能的轉場特效，使VR 作品產生線性的敘事時間與結構。（三）臨場感技藝：透過變換圖像的遠近、大小、外在景物變化、符合觀者視角的圖像與位置安排，產生前進、後退、轉身、下降等的行動感知；運用或結合運用空間感音效、視覺、觸覺感知模擬等互動回饋機制，達到滿足位置錯覺（PI）和合理性錯覺（PSI）的虛擬實境機制，強化觀者的臨場感受。在強化敘事移情感部分有三種技藝面向：（一）敘事性技藝：運用主觀敘事角度設計及角色心理時間的安排與置入，提高觀者的參與程度，強化敘事移情感受；透過運用客觀敘事角度及人物走位（運鏡）安排，以及ROI 觀看動線的引導技巧，讓觀者能充分理解敘事內容。（二）戲劇性技藝：以強化故事戲劇性效果與劇情張力為目的，所製作的舞台聲光特效、角色表演、互動設計與安排、人聲音效等。（三）娛樂性技藝：運用「假手道具」邀請觀者入戲，代入故事角色，切身體驗角色的經歷與心境感受；刻意設計出其不意的「近身感」橋段，可以營造觀看VR 作品的臨場震撼與刺激感，是VR 作品的獨特媒介敘事魅力；模擬互動（或使用VR 控制器結合軟體程式產生即時互動）能增添觀賞VR 漫畫的娛樂性感受，但前提是要能輔助而非干擾敘事的進行。
+                    
+"
+9789865552268,"
+
+
+	你是否曾在某個時刻懷疑過……
+	我們身處的空間，究竟是真實世界，還是虛擬世界？
+	我們的人生，有沒有可能其實只是宇宙中某個高智慧生物創造出來的實驗？
+	世界的改變軌跡，是否早已被某種程式寫好，一切只是遵循既定的法則在轉動？
+
+	☆ 隨著VR（虛擬實境）技術的發展，越來越多人擔心自己是電腦模擬出來的。《阿凡達》《全面啟動》《極光追殺令》《駭客任務》《異次元駭客》《啟動原始碼》等與虛擬實境有關的科幻片，分別從不同的角度詮釋了虛擬世界的真實存在及其暴露出來的一系列問題。
+
+	☆ 現在，VR風降臨，VR廠商異軍突起，VR產業朝氣蓬勃，創新、創造的浪潮正猛烈衝擊著人類世界的每一根神經！
+
+	★★★★★★★★★★★★★★★
+
+	商業模式全面盤點：一覽虛擬世界的中心！
+	VR產業細分解析：找到更好的經營地位！
+	產業趨勢深入探討：掌控未來正確方向！
+
+	趨勢來了，任何人都想抓住機會
+	然而盲目跟隨者往往損失慘重，唯有掌控者才能翱翔
+
+	人類之所以對虛擬實境趨之若鶩、欲罷不能，是因為虛擬世界似乎比現實世界更加完美一些。
+
+	在虛擬世界裡殘疾人可以成為健全的人，灰姑娘可以變成公主，懦夫可以變成英雄，平民可以變成明星，窮人可以變成億萬富豪……
+
+	然而，虛擬實境並非完美無瑕，VR作為一種新生事物，需要在真實世界中不斷驗證與創新，才能被消費者接受。
+
+	★★★★★★★★★★★★★★★
+
+本書特色
+
+	☆ 分別從資本推手、VR產業鏈、VR的商業模式、VR沉浸式體驗、VR變現和VR未來趨勢等六個方面，多層次解讀虛擬實境VR產業的起源、發展、分化蛻變和未來創新的軌跡，為廣大VR廠商、VR創業者、VR愛好者、科幻粉絲和廣大讀者呈現豐富多彩、精彩紛呈的VR世界。
+
+	☆ 透過有趣的故事案例，深入淺出闡述VR新秩序——虛擬實境的商業模式與產業趨勢。不論是VR遊戲化、VR大眾化、VR社交化、VR電商化，還是VR雲端化，VR的商業模式一直在不斷分化裂變，快速疊代。
+
+	未來，哪一種模式能成為VR新秩序的「領軍力量」，我們對此拭目以待！
+
+	★★★★★★★★★★★★★★★
+
+【關於虛擬實境】
+
+	1985年，杰倫·拉尼爾和湯姆·齊默爾曼等人合夥創建研究所，開始研發虛擬世界的各種技術。
+
+	「人才＋創意＋資本」的矽谷發展模式果然十分奏效，拉尼爾在數據手套的基礎上，發明了虛擬相機，還設計三維圖形電影，推動了網際網路朝著多維空間方向發展。
+
+	在研究期間，杰倫·拉尼爾首先提出了「虛擬實境」（Virtual Reality，VR）的概念，並做了明確闡述。
+
+	杰倫·拉尼爾指出，虛擬實境的內涵就是：綜合利用電腦圖形系統和各種現實及控制等設備，在電腦上生成的、可互動的三維環境中提供沉浸感覺的技術。　　
+
+	說白了，虛擬實境就是科學家們在現實世界中透過各種技術創造一個虛擬世界，讓人徹底沉浸到裡面去。
+
+	由於杰倫·拉尼爾首先提出並定義了虛擬實境，所以他被譽為虛擬實境之父。
+
+	虛擬實境這一概念被拋出來後，全球廠商各顯神通，紛紛展開虛擬實境的研發。不過，目前研發的虛擬實境技術大部分應用在娛樂、社交方面。這樣窄小的應用場景顯然是不夠的。
+
+	杰倫·拉尼爾希望虛擬實境技術能夠盡快在醫療上如手術建模、模擬解剖等方面應用起來，能夠做到真正造福人類。
+
+	人類需要網路、需要虛擬實境技術，但是絕不能淪為高科技的奴隸。
+
+	人類無法改變過去，但是未來是個未知數，具有可塑性，因此可以好好利用虛擬實境技術造福當下，也就等於創造了美好的未來。
+
+"
+9781568814407,0
+9789811348105,0
+9781484243596,"
+
+Apply the techniques needed to build VR applications for mobile and standalone head-mounted displays (HMDs) using the Unreal Engine. This book covers the entire VR ecosystem including production tools, Unreal engine, workflows, performance and optimization, and presents two fully-developed projects to reinforce what you've learned. Media designers, CG artists and other creatives will be able to take advantage of real-time engine techniques and easy-to-learn visual scripting logic to turn their creations into immersive and interactive VR worlds.Gear VR, the Oculus Go and other Android based VR HMDs are becoming exciting new platforms for immersive business presentations, entertainment and educational solutions. The Unreal engine, one of the world's most powerful and popular game engines, is now free to use and has become increasingly popular for real-time visualizations and enterprise solutions in recent years.With Unreal's powerful blueprint visual scripting system, non-coders can now design blueprints in Unreal, unlock the power of rapid prototyping, and create complex interactions without a line of code. Get your copy of Unreal for Mobile and Standalone VR today and begin using this powerful tool-set to create high-end VR apps for a wide range of applications from games, B2B, to education.What You'll LearnExplore the VR ecosystem, including history, recent trends and future outlookReview tool set, graphics and animation pipeline (Blender, Zbrush, Substance Painter and others)Examine graphics optimization techniquesSet up a project and the target platformDesign interaction with Unreal blueprintsDeployments, testing, further optimizationWho This Book Is For Multimedia designers, CG artists, producers, app developers. No coding experience is required.
+
+"
+9789863797487,"
+
+本書第一部分參考國內外一些技術資料，對虛擬實境的產品和技術發展進行簡短的回顧，並對近幾年業界的大事進行介紹，特別是對現在各個方向產品都有一個簡單介紹，足以開闊讀者眼界。第二部分主要介紹虛擬實境的核心技術點和產品設計上需要注意的事項，掌握理論基礎，不會做出「反人類」的體驗--讓人暈到想吐出膽汁。第三部分介紹必要的Unity基礎知識和數學知識，我們儘量讓這些非常重要的內容看起來不枯燥，避免影響在實戰中對一些實現細節的了解。實戰部分主要以Vive為例將各種類型的虛擬實境應用的開發過程進行說明，從目前盈利能力最強的觀光類體驗（可用在房地產等企業）到難度最大的多人連線遊戲，從體驗最好的Vive到入門級的Cardboard裝置開發，也包含少有的Oculus 產品的開發說明。此外，還以專章對虛擬實境中的綠幕技術說明。商品特色：這是一本VR實戰書籍，不但有相應的理論知識，還有翔實的實例。作者所在的奧秘團隊是HTC Vive第一屆內容大賽獲獎作品《畫境》的開發團隊。
+                    
+"
+9789864557714,"
+
+
+	1.Unity操作技巧的入門，資源取得與物件設置的綜合應用。
+
+	2.VR空間導覽、相片展示與立體藝術展覽的App實務學習。
+
+	3.使用步驟引導與觀念解說，結合微課程章節架構及實作，易讀易懂、短程學習、輕鬆成長。
+
+"
+9789863797319,"
+
+如果你曾經試過VR(Virtual Reality, 虛擬實境)，你一定會被那種進入奇幻世界的感覺所震撼。身為程式設計師一定會想知道這些真實感極強的VR遊戲是如何完成的！本書是最好的指導手冊！以HTC的產品為主，搭配C#語言開發，可以在短時間內成為VR大師。本書特色：● 從創意規畫草圖開始，用豐富的圖解說明遊戲製作流程● 詳解VR各種開發套件，掌握HTC Vive的基本配置● 介紹Unity 3D和Unreal 4虛擬雙引擎適用：遊戲開發人員、遊戲開發愛好者、軟體培訓機構以及相關科系的學生。
+                    
+"
+9789863797203,"
+
+
+ Unity3D基本概念、操作介面介紹
+  
+
+ 使用Vufoira、easyAR兩款擴增實境SDK，開發圖片識別顯示3D模型視訊應用
+
+  
+
+ 高德地圖定位、常用攝影機、聲音控制、伺服器端和使用者端通信等開發技巧
+
+  
+
+ Unity3D是由Unity Technologies公司開發的一款跨平台的遊戲企業軟體，能夠讓使用者輕鬆快速地建立互動遊戲、即時動畫等內容，並發佈到蘋果、Android等多個平台。因其良好的生態及廣泛的支援，使其在擴增實境開發上也獲得許多廠商的青睞。很多擴增實境提供商都提供了以Unity3D為基礎的SDK套件。
+
+  
+
+ 本書針對Unity3D的初學者，全書分為14章，詳細講解Unity3D的安裝、發佈、介面等主要功能，並深入介紹AR（擴增實境）、VR（虛擬實境）開發方法，以及地圖定位、攝影機、聲音播放等開發技巧，讓讀者瞭解到如何使用Unity3D製作AR\VR產品，快速進入Unity3D應用開發之門。可以透過本書快速地了解Unity3D以及擴增實境的基本概念和一些實例，並且快速地參照實例製作出擴增實境的作品。
+
+  
+
+ 適用：Unity3D的初學者、使用Unity3D平台開發AR\VR遊戲和應用的行動開發人員，或作為行動遊戲開發培訓機構教材。
+
+"
+9789864557707,"
+
+
+	產品特色：
+	1.單元式微課加上實作題，學一次AR擴增實境與VR虛擬實境就上手。
+	2.步驟式的編排方式讓您循序漸進學習。
+	3.清晰圖示的呈現讓您輕鬆學習無負擔。
+
+"
+9789863796275,"
+
+
+	這是一本VR實戰書籍，不但有相應的理論知識，還有翔實的實例。作者所在的奧秘團隊是 HTC Vive第一屆內容大賽獲獎作品《畫境》的開發團隊。
+
+	本書第一部分參考國內外一些技術資料，對虛擬實境的產品和技術發展進行簡短的回顧，並對近幾年業界的大事進行介紹，特別是對現在各個方向產品都有一個簡單介紹，足以開闊讀者眼界。第二部分主要介紹虛擬實境的核心技術點和產品設計上需要注意的事項，掌握理論基礎，不會做出「反人類」的體驗--讓人暈到想吐出膽汁。第三部分介紹必要的Unity基礎知識和數學知識，我們儘量讓這些非常重要的內容看起來不枯燥，避免影響在實戰中對一些實現細節的了解。實戰部分主要以Vive為例將各種類型的虛擬實境應用的開發過程進行說明，從目前盈利能力最強的觀光類體驗（可用在房地產等企業）到難度最大的多人連線遊戲，從體驗最好的Vive到入門級的Cardboard裝置開發，也包含少有的Oculus 產品的開發說明。此外，還以專章對虛擬實境中的綠幕技術說明。
+
+"
+9789864555123,"
+
+
+	1.單元式微課加上實作題，學一次AR擴增實境與VR虛擬實境就上手。
+	2.步驟式的編排方式讓您循序漸進學習。
+	3.清晰圖示的呈現讓您輕鬆學習無負擔。
+
+"
+9789863795476,"
+
+
+	VR（Virtual Reality，虛擬實境）這兩年成為熱門的話題，如果你曾經試過，你一定會愛上那種離開這個世界的真實感。目前VR大勢底定，三大公司分足鼎立，包括Oculus Rift、HTC Vive以及Playstation的產品最成熟也最穩定。在玩過許多真實感極強的VR遊戲之後，身為程式設計師的你，一定會想知道這些特效是如何完成的。
+
+	本書就是最好的指導手冊。以HTC的產品為主，加上使用C#語言的開發，讓你在短短的時間內，就可以成為VR的大師。
+
+	適用：遊戲開發人員、遊戲開發愛好者、軟體培訓機構以及電腦相關科系的學生。
+
+"
+9789863794929,"
+
+
+	本書以基礎+ 建模+ 渲染三樣合而為一的方式來進行撰寫，內容盡量以實務相關的定位來進行說明，又因其它國內書籍可以很輕易的找到不依照CAD 圖面來製作的建模方式與雙面建模的相關技巧，但目前國內大部份的公司還是利用CAD作其3DsMax 的基本底圖的方式來建模，因此改用與其它書籍比較不同的方式，說明CAD結合單面建模的技巧，最後並以當時最新的3DsMax 與V-ray 版本來撰寫，希望能給予讀者們更多於實務上與新版本功能上的幫助。
+
+"
+9789864555079,"
+
+
+	．市面上唯一完整介紹不同VR設備如何整合應用之書籍        
+	        
+	．由淺入深帶領讀者逐一熟悉VR開發所需各項技術，不會3D建模也能做出VR App與應用程式        
+	        
+	．超豐富VR設備實作範例，包含Google Cardboard VR App實例、3Glasses VR實例與HTC Vive VR實例，以及互動式週邊PS4手把及Leap Motion的設定與控制實例        
+	        
+	．額外加碼介紹Vuforia 擴增實境套件使用方法，VR/AR雙R應用一次學會        
+	        
+	．以虛擬數位藝廊實例完整介紹VR專案的開發流程，帶領讀者邁向專業的VR內容設計師        
+
+"
+9789864341320,"
+
+
+今年是VR/AR啟航的元年，世界級科技大廠無不競相投入
+
+
+	若想親身體驗VR，現在不必花大錢，本書內含價值
+	◎市價600元VROCK I
+	入門VR虛擬實境DIY第一台眼鏡，摺疊收納好方便！
+	◎價值無限的REALITEER紙板
+	VR控制手把DIY，讓你玩遊戲更加得心應手！
+
+	相關APP&影片：
+	◎VR遊戲
+	Google Play搜尋VR或Cardboard關鍵字
+	◎VROCK組裝說明DIY影片
+	◎VR影片- Youtube搜尋
+
+	本書紀錄了VR元年那些VR圈的人事物……
+	◎美國VR虛擬實境數位時代雜誌台灣分部-VR介紹
+	◎Oculus共同創辦人/Samsung GEAR/韓國VoleR創辦人-人工智能VR徐東壹
+	◎Yobi3D搜尋引擎-快速找到免費3D模型用VR瀏覽
+	◎免費3D軟體Belender在VR/AR/hologram的新應用
+	◎政府推動：數位內容辦公室/資策會/催生民間TAVAR協會成立
+	◎產業應用：遠揚科技/跨視界科技/數位宅妝
+	◎台灣之光!外銷歐美100%台灣設計生產製造VROCK摺疊VR眼鏡
+	◎前進矽谷!夢工廠台灣動畫師創辦REALITEER任何人都負擔的起的VR操作計畫
+	◎編輯精選谷歌VR Cradboard APP下載暢玩
+	◎獨立VR遊戲： MR接力棒遊戲創意/Qoobit Productions Inc./Futuretown
+
+	備註：
+	1.VROCK I代 VR眼鏡僅支援4.2-5.2吋大小手機
+	2.IPhone用戶請使用更新過的Youtube APP來看VR影片
+	3.如果您的手機沒有出現Cardboard選項，表示您的手機不支援Youtube的VR影片，但仍可使用VR相關的遊戲APP。
+
+"
+4712966621132,"
+
+
+【科技圈、投資圈最熱門的話題】
+科幻電影已經成為真實科技
+世界從此眼見為憑！
+
+
+	什麼叫「真」？如果你說「真」是你能感覺到的東西，你能聞到的氣味，你能嘗到的味道，那麼這個「真」就是激發你大腦產生化學反應的電子信號。——《駭客任務》（The Matrix，1999）
+
+關於虛擬實境（VR），本書給你最詳盡易懂的解答！
+
+	Q1：歷史上第一次出現「虛擬實境」概念是何時？什麼樣的概念？
+	A1：1932年，阿道斯•赫胥黎（Aldous  Huxley）的長篇小說《美麗新世界》（Brave New World）。
+	最早提出虛擬實境的概念，應該追溯到英格蘭作家阿道斯•赫胥黎1932年推出的長篇小說《美麗新世界》，書中提到「頭戴式設備可以為觀眾提供圖像、氣味、聲音等一系列的感官體驗，以便讓觀眾能夠更加沈浸在電影的世界中。」
+
+	Q2：歷史上第一位提出「虛擬實境」這個名詞的人是誰？
+	A2：「虛擬實境之父」莫頓•海力格（Morton Heilig）。
+	1960年，「虛擬實境之父」莫頓•海力格（Morton Heilig）提交過「Telesphere Mask」的專利申請文件。專利文件上的描述這個設備的用途是「用於個人使用的立體電視設備」。海力格的設備旨在吸引觀眾的感官，以提高他們的體驗，希望透過這個設備讓人們完全沈浸在電影的世界中。
+
+	Q3：歷史上第一個虛擬實境頭戴顯示器為何？
+	A3：伊凡•薩瑟蘭（Ivan Sutherland）的達摩克利斯之劍（The Sword of Damocles）。
+	1961年，伊凡•薩瑟蘭致力於創造「透過玻璃看到數學仙境」的虛擬和擴增實境系統「Headsight-頭部跟蹤技術」，將此技術與螢幕結合到頭盔理，並與閉路電視連接起來，稱為「達摩克利斯之劍」，被定義成人類歷史上第一台虛擬實境技術原型機。
+
+	Q4：AR、VR和MR怎麼區隔？
+	VR是純虛擬數字畫面（Pure Virtual Digital Image）。
+	AR虛擬數字畫面加上裸眼現實（Pure Virtual Digital Image + Naked-Eye Reality）。
+	MR是數字化現實加上虛擬數字畫面（Digital Reality + Pure Virtual Digital Image）。
+
+	Q5：第一款真正「商業化」的虛擬實境產品是？
+	A5：1993年推出的Sega 3D眼鏡。
+	Sega推出了全球第一款真正商業化的虛擬實境產品，這款眼鏡是為了搭配第四代Sega Master System而生產的周邊產品。
+
+	Q6：VR技術包含哪些項目？
+	A6：虛擬實境技術包括模擬環境、感知、自然技能和傳感設備等方面。
+	•模擬環境－由電腦生成的、即時動態的3D立體逼真圖像。
+	•感知－理想的虛擬實境應該具有一切人所具有的感知，也稱為多感知。
+	•自然技能－由電腦來處理與參與者的動作相對應的數據，並對用戶的輸入作出即時回應。
+	•傳感設備－目前的頭戴式顯示器HMD，其實僅完成了視覺模擬。但VR技術將很快地顛覆你我的生活模式。
+
+	Q7：為什麼現在全世界都在瘋VR？
+	A7：2014年Facebook以20 億美元收購Oculus ，矽谷大廠亦相繼投入戰局。
+	2016年Facebook的CEO馬克•祖克柏（Mark Zuckerberg）在巴塞隆那世界移動通信大會上演說時強調：「VR 將成為最熱門的社交平台，將是 5G 行動網路的殺手級應用。電子電腦的發展…應該讓人擁有置身其中的感覺。」因此，有媒體把2016年稱為「VR元年」，認為人類進入了一個全新的時代。
+
+	Q8：VR未來有可能影響的行業？
+	A8：未可限量。
+	科技業、遊戲業、影視業、出版業、教育業、醫療業、汽車業、房地產業、服務業等……VR未來尚未能定義，因為一切都在發展中，所有可能的想像都有可能參與其中。
+
+●全台第一本〡完整闡述VR的過去、現在與未來
+●錢途最光明〡VR大廠技術演進，最新商業範例
+●人人都該看〡打破物理限制，擁有更美好的生活體驗
+
+★科技人必看這本書！
+	Google顛覆了廣告，Youtube顛覆了電視，蘋果顛覆了手機，而Facebook這次想顛覆的整個科技業，甚至把人們帶到另外一個世界。泛科技業相關人員，無不緊密關切著VR市場的蓬勃發展！書中也公平分析每一款商品的優劣，比較各款設備的進程與功能：
+
+	售價較高但定位精準度也較高HTC Vive、與微軟合作的Oculus Rift價格相對較低、PSVR需外以 PlayStation 4 做為主機；Sumsung Gear VR須配合三星手機來使用；紙板做的Google Cardboard眼鏡，可自由搭配智慧型手機使用，走平民化低階路線…
+
+★一般人更該看的書！
+	虛擬實境不再侷限於遊戲娛樂領域，它將改寫你的旅遊經驗、醫療診治方式、探索太空、虛擬的真實社交、可觀看商品全像圖的購屋模式、絕對安全的汽車試駕、超科技主題樂園，顛覆當前的商品展示方式、業務模式和交易方式。未來我們可能會戴上眼鏡透過視網膜投射，跟人、服務、設備連接，不需要透過手機，而是透過視網膜溝通。所以每個人的生活，都將與VR相關，就像電腦和智慧型手機曾經改變大家的生活模式一樣。
+
+	科技永遠不斷進步，一眼瞬間，我們就站在科幻電影裡的未來，
+	從科幻到科技，再也沒有清楚的界定。
+	關鍵始終是人性、是市場商機、是無窮無盡的可能發展性。
+
+"
+9789869251457,"
+
+
+科幻電影已經成為真實科技
+
+世界從此眼見為憑！
+
+	 
+
+什麼叫「真」？如果你說「真」是你能感覺到的東西，你能聞到的氣味，你能嘗到的味道，那麼這個「真」就是激發你大腦產生化學反應的電子信號。——《駭客任務》（The Matrix，1999）
+
+	 
+
+關於虛擬實境（VR），本書給你最詳盡易懂的解答！
+
+	 
+
+Q1：歷史上第一次出現「虛擬實境」概念是何時？什麼樣的概念？
+
+	A1：1932年，阿道斯•赫胥黎（Aldous  Huxley）的長篇小說《美麗新世界》（Brave New World）。
+
+	最早提出虛擬實境的概念，應該追溯到英格蘭作家阿道斯•赫胥黎1932年推出的長篇小說《美麗新世界》，書中提到「頭戴式設備可以為觀眾提供圖像、氣味、聲音等一系列的感官體驗，以便讓觀眾能夠更加沈浸在電影的世界中。」
+
+	 
+
+Q2：歷史上第一位提出「虛擬實境」這個名詞的人是誰？
+
+	A2：「虛擬實境之父」莫頓•海力格（Morton Heilig）。
+
+	1960年，「虛擬實境之父」莫頓•海力格（Morton Heilig）提交過「Telesphere Mask」的專利申請文件。專利文件上的描述這個設備的用途是「用於個人使用的立體電視設備」。海力格的設備旨在吸引觀眾的感官，以提高他們的體驗，希望透過這個設備讓人們完全沈浸在電影的世界中。
+
+	 
+
+Q3：歷史上第一個虛擬實境頭戴顯示器為何？
+
+	A3：伊凡•薩瑟蘭（Ivan Sutherland）的達摩克利斯之劍（The Sword of Damocles）。
+
+	1961年，伊凡•薩瑟蘭致力於創造「透過玻璃看到數學仙境」的虛擬和擴增實境系統「Headsight-頭部跟蹤技術」，將此技術與螢幕結合到頭盔理，並與閉路電視連接起來，稱為「達摩克利斯之劍」，被定義成人類歷史上第一台虛擬實境技術原型機。
+
+	 
+
+Q4：AR、VR和MR怎麼區隔？
+
+	VR是純虛擬數字畫面（Pure Virtual Digital Image）。
+
+	AR虛擬數字畫面加上裸眼現實（Pure Virtual Digital Image + Naked-Eye Reality）。
+
+	MR是數字化現實加上虛擬數字畫面（Digital Reality + Pure Virtual Digital Image）。
+
+	 
+
+Q5：第一款真正「商業化」的虛擬實境產品是？
+
+	A5：1993年推出的Sega 3D眼鏡。
+
+	Sega推出了全球第一款真正商業化的虛擬實境產品，這款眼鏡是為了搭配第四代Sega Master System而生產的周邊產品。
+
+	 
+
+Q6：VR技術包含哪些項目？
+
+	A6：虛擬實境技術包括模擬環境、感知、自然技能和傳感設備等方面。
+
+	•模擬環境－由電腦生成的、即時動態的3D立體逼真圖像。
+
+	•感知－理想的虛擬實境應該具有一切人所具有的感知，也稱為多感知。
+
+	•自然技能－由電腦來處理與參與者的動作相對應的數據，並對用戶的輸入作出即時回應。
+
+	•傳感設備－目前的頭戴式顯示器HMD，其實僅完成了視覺模擬。但VR技術將很快地顛覆你我的生活模式。
+
+	 
+
+Q7：為什麼現在全世界都在瘋VR？
+
+	A7：2014年Facebook以20 億美元收購Oculus ，矽谷大廠亦相繼投入戰局。
+
+	2016年Facebook的CEO馬克•祖克柏（Mark Zuckerberg）在巴塞隆那世界移動通信大會上演說時強調：「VR 將成為最熱門的社交平台，將是 5G 行動網路的殺手級應用。電子電腦的發展…應該讓人擁有置身其中的感覺。」因此，有媒體把2016年稱為「VR元年」，認為人類進入了一個全新的時代。
+
+	 
+
+Q8：VR未來有可能影響的行業？
+
+	A8：未可限量。
+
+	科技業、遊戲業、影視業、出版業、教育業、醫療業、汽車業、房地產業、服務業等……VR未來尚未能定義，因為一切都在發展中，所有可能的想像都有可能參與其中。
+
+	 
+
+	l   全台第一本〡完整闡述VR的過去、現在與未來
+
+	 
+
+	l   錢途最光明〡VR大廠技術演進，最新商業範例
+
+	 
+
+	l   人人都該看〡打破物理限制，擁有更美好的生活體驗
+
+	 
+
+★科技人必看這本書！
+
+	Google顛覆了廣告，Youtube顛覆了電視，蘋果顛覆了手機，而Facebook這次想顛覆的整個科技業，甚至把人們帶到另外一個世界。泛科技業相關人員，無不緊密關切著VR市場的蓬勃發展！書中也公平分析每一款商品的優劣，比較各款設備的進程與功能：
+
+	售價較高但定位精準度也較高HTC Vive、與微軟合作的Oculus Rift價格相對較低、PSVR需外以 PlayStation 4 做為主機；Sumsung Gear VR須配合三星手機來使用；紙板做的Google Cardboard眼鏡，可自由搭配智慧型手機使用，走平民化低階路線…
+
+	 
+
+★一般人更該看的書！
+
+	虛擬實境不再侷限於遊戲娛樂領域，它將改寫你的旅遊經驗、醫療診治方式、探索太空、虛擬的真實社交、可觀看商品全像圖的購屋模式、絕對安全的汽車試駕、超科技主題樂園，顛覆當前的商品展示方式、業務模式和交易方式。未來我們可能會戴上眼鏡透過視網膜投射，跟人、服務、設備連接，不需要透過手機，而是透過視網膜溝通。所以每個人的生活，都將與VR相關，就像電腦和智慧型手機曾經改變大家的生活模式一樣。
+
+	 
+
+	科技永遠不斷進步，一眼瞬間，我們就站在科幻電影裡的未來，
+
+	從科幻到科技，再也沒有清楚的界定。
+
+	關鍵始終是人性、是市場商機、是無窮無盡的可能發展性。
+
+"
+,"
+
+
+今年是VR/AR啟航的元年，世界級科技大廠無不競相投入
+
+
+若想親身體驗VR，現在不必花大錢，本書內含價值
+	◎市價600元VROCK I
+	入門VR虛擬實境DIY第一台眼鏡，摺疊收納好方便！
+	◎價值無限的REALITEER紙板
+	VR控制手把DIY，讓你玩遊戲更加得心應手！
+
+相關APP&影片:
+	◎VR遊戲
+	Google Play搜尋VR或Cardboard關鍵字
+	◎VROCK組裝說明DIY影片
+	◎VR影片- Youtube搜尋
+
+本書紀錄了VR元年那些VR圈的人事物……
+	◎美國VR虛擬實境數位時代雜誌台灣分部-VR介紹
+	◎Oculus共同創辦人/Samsung GEAR/韓國VoleR創辦人-人工智能VR徐東壹
+	◎Yobi3D搜尋引擎-快速找到免費3D模型用VR瀏覽
+	◎免費3D軟體Belender在VR/AR/hologram的新應用
+	◎政府推動: 數位內容辦公室/資策會/催生民間TAVAR協會成立
+	◎產業應用: 遠揚科技/跨視界科技/數位宅妝
+	◎台灣之光!外銷歐美100%台灣設計生產製造VROCK摺疊VR眼鏡
+	◎前進矽谷!夢工廠台灣動畫師創辦REALITEER任何人都負擔的起的VR操作計畫
+	◎編輯精選谷歌VR Cradboard APP下載暢玩
+	◎獨立VR遊戲: MR接力棒遊戲創意/Qoobit Productions Inc./Futuretown
+
+備註:
+	1.VROCK I代 VR眼鏡僅支援4.2-5.2吋大小手機
+	2.IPhone用戶請使用更新過的Youtube APP來看VR影片
+	3.如果您的手機沒有出現Cardboard選項，表示您的手機不支援Youtube的VR影片，但仍可使用VR相關的遊戲APP。
+
+"
+9789863793700,"
+
+
+	本書透過對Unity 3D 整合式開發環境的架設，詳細介紹整合式開發環境的各個介面、指令稿的撰寫，以及開發過程中經常應用的技術和物件，最後還提供綜合案例。
+
+	也隨著該遊戲引擎的升級加入許多新內容，以滿足開發者的需求。讓讀者透過由淺入深、循序漸進的學習過程中，獲得意想不到的收穫。
+
+	書中所有的案例均是根據筆者多年的開發心得設計的，結構清晰便於讀者進行學習與參考。同時還列出很多筆者多年來累積的程式設計技巧以及心得，具有很高的參考價值。並提供書中所有案例的完整原始程式碼，能夠幫助讀者快速掌握開發技術。
+
+	適用： Unity3D 遊戲開發者、各平台的3D 開發人員、數位媒體藝術等專業者。
+
+"
+9789864341115,"
+
+
+今年是VR/AR啟航的元年，世界級科技大廠無不競相投入
+
+
+若想親身體驗VR，現在不必花大錢，本書內含價值
+	◎市價600元VROCK I
+	入門VR虛擬實境DIY第一台眼鏡，摺疊收納好方便！
+	◎價值無限的REALITEER紙板
+	VR控制手把DIY，讓你玩遊戲更加得心應手！
+
+相關APP&影片:
+	◎VR遊戲
+	Google Play搜尋VR或Cardboard關鍵字
+	◎VROCK組裝說明DIY影片
+	◎VR影片- Youtube搜尋
+
+本書紀錄了VR元年那些VR圈的人事物……
+	◎美國VR虛擬實境數位時代雜誌台灣分部-VR介紹
+	◎Oculus共同創辦人/Samsung GEAR/韓國VoleR創辦人-人工智能VR徐東壹
+	◎Yobi3D搜尋引擎-快速找到免費3D模型用VR瀏覽
+	◎免費3D軟體Belender在VR/AR/hologram的新應用
+	◎政府推動: 數位內容辦公室/資策會/催生民間TAVAR協會成立
+	◎產業應用: 遠揚科技/跨視界科技/數位宅妝
+	◎台灣之光!外銷歐美100%台灣設計生產製造VROCK摺疊VR眼鏡
+	◎前進矽谷!夢工廠台灣動畫師創辦REALITEER任何人都負擔的起的VR操作計畫
+	◎編輯精選谷歌VR Cradboard APP下載暢玩
+	◎獨立VR遊戲: MR接力棒遊戲創意/Qoobit Productions Inc./Futuretown
+
+備註:
+	1.VROCK I代 VR眼鏡僅支援4.2-5.2吋大小手機
+	2.IPhone用戶請使用更新過的Youtube APP來看VR影片
+	3.如果您的手機沒有出現Cardboard選項，表示您的手機不支援Youtube的VR影片，但仍可使用VR相關的遊戲APP。
+
+"
+9789864761258,"
+
+沉浸式體驗的開發指南 隨著虛擬實境愈來愈接近主流消費運用，過去數年來亦浮現活躍的開發生態。本書將帶領您了解桌面、行動與瀏覽器應用程式的VR開發流程。您將探索三種平台：Oculus VR、Gear VR與Cardboard VR，以及數種VR開發環境、程式工具以及技巧。 如果您是熟悉行動開發的經驗豐富程式設計師，本書清楚簡單的範例可以幫您了解VR開發的工作知識，晉身於新一代主流娛樂媒體之林。 ．學習UI設計、3D圖形以及立體繪圖等VR基礎 ．探索眾多遊戲引擎中最佳的開發選擇Unity3D ．建立搭配桌上電腦使用的Oculus Rift原生應用程式 ．運用Android與Oculus Mobile SDK為三星的Gear VR開發行動應用程式 ．運用WebVR Javascript API與WebGL建立瀏覽器應用程式。 ．建立可用於任何智慧型手機與Google Cardboard VR的簡單並可負擔的行動app ．結合所學建立360度全景照觀看器
+                    
+"
+9789863793533,"
+
+
+虛擬實境VR的科學，都來自深度視訊的原理
+
+
+	3D視訊能給觀看者帶來立體感和臨場感，在影視、動漫、科展等文化產業以及軍事、航空太空、醫療等專業領域的應用前景十分廣闊。
+
+	3D技術的類型很多，常隨應用目標的不同而異，無論是在技術、產品，還是市場應用，以深度為基礎的自由視點視訊技術都成為虛擬實境VR技術新的熱點方向。
+
+"
+9789862042595,"
+
+◎ 全面介紹Virtools基礎知識，引導讀者快速學習上手。◎ 實例說明3ds max輸出場景和角色動畫的設定方法。◎ 詳盡解說行為模組的運作和參數使用方式。◎ 精心規劃基礎實用的範例，涵蓋各種常見互動行為。◎ 各範例皆有完整的圖片和文字說明，按照步驟操作即可完成。◎ 各章節皆附有習題和解答，提供讀者進行自我評量。◎ 示範頂點色的使用方法，以及製作烘焙貼圖的完整流程。光碟內容：Virtools教學用投影片各章節素材範例檔案筆者獨立製作的遊戲
+                    
+"
+,0
+9789570474312,0
+9789575669737,"
+
+空間魔法師軟體〈Space Magician，3D/VR〉是國人自行研發成功的3D虛擬實境電腦繪圖軟體。其可任意遊走於3D虛擬空間。.伸縮自如的空間編輯。即時性材質變更。可預覽豐富資料庫。即時互動物件編修功能。自動導覽操控簡單。造價及數量估算。簡易光源調整。畫面儲存及展示。AutoCAD匯入作業。元件資料庫管理工具。空間領航員。以實用範例介紹，改善傳統式室內設計師以手繪平面規劃、透視圖、模型製作方式與業者溝通，費時費工，修改不易的困擾。它也是室內設計教學最佳工具，超強的3D虛擬介面，提供教師在室內設計、材料選配、色彩計劃、光源氣氛營造教學上即時虛擬實境效果。
+                    
+"
+9789575667436,0
+9789576418891,0
+9789577128898,0

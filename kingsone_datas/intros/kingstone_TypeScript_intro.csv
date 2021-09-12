@@ -1,0 +1,251 @@
+﻿ISBN,書籍簡介
+9781800563421,"
+
+A detailed and easy-to-follow guide to learning design patterns and modern best practices for improving your TypeScript development skillsKey Features: Understand, analyze, and develop classical design patterns in TypeScriptExplore advanced design patterns taken from functional programming and reactive programmingDiscover useful techniques and gotchas when developing large-scale TypeScript applicationsBook Description: TypeScript is a superset language on top of JavaScript that introduces type safety and enhanced developer tooling. TypeScript 4 Design Patterns and Best Practices will assist with understanding design patterns and learning best practices for producing scalable TypeScript applications. It will also serve as handy documentation for future maintainers.This book takes a hands-on approach to helping you get up and running with the implementation of TypeScript design patterns and associated methodologies for writing testable code. You'll start by exploring the practical aspects of TypeScript 4 and its new features. The book will then take you through traditional gang of four (GOF) design patterns, such as behavioral, creational, and structural in their classic and alternative forms, and show you how you can use them in real-world development projects. Once you've got to grips with traditional design patterns, you'll advance to learning about their functional programming and reactive programming counterparts and how they can be coupled to deliver better and more idiomatic TypeScript code.By the end of this TypeScript book, you'll be able to efficiently recognize when and how to use the right design patterns in any practical use case and gain the confidence to work on scalable and maintainable TypeScript projects of any size.What You Will Learn: Understand the role of design patterns and their significanceExplore all significant design patterns within the context of TypeScriptFind out how design patterns differ from design conceptsUnderstand how to put the principles of design patterns into practiceDiscover additional patterns that stem from functional and reactive programmingRecognize common gotchas and antipatterns when developing TypeScript applications and understand how to avoid themWho this book is for: If you're a developer looking to learn how to apply established design patterns to solve common programming problems instead of reinventing solutions, you'll find this book useful. You're not expected to have prior knowledge of design patterns. Basic TypeScript knowledge is all you need to get started with this book.
+                    
+"
+9781800564732,"
+
+Master the TypeScript language and its latest features, explore modern web application frameworks, and build modular systems using industry standard architectural principles and design patterns.Key Features: Explore TypeScript 4's key elements and advanced language featuresUse TypeScript with modern frameworks such as Angular, Vue, React, RxJS and NodeUnderstand TDD, serverless techniques, micro frontends, and other industry-standard best practices to create high-quality and modular appsBook Description: TypeScript is both a language and a set of tools to generate JavaScript. It was designed by Anders Hejlsberg at Microsoft to help developers write enterprise-scale JavaScript.Using a fast-paced, but easy-to-follow set of code samples, this fourth edition will get you up and running with Typescript quickly, introduce core concepts, and then build on this knowledge to understand, and then apply more advanced language features.Mastering TypeScript, Fourth Edition also covers a variety of modern JavaScript and TypeScript frameworks and compares their respective strengths and weaknesses. As you advance through this TypeScript book, you'll explore Angular, React, Vue, RxJs, Express, Node and others. You'll get up to speed with unit and integration testing, data transformation, serverless technologies, and asynchronous programming. You'll also learn how to integrate with existing JavaScript libraries, control your compiler options, and use decorators and generics.By the end of the book, you will have built a comprehensive set of web applications using Angular, React and Vue, finally integrating them into a single cohesive website, using micro frontend techniques. Mastering TypeScript, Fourth Edition is about learning the language, understanding when to apply its features, and then selecting the right framework that is the perfect fit for your real-world project.What You Will Learn:  Gain insights into core and advanced TypeScript language featuresIntegrate with existing JavaScript libraries and third-party frameworksBuild full working applications using JavaScript frameworks, such as Angular, React, Vue and moreCreate test suites for your application with Jest and SeleniumApply industry standard design patterns to build modular codeDevelop web server solutions using Node and ExpressDesign and implement serverless API solutionsExplore micro front-end technologies and techniquesWho this book is for: This book serves as a guide for beginners, as well as providing practical insights and techniques for experienced JavaScript and TypeScript programmers. No prior knowledge of JavaScript is required.If you are keen to learn TypeScript, this book will give you all the necessary knowledge and skills to tackle any TypeScript project. It will also give you an understanding of what application frameworks are out there, and which one to choose for your next project. If you are already an experienced JavaScript or TypeScript developer, then this book will take your skills to the next level.
+                    
+"
+9781484270103,"
+
+Learn the essentials and more of TypeScript, a popular superset of the JavaScript language that adds support for static typing. TypeScript combines the typing features of C# or Java with the flexibility of JavaScript, reducing typing errors and providing an easier path to JavaScript development.Author Adam Freeman explains how to get the most from TypeScript 4 in this second edition of his best-selling book. He begins by describing the TypeScript language and the benefits it offers and then shows you how to use TypeScript in real-world scenarios, including development with the DOM API, and popular frameworks such as Angular and React. He starts from the nuts-and-bolts and builds up to the most advanced and sophisticated features.Each topic is covered clearly and concisely, and is packed with the details you need to be effective. The most important features are given a no-nonsense, in-depth treatment and chapters include common problems and teach you how to avoid them. What You Will LearnGain a solid understanding of the TypeScript language and toolsUse TypeScript for client- and server-side developmentExtend and customize TypeScriptTest your TypeScript codeApply TypeScript with the DOM API, Angular, React, and Vue.js Who This Book Is ForJavaScript developers who want to use TypeScript to create client-side or server-side applications
+                    
+"
+9781839219931,"
+
+Discover the current landscape of full-stack development and how to leverage modern web technologies for building production-ready React.js applications to deploy on AWSKey Features: Understand the architecture of React and single-page applicationsBuild a modern Web API for your SPA using Node.js, Express, and GraphQLGain a clear and practical understanding of how to build a complete full-stack applicationBook Description: React sets the standard for building high-performance client-side web apps. Node.js is a scalable application server that is used in thousands of websites, while GraphQL is becoming the standard way for large websites to provide data and services to their users. Together, these technologies, when reinforced with the capabilities of TypeScript, provide a cutting-edge stack for complete web application development.This book takes a hands-on approach to implementing modern web technologies and the associated methodologies for building full-stack apps. You'll begin by gaining a strong understanding of TypeScript and how to use it to build high-quality web apps. The chapters that follow delve into client-side development with React using the new Hooks API and Redux. Next, you'll get to grips with server-side development with Express, including authentication with Redis-based sessions and accessing databases with TypeORM. The book will then show you how to use Apollo GraphQL to build web services for your full-stack app. Later, you'll learn how to build GraphQL schemas and integrate them with React using Hooks. Finally, you'll focus on how to deploy your application onto an NGINX server using the AWS cloud.By the end of this book, you'll be able to build and deploy complete high-performance web applications using React, Node, and GraphQL.What You Will Learn: Discover TypeScript's most important features and how they can be used to improve code quality and maintainabilityUnderstand what React Hooks are and how to build React apps using themImplement state management for your React app using ReduxSet up an Express project with TypeScript and GraphQL from scratchBuild a fully functional online forum app using React and GraphQLAdd authentication to your web app using RedisSave and retrieve data from a Postgres database using TypeORMConfigure NGINX on the AWS cloud to deploy and serve your appsWho This Book Is For: The book is for web developers who want to go beyond front-end web development and enter the world of full-stack web development by learning about modern web technologies and how they come together. A good understanding of JavaScript programming is required before getting started with this web development book.
+                    
+"
+9781484268391,"
+
+Create professional and progressive web apps with the native HTML API on the latest technology stack. This book describes the basics of web components and how to create them using plain JavaScript as well as how to make professional applications based on web components using TypeScript.Developing Web Components with TypeScript looks at APIs using examples, techniques, and tricks. You will start with a brief introduction to web components, including slots and templates, handling custom events, and styling components with or without shadow DOM. Then, it introduces TypeScript as part of the tool set. It shows the internal construction of a professional thin library. It also helps you learn how to deal with web components in real-life projects; this includes techniques such as creating a single-page app without framework code. All code samples used here are supported by all modern browsers for you to follow along. Library code and examples are available on GitHub.What You Will LearnCreate isolated web components using shadow DOM, slots, and templatesUnderstand the advantage of an enhanced toolset, especially TypeScript Pick up styles and customizationsMaster professional web apps using native APIsUnderstand the life cycle of a component Who This Book Is For Professional developers who want to move from desktop to web and away from fat frameworks to achieve their goal.
+
+"
+9789811480270,"
+
+Angular is one of the leading frameworks to develop apps across all platforms. Reuse your code and build fast and high performing apps for any platform be it web, mobile web, native mobile and native desktop. You use small manageable components to build a large powerful app. No more wasting time hunting for DOM nodes!In this book, we take you on a fun, hands-on and pragmatic journey to master Angular from a web development point of view. You'll start building Angular apps within minutes. Every section is written in a bite-sized manner and straight to the point as I don't want to waste your time (and most certainly mine) on the content you don't need. In the end, you will have what it takes to develop a real-life app.About the ReaderThis book is for developers with basic familiarity with HTML, CSS, Javascript and object-oriented programming. No TypeScript or AngularJS experience needed.About the AuthorGreg Lim is a technologist and author of several programming books. Greg has many years in teaching programming in tertiary institutions and he places special emphasis on learning by doing.Table of ContentsIntroductionCreating and Using ComponentsBindingsWorking with ComponentsConditional Rendering, Pipes and Ng-ContentTemplate Driven FormsModel Driven FormsIntroduction to ObservablesGetting Data From RESTful APIs with ObservablesRoutingStructuring Large Apps With ModulesC.R.U.D. with Firebase/FirestoreAuthentication with Firebase/FirestoreImplementing for Multiple Users
+                    
+"
+9789864345335,"
+
+
+一本記載了關於React開發生態圈的技術書籍
+
+不只說明應該下載哪些工具以及如何使用，更要你了解為何需要它
+
+	 
+
+◎清楚表達每個步驟或重點程式碼背後的意義
+
+◎從無到有開發，只需一台電腦就能一同探索React生態圈
+
+◎精選兩個實戰範例，不論是開發網站或發布元件到npm，皆一網打盡
+
+	 
+
+	本書內容改編自第11屆IT邦幫忙鐵人賽的ModernWeb組佳作網路系列文章《在React生態圈內打滾的一年feat.TypeScript》，有別於以往只告訴你用create-react-app快速建立React專案的教學，從最基本的Webpack、Babel配置開始，告訴你該如何依照需求建立適合自己的React專案，避免初學者陷入「知其然卻不知所以然」的情況。
+
+	 
+
+	除了基本的React專案之外，也介紹了如何為嘔心瀝血打造的元件撰寫單元測試，以及如何在React專案中導入TypeScript等技巧，讓你在開發上更無往不利。
+
+	 
+
+【四大重點】
+
+	 
+
+◎從頭開始了解React生態圈，明白工具為何存在
+
+	本書的一大重點是「先釐清問題後解決」，因為不論是ReactRouter、Redux、單元測試或TypeScript，每個工具的出現都有它的意義。在使用這些工具之前，必須先清楚知道它們幫助了你什麼，才能解決正確的問題。
+
+	 
+
+◎從Reactv16入門，直接以最新的Hooks開發
+
+	本書直接從Hooks學習React的元件開發，同時也考慮到React生態圈內其他套件對於Hooks的支援，除了展示套件的基本用法之外，也介紹了Hooks的寫法，讓你不會迷失在快速進化的前端技術之中。
+
+	 
+
+◎從「前端」角度介紹「單元測試」，替你的程式碼上道防護網
+
+	「思考單元測試的意義以及測試的方法」是本書的精華內容之一，本書從原生的JavaScript到React元件，介紹了各種情境以及測試案例的寫法，不斷帶出「究竟什麼樣的測試案例才是有價值的」，讓「單元測試」這個技能不再像是謎一般的存在。
+
+	 
+
+◎介紹如何導入TypeScript並運用，提升前端開發的守備範圍
+
+	近年來逐漸火熱的TypeScript，是由微軟所研發出來的新語言，本書將說明如何一步步將TypeScript導入至React專案，更重要的是釐清TypeScript可以在開發中發揮什麼幫助或解決什麼問題。
+
+	 
+
+"
+9789865024857,"
+
+「Effective TypeScript探討使用TypeScript時最常見的問題，並提出實用的、結果導向的建議。無論你的TypeScript經驗如何，都可以從本書學到一些東西。」 —Ryan Cavanaugh，微軟TypeScript工程主管 「本書滿載著實用的配方，每位專業的TypeScript開發者都必須把這本書放在桌上。即使你認為已經熟悉TypeScript了，買下這本書也絕對不會後悔。」 —Yakov Fain, Java Champion TypeScript是JavaScript的有型態(typed)超集合，可以解決許多令人頭痛的JavaScript問題。但是TypeScript有自成一格的學習曲線，你要投入許多時間與實際操作才能瞭解如何高效地使用。這本實用書籍採取Effective C++與Effective Java(皆為Addison-Wesley出版)風糜一時的寫法，提出62條具體建議，告訴你該做什麼，不該做什麼，以及如何看待這種語言。 Sidewalk Labs首席軟體工程師Dan Vanderkam會用具體的例子告訴你如何實際運用每一項建議。本書將協助你從TypeScript初學者，或知道TypeScript基本知識的中階使用者，晉升為活用這種語言的專家。 ‧學習TypeScript型態系統的細節 ‧設計可讓程式更安全且更易懂的型態 ‧使用型態推斷，用最少的型態註解取得百分之百的安全 ‧有策略地使用各種型態 ‧瞭解TypeScript的依賴項目與型態宣告檔案如何運作 ‧將JavaScript基礎程式成功地遷移至TypeScript
+                    
+"
+9781492053743,"
+
+TypeScript is a typed superset of JavaScript with the potential to solve many of the headaches for which JavaScript is famous. But TypeScript has a learning curve of its own, and understanding how to use it effectively can take time. This book guides you through 62 specific ways to improve your use of TypeScript.Author Dan Vanderkam, a principal software engineer at Sidewalk Labs, shows you how to apply these ideas, following the format popularized by Effective C++ and Effective Java (both from Addison-Wesley). You'll advance from a beginning or intermediate user familiar with the basics to an advanced user who knows how to use the language well.Effective TypeScript is divided into eight chapters: Getting to Know TypeScriptTypeScript's Type SystemType InferenceType DesignWorking with anyTypes Declarations and @typesWriting and Running Your CodeMigrating to TypeScript
+                    
+"
+9781973593799,"
+
+*Updated to Angular 9! Angular is one of the leading frameworks to develop apps across all platforms. Reuse your code and build fast and high performing apps for any platform be it web, mobile web, native mobile and native desktop. You use small manageable components to build a large powerful app. No more wasting time hunting for DOM nodes! In this book, we take you on a fun, hands-on and pragmatic journey to master Angular from a web development point of view. You'll start building Angular apps within minutes. Every section is written in a bite-sized manner and straight to the point as I don't want to waste your time (and most certainly mine) on the content you don't need. In the end, you will have what it takes to develop a real-life app. About the Reader This book is for developers with basic familiarity with HTML, CSS, Javascript and object-oriented programming. No TypeScript or AngularJS experience needed. About the Author Greg Lim is a technologist and author of several programming books. Greg has many years in teaching programming in tertiary institutions and he places special emphasis on learning by doing. Table of Contents  Introduction Creating and Using Components Bindings Working with Components Conditional Rendering, Pipes and Ng-Content Template Driven Forms Model Driven Forms Introduction to Observables Getting Data From RESTful APIs with Observables Routing Structuring Large Apps With Modules C.R.U.D. with Firebase Authentication with Firebase
+                    
+"
+9781484249789,"
+
+Work with Typescript and get the most from this versatile open source language. Author Adam Freeman begins this book by describing Typescript and the benefits it offers, and goes on to show you how to use TypeScript in realistic scenarios, going in-depth to give you the knowledge you need. Starting from the nuts-and-bolts and building up to the most advanced and sophisticated features, you will learn how TypeScript builds on the JavaScript type system to create a safer and more productive development experience and understand how TypeScript can be used to create applications using popular frameworks, including Node.js, Angular, React, and Vue.js.Each topic is covered clearly and concisely and is packed with the details you need to learn to be truly effective. The most important features are given a no-nonsense in-depth treatment and chapters include common problems and details of how to avoid them.What You Will LearnGain a solid understanding of the TypeScript language and toolsUse TypeScript for client- and server-side developmentExtend and customize TypeScriptDebug and unit test your TypeScript codeWho This Book Is ForDevelopers who want to start using TypeScript, for example to create rich web applications using Angular, React, or Vue.js Adam Freeman is an experienced IT professional who has held senior positions in a range of companies, most recently serving as chief technology officer and chief operating officer of a global bank. Now retired, he spends his time writing and long-distance running.
+
+"
+9789865024031,"
+
+創造應用程式規模的JavaScript 「如果你想要深入學習TypeScript，找這本書就對了。《TypeScript程式設計》展示了在JavaScript之上使用型別系統的所有好處，並提供深刻的見解幫助你精通此語言。」 —Minko Gechev 工程師，Google Angular團隊 「《TypeScript程式設計》讓我快速且有效地了解TypeScript工具鏈和整個生態系統。我有過的每個使用問題都被簡潔有力的實務案例所解答了。「進階型別」那一章分析了我常感到疑惑的術語，並展示如何運用TypeScript創造極度安全但用起來依然令人愉悅的程式碼。」 —Sean Grove OneGraph共同創始人 使用動態型別語言的程式設計師都會告訴你，要將程式規模擴展為更多行的程式碼並由更多工程師維護，有多麼困難。那就是Facebook、Google和Microsoft為他們動態型別的JavaScript和Python程式碼發明逐步靜態型別層的原因。這本實務的書籍會向你展示，這種型別層之一的TypeScript是其中獨一無二的佼佼者：它會以其強大的靜態型別系統來讓程式設計變得有趣。 如果你是具有中等JavaScript經驗的程式設計師，作者Boris Cherny會教授你如何精通TypeScript語言。你會學到TypeScript如何能幫助你消除程式碼中的臭蟲，並讓你更輕易將程式碼的規模拓展，讓更多工程師維護。 在本書中，你會： ‧從基礎開始：學習TypeScript不同的型別和型別運算子，包括它們的用途，以及如何使用 ‧探索進階主題：了解TypeScript精密的型別系統，包括如何安全地處理錯誤，以及建置非同步的程式 ‧實際動手做：並用你最愛的前端和後端框架與TypeScript，將你既有的JavaScript專案遷移至TypeScript，並且讓你的應用程式正式上線執行
+                    
+"
+9789864344895,"
+
+
+♛ 全台第一本屬於自己的 TypeScript ！！！♛
+
+	 
+
+	別於一般程式聖經書的冗贅 ── 沒有廢話！
+
+	只給你必用、實用、好用的 Feature！
+	 
+
+	➔ 以精細角度剖析 TypeScript 語言性質與特色
+
+	➔ 以最高效率介紹 TypeScript 必學基礎與技巧
+
+	➔ 以眾多範例展示 TypeScript 撰寫方式與手法
+
+	 
+
+	本書內容改編自第 11 屆 iT邦幫忙鐵人賽， Modern Web 組冠軍網路系列文章──《讓 TypeScript 成為你全端開發的 ACE！》── 除了是單純入門 TypeScript 語言的技術書籍外，也是第一本屬於台灣本土的 TypeScript 專書；由微軟（Microsoft）研發出的 TypeScript，為近年來逐漸熱門的技術，是軟體社群上擁有眾多廠商與開發者青睞的前、後端開發工具，本書旨在介紹 TypeScript 這門語言的使用方法與技巧。
+
+	 
+
+四大重點
+
+	 
+
+	➣ 漸進式型別系統：原始、物件、泛用與常用進階型別等。
+
+	本書一大重點在於型別系統的重要性以及使用方式；除此之外，可以從型別系統來認識一門語言的特性、運作過程、效果與細節，對於程式語言本身的設計會有更深層的理解。
+
+	 
+
+	➣ TypeScript 高效技巧：除錯、規格查詢、結合 JavaScript 專案的方法。
+
+	好的 TypeScript 程式碼除了可以提升開發效率外，除錯（Debug）的痛苦程度會大大的降低；並且也會介紹原生 JavaScript 專案是如何不需全部重寫成 TypeScript 就可以結合 TypeScript 專案的秘密。
+
+	 
+
+	➣ 標準物件導向程式設計入門：類別、介面、 SOLID 原則。
+
+	TypeScript 對於物件導向程式設計方面的語法支援完備度較現階段的 JavaScript 以及 ECMAScript 標準高，因此讀者可以藉由 TypeScript 學習到物件導向程式設計的觀念。
+
+	 
+
+	➣ TypeScript & ECMAScript：語法糖的使用、非同步程式設計。
+
+	本書不僅會討論到 JavaScript、ECMAScript 以及 TypeScript 之間的關係，並且也會介紹在 TypeScript 使用 ECMAScript 標準語法時需要注意的事項。
+
+	 
+
+好評推薦
+
+	 
+
+	「很開心看到這次 Max 參加第11屆iT邦幫忙鐵人賽冠軍的大作《讓 TypeScript 成為你全端開發的 ACE！》能夠付梓出版，除了為台灣本土資訊業界帶來一注活水，裡頭滿滿的範例以及各種貼心的小提示，手把手帶領讀者學習 TypeScript，相信一定不會讓你失望。」────Kuro　Vue.js Taiwan 社群主辦人／《 0 陷阱！0 誤解！8 天重新認識 JavaScript！》作者
+
+	 
+
+"
+,"
+
+
+♛ 全台第一本屬於自己的 TypeScript ！！！♛
+
+	 
+
+	別於一般程式聖經書的冗贅 ── 沒有廢話！
+
+	只給你必用、實用、好用的 Feature！
+	 
+
+	➔ 以精細角度剖析 TypeScript 語言性質與特色
+
+	➔ 以最高效率介紹 TypeScript 必學基礎與技巧
+
+	➔ 以眾多範例展示 TypeScript 撰寫方式與手法
+
+	 
+
+	本書內容改編自第 11 屆 iT邦幫忙鐵人賽， Modern Web 組冠軍網路系列文章──《讓 TypeScript 成為你全端開發的 ACE！》── 除了是單純入門 TypeScript 語言的技術書籍外，也是第一本屬於台灣本土的 TypeScript 專書；由微軟（Microsoft）研發出的 TypeScript，為近年來逐漸熱門的技術，是軟體社群上擁有眾多廠商與開發者青睞的前、後端開發工具，本書旨在介紹 TypeScript 這門語言的使用方法與技巧。
+
+	 
+
+四大重點
+
+	 
+
+	➣ 漸進式型別系統：原始、物件、泛用與常用進階型別等。
+
+	本書一大重點在於型別系統的重要性以及使用方式；除此之外，可以從型別系統來認識一門語言的特性、運作過程、效果與細節，對於程式語言本身的設計會有更深層的理解。
+
+	 
+
+	➣ TypeScript 高效技巧：除錯、規格查詢、結合 JavaScript 專案的方法。
+
+	好的 TypeScript 程式碼除了可以提升開發效率外，除錯（Debug）的痛苦程度會大大的降低；並且也會介紹原生 JavaScript 專案是如何不需全部重寫成 TypeScript 就可以結合 TypeScript 專案的秘密。
+
+	 
+
+	➣ 標準物件導向程式設計入門：類別、介面、 SOLID 原則。
+
+	TypeScript 對於物件導向程式設計方面的語法支援完備度較現階段的 JavaScript 以及 ECMAScript 標準高，因此讀者可以藉由 TypeScript 學習到物件導向程式設計的觀念。
+
+	 
+
+	➣ TypeScript & ECMAScript：語法糖的使用、非同步程式設計。
+
+	本書不僅會討論到 JavaScript、ECMAScript 以及 TypeScript 之間的關係，並且也會介紹在 TypeScript 使用 ECMAScript 標準語法時需要注意的事項。
+
+	 
+
+好評推薦
+
+	 
+
+	「很開心看到這次 Max 參加第11屆iT邦幫忙鐵人賽冠軍的大作《讓 TypeScript 成為你全端開發的 ACE！》能夠付梓出版，除了為台灣本土資訊業界帶來一注活水，裡頭滿滿的範例以及各種貼心的小提示，手把手帶領讀者學習 TypeScript，相信一定不會讓你失望。」────Kuro　Vue.js Taiwan 社群主辦人／《 0 陷阱！0 誤解！8 天重新認識 JavaScript！》作者
+
+	 
+
+"
+9781492037651,"
+
+Any programmer working with a dynamically typed language will tell you how hard it is to scale to more lines of code and more engineers. That's why Facebook, Google, and Microsoft invented gradual static type layers for their dynamically typed JavaScript and Python code. This practical book shows you how one such type layer, TypeScript, is unique among them: it makes programming fun with its powerful static type system.If you're a programmer with intermediate JavaScript experience, author Boris Cherny will teach you how to master the TypeScript language. You'll understand how TypeScript can help you eliminate bugs in your code and enable you to scale your code across more engineers than you could before.In this book, you'll: Start with the basics:  Learn about TypeScript's different types and type operators, including what they're for and how they're usedExplore advanced topics:  Understand TypeScript's sophisticated type system, including how to safely handle errors and build asynchronous programsDive in hands-on:  Use TypeScript with your favorite frontend and backend frameworks, migrate your existing JavaScript project to TypeScript, and run your TypeScript application in production
+                    
+"
+9781542916677,0
+9780134218380,0
+9781509300686,0
+9781617293122,"
+
+Summary Angular 2 Development with Typescript teaches you what you need to start using Angular, while you also learn TypeScript and how to take advantage of its benefits. Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. About the Technology Whether you're building web clients or full-featured SPAs, using the Angular 2 web framework is a liberating experience. Its declarative style makes it easy to define and add features without a lot of manually written boilerplate, and the fully integrated TypeScript language gives you the benefits of a statically typed language within the JavaScript ecosystem. Not to mention that adding Angular 2 and TypeScript to your skill set makes you a hot commodity. About the Book Angular 2 Development with Typescript introduces Angular 2 to developers comfortable using AngularJS v1 or other web frameworks. You'll start by exploring how Angular 2 works in an online auction application. Along the way, you'll learn to use TypeScript to write type-aware classes, interfaces, and generics. This is a practical book that covers real-world development concerns like data and views, user interaction with forms, and communicating with servers, as well as testing and deploying your Angular 2 applications. What's Inside Design and build modular applicationsTranspile TypeScript into today's JavaScriptUse modern JavaScript workflow tools like npm, Karma, and WebpackAbout the Reader This book is for intermediate web developers with a working knowledge of JavaScript. No TypeScript or AngularJS experience needed. About the Author Yakov Fain and Anton Moiseev are experienced web application developers. Yakov has written several books on software development. Table of Contents Introducing Angular 2Getting started with AngularNavigation with the Angular routerDependency injectionBindings, observables, and pipesImplementing component communicationsWorking with formsInteracting with servers using HTTP and WebSocketsUnit-testing Angular applicationsBundling and deploying applications with Webpack
+                    
+"
+9781484257371,"
+
+Explore what React, Node, TypeScript, Webpack, and Docker have to offer individually, and how they all fit together in modern app development. React is one of the most popular web development tools available today, and Node.js is extremely popular for server-side development. The fact that both utilize JavaScript is a big selling point, but as developers use the language more, they begin to recognize the shortcomings, and that's where TypeScript comes in and why it's gaining in popularity quickly. Add Webpack and Docker to the mix, and you've got a potent full development stack on which to build applications.You'll begin by building a solid foundation of knowledge and quickly expand it by constructing two different real-world apps. These aren't just simple, contrived examples but real apps that you can choose to install on your servers and use for real. By the end, you will have a solid grasp of building apps with React, Node.js, and TypeScript and a good grasp on how Webpack can be used to optimize and organize your code for deployment. You'll also understand how Docker can be used to run the apps you build in a clear and well-defined way, all of which will be able to springboard you into creating more advanced apps on your own. What You'll Learn Get a project started and logically structure itConstruct a user interface with React and Material-UI Use WebSockets for real-time communication between client and serverBuild a REST API with Node and Express as another approach to client-server communicationPackage the app with Webpack for optimized deliveryTake a completed app and wrap it up with Docker for easy distributionReview a host of other ancillary topics including NPM, Semantic versioning, Babel, NoSQL, and more Who This Book Is For Web developers with basic knowledge of HTML, JavaScript, CSS, and CLI tools who are interested in and in all aspects of application development, and using TypeScript instead of straight JavaScript.
+                    
+"
+9781430267911,0

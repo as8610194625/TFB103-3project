@@ -1,0 +1,558 @@
+﻿ISBN,書籍簡介
+9789860776188,"
+
+
+React開發應具備的軟體設計思維
+	React hook使用方式
+	從0開始打造React hook + Redux專案
+	React的進階知識
+
+
+	React是一個上下限都很大的框架，如果能善用React提供的API，專案架構會很明確，資料邏輯和UI元件更能以易理解的方式重複利用。
+
+	本書分為四個部分，包含開始前應具備的基礎思維、React hook使用方式、範例與進階知識(含class compo-nent)。
+
+	本書是已有原生Javascript前端開發經驗、初次想要接觸前端框架讀者的最佳React入門指引。
+
+	全書共9章，內容如下
+	■ 第0章  先備知識 – 使用React 需要知道的Javascript
+	■ 第1章  什麼是「前端框架」？
+	■ 第2章  認識React 和環境建置
+	■ 第3章  Hello, React !
+	■ 第4章  基礎Function Component
+	■ 第5章  React-Developer-Tools
+	■ 第6章  Flux 結構 與 React 的狀態管理方案
+	■ 第7章  前端專案的架構設計
+	■ 第8章  React 進階 - 效能處理
+	■ 第9章  React 進階 – 其他的React
+
+	本書的目標除了讓初次接觸前端框架的讀者能夠更容易理解React，也介紹了在以React開發專案時，應該具備哪些基礎的「軟體設計」思維。第2~第7章節是講解React API使用方式，第7章後的範例會帶領讀者從0打造React專案，第8章~第9章是講述較進階的React知識。讀者可以根據自己的需求查閱對應的章節。
+
+"
+9781736574706,"
+
+Learn to create responsive front-end web applications in Python using the React and Material-UI JavaScript libraries without having to program in JavaScript! How is this possible? By using the Transcrypt transpiler that turns your Python code into JavaScript.Let's face it, JavaScript is the way of the web, and Python doesn't run in a web browser. BUT, just like the popular TypeScript language that gets compiled into JavaScript to run in a web browser, Transcrypt does the same thing for Python. Because of the way Transcrypt maps Python data types and language constructs to JavaScript, your Python code is able to directly utilize the full ecosystem of JavaScript libraries that exist, taking advantage of existing web application technologies rather than trying to replace them.Using a Python-centric viewpoint, this book outlines the developer tools and software libraries needed to develop front-end web applications with Python, specifically focusing on the popular React library and open-source Material-UI library that includes a collection of React components based on Google's Material Design user interface specification. In addition to chapters covering how to implement specific application features, in a learn-by-doing fashion, the last section of the book walks you through building a fully functional example application from start to finish, giving you an idea of how everything fits together.While this book isn't necessarily meant for beginning programmers, if you are already familiar with Python and want to create front-end web applications but don't want to have to delve into the complexities of a full JavaScript ecosystem, don't want to have to keep switching back and forth between languages for the same full-stack application, or if you just don't care to program in JavaScript in general, the approach taken in this book gives you another option using Python.
+
+"
+9781484269718,"
+
+Learn to use accelerated test-driven development (TDD) to build a React application from scratch. This book explains how your React components will be integrated, and how to refactor code to make it more concise and flexible. With TDD you can develop a robust test suite to catch bugs, and develop modular, flexible code. Applying your understanding of how HTML, CSS, and JavaScript work in the browser you'll build a web application called Bookish using TDD and mainstream React stack technologies such as React, React-router, and Redux. Using higher code quality you'll be able to write executable documentation using Cucumber. This is just one of many essentials in maintaining a practical TDD workflow in your daily workload. Test-Driven Development with React highlights best practices and design patterns that will enable you to write more maintainable and reusable React components. What You'll Learn  Manage your application's state using ReduxEmploy professional techniques for backend servicesUse Cypress as an end-to-end testing frameworkUtilize React-testing-library for unit and integration tests  Who This Book Is For Ideal for web application developers who wants to learn how to write high quality code using Test-Driven Development.
+                    
+"
+9781492085843,"
+
+React helps you create and work on an app in just a few minutes. But learning how to put all the pieces together is hard. How do you validate a form? Or implement a complex multistep user action without writing messy code? How do you test your code? Make it reusable? Wire it to a backend? Keep it easy to understand? The React Cookbook delivers answers fast.Many books teach you how to get started, understand the framework, or use a component library with React, but very few provide examples to help you solve particular problems. This easy-to-use cookbook includes the example code developers need to unravel the most common problems when using React, categorized by topic area and problem.You'll learn how to: Build a single-page application in React using a rich UICreate progressive web applications that users can install and work with offlineIntegrate with backend services such as REST and GraphQLAutomatically test for accessibility problems in your applicationSecure applications with fingerprints and security tokens using WebAuthnDeal with bugs and avoid common functional and performance problems
+                    
+"
+9789865027568,"
+
+建構現代的React應用 「這是前端社群期盼已久的React專書。Alex與Eve不只深入討論了React的運作原理，還涵蓋了諸如JavaScript中的函式導向程式設計、測試除錯、狀態管理等等重要主題。此外，本書的解說不只平易近人，亦夾雜了作者的幽默筆法。我願意毫無保留地推薦這本書。」 -Emma Bostian Spotify軟體工程師 本書將傳授您如何建構高效能的React應用。我們預設的讀者是那些已經掌握了JavaScript、CSS與HTML基礎知識，但卻未必了解React與函式導向JavaScript的網頁工程師。換言之，即使您尚未使用過React，也能從本書中得到充分指引，熟悉當代最佳化的React實作模式。 在作者Alex Banks與Eve Procello的知識地圖中，讀者將學習到如何使用React建構起一個無需時時刷新頁面、資料驅動導向且兼具動態與高效能的使用者介面。此外，讀者也將理解到函式導向程式設計原理，以及最新ECMAScript語法功能。 一旦掌握了本書所傳授的實務技巧，您將會讚嘆React能為專案帶來的巨大貢獻。 本書的學習目標包含： ‧了解函式導向程式設計的理念，並透過JavaScript實作 ‧了解React在瀏覽器中的運作原理 ‧透過React元件建構起應用的表現層 ‧妥善管理應用中的數據流動，並有效除錯 ‧使用React的Hook機制管理狀態與存取資料 ‧使用React的Router機制優化一頁式網頁應用 ‧結合伺服器端的功能強化React應用
+                    
+"
+9781484270516,"
+
+Integrate D3.js into a React TypeScript project and create a chart component working in harmony with React. This book will show you how utilize D3 with React to bring life to your charts.Seasoned author Elad Elrom will show you how to create simple charts such as line, bar, donut, scatter, histogram and others, and advanced charts such as a world map and force charts. You'll also learn to share the data across your components and charts using React Recoil state management. Then integrate third-party chart libraries that are built on D3 such as Rechart, Visx, Nivo, React-vi, and Victory and in the end deploy your chart as a server or serverless app on popular platforms. React and D3 are two of the most popular frameworks in their respective areas - learn to bring them together and take your storytelling to the next level. What You'll Learn Set up your project with React, TypeScript and D3.jsCreate simple and advanced D3.js chartsWork with complex charts such as world and force chartsIntegrate D3 data with React state management Improve the performance of your D3 componentsDeploy as a server or serverless app and debug test Who This Book Is ForReaders that already have basic knowledge of React, HTML, CSS and JavaScript.
+
+"
+9781492051466,"
+
+Hit the ground running with React, the open-source technology from Facebook for building rich web applications fast. With the second edition of this practical guide, Stoyan Stefanov--designer of the YSlow 2.0 performance tool--shows you how to build React components and organize them into maintainable, large-scale apps. If you're familiar with basic JavaScript syntax, you're ready to get started.Through the course of the book, web developers and programmers will build a complete custom app that lets you store data on the client. You'll quickly learn why some developers consider React the key to the web app development puzzle.
+                    
+"
+9781800206168,"
+
+Build fully functional, cloud-ready, and professional web applications using the latest features in the .NET 5 framework and React.js with Microsoft AzureKey FeaturesExplore the new features of .NET 5 with this updated edition of ASP.NET Core 53 and ReactDiscover strategies for adopting a full-stack development approach, clean architecture techniques, and development best practicesLearn how to manage data, design and package applications, and secure your web appsBook DescriptionMicrosoft's .NET framework is a robust server-side framework, now even more powerful thanks to the recent unification of the Microsoft ecosystem with the .NET 5 framework. This updated second edition addresses these changes in the .NET framework and the latest release of React.The book starts by taking you through React and TypeScript components for building an intuitive single-page application and then shows you how to design scalable REST APIs that can integrate with a React-based frontend. Next, you'll get to grips with the latest features, popular patterns, and tools available in the React ecosystem, including function-based components, React Router, and Redux. As you progress through the chapters, you'll learn how to use React with TypeScript to make the frontend robust and maintainable and cover key ASP.NET 5 features such as API controllers, attribute routing, and model binding to build a sturdy backend. In addition to this, you'll explore API security with ASP.NET 5 identity and authorization policies and write reliable unit tests using both .NET and React, before deploying your app on Azure.By the end of this book, you'll have gained the knowledge you need to enhance your C# and JavaScript skills and build full-stack, production-ready applications with ASP.NET 5 and React.What You Will LearnBuild RESTful APIs with .NET 5 using API controllersSecure REST APIs with identity and authorization policiesCreate strongly typed, interactive, and function-based React components using HooksUnderstand how to style React components using Emotion.jsPerform client-side state management with ReduxRun a range of automated tests on the frontend and backendImplement continuous integration and continuous delivery (CI/CD) processes in Azure using Azure DevOpsWho this book is for﻿If you're a web developer looking to get up to speed with full-stack web application development with .NET Core and React, this book is for you. Although the book does not assume any knowledge of React, a basic understanding of .NET Core will help you to get to grips with the concepts covered.
+                    
+"
+9781839219931,"
+
+Discover the current landscape of full-stack development and how to leverage modern web technologies for building production-ready React.js applications to deploy on AWSKey Features: Understand the architecture of React and single-page applicationsBuild a modern Web API for your SPA using Node.js, Express, and GraphQLGain a clear and practical understanding of how to build a complete full-stack applicationBook Description: React sets the standard for building high-performance client-side web apps. Node.js is a scalable application server that is used in thousands of websites, while GraphQL is becoming the standard way for large websites to provide data and services to their users. Together, these technologies, when reinforced with the capabilities of TypeScript, provide a cutting-edge stack for complete web application development.This book takes a hands-on approach to implementing modern web technologies and the associated methodologies for building full-stack apps. You'll begin by gaining a strong understanding of TypeScript and how to use it to build high-quality web apps. The chapters that follow delve into client-side development with React using the new Hooks API and Redux. Next, you'll get to grips with server-side development with Express, including authentication with Redis-based sessions and accessing databases with TypeORM. The book will then show you how to use Apollo GraphQL to build web services for your full-stack app. Later, you'll learn how to build GraphQL schemas and integrate them with React using Hooks. Finally, you'll focus on how to deploy your application onto an NGINX server using the AWS cloud.By the end of this book, you'll be able to build and deploy complete high-performance web applications using React, Node, and GraphQL.What You Will Learn: Discover TypeScript's most important features and how they can be used to improve code quality and maintainabilityUnderstand what React Hooks are and how to build React apps using themImplement state management for your React app using ReduxSet up an Express project with TypeScript and GraphQL from scratchBuild a fully functional online forum app using React and GraphQLAdd authentication to your web app using RedisSave and retrieve data from a Postgres database using TypeORMConfigure NGINX on the AWS cloud to deploy and serve your appsWho This Book Is For: The book is for web developers who want to go beyond front-end web development and enter the world of full-stack web development by learning about modern web technologies and how they come together. A good understanding of JavaScript programming is required before getting started with this web development book.
+                    
+"
+9789811480263,"
+
+Developed by Facebook, React is one of the leading frameworks to build efficient web user interfaces. You use small manageable components to build large-sale, data-driven websites without page reloads. No more wasting time hunting for DOM nodes!In this book, we take you on a fun, hands-on and pragmatic journey to master React from a web development point of view. You'll start building React apps within minutes. Every section is written in a bite-sized manner and straight to the point as I don't want to waste your time (and most certainly mine) on the content you don't need. In the end, you will have what it takes to develop a real-life app.About the Reader This book is for developers with basic familiarity with HTML, CSS, Javascript and object-oriented programming. No React experience needed.About the Author Greg Lim is a technologist and author of several programming books. Greg has many years in teaching programming in tertiary institutions and he places special emphasis on learning by doing.Table of Contents IntroductionCreating and Using ComponentsBindings, Props, State and EventsWorking with ComponentsConditional RenderingBuilding Controlled FormsGetting Data From RESTful APIs with AxiosReact RoutingC.R.U.D. with FirebaseIntroduction to ReduxReact with ReduxIntroduction to React Hooks
+                    
+"
+9781484266953,"
+
+Harness the power of React and the related libraries that you need to know to deliver successful front-end implementations. Whether you are a beginner getting started or an existing React developer, this book will provide you with the must-have knowledge you need in your toolbox to build a complete app.  Start by learning how to create and style your own components, add state management, and manage routing. You'll also learn how to work with the backend using the MERN stack (MongoDB, Express, React, and Node.js). Once you have completed building your app you will learn how to deliver quality software by conducting unit testing, integration testing, and end-to-end (E2E) testing, as well as learn techniques to debug, profile, and optimize your React app.  Libraries and tools covered include TypeScript, Material-UI, Styled Components, SCSS, React Router, Redux Toolkit, Recoil, Jest, Enzyme, Sinon, MongoDB, NodeJS, Express, Serve, Grunt, Puppeteer, ESLint, Prettier and many others. And, you'll get access to bonus material and learn how to conduct and nail React interview questions. Each chapter in this book can be used independently so you can pick and choose the information you'd like to learn. Use it to get deep into your React development world and find out why React has been rated the most loved framework by front-end developers for three years in a row. What You'll LearnReview the basics of DOM, React Virtual DOM, JSX, Babel, ES5/ES6, CRA, package manager, Yarn, Webpack, and build toolsWrite your own custom React components and learn about hooks and props.Apply routing and state management with React Route, Recoil, and Redux ToolkitDeliver quality software and reduce QA load by learning unit testing integration testing and end-to-end testing with libraries such as Jest, Jest-dom, Enzyme, Sinon, and PuppeteerSet an ultimate React automated development and CI cycle with ESLint, Prettier, Husky, Jest, Puppeteer, GitHub Actions, Codecov.io, Coveralls, Travis, and DeepScanPublish your code on Ubuntu Server with the help of GruntOptimize your React app with pure components, lazy loading, prerender, precache, code splitting, tree shaking, reduce media size, and prefetching  Who This Book Is For? This book is for new developers looking to start working on React applications, and React developers looking to expand on their existing knowledge. It is also suitable for developers coming from other front-end frameworks such as Angular and Vue who would like to add React to their toolbox.
+
+"
+9789865005177,"
+
+本書的誕生，和試圖掙脫這種無力感有關。作者選取了這場前端「工業革命」中最具代表性的寵兒——React為主題，將自身經驗分享給讀者，透過解讀原始碼、分析設計模式、案例實戰的方式，探究框架或技術堆疊的設計思路，掌握React這一個靈活、高效的視圖層開發庫。商品特色：◆ 以React 技術堆疊為核心，同時從原始碼層面分析Redux思想、著重介紹伺服器端渲染和同構應用的架構模式。
+                    
+"
+9781492051725,"
+
+If you want to learn how to build efficient React applications, this is your book. Ideal for web developers and software engineers who understand how JavaScript, CSS, and HTML work in the browser, this updated edition provides best practices and patterns for writing modern React code. No prior knowledge of React or functional programming is necessary.Authors Alex Banks and Eve Porcello show you how to create UIs that can deftly display changes without page reloads on large-scale data-driven websites. You'll also discover how to work with functional programming and the latest ECMAScript features. Once you learn how to build React components with this hands-on guide, you'll understand just how useful React can be in your organization.Understand key functional programming concepts with JavaScriptLook under the hood to learn how React runs in the browserCreate application presentation layers with React componentsManage data and reduce the time you spend debugging applicationsExplore React's component lifecycle to improve UI performanceUse a routing solution for single-page application featuresLearn how to structure React applications with servers in mind
+                    
+"
+9789811477997,"
+
+Developed by Facebook, React Native is one of the leading frameworks to build native mobile apps for Android and iOS. You use small manageable components to build mobile applications that look and feel truly 'native'.In this book, we take you on a fun, hands-on and pragmatic journey to master React Native. You'll start building React Native apps using functional components within minutes. Every section is written in a bite-sized manner and straight to the point as I don't want to waste your time (and most certainly mine) on the content you don't need. In the end, you will have what it takes to develop a real-life app.RequirementsBasic familiarity with HTML, Javascript and object-oriented programming. No prior knowledge of React Native is required as we start from React basics. But if you have previous experience with React, you will progress through the material faster.ContentsChapter 1: IntroductionChapter 2: Creating and Using ComponentsChapter 3: Bindings, Props, State and User InteractionChapter 4: Working with ComponentsChapter 5: Conditional RenderingChapter 6: Building React Native Forms with HooksChapter 7: Getting Data from RESTful APIs with HooksChapter 8: C.R.U.D. With HooksChapter 9: Navigation Between ScreensChapter 10: Connecting to an API To Persist Data
+                    
+"
+9789811477966,"
+
+Developed by Facebook, React is one of the leading frameworks to build efficient web user interfaces. You use small manageable components to build large-scale, data-driven websites without page reloads.In this book, we take you on a fun, hands-on and pragmatic journey to master React Hooks from a web development point of view. You'll start building React apps using functional components within minutes. Every section is written in a bite-sized manner and straight to the point as I don't want to waste your time (and most certainly mine) on the content you don't need. In the end, you will have what it takes to develop a real-life app.This book will give you everything you need to learn and be effective with the latest features of React Hooks.About the Reader Basic familiarity with HTML, CSS, Javascript and object-oriented programming. No prior knowledge of React is required as we start from React basics. But if you have previous experience with React class-based components, you will progress through the material faster.About the Author Greg Lim is a technologist and author of several programming books. Greg has many years in teaching programming in tertiary institutions and he places special emphasis on learning by doing.Table of Contents IntroductionCreating and Using ComponentsBindings, Props, State and EventsWorking with ComponentsConditional RenderingBuilding Forms with HooksGetting Data From RESTful APIs with HooksC.R.U.D. with HooksConnecting to an API to Persist Data
+                    
+"
+9781838645564,"
+
+Work through engaging exercises and activities and gain practical skills to make your web applications function effortlessly with the help of ReactKey Features  Explore the React environment by creating live projects Solve real-world problems relating to building modern web applications Gain a thorough understanding of how data moves through different React components  Book Description Are you interested in how React takes command of the view layer for web and mobile apps and changes the data of large web applications without needing to reload the page? This workshop will help you learn how and show you how to develop and enhance web apps using the features of the React framework with interesting examples and exercises. The workshop starts by demonstrating how to create your first React project. You'll tap into React's popular feature JSX to develop templates and use DOM events to make your project interactive. Next, you'll focus on the lifecycle of the React component and understand how components are created, mounted, unmounted, and destroyed.  Later, you'll create and customize components to understand the data flow in React and how props and state communicate between components. You'll also use Formik to create forms in React to explore the concept of controlled and uncontrolled components and even play with React Router to navigate between React components. The chapters that follow will help you build an interesting image-search app to fetch data from the outside world and populate the data to the React app. Finally, you'll understand what ref API is and how it is used to manipulate DOM in an imperative way. By the end of this React book, you'll have the skills you need to set up and create web apps using React. What you will learn  Use JSX to include logic in the view layer of applications Get familiar with the important methods and events in the React lifecycle Distinguish between class and functional component syntaxes Create forms with Formik and handle errors Understand the React Hooks API and the problems it can solve Fetch outside data using the Axios library and populate the data to the app  Who this book is for The React Workshop is for web developers and programmers who are looking to learn React and use it for creating and enhancing web applications. Although the workshop is for beginners, prior knowledge of JavaScript programming and HTML and CSS is necessary to easily understand the concepts that are covered.
+                    
+"
+9781839211140,"
+
+Get up to speed with React, React Native, GraphQL and Apollo for building cross-platform native apps with the help of practical examplesKey Features  Covers the latest features of React such as Hooks, Suspense, NativeBase, and Apollo in this updated third edition Get to grips with the React architecture for writing easy-to-manage web and mobile applications Understand GraphQL and Apollo for building a scalable backend for your cross-platform apps  Book Description React and React Native, Facebook's innovative User Interface (UI) libraries, are designed to help you build robust cross-platform web and mobile applications. This updated third edition is improved and updated to cover the latest version of React. The book particularly focuses on the latest developments in the React ecosystem, such as modern Hook implementations, code splitting using lazy components and Suspense, user interface framework components using Material-UI, and Apollo. In terms of React Native, the book has been updated to version 0.62 and demonstrates how to apply native UI components for your existing mobile apps using NativeBase. You will begin by learning about the essential building blocks of React components. Next, you'll progress to working with higher-level functionalities in application development, before putting this knowledge to use by developing user interface components for the web and for native platforms. In the concluding chapters, you'll learn how to bring your application together with a robust data architecture. By the end of this book, you'll be able to build React applications for the web and React Native applications for multiple mobile platforms. What you will learn  Delve into the React architecture, component properties, state, and context Get to grips with React Hooks for handling functions and components Implement code splitting in React using lazy components and Suspense Build robust user interfaces for mobile and desktop apps using Material-UI Write shared components for Android and iOS mobile apps using React Native Simplify layout design for React Native apps using NativeBase Write GraphQL schemas to power web and mobile apps Implement web and mobile components that are driven by Apollo  Who this book is for This book is for any JavaScript developer who wants to start learning how to use Facebook's UI libraries, React and React Native, for mobile and web application development. Although no prior knowledge of React is needed, working knowledge of JavaScript programming will help you understand the concepts covered in the book more effectively.
+                    
+"
+9781720043997,"
+
+LAST UPDATE: 9. June 2021The Road to React: Your journey to master React.js in JavaScript - is a comprehensive and pragmatic yet concise React feat. Hooks book.What you will learn.In ""The Road to React"" you will learn about all the fundamentals of React.js with Hooks while building a full-blown React application step by step. While you create the React application, every chapter will introduce you to a new React key feature. However, there is more than only the fundamentals: The book dives into related topics (e.g. React with TypeScript, Testing, Performance Optimizations) and advanced feature implementations like client- and server-side searching. At the end of the book, you will have a fully working deployed React application.Is it up to date?Programming books are usually outdated soon after their release, but since this book is self- published, I can update it as needed whenever a new version of something related to this book gets released.I am a beginner. Is this book for me?Yes. The book starts from zero and takes you through the learning experience step by step. Every chapter builds up on the learnings from the previous chapter. In addition, at the end of every chapter, exercises fortify your lessons learned. If you got stuck in a chapter, you will always find a reference URL to the status quo of the actual code.Core ConceptsPragmatic:  Master React while building a complete application step by step.Problems Solving: You need to experience a problem first before solving it.The Why: Readers like how the book answers the Why, not only the How.Table of ContentsFundamentals of ReactHello ReactRequirementsSetting up a React ProjectMeet the React ComponentReact JSXLists in ReactMeet another React ComponentReact Component InstantiationReactDOMReact Component Definition (Advanced)Handler Function in JSXReact PropsReact StateCallback Handlers in JSXLifting State in ReactReact Controlled ComponentsProps Handling (Advanced)React Side-EffectsReact Custom Hooks (Advanced)React FragmentsReusable React ComponentReact Component CompositionImperative ReactInline Handler in JSXReact Asynchronous DataReact Conditional RenderingReact Advanced StateReact Impossible StatesData Fetching with ReactData Re-Fetching in ReactMemoized Handler in React (Advanced)Explicit Data Fetching with ReactThird-Party Libraries in ReactAsync/Await in React (Advanced)Forms in ReactReact's LegacyReact Class ComponentsReact Class Components: StateImperative ReactStyling in ReactCSS in ReactCSS Modules in ReactStyled Components in ReactSVGs in ReactReact MaintenancePerformance in React (Advanced)TypeScript in ReactUnit Testing to Integration TestingReact Project StructureReal World React (Advanced)SortingReverse SortRemember Last SearchesPaginated FetchDeploying a React ApplicationBuild ProcessDeploy to Firebase
+                    
+"
+9789864345335,"
+
+
+一本記載了關於React開發生態圈的技術書籍
+
+不只說明應該下載哪些工具以及如何使用，更要你了解為何需要它
+
+	 
+
+◎清楚表達每個步驟或重點程式碼背後的意義
+
+◎從無到有開發，只需一台電腦就能一同探索React生態圈
+
+◎精選兩個實戰範例，不論是開發網站或發布元件到npm，皆一網打盡
+
+	 
+
+	本書內容改編自第11屆IT邦幫忙鐵人賽的ModernWeb組佳作網路系列文章《在React生態圈內打滾的一年feat.TypeScript》，有別於以往只告訴你用create-react-app快速建立React專案的教學，從最基本的Webpack、Babel配置開始，告訴你該如何依照需求建立適合自己的React專案，避免初學者陷入「知其然卻不知所以然」的情況。
+
+	 
+
+	除了基本的React專案之外，也介紹了如何為嘔心瀝血打造的元件撰寫單元測試，以及如何在React專案中導入TypeScript等技巧，讓你在開發上更無往不利。
+
+	 
+
+【四大重點】
+
+	 
+
+◎從頭開始了解React生態圈，明白工具為何存在
+
+	本書的一大重點是「先釐清問題後解決」，因為不論是ReactRouter、Redux、單元測試或TypeScript，每個工具的出現都有它的意義。在使用這些工具之前，必須先清楚知道它們幫助了你什麼，才能解決正確的問題。
+
+	 
+
+◎從Reactv16入門，直接以最新的Hooks開發
+
+	本書直接從Hooks學習React的元件開發，同時也考慮到React生態圈內其他套件對於Hooks的支援，除了展示套件的基本用法之外，也介紹了Hooks的寫法，讓你不會迷失在快速進化的前端技術之中。
+
+	 
+
+◎從「前端」角度介紹「單元測試」，替你的程式碼上道防護網
+
+	「思考單元測試的意義以及測試的方法」是本書的精華內容之一，本書從原生的JavaScript到React元件，介紹了各種情境以及測試案例的寫法，不斷帶出「究竟什麼樣的測試案例才是有價值的」，讓「單元測試」這個技能不再像是謎一般的存在。
+
+	 
+
+◎介紹如何導入TypeScript並運用，提升前端開發的守備範圍
+
+	近年來逐漸火熱的TypeScript，是由微軟所研發出來的新語言，本書將說明如何一步步將TypeScript導入至React專案，更重要的是釐清TypeScript可以在開發中發揮什麼幫助或解決什麼問題。
+
+	 
+
+"
+9789864345335,"
+
+
+一本記載了關於React開發生態圈的技術書籍
+
+不只說明應該下載哪些工具以及如何使用，更要你了解為何需要它
+
+	 
+
+◎清楚表達每個步驟或重點程式碼背後的意義
+
+◎從無到有開發，只需一台電腦就能一同探索React生態圈
+
+◎精選兩個實戰範例，不論是開發網站或發布元件到npm，皆一網打盡
+
+	 
+
+	本書內容改編自第11屆IT邦幫忙鐵人賽的ModernWeb組佳作網路系列文章《在React生態圈內打滾的一年feat.TypeScript》，有別於以往只告訴你用create-react-app快速建立React專案的教學，從最基本的Webpack、Babel配置開始，告訴你該如何依照需求建立適合自己的React專案，避免初學者陷入「知其然卻不知所以然」的情況。
+
+	 
+
+	除了基本的React專案之外，也介紹了如何為嘔心瀝血打造的元件撰寫單元測試，以及如何在React專案中導入TypeScript等技巧，讓你在開發上更無往不利。
+
+	 
+
+【四大重點】
+
+	 
+
+◎從頭開始了解React生態圈，明白工具為何存在
+
+	本書的一大重點是「先釐清問題後解決」，因為不論是ReactRouter、Redux、單元測試或TypeScript，每個工具的出現都有它的意義。在使用這些工具之前，必須先清楚知道它們幫助了你什麼，才能解決正確的問題。
+
+	 
+
+◎從Reactv16入門，直接以最新的Hooks開發
+
+	本書直接從Hooks學習React的元件開發，同時也考慮到React生態圈內其他套件對於Hooks的支援，除了展示套件的基本用法之外，也介紹了Hooks的寫法，讓你不會迷失在快速進化的前端技術之中。
+
+	 
+
+◎從「前端」角度介紹「單元測試」，替你的程式碼上道防護網
+
+	「思考單元測試的意義以及測試的方法」是本書的精華內容之一，本書從原生的JavaScript到React元件，介紹了各種情境以及測試案例的寫法，不斷帶出「究竟什麼樣的測試案例才是有價值的」，讓「單元測試」這個技能不再像是謎一般的存在。
+
+	 
+
+◎介紹如何導入TypeScript並運用，提升前端開發的守備範圍
+
+	近年來逐漸火熱的TypeScript，是由微軟所研發出來的新語言，本書將說明如何一步步將TypeScript導入至React專案，更重要的是釐清TypeScript可以在開發中發揮什麼幫助或解決什麼問題。
+
+	 
+
+"
+9789864345083,"
+
+
+	本書內容改編自第 11 屆 iT 邦幫忙鐵人賽，Modern Web 組優選網路系列文章──《從 Hooks 開始，讓你的網頁 React 起來》。
+
+	 
+
+	☛ 第一本整合線下內容與線上社群的 React 實體書，再也不怕沒人解惑(www.facebook.com/groups/274607427104369/)
+
+	☛ 從 Hooks 開始上手 React，大幅降低陡峭的 React 學習曲線
+
+	☛ 透過專案實作到最終發布上線，讓所有人都可以看到你的作品
+
+	 
+
+	Q：買書後碰到問題卻沒人問怎麼辦？
+
+	A：第一本同時整合線下文字與線上社群的 React 實體書籍，不只是一本書，更提供專業線上討論與協助，免除讀者在學習新技術上的焦慮與不安！
+
+	 
+
+	Q：沒學過 React 可以直接從 Hooks 開始嗎？
+
+	A：從 Hooks 開始入手 React，可大幅降低過去 React 陡峭的學習曲線！
+
+	 
+
+	Q：學過 React 語法卻不知如何實作成專案作品？
+
+	A：以專案實作帶你一步步熟悉 React 各種語法，並將作品發布至雲端，讓所有人都能共享使用！
+
+	 
+
+適用讀者
+
+	 
+
+	✎ 學過 JavaScript，想要開始上手前端框架的初學者
+
+	✎ 想要成為前端工程師的網頁開發求職者
+
+	✎ 用過 Vue 等其他前端框架，想要體驗 React 框架的開發者
+
+	 
+
+	本書的誕生主要源自於 iT 邦幫忙鐵人賽，筆者在學習的過程中受益非常多，因此決定將本書首刷版稅回饋iT邦幫忙鐵人賽，鼓勵台灣IT社群互助合作且彼此樂於分享的精神。
+	 
+
+專業推薦
+
+	 
+
+	如果你希望透過學習 React 這個目前業界非常流行的框架，來提升職涯發展潛力，那這本書再適合你不過！本書是 PJ 為你設計的一趟學習旅程。除了耐心指引你步驟之外，更會告訴你各種「為什麼」，讓你對 React 背後的邏輯與思維有充分瞭解。更重要的是，你將體會到，「學習」，其實可以很不一樣。－－Bernard Chan |　陳治平前，Yahoo! 亞太區產品總監、ALPHA Camp 校長
+
+	 
+
+	本書不是一本工具書，而是作者在腦中思考的過程，是一本教你思考的書，以邏輯思考的走向代替一般指令式的教學，這樣的內容才是正確的教學方式，學習到的並不只是技術，而是在實務過程中所累積下來的經驗。－－Howard | 吳展瑋，台南「好想工作室」創辦人、台灣口罩地圖、動森揪團工具開發者
+
+"
+,"
+
+
+	本書內容改編自第 11 屆 iT 邦幫忙鐵人賽，Modern Web 組優選網路系列文章──《從 Hooks 開始，讓你的網頁 React 起來》。
+
+	 
+
+	☛ 第一本整合線下內容與線上社群的 React 實體書，再也不怕沒人解惑(www.facebook.com/groups/274607427104369/)
+
+	☛ 從 Hooks 開始上手 React，大幅降低陡峭的 React 學習曲線
+
+	☛ 透過專案實作到最終發布上線，讓所有人都可以看到你的作品
+
+	 
+
+	Q：買書後碰到問題卻沒人問怎麼辦？
+
+	A：第一本同時整合線下文字與線上社群的 React 實體書籍，不只是一本書，更提供專業線上討論與協助，免除讀者在學習新技術上的焦慮與不安！
+
+	 
+
+	Q：沒學過 React 可以直接從 Hooks 開始嗎？
+
+	A：從 Hooks 開始入手 React，可大幅降低過去 React 陡峭的學習曲線！
+
+	 
+
+	Q：學過 React 語法卻不知如何實作成專案作品？
+
+	A：以專案實作帶你一步步熟悉 React 各種語法，並將作品發布至雲端，讓所有人都能共享使用！
+
+	 
+
+適用讀者
+
+	 
+
+	✎ 學過 JavaScript，想要開始上手前端框架的初學者
+
+	✎ 想要成為前端工程師的網頁開發求職者
+
+	✎ 用過 Vue 等其他前端框架，想要體驗 React 框架的開發者
+
+	 
+
+	本書的誕生主要源自於 iT 邦幫忙鐵人賽，筆者在學習的過程中受益非常多，因此決定將本書首刷版稅回饋iT邦幫忙鐵人賽，鼓勵台灣IT社群互助合作且彼此樂於分享的精神。
+	 
+
+專業推薦
+
+	 
+
+	如果你希望透過學習 React 這個目前業界非常流行的框架，來提升職涯發展潛力，那這本書再適合你不過！本書是 PJ 為你設計的一趟學習旅程。除了耐心指引你步驟之外，更會告訴你各種「為什麼」，讓你對 React 背後的邏輯與思維有充分瞭解。更重要的是，你將體會到，「學習」，其實可以很不一樣。－－Bernard Chan |　陳治平前，Yahoo! 亞太區產品總監、ALPHA Camp 校長
+
+	 
+
+	本書不是一本工具書，而是作者在腦中思考的過程，是一本教你思考的書，以邏輯思考的走向代替一般指令式的教學，這樣的內容才是正確的教學方式，學習到的並不只是技術，而是在實務過程中所累積下來的經驗。－－Howard | 吳展瑋，台南「好想工作室」創辦人、台灣口罩地圖、動森揪團工具開發者
+
+"
+9781484258682,"
+
+Leverage the benefits of both client-side and server-side rendering to get the most out of your React applications. By the end of this book you will be able to build and deploy React applications using the Next.js framework to fully render server-side HTML on every Web page. You'll begin by reviewing JavaScript fundamentals and how they work with the core principles of React. You'll then move on to Next.js, the React framework for server-rendered applications. Using this framework, you will create a fast and secure solutional React application that renders content on the server-side, protects sensitive information, and optimizes response times. Before deploying the application using Docker containers, you'll create automated unit tests to verify that every component is appropriately doing its jobBuilding React Apps with Server-Side Rendering also covers other fun and interesting topics such as Bootstrap 4, JSX (JavaScript XML), adding styling to your React applications, and much more. By the end of this book, you will be able to build and deploy React applications that fully render server-side HTML on every page. In the end you'll have a client-side rendered React application that integrates server-side rendering into it using Next.js framework. What You'll Learn Examine fundamental concepts of JavaScript (ES 2015)Create client-side apps using JavaScript frameworks React and ReduxAdd server-side rendering to React apps using the NextJS Framework Who This Book Is For Web developers who have prior experience in working with JavaScript, HTML and CSS, who wish to step up a level and create better web applications using modern JavaScript frameworks like React, Reduct & Next.
+                    
+"
+9781839215414,"
+
+A practical, project-based guide to full-stack JavaScript web development combining the power of React with industry-tested server-side technologiesKey Features  Build your career as a full-stack developer with this practical guide Understand how the different aspects of a MERN application come together through a series of practical projects Master the MERN stack by building robust social media, E-commerce store, and web-based VR game apps  Book Description Facebook's React combined with industry-tested, server-side technologies, such as Node, Express, and MongoDB, enables you to develop and deploy robust real-world full-stack web apps. This updated second edition focuses on the latest versions and conventions of the technologies in this stack, along with their new features such as Hooks in React and async/await in JavaScript. The book also explores advanced topics such as implementing real-time bidding, a web-based classroom app, and data visualization in an expense tracking app. Full-Stack React Projects will take you through the process of preparing the development environment for MERN stack-based web development, creating a basic skeleton app, and extending it to build six different web apps. You'll build apps for social media, classrooms, media streaming, online marketplaces with real-time bidding, and web-based games with virtual reality features. Throughout the book, you'll learn how MERN stack web development works, extend its capabilities for complex features, and gain actionable insights into creating MERN-based apps, along with exploring industry best practices to meet the ever-increasing demands of the real world. By the end of this React book, you'll be able to build production-ready MERN full-stack apps using advanced tools and techniques in modern web development. What you will learn  Extend a basic MERN-based application to build a variety of applications Add real-time communication capabilities with Socket.IO Implement data visualization features for React applications using Victory Develop media streaming applications using MongoDB GridFS Improve SEO for your MERN apps by implementing server-side rendering with data Implement user authentication and authorization using JSON web tokens Set up and use React 360 to develop user interfaces with VR capabilities Make your MERN stack applications reliable and scalable with industry best practices  Who this book is for This is one of the most useful web development books for JavaScript developers who may have worked with React but have minimal experience in full-stack development with Node, Express, and MongoDB.
+                    
+"
+9789865034344,"
+
+本書帶領讀者從了解React Native概念、入門到進階技術應用，一路由淺入深學習，並在各章節中都搭配練習範例，以「做中學」的方式帶領讀者深入了解React Native，最後結合實務專題：旅遊推薦景點APP與跨境電商APP購物網站開發，做完React Native學習的檢核點，將所學技術活用至現實社會中的案例。本書選用時下最受歡迎的開發框架──Redux與其進階框架Dva，讓程式資料流的部分更加彈性，資料的處理更加直覺，並同時保持程式碼的簡潔，使其容易理解，提升開發的效率。此外，本書在實作範例時，加入了許多知名且實用的套件，如：React Native Navigation與React Native Mapview，帶領讀者一步步的將套件引用至專案當中，並透過套件的使用，讓專案內容更加豐富。
+                    
+"
+9781484244531,"
+
+Develop native iOS and Android apps with ease using React Native. Learn by doing through an example-driven approach, and have a substantial running app at the end of each chapter. This second edition is fully updated to include ES7 (ECMAScript 7), the latest version of React Native (including Redux), and development on Android. You will start by setting up React Native and exploring the anatomy of React Native apps. You'll then move on to Redux data flow, how it differs from flux, and how you can include it in your React Native project to solve state management differently and efficiently. You will also learn how to boost your development by including popular packages developed by the React Native community that will help you write less; do more. Finally, you'll learn to how write test cases using Jest and submit your application to the App Store.  React Native challenges the status quo of native iOS and Android development with revolutionary components, asynchronous execution, unique methods for touch handling, and much more. This book reveals the the path-breaking concepts of React.js and acquaints you with the React way of thinking so you can learn to create stunning user interfaces. What You'll LearnBuild stunning iOS and Android applicationsUnderstand the Redux design pattern and use it in your projectInteract with iOS and android device capabilities such as addressbook, camera, GPS and more with your appsTest and launch your application to the App StoreWho This Book Is ForAnyone with JavaScript experience who wants to build native mobile applications but dreads the thought of programming in Objective-C or Java. Developers who have experience with JavaScript but are new or not acquainted to React Native or ReactJS.
+
+"
+9781484244500,"
+
+Use the enormously popular React framework to build dynamic JavaScript applications that take advantage of the capabilities of modern browsers and devices. You will learn how React brings the power of strong architecture and responsive data to the client, providing the foundation for complex and rich user interfaces. Best-selling author Adam Freeman explains how to get the most from React. He begins by describing the React architecture and the benefits it offers and then shows you how to use React and its associated tools and libraries in your projects, starting from the nuts and bolts and building up to the most advanced and sophisticated features, going in-depth to give you the knowledge you need.Each topic is presented clearly and concisely. Chapters include common problems and how to avoid them. What You'll Learn Gain a solid understanding of the React designCreate rich and dynamic web app clients using ReactCreate data stores using ReduxConsume data using REST and GraphQLTest your React projects  Who This Book Is For JavaScript developers who want to use React to create dynamic client-side applications
+                    
+"
+9789863797821,"
+
+本書特色：本書特別推薦給欲使用React、Redux、Babel和Webpack來架設Web應用程式的程式設計師，本書所引介的技術堆疊特點如下：● 清爽的元件程式結束了全螢幕HTML標籤與類別名稱的噩夢。● 宣告式地將資料對映為介面，減少了煩瑣的DOM操作。● 高階函數、管線、Currying等函數式程式設計思想的運用，使得複雜邏輯的處理變得相當簡單。● 自動化建置編譯技術降低了原始程式碼與靜態資源的管理成本。除此之外，全書除了第1章和第28章外，每章節都有範例程式。內容簡介：● React 與Redux 的基礎知識介紹。● 透過精彩的官方範例學習React 與Redux。● 學習優秀的協力廠商擴充。● 實戰架設大型Web應用程式。全書不僅只於介紹技術的使用方法，更詳析其背後的理念與智慧。適用讀者：熟悉JavaScript程式設計，有興趣使用React與Redux來架設Web應用程式的設計師與相關從業人員。
+                    
+"
+9789863797845,"
+
+從JavaScript入門超躍進化至React-Native技術跨展Android、iOS、Web及通用Windows平台(UWP)應用程式開發本書特色：．本書由經驗豐富的專業行動開發工程師所精心編撰，透過完整的實戰演練，將基礎知識與開發實踐加以結合，以循序漸進的方式，向讀者展示使用React Native開發跨平台行動應用的完整流程。．本書特別對React Native在開發iOS和Android跨平台應用時，提供範例效果對比，臨場感十足。．為方便讀者實際操作練習，本書提供了全書實例原始程式碼，讀者可在本公司官網下載。精彩內容：全書共分為五大部分：．第一部分：介紹React Native的語言基礎JavaScript。．第二部分：介紹大量使用於React Native開發中ECMAScript 6的新特性。．第三部分：介紹React Native開發技巧，包括：獨立元件應用、版面配置技術、網路技術、導覽控制器技術……等。．第四部分：透過三個實戰專案，逐步引領讀者開發完整的React Native應用。．第五部分：介紹React Native的進階技巧，如：和原生交互、嵌入原生應用、React Native元件開發……等。適用讀者群：．Android和iOS開發的廣大從業人員、行動跨平台開發工程師，以及欲快速上手React Native的初學者，亦可作為培訓機構與大專院校的教學參考書。
+                    
+"
+9789865004316,"
+
+
+	本書的誕生，和試圖掙脫這種無力感有關。作者選取了這場前端“工業革命”中最具代表性的寵兒——React為主題，將自身經驗分享給讀者，透過解讀原始碼、分析設計模式、案例實戰的方式，探究框架或技術堆疊的設計思路，掌握React這一個靈活、高效的視圖層開發庫。
+
+本書特色
+
+	以React 技術堆疊為核心，同時從原始碼層面分析Redux思想、著重介紹伺服器端渲染和同構應用的架構模式。
+
+"
+9789863797661,"
+
+這套由Facebook貢獻的前端Javascript函數庫，讓前端開發成為單一標準，使用Virtual DOM的先進觀念，不但讓開發變得更直覺，也讓DOM的更新在記憶體內完成，速度更是快上數倍到數十倍。本書全面講述React技術，覆蓋React、Flux、Redux及視覺化，幫助開發者在實踐中深入理解技術和原始程式碼。商品特色：本書不但把React說得一清二楚，更有完整的Flux概念及Redux實例，可能你還在執著於Javascript，或是因為使用jQuery而沾沾自喜，但React是你提昇自己到「神」境界的唯一道路。
+                    
+"
+9789388511643,"
+
+Let us full stack development with Spring Boot and React JS Key Features ● This book has a very specific goal to make developing REST applications easier and focusing on common challenges of the design of the application with best practices. ● This book is providing practical code examples from real-world experiences. ● This book is not only about Spring Boot 2.2 and React JS overview but also has an in-depth discussion about adopted REST Architectural pattern and its constraints to create the REST APIs. ● The book can act as a tool for learning Spring Boot 2.2 and React JS for the first time as well as a guide and reference for those wanting to dig deeper into specific features. ● This book is also providing deeper information about the Spring Security and JWT token-based authentication for your REST applications. ● Containerization using Docker is another key feature of this book, how to create a Docker image and how to run it. Description Designing Application with Spring Boot 2 & React JS is divided into three parts. The first part introduces you to the essentials of the Spring Boot 2.2 Framework and you will learn how to create REST APIs and how to secure REST APIs. Part 2 steps behind the front end application development with React JS and discuss React features and its advantages toward the frontend application development. Part 3 expands on that by showing how to deploy backend and frontend application the PaaS platform and also will discuss how to deploy application container technologies such as Docker. What will you learn ● Exploring Spring Boot 2.2 new features and essential key components such as Starters, Autoconfiguration, CLI, Actuator. ● Develop a REST application using Spring Boot 2.2 and DevTools. ● Exploring Spring Boot Auto Configuration and Customization. ● Creating application profiles based on the environments. ● Learn to configure backend data using JDBC and Spring Data JPA. ● Learn to configure a DataSource for H2 DB, and also for Maria DB. ● Learn best practices for designing a REST architecture based application. ● Creating a REST application using HATEOAS. ● Consuming REST APIs endpoints with RestTemplate, Traverson, and WebClient. ● Exploring JWT web token for the RESTful APIs and explores how to secure REST APIs using OAuth2 and Spring security. ● Creating TESTING module of the Spring Boot application and Unit & Integration testing. ● Discuss React JS and its components and also discuss React KS features and its advantages and disadvantage. ● Exploring how to create ReactJS components and how to manage ReactJS component lifecycle. ● Taking a quick overview of consuming the REST API using the React application. ● Deploying the application to the Cloud platform (PaaS). ● Containerization and Deploy using Docker containers Who This Book Is For For all Java developers who want to learn Spring Boot 2.2 and React JS as in the enterprise application. Therefore, enterprise Java developers will find it particularly useful in the understanding of Spring Boot 2.2 and React JS and how to develop a backend RESTful application using the Spring Boot 2.2 and frontend application using React JS framework. They will most fully appreciate the examples presented in this book. Before reading this book, readers should have basic knowledge of core java, spring, servlet, filter, XML, and JavaScript. Table of Contents 1. Getting Started with Spring Boot 2.2 2. Customizing Auto-Configuration 3. Configuring Data and CRUD operations 4. Creating REST APIs with Spring Boot 2.2 5. Securing REST APIs 6. Testing Spring Boot Application 7. Getting Started with React 8. Creating and Styling React Components 9. Consuming the REST API with React JS 10.Deploying and Containerizing Application
+                    
+"
+9781484239384,"
+
+Discover how to use React Native in the real world, from scratch. This book shows you what React Native has to offer, where it came from, and where it's going. You'll begin with a solid foundation of practical knowledge, and then build on it immediately by constructing three different apps. You'll learn how to use each feature of React Native by working on two full projects and one full game. These aren't just simple React Native Hello World examples (although you'll naturally start there!) but are apps that you can, if you so choose, install on your mobile devices and use for real. Throughout this book, you'll gain real-world familiarity with React Native as well as supporting components from Expo, NativeBase, React Navigation and the Redux and Lodash libraries. You'll also build server-side code for a mobile React Native app to talk to using the popular Node.js and Socket.io library, providing you a holistic view of things even beyond React Native. And, you'll see many helpful tips, tricks and gotchas to watch out for along the way! Practical React Native offers practical exercises that will give you a solid grasp of building apps with React Native, allowing you to springboard into creating more advanced apps on your own.Creating a game with React Native will allow you to see a whole other perspective on what React Native can do.What You'll Learn Master the basics of React NativeCreate a logically structured projectReview interface elements, such as widgets, controls, and extensionsBuild layoutsWork with Expo, an open source toolchain Who This book Is ForThe primary audience is mobile developers and anyone looking to build for multiple mobile platforms and trying to do so with a codebase that is largely the same across all. Readers will need a decent foundation, but not necessarily be experts in, HTML, CSS, and JavaScript, but I'll assume little beyond that.
+
+"
+9780134843551,"
+
+Learning React A hands-on guide to building web applications using React and Redux  As far as new web frameworks and libraries go, React is quite the runaway success. It not only deals with the most common problems developers face when building complex apps, it throws in a few additional tricks that make building the visuals for such apps much, much easier.   What React isn't, though, is beginner-friendly and approachable. Until now. In  Learning React , author Kirupa Chinnathambi brings his fresh, clear, and very personable writing style to help web developers new to React understand its fundamentals and how to use it to build really performant (and awesome) apps.    The only book on the market that helps you get your first React app up and running in just minutes,  Learning React  is chock-full of colorful illustrations to help you visualize difficult concepts and practical step-by-step examples to show you how to apply what you learn.   Build your first React app Create components to define parts of your UI Combine components into other components to build more complex UIs Use JSX to specify visuals without writing full-fledged JavaScript Deal with maintaining state Work with React's way of styling content Make sense of the mysterious component lifecycle Build multi-page apps using routing and views Optimize your React workflow using tools such as Node, Babel, webpack, and others  Use Redux to make managing your app data and state easy   Contents at a Glance  1 Introducing React 2 Building Your First React App 3 Components in React 4 Styling in React 5 Creating Complex Components 6 Transferring Properties 7 Meet JSX... Again! 8 Dealing with State in React 9 Going from Data to UI in React 10 Events in React 11 The Component Lifecycle 12 Accessing DOM Elements in React 13 Setting Up Your React Dev Environment 14 Working with External Data in React 15 Building an Awesome Todo List App in React 16 Creating a Sliding Menu in React 17 Avoiding Unnecessary Renders in React 18 Creating a Single-Page App in React Using React Router 19 Introduction to Redux 20 Using Redux with React
+                    
+"
+9789865003807,"
+
+本書是針對ReactJS初學者而編寫的入門實作書籍，從最重要的、最基礎的ES6(ES2015)基礎新語法與特性出發，到React最核心使用概念，並加延伸與拓展應用；讓讀者實際體驗如何使用ReactJS來建立一個真正可用的網站應用程式；亦藉由實作App多個樣版專案與範例，幫助讀者能在許多真實應用情況中立即運用。※ 書籍範例請至上奇資訊官網下載商品特色：‧ 深度切入React 16重磅基礎及新特性，讓您一次捷速掌握。‧ 學習來自Facebook出品之Virtual DOM的先進觀念，一次獲取網站應用開發與手機App的各種基礎知識。‧ 立基於ES6（ECMAScript 2015）重要特性為出發，開展React基礎入門技術。
+                    
+"
+9789863797180,"
+
+
+ React與Redux的基礎知識介紹。
+
+  
+
+ 透過精彩的官方範例學習React與Redux。
+
+  
+
+ 優秀協力廠商的相關擴充學習。
+
+  
+
+ 架設大型Web應用程式實戰。
+
+  
+
+ 全書不僅止於介紹技術的使用方法，更詳析其背後的理念與智慧。除此之外，全書除了第1章和第28章外，每章節都有範例程式。
+
+  
+
+ 本書特別推薦給欲使用React、Redux、Babel與Webpack來架設Web應用程式的程式設計師，此技術堆疊的特點如下：
+
+  
+
+ 清爽的元件程式結束了全螢幕HTML標籤與類別名稱的噩夢。
+
+  
+
+ 宣告式地將資料對映為介面，減少了煩瑣的DOM操作。
+
+  
+
+ 高階函數、管線、Currying等函數式程式設計思想的運用，使得複雜邏輯的處理變得相當簡單。
+
+  
+
+ 自動化建置編譯技術，降低了原始程式碼與靜態資源的管理成本。
+
+  
+
+適用：熟悉JavaScript程式設計，有興趣使用React與Redux來架設Web應用的程式設計師與相關從業人員
+
+"
+9789865003128,"
+
+React.js僅關注於更新DOM以及回應事件，這種特性也讓React可自由的與眾多不同的系統做整合；由多位一線專家精心撰寫，利用完整範例全面介紹和剖析React.js 的使用方式，適合廣大前端開發者、設計人員，及所有對未來技術趨勢感興趣者閱讀。本書特色：詳細介紹React.js，並藉由問卷產生器範例貫穿全文，以幫助讀者熟悉和使用。
+                    
+"
+9789863796862,"
+
+
+─ 專業行動開發工程師 React Native 的筆記精髓 ─
+
+✤精彩內容：
+	全書共分為五大部分：
+	第一部分：介紹React Native的語言基礎JavaScript；
+	第二部分：介紹大量使用於React Native開發中ECMAScript 6的新特性；
+	第三部分：介紹React Native開發技巧，包括：獨立元件應用、版面配置技術、網路技術、導覽控制器技術……等；
+	第四部分：透過三個實戰專案，逐步引領讀者開發完整的React Native應用；
+	第五部分：介紹React Native的進階技巧，如：和原生交互、嵌入原生應用、React Native元件開發……等。
+
+✤適用：
+	Android和iOS開發的廣大從業人員、行動跨平台開發工程師，以及欲快速上手React Native的初學者，亦可作為培訓機構與大專院校的教學參考書。
+
+本書特色
+
+	❑ 本書由經驗豐富的專業行動開發工程師所精心編撰，透過完整的實戰演練，將基礎知識與開發實踐加以結合，以循序漸進的方式，向讀者展示使用React Native開發跨平台行動應用的完整流程。
+
+	❑ 本書特別對React Native在開發iOS和Android跨平台應用時，提供範例效果對比，臨場感十足。
+	❑ 為方便讀者實際操作練習，本書提供了全書實例原始程式碼，讀者可在本公司官網www.topteam.cc下載。
+
+"
+9789864768165,"
+
+使用JavaScript建立原生移動裝置app “對於想擴展到原生開發的React工作者，《React Native學習手冊》是你必讀的一本書。所有建立可量產的原生應用程式所需的知識，Eisenmen都在本書中仔細道盡。 —Ryan Hurley Twitter, Full Stack Web Developer 本書以實務的方法介紹React Native。React Native是一個JavaScript framework，用於撰寫和發布完整功能的原生移動裝置應用程式(app)。這本實用指南的第二版，不止說明如何在瀏覽器上開發應用程式，進而向你展示如何在iOS、Android和其它移動平台上進行應用程式的建置。這些應用程式能夠存取平台所提供的相機、使用者位置以及本機儲存等功能。 透過程式碼範例及一步步的說明，已熟悉React的網頁及前端開發工程師將會學到如何建立介面及設定介面樣式、使用移動裝置元件以及除錯與發布app。你會學到如何利用第三方函式庫或你自己的Java及Objective-C函式庫來擴展React Native。 ‧理解React Native底層如何使用Native UI元件 ‧查看React Native元件和基本HTML元件的對照 ‧建立你自有的React Native元件和應用程式，並設其樣式 ‧使用平台特有的API，借助社群已開發模組 ‧將不同平台的元件整合到跨平台應用程式 ‧學習React Native開發過程中常見的陷阱，並使用工具對付它們 ‧將大型應用程式會用到的多個獨立畫面整合成緊密的使用者經驗 ‧在大型應用程式中用Redux函式庫處理狀態管理
+                    
+"
+9789863125648,"
+
+
+ 初探 JS 前端框架世界,
+ 晉升進階開發者的最佳指南！
+
+ 網頁前端開發技術大幅躍進, 針對使用者各種網頁操作行為, 在開發上都力求作到零時差即時互動呈現, 因此必須撰寫大量的 JavaScript 程式。而為了大幅提升效率, 有經驗的前端開發者一定會導入【框架 (Framework)】工具來協助工作。
+
+ 不過 JavaScript 前端框架實在多如牛毛, 卻又各擅勝場, 具代表性的幾款框架都有其精妙之處, 值得初學者一一領略。
+
+ 【如果您正考慮導入框架協助開發, 本書將是您的最佳幫手！】
+
+ 書中嚴選數款坊間最熱門的 JS 前端框架, 我們會帶您從零開始學會各框架的使用方式, 並詳述各自的特色、優缺點。您不必再靠著四處搜尋得到的片段資訊不知從何著手, 跟著本書動手一一體驗, 一次就掌握最熱門的前端開發技術吧！
+
+本書特色
+
+ ●React、Vue.js、Angular、Backbone.js、Aurelia 熱門框架一次掌握
+ ●前瞻開發技術一把抓：MVVM 架構、Component-bsed 架構、Virtual DOM、JSX、Web Components...
+ ●介紹運用框架時一併要掌握的周邊技術：npm、Bower 套件管理工具、webpack 模組整合工具
+
+"
+9780134546315,0
+9786200540911,"
+
+This book is an attempt to understand the fundamentals and basics of organic reactive intermediates, reaction mechanism, name reaction and their applications in organic synthesis. There are about twenty-nine basic organic reactions and six reactive intermediates to understand the concepts of organic synthesis. It is specially designed for teaching and practicing the synthetic organic chemistry for the under graduate and post graduate students of science (chemistry). This book does not contain too much theory and description as the main target is practice of number of various kinds of reactive intermediates and reaction mechanism in organic chemistry and their various applications which are repeatedly asked in competitive exams like NET, GATE, GSET, GPSC, etc. This book also contains some applications from recent research articles and literature survey. Chiral target molecules and examples of natural product are selected either to demonstrate the practicability of certain asymmetric syntheses in non-catalytic and catalytic mode, on the laboratory and industrial scale in the form of applications.
+                    
+"
+9789864765812,"
+
+運用React與Redux進行網頁開發 “《React學習手冊》闡述React的函式性程式設計概念，能快速的讓想要建構新式JavaScript應用程式的人上手。本書是React應用程式常見問題與解決方案的指南。” -Bonnie Eisenman Twitter軟體工程師,《Learning React Native》作者 如果你想要學習如何運用React建構有效率的使用者界面，讀這本書就對了。作者Alex Banks與Eve Porcello教你如何以此JavaScript函式庫，建構可顯示資料異動而無需重新載入頁面的大型、資料驅動的UI，同時你還會學到函式性程式設計與ECMAScript的最新功能。 React由Facebook開發，Netflix、Walmart、The New York Times等公司採用它製作網頁界面。你會透過建構React元件清楚的認識React有多好用。 ‧學習JavaScript的關鍵函式性程式設計概念 ‧一窺底層機制以認識React在瀏覽器中如何運作 ‧設計與載入React元件以建構應用程式的展示層 ‧使用元件樹以管理資料並減少應用程式除錯所需的時間 ‧探索React元件的生命週期並使用它載入資料與改善UI效能 ‧使用路徑方案解決瀏覽器歷史、書籤與其他單頁應用程式的功能需求 ‧學習如何設計顧及伺服器的React應用程式
+                    
+"
+9789865001551,"
+
+React.js是由Facebook內部所開發的JavaScript函式庫，在Virtual DOM的基礎下重新定義了使用者介面的開發方式。React.js將PHP風格的工作流程帶到用戶端應用程式，改變使用者對前端框架的認識。由於React.js僅關注於更新DOM以及回應事件，這種特性也讓React可自由的與眾多不同的系統做整合。本書特色：● 詳細介紹React.js，並藉由問卷產生器範例貫穿全文，以幫助讀者熟悉和使用。● 由多位一線專家精心撰寫，利用完整範例全面介紹和剖析React.js 的使用方式，適合廣大前端開發者、設計人員，及所有對未來技術趨勢感興趣者閱讀。
+                    
+"
+9789572246467,"
+
+從JavaScript語法的基礎開始，即使沒有相關概念的讀者也能逐漸上手章節設計橫跨美術設計與程式開發技術，盡量滿足設計與工程兩個領域方面需求的讀者。探討網頁全端開發的各個概念，並透過實作的方式帶領讀者逐步完成這些挑戰。React是一套網頁的前端框架技術，因此開發者除了需要具備HTML與CSS的網頁語法開發經驗外，還需瞭解基本的JavaScript語法。因此本書將從基礎的JavaScript語言開始講起，讓無論是否有JavaScript實際開發經驗的讀者都能簡單上手。接著將進入本書的重點：React的操作原理與基本架構，並從UI設計與實作面一步步帶領讀者進入React的開發世界。專案面更導入同樣是以JavaScript語言開發的熱門後端框架Node.js，實現第三方模組管理與建構出完整的專案結構。期許讀者能擁有使用JavaScript語言獨立開發Single Page Application的實務能力。另外本書也收錄了一些UI設計的概念與React開發的相關資源，希望能讓你的App專案更為豐富有趣。
+                    
+"
+9789863795087,"
+
+
+．全面講述React技術，覆蓋React、Flux、Redux及視覺化
+．幫助開發者在實踐中深入理解技術和原始程式碼
+
+	React出現之後，已經儼然成為前端開發的唯一標準。本書希望從實作起步，以深刻的角度去解讀React 這個函數庫給前端業界帶來的革命性變化。
+
+	這套由Facebook貢獻的前端Javascript函數庫，讓前端的開發成為單一的標準，使用Virtual DOM的先進觀念，不但讓開發變得更直覺，也讓DOM的更新在記憶體內完成，速度更是快上數倍到數十倍。
+
+	本書不但把React說的一清二楚，更有完整的Flux概念及Redux的實例，如果你還在執著於純的Javascript，或是因為使用jQuery而沾沾自喜，React是你提昇自己到「神」境界的唯一道路。
+
+"
+9789864762668,"
+
+建構Web應用程式 「這本書真的能夠讓你開始實際建構自己的React應用程式。」 - Andreea Manole, Facebook工程師 快馬加鞭，立即掌握React。這項開源碼技術源自Facebook，目的是快速建構豐富網路應用程式(rich web application)。藉由這本實務指導手冊，Yahoo網站開發者Stoyan Stefanov教導你如何打造元件(React的基本建構區塊)，並且將它們組織成可維護的大型應用程式。如果你熟悉基礎的JavaScript語法，一切便已準備就緒。 瞭解React如何運作之後，你將打造一支功能完整的自訂Whinepad應用程式，幫助使用者品評美酒，做筆記，你很快就會瞭解為何有些開發者把React視為Web應用程式開發拼圖的重要關鍵。 ‧設定React環境，撰寫你的第一支""Hello World""網頁應用程式 ‧建立及使用自訂React元件，搭配通用的DOM元件 ‧建立資料表格元件，讓你編輯、排序、搜尋及探索它的內容 ‧使用JSX語法擴展作為函式呼叫的替代做法 ‧建立精實、低階的建置流程，幫助你聚焦於React ‧建立完整的自訂應用程式，讓你將資料儲存在客戶端 ‧使用ESLint、Flow與Jest工具，隨著應用程式演進，檢查及測試你的程式碼 ‧使用Flux管理元件之間的溝通
+                    
+"
+9781491929001,0
+9789864760213,"
+
+使用JavaScript打造原生App ""作者Bonnie在本書中出色的涵蓋了學習React Native的重要主題，並能幫助你在實務工作上進行更廣泛的探索"" -Brent Vatne Exponent技術咨詢公司開發人 React Native核心貢獻者 本書是React Native入門介紹，它是開發原生行動應用程式的JavaScript架構。你能從本書內容學習如何建構iOS、Android與其他行動平台的應用程式，以及如何存取相機、位置與儲存空間等平台功能。 作者Bonnie Eisenman以程式範例與逐步說明向網頁開發者與前端工程師展示如何建構界面、運用行動元件以及除錯與部署應用程式。你可以跟著書中指引使用React Native逐步建構出多個功能完整的應用程式。 ＊學習React Native提供的原生UI元件界面 ＊檢視此架構如何運用原生元件模擬HTML元素 ＊建構與設定React Native元件與應用程式的視覺風格 ＊安裝架構未提供的API與功能模組 ＊取得程式除錯工具與處理JavaScript之外的問題 ＊建構幫助記憶的快閃卡片應用程式 ＊將App發佈到iOS App Store與Google Play Store
+                    
+"

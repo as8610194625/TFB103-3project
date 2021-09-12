@@ -1,0 +1,40 @@
+﻿ISBN,書籍簡介
+9781492075530,"
+
+Maintaining large applications is difficult, but supporting large, disorganized applications is nearly impossible. If you're unable to rapidly ship changes to your code without introducing new bugs or causing outages, perhaps it's time to slow down and consider a significant refactor.With this practical guide, software engineer Maude Lemaire teaches you how to identify and solve problematic patterns in your codebase. You'll learn techniques to help you effectively plan and execute a refactor spanning extensive surface areas of your application. Drawing from Lemaire's experience driving performance and refactoring efforts at Slack during a period of critical growth, this book helps you achieve newfound developer productivity throughout your organization.You'll learn how to: Identify the benefits of refactoring: bug squashing, developer productivity, and performance optimizationUnderstand and articulate what's wrong with your current codeDocument and measure the impact of a refactoring effortBring together the best team for the jobBuild sustainable coding practices and a healthier codebase
+                    
+"
+9783639409048,"
+
+Inhaltlich unver瓣nderte Neuauflage. Code, der in identischer Form an verschiedenen Stellen im Programm vor-kommt, erschwert die Wartung/ die Wiederverwendung und behindert das Fin-den von Sicherheitsl羹cken und Fehlern. Identischer Code (duplizierter Code) ist durch Kopieren und Einf羹gen sehr leicht erzeugt. Unerfahrene Ent-wick-ler oder solche unter Zeitdruck greifen gerne zu dieser schnellen L繹sung. Folg-lich ist duplizierter Code h瓣ufig zu finden. Im der vorliegenden Arbeit wird eine Einf羹hrung in das schrittweise Ver-bes-sern von Quellcode (Refaktorisierung) gegeben und die schlimmsten Code-M瓣ngel aufgezeigt. Das Refaktorisieren ist ein Hauptstandbein von ""Extreme Pro-gramming"", dessen Prinzipien vorgestellt werden. Hauptaugenmerk der Ar-beit liegt auf der automatischen Erkennung von dupliziertem Code als be-son-ders h瓣ufigen und schwerwiegenden Code-Mangel. Die automatische Er-ken-nung wird empirisch mit Beispielprogrammen durchgef羹hrt. Das Buch richtet sich an Ausbilder und Softwareentwickler, die qualitativ hoch-wertigen Quellcode als Ziel der Softwareentwicklung sehen.
+                    
+"
+9781484255803,"
+
+Breathe new life into older applications by refactoring T-SQL queries and code using modern techniques. This book shows you how to significantly improve the performance of older applications by finding common anti-patterns in T-SQL code, then rewriting those anti-patterns using new functionality that is supported in current versions of SQL Server, including SQL Server 2019. The focus moves through the different types of database objects and the code used to create them, discussing the limitations and anti-patterns commonly found for each object type in your database.Legacy code isn't just found in queries and external applications. It's also found in the definitions of underlying database objects such as views and tables. This book helps you quickly find problematic code throughout the database and points out where and how modern solutions can replace older code, thereby making your legacy applications run faster and extending their lifetimes. Author Lisa Bohm explains the logic behind each anti-pattern, helping you understand why each pattern is a problem and showing how it can be avoided. Good coding habits are discussed, including guidance on topics such as readability and maintainability. What You Will LearnFind specific areas in code to target for performance gainsIdentify pain points quickly and understand why they are problematicRewrite legacy T-SQL to reduce or eliminate hidden performance issuesWrite modern code with an awareness of readability and maintainabilityRecognize and correlate T-SQL anti-patterns with techniques for better solutionsMake a positive impact on application user experience in your organizationWho This Book Is ForDatabase administrators or developers who maintain older code, those frustrated with complaints about slow code when there is so much of it to fix, and those who want a head start in making a positive impact on application user experience in their organization
+                    
+"
+9780321603500,0
+9781430227274,"
+
+Many businesses and organizations depend on older high-value PHP software that risks abandonment because it is impossible to maintain. The reasons for this may be that the software is not well designed; there is only one developer (the one who created the system) who can develop it because he didn't use common design patterns and documentation; or the code is procedural, not object-oriented. With this book, you'll learn to identify problem code and refactor it to create more effective applications using test-driven design.
+                    
+"
+9780596514976,"
+
+What can you do when database performance doesn't meet expectations? Before you turn to expensive hardware upgrades to solve the problem, reach for this book. Refactoring SQL Applications provides a set of tested options for making code modifications to dramatically improve the way your database applications function. Backed by real-world examples, you'll find quick fixes for simple problems, in-depth answers for more complex situations, and complete solutions for applications with extensive problems. Learn to: Determine if and where you can expect performance gainsApply quick fixes, such as limiting calls to the database in stored functions and proceduresRefactor tasks, such as replacing application code by a stored procedure, or replacing iterative, procedural statements with sweeping SQL statementsRefactor flow by increasing parallelism and switching business-inducted processing from synchronous to asynchronousRefactor design using schema extensions, regular views, materialized views, partitioning, and moreCompare before and after versions of a program to ensure you get the same results once you make modificationsRefactoring SQL Applications teaches you to recognize and assess code that needs refactoring, and to understand the crucial link between refactoring and performance. If and when your application bogs down, this book will help you get it back up to speed.
+                    
+"
+9780321503633,0
+9789862010877,"
+
+本書的特徵有以下幾點：◆  用Java語言所寫成的範例程式因為重構最主要的目的是改善軟體的體質，所以用具體的範例程式來解說是不可或缺的。◆  詳細地解說重要的重構在Martin Fowler的『Refactoring』一書中，共用了70個重構的例子來說明。然而本書並沒有針對所有重構以同樣的篇幅來說明，而是針對重要的重構整理出要點，並做詳細的解釋。至於在本書中無法詳細解說到的重構部分，我們擇要在書末的附錄A中做介紹說明。◆  利用練習問題來確認基礎知識是否紮實重構的解說由於出現了許多細膩的步驟，因此往往會因不留神而忽略了重點的部分。在本書的各章節的章末中都附有練習問題，可以讓你針對這章節中所學到的基礎知識再做一次複習。 ◆  透過練習問題來發現「不祥的徵兆」當你在進行重構時，及時找出程式所散發出的「不祥的徵兆」的練習也是很重要的一環。在本書的練習問題中，不僅包括如何去找出程式碼所發出的「不祥的徵兆」的練習。由於存有不用撰寫程式也能做確認的結構，因此即使抽不出時間學習的人也能輕鬆地挑戰。
+
+"
+9780321213358,0
+9780321109293,"
+
+This example-driven workbook shows how to unleash the significant power of refactoring and improve your software. It aims to help identify where problems in a software application exist or are likely to exist.
+                    
+"
+9780201485677,0
