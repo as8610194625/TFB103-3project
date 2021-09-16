@@ -1,26 +1,41 @@
 import requests
 from bs4 import BeautifulSoup
+import pandas as pd
+import numpy as np
+import time
+from fake_useragent import UserAgent
 
+li = list()
+ua = UserAgent()
+user_agent = ua.random
+keywords = ['dddd','oooo','pppp','jjjj','uuuu']
+def key(keyword):
 
-
-headers = headers = {'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
-page = 1
-book_html = "https://www.kingstone.com.tw/search/key/DeepLearning/page/{}".format(page)
-book_res = requests.get(book_html,headers=headers)
-book_soup = BeautifulSoup(book_res.text,"html.parser")
-# article = book_soup.select('h3[class="pdnamebox"] a')
-pppp = book_soup.select('div[class="txtregion_resultno"]')
-print(pppp)
-# book_aurthor = book_soup.select('li[class="basicunit"] a')
-# book_intro = book_soup.select('div[class="pdintro_txt1field panelCon"]')[0]
-# print(book_aurthor[0],book_aurthor[3])
-# while not article ==[]:
-#     page +=1
-#     book_html = "https://www.kingstone.com.tw/search/key/java/page/{}".format(page)
-#     book_res = requests.get(book_html,headers=headers)
-#     book_soup = BeautifulSoup(book_res.text,"html.parser")
-#     article = book_soup.select('h3[class="pdnamebox"] a')
-#     # book_image = book_soup.select('div[class="alpha_main"] a')[0]['href']
-#     # isbn = book_soup.select('ul[class="table_2col_deda"]')[1].select('li[class="table_td"]')[1].text
-#     print(page)
-#     print('===')
+    kurl = "https://www.kingstone.com.tw/book/{}/".format(keyword)
+    headers = {'User-Agent': user_agent}
+    res = requests.get(kurl,headers=headers)
+    soup = BeautifulSoup(res.text,"html.parser")
+    article = soup.select('nav[class="navcolumn_classlevel"]')[0].select('a[class=""]')
+    # print(article)
+    for a in article:
+        li.append(a.get('href').split('/')[-1])
+    return li
+a = map(key,keywords)
+aaaa =list(a)[-1]
+# print(li)
+ll = []
+def kkkkkey(keyword):
+    kurl = "https://www.kingstone.com.tw/book/{}/".format(keyword)
+    headers = {'User-Agent': user_agent}
+    res = requests.get(kurl,headers=headers)
+    soup = BeautifulSoup(res.text,"html.parser")
+    article = soup.select('nav[class="navcolumn_classlevel"]')[0].select('a[class=""]')
+    # print(article)
+    for a in article:
+        aa = (a.get('href').split('/')[-1])
+        if len(aa) == 3:
+            ll.append(aa)
+    return ll
+b = map(kkkkkey,aaaa)
+bbbb = list(b)[-1]
+print(ll)

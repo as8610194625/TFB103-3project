@@ -5,41 +5,45 @@ import numpy as np
 import time
 from fake_useragent import UserAgent
 
-keywords = [
-    'DeepLearning','深度學習',
-    'Machine Learning','機器學習','TensorFlow','影像辨識','Image-recognition','語音辨識',
-    'Speech-recognition','Computer Vision','電腦視覺','Reinforcement','強化學習','Web API Design',
-    'WebAssembly','Ext JS','TypeScript','React','Golang','Laravel','Ruby','Django','Node.js','Flask',
-    'Linux','Qt Command line','Vim','BSD','Apple Developer','Android','Cross-Platform','Hack','Penetration-test',
-    'Wireshark','Fintech','Blockchain','Amazon Web Services','DevOps','Kubernetes','Microsoft Azure'
-]
-# keywords = [
-#     'NoSQL','MySQL','Oracle','MongoDB','Elasticsearch','PostgreSQL',
-#     'Python','C','C++','Java','JavaScript','PHP','R語言','Text-mining',
-#     '文字探勘','Data-visualization','資料視覺化','ETL網路爬蟲','Data-mining',
-#     '資料探勘','HTML','CSS','Bootstrap','Ajax','jQuery','DeepLearning','深度學習',
-#     'Machine Learning','機器學習','TensorFlow','影像辨識','Image-recognition','語音辨識',
-#     'Speech-recognition','Computer Vision','電腦視覺','Reinforcement','強化學習','Web API Design',
-#     'WebAssembly','Ext JS','TypeScript','React','Golang','Laravel','Ruby','Django','Node.js','Flask',
-#     'Linux','Qt Command line','Vim','BSD','Apple Developer','Android','Cross-Platform','Hack','Penetration-test',
-#     'Wireshark','Fintech','Blockchain','Amazon Web Services','DevOps','Kubernetes','Microsoft Azure','Docker','虛擬化技術',
-#     'Virtualization','OpenStack','Google Cloud','Game-engine','3D-modeling','Game-design','VR/AR','OpenGL','WebGL','Computer-Science',
-#     '計算機概論','Operating-system','作業系統原理','資料結構與演算法','Information-management','資訊管理','Computer-architecture','計算機組織',
-#     'Compiler','編譯器','Computer-networks','TCP/IP','HTTP','Wireless-networks','Mobile-communication','Communication-systems','Wi-Fi','LTE','AutoCAD',
-#     'Artlantis','Catia','CNS','Fusion 360','Mastercam','Photograph','Digital-image','Powerdirector','Videostudio','Illustrator','Design Pattern','Object-oriented',
-#     '物件導向','Refactoring','Domain-DrivenDesign','Access','Excel','Word','PowerPoint'
-# ]
+
+keywords = ['ega', 'egb', 'egc', 'egd', 'ege', 'egf', 'egg', 'egz', 'eha', 'ehb', 'ehc', 'ehd', 'ehe', 'ehf', 'ehg', 'ehh', 'ehi', 'ehj', 'ehz', 'eaa', 'eab', 'eac', 'ead',
+'eae', 'eaf', 'eba', 'ebb', 'ebc', 'ebd', 'ebe', 'ebf', 'ebg', 'ebh', 'ebz', 'eca', 'ecb', 'ecc', 'ecd', 'ece', 'ecz', 'eda', 'edb', 'edc', 'edd', 'efa', 'efb', 'efc', 'efd',
+'efe', 'eff', 'efg', 'efh', 'efi', 'efj', 'efz', 'eea', 'eeb', 'eec', 'eed', 'eee', 'eef', 'eeg', 'eeh', 'eei', 'eia', 'eib', 'eic', 'eid', 'eie', 'eif', 'eig', 'eih', 'eii',
+'eij', 'eik', 'eil', 'eim', 'ein', 'eio', 'ezz', 'bea', 'bef', 'beg', 'beh', 'beb', 'bec', 'bed', 'bee', 'bei', 'bej', 'bda', 'bdo', 'bdc', 'bdf', 'bdg', 'bdh', 'bdi', 'bdj',
+'bdk', 'bdl', 'bdm', 'bdn', 'bdb', 'bde', 'bdd', 'baa', 'bac', 'baj', 'bai', 'bab', 'baf', 'bag', 'bah', 'bad', 'bak', 'bal', 'bcb', 'bca', 'bcc', 'bcg', 'bcf', 'bce', 'bcd',
+'bba', 'bbc', 'bbd', 'bbb', 'bbe', 'bbf', 'bzz', 'hda', 'hdf', 'hdg', 'hdi', 'hdh', 'hdd', 'hdb', 'hdc', 'hde', 'hgg', 'hge', 'hgf', 'hgl', 'hgd', 'hga', 'hgj', 'hgh', 'hgc',
+'hgi', 'hgb', 'hgk', 'hca', 'hcb', 'hcc', 'hcd', 'hce', 'hcf', 'hcg', 'hkb', 'hkf', 'hke', 'hkd', 'hkc', 'hka', 'hld', 'hlc', 'hlb', 'hla', 'hli', 'hlg', 'hlh', 'hlf', 'hle',
+'hmb', 'hmd', 'hme', 'hmc', 'hma', 'hmf', 'hfa', 'hfb', 'hfc', 'hfd', 'hfe', 'hfh', 'hfk', 'hfg', 'hfi', 'hff', 'hfo', 'hfm', 'hfj', 'hfl', 'hfn', 'hfp', 'hfq', 'hfz', 'hhf',
+'hhd', 'hhe', 'hhc', 'hhb', 'hha', 'hhz', 'hea', 'hed', 'heb', 'hec', 'hee', 'hab', 'hac', 'haa', 'hba', 'hbb', 'hbc', 'hbf', 'hbe', 'hbd', 'hia', 'hif', 'hie', 'hic', 'hib',
+'hid', 'hig', 'hiz', 'hja', 'hjb', 'hjc', 'hjz', 'hzz', 'iaa', 'iab', 'ika', 'ikb', 'ikc', 'ikd', 'ikz', 'ila', 'ilb', 'ilc', 'ild', 'ile', 'ilf', 'ilz', 'ima', 'imb', 'imc',
+'imd', 'ime', 'imf', 'img', 'imh', 'imi', 'imz', 'ioa', 'iob', 'ioc', 'iod', 'ioe', 'iof', 'iog', 'ioh', 'ioi', 'ioj', 'iok', 'iol', 'iom', 'ion', 'ioo', 'iop', 'ioq', 'ior',
+'ios', 'ioz', 'ica', 'icb', 'icc', 'icd', 'ice', 'icf', 'icg', 'ich', 'ici', 'icj', 'ick', 'icl', 'icm', 'ico', 'icz', 'iba', 'ibb', 'ibc', 'ibd', 'ibe', 'ibf', 'ibz', 'iea',
+'ide', 'idc', 'idd', 'ida', 'idb', 'idf', 'idg', 'idh', 'idi', 'idz', 'ija', 'ijb', 'ijc', 'ijd', 'ije', 'ijf', 'ijg', 'ijh', 'iji', 'ijz', 'iia', 'iga', 'igb', 'igc', 'igd',
+'iha', 'ihb', 'ihc', 'ihd', 'ifb', 'ifc', 'ifa', 'ifd', 'ife', 'ifz', 'ipa', 'iqa', 'iqb', 'iqc', 'iqd', 'iqe', 'iqf', 'iqg', 'iqp', 'iqh', 'iqi', 'iqj', 'iqk', 'iql', 'iqm',
+'iqn', 'iqo', 'iqz', 'ssz', 'taa', 'tab', 'tac', 'tae', 'taf', 'tag', 'tah', 'tai', 'tak', 'tal', 'tam', 'tan', 'tao', 'taq', 'tar', 'tas', 'tat', 'tau', 'taw', 'tax', 'tba',
+'tbb', 'tbc', 'tbe', 'tbf', 'tbg', 'tbh', 'tbi', 'tbk', 'tbl', 'tbm', 'tbn', 'tbo', 'tbq', 'tbr', 'tbs', 'tbt', 'tbu', 'tbw', 'tbx', 'tca', 'tcb', 'tcc', 'tce', 'tcf', 'tcg',
+'tch', 'tci', 'tck', 'tcl', 'tcm', 'tcn', 'tco', 'tcq', 'tcr', 'tcs', 'tct', 'tcu', 'tcw', 'tcx', 'tcy', 'tcz', 'tc1', 'tc3', 'tc4', 'tda', 'tdb', 'tdc', 'tde', 'tdf', 'tdg',
+'tdh', 'tdi', 'tdk', 'tdl', 'tdm', 'tdn', 'tdo', 'tdq', 'tdr', 'tds', 'tdt', 'tdu', 'tdw', 'tdx', 'tdy', 'tdz', 'td1', 'td3', 'td4', 'tea', 'teb', 'tec', 'tee', 'tef', 'teg',
+'teh', 'tei', 'tek', 'tel', 'tem', 'ten', 'teo', 'teq', 'ter', 'tes', 'tet', 'teu', 'tew', 'tex', 'tey', 'tez', 'te1', 'te3', 'te4', 'tfa', 'tfb', 'tfc', 'tfe', 'tff', 'tfg',
+'tfh', 'tfi', 'tfk', 'tfl', 'tfm', 'tfn', 'tfo', 'tfq', 'tfr', 'tfs', 'tft', 'tfu', 'tfw', 'tfx', 'tfy', 'tfz', 'tf1', 'tf3', 'tf4', 'tga', 'tgb', 'tgc', 'tgd', 'tha', 'thb',
+'thc', 'thd', 'the', 'thf', 'thg', 'thh', 'thi', 'thj', 'thk', 'thl', 'thm', 'thn', 'tho', 'thp', 'thq', 'thr', 'ths', 'tht', 'tia', 'tib', 'tic', 'tid', 'tie', 'tif', 'tig',
+'tih', 'tii', 'tij', 'tik', 'til', 'tim', 'tin', 'tio', 'tip', 'tiq', 'tir', 'tis', 'tit', 'tja', 'tjb', 'tjc', 'tjd', 'tje', 'tjf', 'tjg', 'tjh', 'tji', 'tjj', 'tjk', 'tjl',
+'tjm', 'tjn', 'tjo', 'tjp', 'tjq', 'tjr', 'tjs', 'tjt', 'tka', 'tkb', 'tkc', 'tkd', 'tke', 'tkf', 'tkg', 'tkh', 'tki', 'tkj', 'tkk', 'tkl', 'tkm', 'tkn', 'tko', 'tkp', 'tkq',
+'tkr', 'tks', 'tkt', 'tku', 'tla', 'tlb', 'tlc', 'tld', 'tle', 'tlf', 'tlg', 'tlh', 'tli', 'tlj', 'tlk', 'tll', 'tlm', 'tln', 'tlo', 'tlp', 'tlq', 'tlr', 'tls', 'tlt', 'tlu',
+'tma', 'tmb', 'tmc', 'tmd', 'tme', 'tmf', 'tmg', 'tmh', 'tmi', 'tmj', 'tna', 'tnb', 'tnc', 'tnd', 'tne', 'tnf', 'tng', 'tnh', 'tni', 'tnj', 'toa', 'tob', 'toc', 'tod', 'toe',
+'tof', 'tog', 'toh', 'toi', 'toj', 'tpa', 'tpb', 'tpc', 'tpd', 'tpe', 'tpf', 'tpg', 'tph', 'tpi', 'tpj', 'tqa', 'tqb', 'tqc', 'tqd', 'tqe', 'tqf', 'tqg', 'tqh', 'tqi', 'tqj',
+'tra', 'trb', 'trc', 'trd', 'tre', 'trf', 'trg', 'trh', 'tri', 'trj', 'tsa', 'tsb', 'tsc', 'tsd', 'tse', 'tsf', 'tsg', 'tsh', 'tsi', 'tsj', 'tsk', 'tzz']
 ua = UserAgent()
 user_agent = ua.random
-for keyword in keywords:   
-    kurl = "https://www.kingstone.com.tw/search/key/{}/cl/自然科普_電腦資訊_考試書／政府出版品/".format(keyword)
+for keyword in keywords:
+    kurl = "https://www.kingstone.com.tw/book/{}/".format(keyword)
     page = 0
     article = [0]
     book_np = 0
     while not article == [] :
         try:
             page += 1
-            url = kurl+"page/{}".format(str(page))
+            url = kurl+"?&page={}".format(str(page))
             headers = {'User-Agent': user_agent}
             res = requests.get(url,headers=headers)
             soup = BeautifulSoup(res.text,"html.parser")
@@ -56,7 +60,7 @@ for keyword in keywords:
         else:
             if article != []:
                 for k,i in enumerate (article):
-                    book =list()
+                    book = list()
                     book_intros = list()
                     # book_name = i.text
                     title = i.text
@@ -97,17 +101,17 @@ for keyword in keywords:
                     # time.sleep(3)
                 
                 print("第{}頁".format(page).center(20,"="))
-                time.sleep(9)
+                time.sleep(5)
             else:
                 print("OKOKOK")
                 break
     if soup.select('div[class="txtregion_resultno"]') == []:
-        df = pd.DataFrame(data=book_np,columns=("書名","書籍網站","作者","出版社","ISBN","圖片網址"))
-        df_intro = pd.DataFrame(data=book_intro_np,columns=("ISBN","書籍簡介"))
-        df.to_csv("kingstone_{}.csv".format(keyword),encoding="utf-8-sig",index=False)
-        df_intro.to_csv("kingstone_{}_intro.csv".format(keyword),encoding="utf-8-sig",index=False)
+        df = pd.DataFrame(data=book_np,columns=["書名","書籍網站","作者","出版社","ISBN","圖片網址"])
+        df_intro = pd.DataFrame(data=book_intro_np,columns=["ISBN","書籍簡介"])
+        df.to_csv("./kingstone_datas/books/kingstone_{}.csv".format(keyword),encoding="utf-8-sig",index=False)
+        df_intro.to_csv("./kingstone_datas/intros/kingstone_{}_intro.csv".format(keyword),encoding="utf-8-sig",index=False)
         print("Completed")
-    # time.sleep(5)
+    time.sleep(5)
 
     # time.sleep(90)
 
