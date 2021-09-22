@@ -1,0 +1,25 @@
+﻿書名,書籍網站,作者,出版社,ISBN,圖片網址,書籍簡介
+編譯器實作-使用C,https://www.kingstone.com.tw//basic/2013120081604?zone=book&lid=search&actid=WISE&kw=%E7%B7%A8%E8%AD%AF%E5%99%A8&pi=0,林邦傑,松崗      ,https://cdn.kingstone.com.tw/book/images/product/20131/2013120081604/2013120081604b.jpg,9789861259956.0,"
+
+作者從 Pascal 及 Pl/0 語言選出部份語法，再增加一些新的功能，建構出一個 Pascal Language ONE 編譯器語法，簡稱 plone，唸成 P、Long 或「匹龍」編譯器。plone 儘量保持編譯程式合理、簡單，同時又希望能解釋所有編譯高階語言的最基本理論和觀念，可以說是經過適當折衷後所產生的一種語言，因其保持了相當的簡單性，使得解說能夠透徹清晰，同時又保持了充分的複雜度，使得它成為值得一做的計劃。從訂定 plone 編譯器設計目標，經過掃描程式、語彙分析、語法分析、語意分析、建碼等過程，編譯成功之後產生一個 NASM 組合語言程式指令檔，透過 NASM 組譯成 .com 目的程式，可執行於 Windows 視窗等作業系統。plone 編譯器程式是以 ANSI C 語言撰寫的，目的程式透過 NASM 組合語言組譯，這兩種軟體均可透過網路免費下載使用。plone 編譯器採用由上而下的剖析方法，本書另外提供 flex 軟體及 Bison 軟體的安裝及使用方法，該 Bison 軟體用於產生由下而上的語法分析程式，本書也說明配合 Bison 的語彙分析程式產生器 flex 的使用，這兩種軟體都使用 C 語言撰寫，也都是免費的軟體。
+
+"
+編譯器實作-使用JAVA,https://www.kingstone.com.tw//basic/2014712938689?zone=book&lid=search&actid=WISE&kw=%E7%B7%A8%E8%AD%AF%E5%99%A8&pi=0,林邦傑,松崗      ,https://cdn.kingstone.com.tw/book/images/product/20147/2014712938689/2014712938689b.jpg,9789861259383.0,"
+
+本書的目標是要實作一個編譯器，當編譯完成後產生一個 NASM 組合語言的程式，再透過 NASM 組譯成一個可執行的目的程式（object program）執行於作業系統。本書所用到的軟體 JDK、BlueJ、NASM、JLex、CUP、JFlex 等都是免費、跨平台的軟體，也就是說您可執行於 Windows 作業系統、UNIX 作業系統、Linux 作業系統…等等。本書特色作者從 Pascal 及 Pl/0 語言選出部份語法，再增加一些新的功能，建構出一個 Pascal Language ONE 編譯器語法，簡稱 Plone，唸成 P、Long 或「匹龍」編譯器。Plone 儘量保持編譯程式合理、簡單，同時又希望能解釋所有編譯高階語言的最基本理論和觀念，可以說是經過適當折衷後所產生的一種語言，因其保持了相當的簡單性，使得解說能夠透徹清晰，同時又保持了充分的複雜度，使得它成為值得一做的計劃。從訂定 Plone 編譯器設計目標，經過掃描程式、語彙分析、語法分析、語意分析、建碼等過程，編譯成功之後產生一個 NASM 組合語言程式指令檔，透過 NASM 組譯成 .com 目的程式，可執行於 Windows 視窗等作業系統。Plone 編譯器程式是以 Java 語言 JDK 5 版撰寫的，相關程式（類別）之間的關係以爪哇整合環境 BlueJ 來呈現，目的程式透過 NASM 組合語言組譯，這三種軟體均可透過網路免費下載使用。Plone 編譯器採用由上而下的剖析方法，本書另外提供 CUP 軟體的安裝及使用方法，該 CUP 軟體用於產生由下而上的語法分析程式，本書也說明配合 CUP 的語彙分析程式產生器 JLex 的安裝及使用，這兩種軟體都使用爪哇語言撰寫，也都是免費的軟體。 
+
+"
+C編譯器3.0程式館,https://www.kingstone.com.tw//basic/2014710448685?zone=book&lid=search&actid=WISE&kw=%E7%B7%A8%E8%AD%AF%E5%99%A8&pi=0,宏      ,停售,https://cdn.kingstone.com.tw/book/images/product/20147/2014710448685/2014710448685b.jpg,,0
+專訪蘋果BASIC 編譯器,https://www.kingstone.com.tw//basic/2014710234738?zone=book&lid=search&actid=WISE&kw=%E7%B7%A8%E8%AD%AF%E5%99%A8&pi=0,波前電腦  ,停售,https://cdn.kingstone.com.tw/book/images/product/20147/2014710234738/2014710234738b.jpg,,0
+C編譯器3.0參考手冊,https://www.kingstone.com.tw//basic/2014710443345?zone=book&lid=search&actid=WISE&kw=%E7%B7%A8%E8%AD%AF%E5%99%A8&pi=0,宏      ,停售,https://cdn.kingstone.com.tw/book/images/product/20147/2014710443345/2014710443345b.jpg,,0
+C編譯器3.0使用手冊,https://www.kingstone.com.tw//basic/2014710447343?zone=book&lid=search&actid=WISE&kw=%E7%B7%A8%E8%AD%AF%E5%99%A8&pi=0,宏      ,停售,https://cdn.kingstone.com.tw/book/images/product/20147/2014710447343/2014710447343b.jpg,,0
+C 3.0編譯器參考手冊,https://www.kingstone.com.tw//basic/2014710463329?zone=book&lid=search&actid=WISE&kw=%E7%B7%A8%E8%AD%AF%E5%99%A8&pi=0,船塢      ,停售,https://cdn.kingstone.com.tw/book/images/product/20147/2014710463329/2014710463329b.jpg,,0
+C 3.0編譯器程式館手,https://www.kingstone.com.tw//basic/2014710464241?zone=book&lid=search&actid=WISE&kw=%E7%B7%A8%E8%AD%AF%E5%99%A8&pi=0,宏      ,停售,https://cdn.kingstone.com.tw/book/images/product/20147/2014710464241/2014710464241b.jpg,,0
+專訪蘋果BASIC 編譯器,https://www.kingstone.com.tw//basic/2014710265411?zone=book&lid=search&actid=WISE&kw=%E7%B7%A8%E8%AD%AF%E5%99%A8&pi=0,楊四雄,波前電腦  ,https://cdn.kingstone.com.tw/book/images/product/20147/2014710265411/2014710265411b.jpg,,0
+專訪蘋果BASIC 編譯器,https://www.kingstone.com.tw//basic/2014710288571?zone=book&lid=search&actid=WISE&kw=%E7%B7%A8%E8%AD%AF%E5%99%A8&pi=0,楊國雄,波前電腦  ,https://cdn.kingstone.com.tw/book/images/product/20147/2014710288571/2014710288571b.jpg,,0
+C編譯器4.0參考手冊,https://www.kingstone.com.tw//basic/2014710465873?zone=book&lid=search&actid=WISE&kw=%E7%B7%A8%E8%AD%AF%E5%99%A8&pi=0,瑩圃電腦,宏      ,https://cdn.kingstone.com.tw/book/images/product/20147/2014710465873/2014710465873b.jpg,,0
+超速編譯器,https://www.kingstone.com.tw//basic/2014710503308?zone=book&lid=search&actid=WISE&kw=%E7%B7%A8%E8%AD%AF%E5%99%A8&pi=0,松崗      ,停售,https://cdn.kingstone.com.tw/book/images/product/20147/2014710503308/2014710503308b.jpg,,0
+IBM PC BASIC  編譯器,https://www.kingstone.com.tw//basic/2014710482641?zone=book&lid=search&actid=WISE&kw=%E7%B7%A8%E8%AD%AF%E5%99%A8&pi=0,宏      ,停售,https://cdn.kingstone.com.tw/book/images/product/20147/2014710482641/2014710482641b.jpg,,0
+LOTUS 1-2-3 編譯器BA,https://www.kingstone.com.tw//basic/2014710634842?zone=book&lid=search&actid=WISE&kw=%E7%B7%A8%E8%AD%AF%E5%99%A8&pi=0,瑩圃電腦股,停售,https://cdn.kingstone.com.tw/book/images/product/20147/2014710634842/2014710634842b.jpg,,0
+C 3.0編譯器參考手冊,https://www.kingstone.com.tw//basic/2014710476992?zone=book&lid=search&actid=WISE&kw=%E7%B7%A8%E8%AD%AF%E5%99%A8&pi=0,宏      ,停售,https://cdn.kingstone.com.tw/book/images/product/20147/2014710476992/2014710476992b.jpg,,0
+DBASE III PLUS編譯器,https://www.kingstone.com.tw//basic/2014710535743?zone=book&lid=search&actid=WISE&kw=%E7%B7%A8%E8%AD%AF%E5%99%A8&pi=0,郭隆雄,波前電腦  ,https://cdn.kingstone.com.tw/book/images/product/20147/2014710535743/2014710535743b.jpg,,0

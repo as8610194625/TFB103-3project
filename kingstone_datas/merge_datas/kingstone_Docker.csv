@@ -1,0 +1,462 @@
+﻿書名,書籍網站,作者,出版社,ISBN,圖片網址,書籍簡介
+Docker Step-by-Step,https://www.kingstone.com.tw//basic/203c106257727?zone=english&lid=search&actid=WISE&kw=Docker&pi=0,"Brandon,Shaw",Ingram      ,https://cdn.kingstone.com.tw/english/images/product/1965/9781716391965.jpg,9781716391965,"
+
+Learn how to use the open-source software platform that will help you to create, deploy, and run your applications using containers!This step-by-step guide is the essential introduction you need to Docker and the proprietary process of containerization. With the information in this book, you will learn how to set up a coding environment on Linux, Mac, or Windows workstation and you will learn each of the commands that you will need in order to run and manage the images and containers in your environment.This guide will take you from a beginner's knowledge of Docker, all the way to expert. You will be able to navigate the DockerFile and you will learn how to use Docker to build enterprise-grade Docker images. This guide will teach you about Docker swarm, Docker volumes, and Docker networks so you can use all of these features with Docker stacks. This will allow you to deploy, define, and maintain completely scalable and fault-tolerant multi-container applications.In this guide, you will learn: How to set up your Docker workstation on several platformsHow to utilize a number of commands with parameters that are specific to DockerHow to create and use Docker volumesHow to scale your multi-container operations so growth is not only possible, it's assuredSo much more!Don't wait; ﻿get your introduction to Docker today and learn how you can implement this revolutionary platform with your team, on the most popular operating systems on the market today.Buy your copy now and get started on containerizing your applications!
+                    
+"
+NoSQL開發完美方案：Redis+Docker高性能虛擬化實戰,https://www.kingstone.com.tw//basic/2013120594272?zone=book&lid=search&actid=WISE&kw=Docker&pi=0,高洪岩,深智數位  ,https://cdn.kingstone.com.tw/book/images/product/20131/2013120594272/2013120594272b.jpg,9789860776140,"
+
+
+還在MySQL嗎？
+	全世界都在NoSQL了，首選當然就是Redis！
+	好裝好用還能用Docker做叢集分佈，帶你進入巨量資料的世界。
+
+
+	絕大多數Redis初學者只會拿Redis當Map用，只會在單機環境上只會針對String資料類型進行SET和GET操作，這當然不是Redis！Redis本身就支援多台叢集的功能，這才是NoSQL的精神所在。當系統出現大量存取需求時，單台Redis伺服器並沒有形成高可用的運行環境，這也是大家使用Redis最常見的錯誤。
+
+	本書程式設計師提供一本實戰開發的Redis圖書，包括高頻使用的Redis運行維護知識、使用常用的Redis Java Client API框架Jedis來操作Redis伺服器的知識和技能。書中充實地介紹了常用Command命令的使用方法，介紹的命令的覆蓋率達到90%以上。當然最流行的Docker佈署方式也是Redis的最佳拍檔，本書也完全介紹。
+
+▌本書重點
+	完整解析Redis的5大資料類型String、Hash、List、Set和Sorted Set
+	Connection類型命令
+	Key類型命令
+	HyperLogLog、Redis Bloom布隆篩檢程式
+	控制頻率的Redis-Cell模組
+	高性能佇列的Pub/Sub命令
+	資料排序統計的Streaming
+	批次執行的Pipelining
+	持久化、主從複製以及檢查點的故障發現/轉移
+	使用ACL來對Key進行保護
+
+▌目標讀者
+	所有使用 Redis 和 Jedis 進行程式設計的開發人員。
+	伺服器和資料儲存系統開發人員。
+	分散式系統架構師。
+	網際網路技術程式設計師。
+	網際網路技術架構師。
+
+"
+Docker para novatos,https://www.kingstone.com.tw//basic/203c103155833?zone=english&lid=search&actid=WISE&kw=Docker&pi=0,"Gerardo,G Urtiaga",Lulu.com    ,https://cdn.kingstone.com.tw/english/images/product/5069/9781716185069.jpg,9781716185069,0
+"Bootstrapping Microservices with Docker, Kubernetes, and Terraform",https://www.kingstone.com.tw//basic/203c103523166?zone=english&lid=search&actid=WISE&kw=Docker&pi=0,"Ashley,Davis",Manning Publications,https://cdn.kingstone.com.tw/english/images/product/7212/9781617297212.jpg,9781617297212,"
+
+Summary The best way to learn microservices development is to build something! Bootstrapping Microservices with Docker, Kubernetes, and Terraform guides you from zero through to a complete microservices project, including fast prototyping, development, and deployment. You'll get your feet wet using industry-standard tools as you learn and practice the practical skills you'll use for every microservices application. Following a true bootstrapping approach, you'll begin with a simple, familiar application and build up your knowledge and skills as you create and deploy a real microservices project.  Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.  About the technology Taking microservices from proof of concept to production is a complex, multi-step operation relying on tools like Docker, Terraform, and Kubernetes for packaging and deployment. The best way to learn the process is to build a project from the ground up, and that's exactly what you'll do with this book!  About the book In Bootstrapping Microservices with Docker, Kubernetes, and Terraform, author Ashley Davis lays out a comprehensive approach to building microservices. You'll start with a simple design and work layer-by-layer until you've created your own video streaming application. As you go, you'll learn to configure cloud infrastructure with Terraform, package microservices using Docker, and deploy your finished project to a Kubernetes cluster.  What's inside  Developing and testing microservices applications Working with cloud providers Applying automated testing Implementing infrastructure as code and setting up a continuous delivery pipeline Monitoring, managing, and troubleshooting About the reader Examples are in JavaScript. No experience with microservices, Kubernetes, Terraform, or Docker required.  About the author Ashley Davis is a software developer, entrepreneur, stock trader, and the author of Manning's Data Wrangling with JavaScript.  Table of Contents 1 Why microservices? 2 Creating your first microservice 3 Publishing your first microservice 4 Data management for microservices 5 Communication between microservices 6 Creating your production environment 7 Getting to continuous delivery 8 Automated testing for microservices 9 Exploring FlixTube 10 Healthy microservices 11 Pathways to scalability
+                    
+"
+Docker Demystified,https://www.kingstone.com.tw//basic/203c011457534?zone=english&lid=search&actid=WISE&kw=Docker&pi=0,"Saibal,Ghosh",Bpb Publications,https://cdn.kingstone.com.tw/english/images/product/5877/9789389845877.jpg,9789389845877,"
+
+Build robust and secure applications using the building blocks of Docker  Key FeaturesUnderstand the fundamentals of Containers. Understand the working of the entire Docker ecosystem.  Learn how to utilize Docker Networking capabilities to its fullest. Learn how to secure Docker Containers. Get familiar and work with Docker Enterprise Edition. DescriptionThe book starts by introducing Containers and explains how they are different from virtual machines, and why they are the preferred tool for developing applications. You will understand the working of Images, Containers, and their associated Storage and will see how all the moving parts bind together to work synchronously. The book will then focus on Docker Swarm, the mechanism for orchestrating several running Docker containers. It then delves deeper into Docker Networking. Towards the end, you will learn how to secure your applications, especially by leveraging the native features of Docker Enterprise Edition.What will you learn Learn how to use Docker Images. Get to know more about Docker Storage.  Learn how to use Volume plugins in Docker services.  Learn how to deploy a service to the Swarm. Learn how to manage, scale, and maintain containerized applications. Who this book is for This book is for anyone who is looking to learn Docker. It is also useful for professionals who are looking to build and deploy web apps using Docker.Table of Contents 1. Introduction to Containerization and Docker2. Containers and Images3. Storage Drivers and Volumes4. The Container Network Model and the Docker Bridge5. Docker Swarm6. Docker Networking7. Docker Security-18. Docker Security-IIAbout the Authors  Saibal Ghosh has spent a substantial part of his career working with databases. However, in the last few years, he gravitated towards the cloud, cloud security, and newer technologies like Docker and Kubernetes. He has developed a deep understanding of these concepts and technologies bolstered by the insight gained from many years of experience working with applications, databases, storage and infrastructure, and the understanding of how data is stored, moved, and secured.He currently works as a Principal Architect in Ericsson India Ltd. and spends a substantial amount of time playing around with Docker and Kubernetes. He holds numerous certifications around applications, databases, cloud, and cloud security and is also a member of Leader's Excellence, Harvard Square.  Your LinkedIn Profile:  https: //www.linkedin.com/in/saibal-ghosh-mle%E2%84%A0-ccsk-prince2-%C2%AE-469b0a7/
+                    
+"
+The Docker Workshop,https://www.kingstone.com.tw//basic/203c101313030?zone=english&lid=search&actid=WISE&kw=Docker&pi=0,"Vincent,Sesto",Packt       ,https://cdn.kingstone.com.tw/english/images/product/3444/9781838983444.jpg,9781838983444,"
+
+Get started with Docker on your local machine and progress towards deploying useful applications in production with this simplified, practical guideKey FeaturesGet a working understanding of Docker containers by incorporating them in your development processComplete interesting exercises to learn how to secure and control access of your containersWork with advanced features of Docker to make your development process smoother and reliableBook DescriptionNo doubt Docker Containers are the future of highly-scalable software systems and have cost and runtime efficient supporting infrastructure. But learning it might look complex as it comes with many technicalities. This is where The Docker Workshop will help you.Through this workshop, you'll quickly learn how to work with containers and Docker with the help of practical activities. The workshop starts with Docker containers, enabling you to understand how it works. You'll run third party Docker images and also create your own images using Dockerfiles and multi-stage Dockerfiles. Next, you'll create environments for Docker images, and expedite your deployment and testing process with Continuous Integration. Moving ahead, you'll tap into interesting topics and learn how to implement production-ready environments using Docker Swarm. You'll also apply best practices to secure Docker images and to ensure that production environments are running at maximum capacity. Towards the end, you'll gather skills to successfully move Docker from development to testing, and then into production. While doing so, you'll learn how to troubleshoot issues, clear up resource bottlenecks and optimize the performance of services.By the end of this workshop, you'll be able to utilize Docker containers in real-world use cases.What you will learnGet a solid understanding of how Docker containers workNetwork Docker images and environments to allow communication between servicesBuild and publish docker images from a CI/CD pipelineUse Docker Swarm to implement production-ready environmentsFind out how to replace Swarm with Kubernetes clustersExtend your Docker images with PluginsWho this book is for﻿This is the right learning asset if you are a developer or a beginner who wants to get a practical understanding of Docker containers. If you have experienced in running command shells or knowledge of IntelliJ, atom, or VSCode editors, then you will grasp the topics covered here quickly.
+                    
+"
+比Docker再高階一步：使用Harbor完成Helm Chart容器及鏡像雲端原生管理,https://www.kingstone.com.tw//basic/2013120582521?zone=book&lid=search&actid=WISE&kw=Docker&pi=0,張海寧、鄒佳、王岩、尹文開,深智數位  ,https://cdn.kingstone.com.tw/book/images/product/20131/2013120582521/2013120582521b.jpg,9789865501891,"
+
+
+► 自建叢集、高可用、Web UI系統來管理私有倉庫的docker映像檔，再也不用擔心安全上的問題
+► 可以實作在私有雲、內網，當然也可以運用在公有雲以及S3、Google等儲存桶中
+
+	在雲端原生生態中，容器映像檔和其他雲端原生製品的管理與分發是至關重要的一環。
+
+	本書由中國VMware的十位首席工程師所開發出來，針對docker映像檔的倉庫管理頂級專案Harbor立即成為當紅炸子雞。Harbor是一個專門用來管理映像檔倉庫的私有雲架構，有完整的WebUI，並且具備高可用性、叢集管理等等。其使用ssl的方式達成https的登入，可以用公開的CA或是自己的簽章，再加上虛擬機，把整個Docker生態圈更帶入了一個新的境界。從小型公司到大型企業都可以把自己的映像檔托管在自己的server farm。
+
+	這是IT微服務的里程碑。
+
+	本書對開源雲端原生製品倉庫Harbor展開全面講解，由Harbor開源專案維護者和貢獻者傾力撰寫，內容涵蓋Harbor的架構、原理、功能、部署與配置、運維、定制化開發、API、專案治理和成功案例等。很多未公開發表的內容在本書中都有詳盡講解，如：Harbor的架構原理；OCI製品的支援方式；高可用製品倉庫的設計要點；映像檔等製品的掃描；許可權和安全性原則；備份與恢復策略；API使用指南等。
+
+	全書內容分為13章，由多位作者合力完成，以更準確地闡釋對應的內容。
+
+	◎第1章 介紹雲端原生應用的產生背景、以映像檔為主的製品管理原理和標準，以及製品倉庫的作用。
+	◎第2章 概述Harbor 功能和架構，為讀者了解後續的章節做準備。
+	◎第3章 詳細說明Harbor 的安裝、部署，包含高可用部署的方案要點、對Harbor 的入門性介紹。
+	◎第4章 介紹Harbor 支援和管理OCI 製品原理、常見OCI 製品的使用方法。
+	◎第5章 闡釋Harbor 的許可權管理和存取控制的原理，以及相關設定方法。
+	◎第6章 解析Harbor 中可使用的安全性原則，包含可信任的內容分發和漏洞掃描機制。
+	◎第7章 說明映像檔、Helm Chart 等製品在Harbor 中的遠端複製原理，以及與其他倉庫服務的整合原理。
+	◎第8章 詳述Harbor 的進階管理功能，包含資源配額、垃圾回收、不可變Artifact、保留策略、Webhook 等。
+	◎第9章 解釋Harbor 生命週期的管理過程，包含備份、恢復、升級的步驟和方法。
+	◎第10章 整理Harbor 的API 的使用方法並列出程式設計範例。
+	◎第11章 描述Harbor 後台非同步任務系統的機制，並分析其主要原始程式碼的工作原理。
+	◎第12章 匯集和整理Harbor 與其他系統的整合方法及社區使用者的成功案例。
+	◎第13章 介紹Harbor 開放原始碼社區的管理原則、警告機制和開放原始碼專案的參與方式，並展望專案的發展方向。
+
+	我們建議讀者這樣使用本書：
+	■ 對雲端原生領域特別是容器技術不太了解的讀者，可以先閱讀第 1 章的基礎知識；
+	■ 初次接觸 Harbor 的讀者，可以直接閱讀第 2 章以快速了解 Harbor 的功能和架構；
+	■ 希望快速上手 Harbor 的讀者，可以按照第 3 章的說明，從部署 Harbor 倉庫軟體著手；
+	■ 對 Harbor 有一定使用經驗的讀者，可以隨選閱讀第 3 ∼ 13 章的內容；
+	■ 有意向參與 Harbor 開放原始碼專案貢獻的開發者，可以重點閱讀第 13 章。
+
+	適合讀者群：Harbor用戶、開發者和貢獻者、雲端原生軟體發展工程師、測試工程師、運維工程師、IT架構師和IT技術經理，或是相關學科的大專院校師生。
+
+本書特色
+
+	◎全面、深入講解Harbor
+	◎涵蓋眾多企業使用Harbor的案例
+	◎Harbor專案維護者及貢獻者傾力打造的好書
+
+"
+Kubernetes and Docker - An Enterprise Guide,https://www.kingstone.com.tw//basic/203c011482209?zone=english&lid=search&actid=WISE&kw=Docker&pi=0,"Scott,Surovich",Packt       ,https://cdn.kingstone.com.tw/english/images/product/3403/9781839213403.jpg,9781839213403,"
+
+Containerization has changed the DevOps game completely, with Docker and Kubernetes playing important roles in altering the flow of app creation and deployment. This book will help you acquire the knowledge and tools required to integrate Kubernetes clusters in an enterprise environment.The book begins by introducing you to Docker and Kubernetes fundamentals, including a review of basic Kubernetes objects. You'll then get to grips with containerization and understand its core functionalities, including how to create ephemeral multinode clusters using kind. As you make progress, you'll learn about cluster architecture, Kubernetes cluster deployment, and cluster management, and get started with application deployment. Moving on, you'll find out how to integrate your container to a cloud platform and integrate tools including MetalLB, externalDNS, OpenID connect (OIDC), pod security policies (PSPs), Open Policy Agent (OPA), Falco, and Velero. Finally, you will discover how to deploy an entire platform to the cloud using continuous integration and continuous delivery (CI/CD).By the end of this Kubernetes book, you will have learned how to create development clusters for testing applications and Kubernetes components, and be able to secure and audit a cluster by implementing various open-source solutions including OpenUnison, OPA, Falco, Kibana, and Velero.
+                    
+"
+Mastering Docker - Fourth Edition,https://www.kingstone.com.tw//basic/203c011116823?zone=english&lid=search&actid=WISE&kw=Docker&pi=0,"Russ,McKendrick",Packt       ,https://cdn.kingstone.com.tw/english/images/product/6572/9781839216572.jpg,9781839216572,"
+
+Unlock the full potential of the Docker containerization platform with this practical guideKey FeaturesExplore tools such as Docker Engine, Machine, Compose, and SwarmDiscover how you can integrate Docker into your everyday workflowsGet well-versed with Kubernetes options such as Minikube, Kind, and MicroK8sBook descriptionDocker has been a game changer when it comes to how modern applications are deployed and created. It has now grown into a key driver of innovation beyond system administration, with a significant impact on the world of web development. Mastering Docker shows you how you can ensure that you're keeping up with the innovations it's driving and be sure you're using it to its full potential. This fourth edition not only demonstrates how to use Docker more effectively but also helps you rethink and reimagine what you can achieve with it.You'll start by building, managing, and storing images along with exploring best practices for working with Docker confidently. Once you've got to grips with Docker security, the book covers essential concepts for extending and integrating Docker in new and innovative ways. You'll also learn how to take control of your containers efficiently using Docker Compose, Docker Swarm, and Kubernetes.By the end of this Docker book, you'll have a broad yet detailed sense of what's possible with Docker and how seamlessly it fits in with a range of other platforms and tools.What you will learnGet to grips with essential Docker components and conceptsDiscover the best ways to build, store, and distribute container imagesUnderstand how Docker can fit into your development workflowSecure your containers and files with Docker's security featuresExplore first-party and third-party cluster tools and pluginsLaunch and manage your Kubernetes clusters in major public cloudsWho this book is for﻿﻿﻿If you are a software architect, DevOps engineer, sysadmin, or IT professional looking to leverage Docker's extensive features for innovating any process from system administration to web development, Mastering Docker will show you how you can use it to its full potential. A basic understanding of containerization and prior Docker experience is necessary.
+                    
+"
+Docker for Developers,https://www.kingstone.com.tw//basic/203c009900552?zone=english&lid=search&actid=WISE&kw=Docker&pi=0,"Mike,Schwartz",Packt       ,https://cdn.kingstone.com.tw/english/images/product/6058/9781789536058.jpg,9781789536058,"
+
+Learn how to deploy and test Linux-based Docker containers with the help of real-world use casesKey Features  Understand how to make a deployment workflow run smoothly with Docker containers Learn Docker and DevOps concepts such as continuous integration and continuous deployment (CI/CD) Gain insights into using various Docker tools and libraries  Book Description Docker is the de facto standard for containerizing apps, and with an increasing number of software projects migrating to containers, it is crucial for engineers and DevOps teams to understand how to build, deploy, and secure Docker environments effectively. Docker for Developers will help you understand Docker containers from scratch while taking you through best practices and showing you how to address security concerns. Starting with an introduction to Docker, you'll learn how to use containers and VirtualBox for development. You'll explore how containers work and develop projects within them after you've explored different ways to deploy and run containers. The book will also show you how to use Docker containers in production in both single-host set-ups and in clusters and deploy them using Jenkins, Kubernetes, and Spinnaker. As you advance, you'll get to grips with monitoring, securing, and scaling Docker using tools such as Prometheus and Grafana. Later, you'll be able to deploy Docker containers to a variety of environments, including the cloud-native Amazon Elastic Kubernetes Service (Amazon EKS), before finally delving into Docker security concepts and best practices. By the end of the Docker book, you'll be able to not only work in a container-driven environment confidently but also use Docker for both new and existing projects. What you will learn  Get up to speed with creating containers and understand how they work Package and deploy your containers to a variety of platforms Work with containers in the cloud and on the Kubernetes platform Deploy and then monitor the health and logs of running containers Explore best practices for working with containers from a security perspective Become familiar with scanning containers and using third-party security tools and libraries  Who this book is for If you're a software engineer new to containerization or a DevOps engineer responsible for deploying Docker containers in the cloud and building DevOps pipelines for container-based projects, you'll find this book useful. This Docker containers book is also a handy reference guide for anyone working with a Docker-based DevOps ecosystem or interested in understanding the security implications and best practices for working in container-driven environments.
+                    
+"
+Docker Certified Associate (DCA),https://www.kingstone.com.tw//basic/203c101367390?zone=english&lid=search&actid=WISE&kw=Docker&pi=0,"Francisco Javier Ram穩rez,Urea",Packt       ,https://cdn.kingstone.com.tw/english/images/product/1898/9781839211898.jpg,9781839211898,0
+The SQL Server Dba’s Guide to Docker Containers,https://www.kingstone.com.tw//basic/203c002307312?zone=english&lid=search&actid=WISE&kw=Docker&pi=0,"Edwin M,Sarmiento",Apress      ,https://cdn.kingstone.com.tw/english/images/product/8255/9781484258255.jpg,9781484258255,"
+
+Get introduced to the world of Docker Containers from a SQL Server DBA's perspective. This book explains container technology and how it can improve the deployment of your SQL Server databases without infrastructure lock-in. You will be equipped with the right technical skills to guide stakeholders in your business as they adopt and adapt to new technologies to improve time-to-market and competitiveness. You will learn how to build a lab environment at home on which to build skills that transfer directly into your day job. This book teaches you how to install and configure Docker on both Windows Server and Linux operating systems. You will learn the most common Docker commands that you need to know as a DBA to deploy and manage SQL Server on containers. Support for SQL Server on Linux is new, and this book has your back with guidance on creating Docker images specifically for deployment to a Linux platform. Included is coverage of key Linux commands needed to manage SQL Server on that operating system. By the end of the book you will have learned how to create your own custom SQL Server container images with configuration settings that are specific to your organization, that are capable of being deployed to both Windows Server and Linux. What You Will LearnCreate Docker containers for agile deployment of SQL ServerRun multiple SQL Server instances on a single Linux machineDeploy custom images specific to your organization's needsKnow the benefits and architecture of container technologyInstall and configure Docker on Windows Server and Linux Manage and persist SQL Server data in Docker containersWho This Book Is ForIntermediate to senior SQL Server DBAs who are familiar with SQL Server on Windows and want to build their existing skills to deploy and manage SQL Server on Linux and through Docker containers. Readers should have a grasp of relational database concepts and be comfortable with the Transact-SQL language.
+
+"
+實況直播：用Docker建構大型資料中心,https://www.kingstone.com.tw//basic/2013120560093?zone=book&lid=search&actid=WISE&kw=Docker&pi=0,馬獻章,深智數位  ,https://cdn.kingstone.com.tw/book/images/product/20131/2013120560093/2013120560093b.jpg,9789865501518,"
+
+
+帶你一窺全球巨型IDC的Docker佈建實況
+
+
+本書重點
+
+	全書主要分為三大部分，可分別對應到雲端服務的IaaS, PaaS及SaaS。
+
+	第一部分 偏向硬體及基礎設施的佈建，說明資料中心的建置計劃及導論。從人員、流程、管理、技術四大方面對整個IDC進行設計及建置，幫虛擬機或容器的執行環境打好基礎。
+
+	第二部分 用容器取代傳統的伺服器/虛擬機/作業系統，針對Docker進行說明。包括建立安全的Docker映像檔倉庫、Docker的安全策略、大規模的使用Docker，在了解IDC的理論之後幫你把Docker架上多台主機。
+
+	第三部分 進階的技術，偏向平台建置，主要包括企業等級的資料建模，分別針對傳統的SQL及NoSQL進行最佳化，並進一步說明什麼是軟體定義一切。
+
+	適合讀者群 雲端運算時代決策者、數據分析師、系統架構師、技術開發者。
+
+本書特色
+
+	資料中心已不再是伺服器或虛擬機為主的運算實體了，容器才是王道！
+	Amazon EC2、Google Cloud Platform，無不採用了以容器為主的微服務。
+	Docker及Kubernetes已成為架構大型運算的主流，本書將帶讀者一窺全球巨型IDC的Docker佈建實況。
+
+"
+Learn Docker － Fundamentals of Docker 19.x,https://www.kingstone.com.tw//basic/203c004153087?zone=english&lid=search&actid=WISE&kw=Docker&pi=0,"Schenker,Gabriel N",Packt       ,https://cdn.kingstone.com.tw/english/images/product/7472/9781838827472.jpg,9781838827472,0
+IT進階修煉：從Docker到Kubernetes實作指南,https://www.kingstone.com.tw//basic/2013120547483?zone=book&lid=search&actid=WISE&kw=Docker&pi=0,龔正、吳治輝、王偉,佳魁      ,https://cdn.kingstone.com.tw/book/images/product/20131/2013120547483/2013120547483b.jpg,9789863798019,"
+
+為渴望理解、迅速上手Kubernetes的程式設計人員提供全方位的指南！※ 從入門到精通完整學習※ 內容詳實、圖文並茂※ 涵蓋Kubernetes全部特性※ 大量實例操作、詳細程式碼解析※ 結合作者實作經驗，深度解析常見關鍵問題本書作者全部來自惠普公司雲端運算實作第一線，擁有豐富Kubernetes實戰經驗，對Kubernetes這個複雜的系統進行精闢的分析和解剖。全書闡述Kubernetes的基本概念，共分為六大章節，涵蓋了入門、實作指南、架構原理、開發指南、進階案例、運行維護指南和原始程式分析等，內容豐富、圖文並茂，幾乎涵蓋Kubernetes的各方面。對生產環境中可能出現的問題，提供大量的典型案例，如安全配置、網路方案、共用存儲方案、高可用性方案及Trouble Shooting技巧等，非常具有實作參考價值。為渴望理解、迅速上手Kubernetes的程式設計人員提供全方位的指南，也為資深架構師拓寬思路提供源泉。適用：軟體工程師、測試工程師、運行維護工程師、軟體架構師、技術經理，資深IT人士。
+                    
+"
+DockerThe Ultimate Beginners Guide to Learn Docker Step－By－Step,https://www.kingstone.com.tw//basic/203c004914479?zone=english&lid=search&actid=WISE&kw=Docker&pi=0,"Reed,Mark",Publishing Factory LLC,https://cdn.kingstone.com.tw/english/images/product/0057/9781647710057.jpg,9781647710057,"
+
+Do you want to easily create, deploy and run apps using containers?Do you want to collaborate seamlessly on your app's operating system with a team?This book will show how Docker could be the answer for you!Docker is the perfect tool that was designed specifically to make it easier for you to create, deploy and run applications by using containers which allow developers to package an application with all of the parts required. It provides a lightweight environment to run codes and is perfect as a version control system for your entire app's operating system.Now, with Docker: The Ultimate Beginners Guide to Learn Docker Step-By-Step, you can learn more about this versatile system and what it can do for you, helping to: Realize a greater return on investmentBuild a container image and use it across every step of the deployment processUse it in a wide variety of environmentsReduce deployment to secondsEnsure your applications and resources are isolated and segregatedHave complete control over traffic flow and managementAnd more...Docker has fast become one of the go-to systems for those who want to automate the deployment of applications inside software containers and its versatility and ease of use functions make it perfect for beginners who want to learn more.Get a copy of Docker: The Ultimate Beginners Guide to Learn Docker Step-By-Step now and see what it could do for you!
+                    
+"
+DockerThe Ultimate Beginners Guide to Learn Docker Step－By－Step,https://www.kingstone.com.tw//basic/203c004914483?zone=english&lid=search&actid=WISE&kw=Docker&pi=0,"Reed,Mark",Publishing Factory LLC,https://cdn.kingstone.com.tw/english/images/product/0828/9781647710828.jpg,9781647710828,"
+
+Do you want to easily create, deploy and run apps using containers?Do you want to collaborate seamlessly on your app's operating system with a team?This book will show how Docker could be the answer for you!Docker is the perfect tool that was designed specifically to make it easier for you to create, deploy and run applications by using containers which allow developers to package an application with all of the parts required. It provides a lightweight environment to run codes and is perfect as a version control system for your entire app's operating system.Now, with Docker: The Ultimate Beginners Guide to Learn Docker Step-By-Step, you can learn more about this versatile system and what it can do for you, helping to:   Realize a greater return on investment Build a container image and use it across every step of the deployment process Use it in a wide variety of environments Reduce deployment to seconds Ensure your applications and resources are isolated and segregated Have complete control over traffic flow and management And more...  Docker has fast become one of the go-to systems for those who want to automate the deployment of applications inside software containers and its versatility and ease of use functions make it perfect for beginners who want to learn more. Get a copy of Docker: The Ultimate Beginner's Guide to Learn Docker Step-By-Step now and see what it could do for you!
+                    
+"
+現在學正是時候：用Docker+Kubernetes建立永續叢集服務,https://www.kingstone.com.tw//basic/2013120550766?zone=book&lid=search&actid=WISE&kw=Docker&pi=0,羅利民,深智數位  ,https://cdn.kingstone.com.tw/book/images/product/20131/2013120550766/2013120550766b.jpg,9789865501341,"
+
+
+還在用虛擬機器？是時候開始用Docker了
+	未來五年領導雲端運算發展的核心技術必然是容器技術。現在越來越多的IT公司逐漸拋棄傳統的虛擬化技術，而轉向輕量化的容器技術。
+
+主流雲端服務商已經開始支援Docker
+	雲端服務提供商，包含微軟、IBM、Rackspace、Google以及其他主要的Linux提供商如Canonical和Red Hat，都開始支援Docker。
+
+Docker和Kubernetes如何改變傳統的虛擬化技術？
+	Docker和Kubernetes給虛擬化技術帶來了革命性的改變，給開發人員以及系統管理員提供了一個平台，使設定和部署分散式應用變得更加容易，讓應用真正實現零當機。
+
+本書真的適合你嗎？
+	本書幫你從傳統的虛擬化技術過渡到Docker，再過渡到Kubernetes時代；本書全面而又簡潔地介紹了Docker，輕鬆掃除初學者學習本書的障礙；本書從最簡單的實例出發，逐步深入，使得讀者能夠在輕鬆愉快的過程中，學習到新的技術；本書摒棄了過多的理論介紹，突出了日常開發和運行維護必需的基礎知識，可謂去蕪存菁，取精用宏
+
+本書特點
+
+	（1）本書不論是理論知識的介紹，還是實例的選擇，都是從實際應用的角度出發，精心選擇運行維護和開發過程中典型實例，說明細緻，分析透徹。
+
+	（2）深入淺出、輕鬆易學，以Docker和Kubernetes重要基礎知識為主線，觸發讀者的閱讀興趣，讓讀者能夠真正學習到Docker和Kubernetes實用、前端的技術。
+
+	（3）技術新穎、與時俱進，結合時下最熱門的技術，如微服務、叢集以及自動化運行維護等，讓讀者在學習Docker和Kubernetes的同時，擴大知識面，了解和掌握更多的、更先進的運行維護技術。
+
+	（4）接近讀者、接近實際，大量成熟技巧和經驗的介紹，幫助讀者快速找到問題的最佳答案，及時解決運行維護和開發過程中遇到的問題。
+
+	（5）貼心提醒，本書根據需要在各章使用了很多“注意”“提示”等小提示，讓讀者可以在學習過程中更輕鬆地了解相關概念及基礎知識。
+
+	（6）本書匯集了作者大量的實戰經驗，不僅可以作為入門教學，還可以作為運行維護和開發的參考書。
+
+"
+Kubernetes,https://www.kingstone.com.tw//basic/203c011141520?zone=english&lid=search&actid=WISE&kw=Docker&pi=0,"Brian,Docker",Marketing Vision Ltd,https://cdn.kingstone.com.tw/english/images/product/4136/9781914054136.jpg,9781914054136,"
+
+With Kubernetes, it is possible and easy for you to automate the deployment, management, and scaling of any containerized applications. You can use this container to group containers which make up a particular application into a number of logical units to make it easy for discovery and management. This container operates by use of the same technique which makes Google run many containers numbering in the billions on a weekly basis, and it can scale and you will not be required to increase the ops team. Kubernetes is a very flexible container, whether you are running it locally or on a global enterprise, and it will allow you to be able to deliver your container in an easier and more consistent manner despite how complex it might be. It is open source, and you are able to move your workloads to where you need. A large number of major companies appreciate the potential to save on costs when it comes to containers and Kubernetes. In particular, containers are more lightweight than VMs and can share a single OS, which causes a significant decrease in the costs of infrastructure. Their maintenance costs are also low. Additionally, they have faster CI/CD pipelines and allow your development and engineering teams better coordination with each other. Adding Kubernetes to the equation more benefits are gained. By autoscaling you can save more. The other benefits include efficient application scheduling, efficient cluster-level resource management, and rolling updates. - How Kubernetes operates- Deployment- Kubernetes pods- Kubernetes services- Kubernetes design patterns- Kubernetes cliene libraries and extensions- Logging- The intricacies of this management plane in Kubernetes- Cluster federation- Kubernetes ingress...And much moreOverall, you can expect to save your team's time and also make a two-digit saving all thanks to both containerized applications and container orchestration. Applications are deployed through containers focusing on operating-system-level virtualization as opposed to hardware virtualization. This enables us to put an end to the limitations of the host by selecting executable file-systems, libraries, and etc. With Kubernetes, connecting applications with appropriate services through configuring firewalls of the cloud service providers can be made at once. In complex configurations, it creates an external load-balancer and discovering cross-cluster service through the use of federated services.
+
+"
+Grpc: Up and RunningBuilding Cloud Native Applications with Go and Java for Docker and Kub,https://www.kingstone.com.tw//basic/203c002678979?zone=english&lid=search&actid=WISE&kw=Docker&pi=0,"Indrasiri,Kasun",Ingram      ,https://cdn.kingstone.com.tw/english/images/product/8335/9781492058335.jpg,9781492058335,"
+
+Get a comprehensive understanding of gRPC fundamentals through real-world examples. With this practical guide, you'll learn how this high-performance interprocess communication protocol is capable of connecting polyglot services in microservices architecture, while providing a rich framework for defining service contracts and data types.Complete with hands-on examples written in Go, Java, Node, and Python, this book also covers the essential techniques and best practices to use gRPC in production systems. Authors Kasun Indrasiri and Danesh Kuruppu discuss the importance of gRPC in the context of microservices development.
+                    
+"
+Etude et mise en place d’un 矇cosyst癡me microservices avec Docker,https://www.kingstone.com.tw//basic/203c004937657?zone=english&lid=search&actid=WISE&kw=Docker&pi=0,"Tekou,Kodjo Richard",Editions Universitaires Europeen,https://cdn.kingstone.com.tw/english/images/product/9886/9786139559886.jpg,9786139559886,"
+
+Ce projet s'inscrit dans le cadre d'un stage de fin d'矇tudes au sein de l'entreprise BANKeVI GROUPE au TOGO. G矇n矇ralement, les services r矇seaux (web, php, mysql, ftp...) n矇cessaires au bon fonctionnement d'une application sont regroup矇s au sein de l'environnement contenant l'application. Or ces services sont souvent tr癡s li矇s entre eux, un probl癡me au niveau d'un service peut mettre toute l'application hors service. L'entreprise nous a ainsi confi矇 la mission de mettre en place un 矇cosyst癡me microservices. Un environnement dans lequel ces services fonctionneraient ind矇pendamment les uns des autres. Ainsi, on pourra modifier, ajouter, supprimer un service autant de fois qu'on le souhaite sans impact sur les autres. Les microservices avec la technologie Docker se trouvent 礙tre la solution la plus appropri矇e pour aboutir ? ce r矇sultat.
+                    
+"
+Spring Cloud & Docker雙劍制霸：微服務架構實戰應用技術,https://www.kingstone.com.tw//basic/2013120520905?zone=book&lid=search&actid=WISE&kw=Docker&pi=0,周立,佳魁      ,https://cdn.kingstone.com.tw/book/images/product/20131/2013120520905/2013120520905b.jpg,9789863797784,"
+
+隨著業務的發展、程式的堆砌，公司專案變得日益臃腫、複雜、開發效率低落、難以維護？我們迫切需要能夠解放生產力的新技術──微服務架構Spring Cloud！作者為Spring Cloud社區創辦者之一，以實戰開發者之豐富經驗，將設定簡單、設計優雅的Spring Cloud所有相關的基礎知識和工具的使用，在本書中進行完整而精闢的剖析；最後則說解了如何將Spring Cloud微服務應用部署運行在Docker上，讓架構系統得予快速、輕鬆且高效運用。精彩內容：本書涵蓋了微服務理論、開發框架（Spring Cloud）以及執行平台（Docker）三大主題。❑ Part 1（第1章）：有系統的介紹微服務架構。❑ Part 2（第2-11章）：使用Spring Cloud開發框架編寫一個「電影售票系統」。❑ Part 3（第12-14章）：說明如何將微服務實際執行在Docker平台上。全書採用精心設計的Demo驅動，以連貫的場景、真實的程式範例，來引導讀者學習如何使用強大的微服務技術實現架構設計。本書涵蓋最新版本架構所獨具的技術特性、技巧及案例，幫助讀者避開升級過程中可能遭遇到的困難與陷阱。更多理論性的內容 （如Cloud Native、12-factor APP、DDD等） 在文中皆以「延伸閱讀」、「Tips」或「Warning」的形式註記，提供有興趣的讀者依此專研，擴展視野。商品特色：．Spring Cloud是集微服務框架大成的超值套件．Docker是終極高效輕量級虛擬化的雲端超容器．一個實例貫穿Spring Cloud、微服務架構以及與Docker整合，一試就能上手掌握架構基礎與應用技術。適用讀者群：Java工程師、系統架構師和運行維護人員，以及對 Spring Cloud 有興趣的技術同好。
+                    
+"
+Docker專業養成：活用基礎與實踐技能 暢銷回饋版,https://www.kingstone.com.tw//basic/2013120524453?zone=book&lid=search&actid=WISE&kw=Docker&pi=0,熊昌隆,博碩文化  ,https://cdn.kingstone.com.tw/book/images/product/20131/2013120524453/2013120524453b.jpg,9789864344437,"
+
+
+★重版出來！本書上市以來即榮獲讀者們一致好評讚賞★
+★特價回饋限量上市！精通Docker的精彩內容盡在本書★
+
+	本書介紹許多Docker的使用方法，並以專門章節示範Docker的實踐之道。透過這些操作範例的引導，避免讀者進行紙上談兵式的閱讀，也使得章節之間的概念藉由範例串聯起來。此外，透過通俗語言將晦澀的知識以生活化的方式展現出來，讓讀者，特別是初學者更容易理解Docker。
+
+本書特色
+
+	*集結各地最新資料，整理出重點菁華，提供瞭解Docker的最佳捷徑。
+	*以淺顯文字說明，從不同角度解讀和展現Docker的概念、原理以及實際案例。
+	*不同領域或者對Docker有著不同認知的開發者，都能從中得到想要的知識。
+
+"
+Docker,https://www.kingstone.com.tw//basic/203c809320722?zone=english&lid=search&actid=WISE&kw=Docker&pi=0,"Kane, Sean P.",Oreilly &   ,https://cdn.kingstone.com.tw/english/images/product/6739/9781492036739.jpg,9781492036739,"
+
+Docker is rapidly changing the way organizations deploy software at scale. However, understanding how Linux containers fit into your workflow--and getting the integration details right--is not a trivial task. With the updated edition of this practical guide, you'll learn how to use Docker to package your applications with all of their dependencies and then test, ship, scale, and support your containers in production.This edition includes significant updates to the examples and explanations that reflect the substantial changes that have occurred over the past couple of years. Sean Kane and Karl Matthias have added a complete chapter on Docker Compose, deeper coverage of Docker Swarm mode, introductions to both Kubernetes and AWS Fargate, examples on how to optimize your Docker images, and much more.Learn how Docker simplifies dependency management and deployment workflow for your applicationsStart working with Docker images, containers, and command line toolsUse practical techniques to deploy and test Docker containers in productionDebug containers by understanding their composition and internal processesDeploy production containers at scale inside your data center or cloud environmentExplore advanced Docker topics, including deployment tools, networking, orchestration, security, and configuration
+                    
+"
+Accelerating Development Velocity Using Docker,https://www.kingstone.com.tw//basic/203c901890249?zone=english&lid=search&actid=WISE&kw=Docker&pi=1,"Jangla, Kinnary",Apress      ,https://cdn.kingstone.com.tw/english/images/product/9353/9781484239353.jpg,9781484239353,"
+
+ Discover how a software engineer can leverage Docker in order to expedite development velocity. This book focuses on the fundamental concepts this program is built upon and explores how it can help you get your services up and running inside Docker containers. You'll also review tips on how to debug microservices applications that run inside Docker containers.Tech companies are now developing complex softwares that are comprised of multiple services running on different platforms, and Docker has become an essential part of coordinating the communication between these services and platforms. This book addresses problems caused by drifting microservices, debugging across services, inconsistent environments across machines, and coordinating development of machine learning systems between a team of developers, etc. Accelerating Development Velocity Using Docker puts you on the path to transforming your complex systems into more efficient ones.What You'll LearnSetup Docker and employ quick solutions to road blocksReview challenges associated with debugging microservices that sit behind a complex applicationLeverage Docker features to seamlessly get multiple microservices up and runningDebug inside a Docker containerReview advanced use cases of Docker that can help consistency of development environments- Who This Book Is ForIdeal for new to mid-level infrastructure engineers who want to learn how to make their development environments efficient across their and cross teams, or for students who aspire to learn basics of how to debug distributed systems and how to develop efficient applications.
+
+"
+Docker工作現場實戰寶典,https://www.kingstone.com.tw//basic/2014713574633?zone=book&lid=search&actid=WISE&kw=Docker&pi=1,Ken Cochrane等,碁峰資訊  ,https://cdn.kingstone.com.tw/book/images/product/20147/2014713574633/2014713574633b.jpg,9789865020637,"
+
+Docker是一個用於建立、傳送、管理和保護容器的開源平台，目前已經是用容器化技術的首選工具。隨著容器化技術趨勢的確立，Docker勢必將在未來扮演更重要的角色。 本書從建置Docker開始，告訴您如何使用Docker映像，然後，帶領您深入研究容器的網路和資料管理，並傳授您在使用Docker時遇到問題如何快速解決的實際經驗。 透過本書，您將了解如何： ．在各種平台上安裝Docker ．使用Docker映像和容器 ．在容器中使用網路與資料共享 ．Docker API和語言綁定 ．Docker的各種PaaS解決方案 ．使用Docker Swarm和Kubernetes實現容器編排 ．管理容器的安全性 ．在AWS與Azure上使用Docker
+                    
+"
+Practical Docker with Python,https://www.kingstone.com.tw//basic/203c103851171?zone=english&lid=search&actid=WISE&kw=Docker&pi=1,"Sathyajith,Bhat",Apress      ,https://cdn.kingstone.com.tw/english/images/product/7830/9781484237830.jpg,9781484237830,"
+
+Learn the key differences between containers and virtual machines. Adopting a project based approach, this book introduces you to a simple Python application to be developed and containerized with Docker.After an introduction to Containers and Docker you'll be guided through Docker installation and configuration. You'll also learn basic functions and commands used in Docker by running a simple container using Docker commands. The book then moves on to developing a Python based Messaging Bot using required libraries and virtual environment where you'll add Docker Volumes to your project, ensuring your container data is safe. You'll create a database container and link your project to it and finally, bring up the Bot-associated database all at once with Docker Compose. What You'll LearnBuild, run, and distribute Docker containersDevelop a Python App and containerize itUse Dockerfile to run the Python AppDefine and run multi-container applications with Docker Compose Work with persisting data generated by and used by Docker containersWho This Book Is ForIntermediate developers/DevOps practitioners who are looking to improve their build and release workflow by containerizing applications
+                    
+"
+docker雲端超容器絕佳利器：終極高效輕量級虛擬化工具,https://www.kingstone.com.tw//basic/2013120503977?zone=book&lid=search&actid=WISE&kw=Docker&pi=1,浙江大學SEL實驗室,佳魁      ,https://cdn.kingstone.com.tw/book/images/product/20131/2013120503977/2013120503977b.jpg,9789863797470,"
+
+◆ 快速程式碼部署－將小型的容器化應用程式自動化為可攜式且可自足的容器，在各類雲端或個人單機都能輕鬆發佈、部署與執行。◆ 標準化應用程式操作－語法簡單易懂，有穩固的工具和立即可用之應用程式生態系統，還能提供完整控制權，並能加速檢測、監測與排除或補救問題。◆ 無縫移動程式碼－將開發程式用容器打包起來，快速移植到另一個平台。◆ Docker讓使用者可在每部伺服器上，都能輕鬆同時執行數百個不同的虛擬應用程式，不只提高資源使用率還能節省成本。本書以原始碼解讀為基礎，以構建Docker容器雲端服務平台為目標，通過回應實際專案問題為線索，全面解析Docker概念及原理，同時深入實踐Docker三件套件和雲端平臺，並加深入解讀Kubernetes的專業書籍；此外基於Docker1.10以上版本，新增runc和libnetwork兩個全新而又十分重要的概念；以及基於Kubernetes1.2以上版本，全面解讀volume plugin、secret、auto scaling等全新特性。適用對象：有一定Docker基礎的開發者、架構師、電腦相關科系學生，以及探索基於Docker構建雲端計算平台的技術人員，也非常適合作為大專院校教材或培訓資料。商品特色：◆ 全面性深入探究主流容器雲技術架構方法。◆ 從原始碼解讀深度剖析Docker核心原理。◆ 完全解析Kubernetes技術原理及設計概念。◆ 介紹Docker典型編排部屬工具「三劍客」與「Fleet」。◆ 進階Docker、Kubernetes高階技巧實踐與應用。
+                    
+"
+徹底改變Spring Cloud的生態：使用Docker實作微服務架構,https://www.kingstone.com.tw//basic/2013120484634?zone=book&lid=search&actid=WISE&kw=Docker&pi=1,周立,佳魁數位  ,https://cdn.kingstone.com.tw/book/images/product/20131/2013120484634/2013120484634b.jpg,9789863797098,"
+
+
+✤本書特色：
+
+  
+
+ 隨著業務的發展、程式的堆砌，公司專案變得日益臃腫、複雜、開發效率低落、難以維護？我們迫切需要能夠解放生產力的新技術──微服務架構Spring Cloud！
+
+  
+
+ 作者為 Spring Cloud 社區的創辦者之一，以實戰開發者的豐富經驗，將設定簡單、設計優雅的 Spring Cloud 所有相關的基礎知識和工具的使用，做完整而精闢的剖析。
+
+  
+
+✤精彩內容：
+
+  
+
+ 本書涵蓋了微服務理論、開發框架 (Spring Cloud) 以及執行平台 (Docker) 三大主題。
+
+  
+
+❑ Part 1 (第1章)：有系統的介紹微服務架構；
+
+  
+
+❑ Part 2 (第2-11章)：使用Spring Cloud開發框架編寫一個「電影售票系統」；
+
+  
+
+❑ Part 3 (第12-14章)：說明如何將微服務實際執行在Docker平台上。
+
+  
+
+ 全書採用精心設計的Demo驅動，以連貫的場景、真實的程式範例，來引導讀者學習如何使用強大的微服務技術實現架構設計。本書涵蓋最新版本架構所獨具的技術特性、技巧及案例，幫助讀者避開升級過程中可能遭遇到的困難與陷阱。
+
+  
+
+ 更多理論性的內容 (如Cloud Native、12-factor APP、DDD等) 在文中皆以「延伸閱讀」、「Tips」或「Warning」的形式註記，提供有興趣的讀者依此專研，擴展視野。
+
+  
+
+✤適用讀者群：
+
+  
+
+ Java工程師、系統架構師和運行維護人員，以及對 Spring Cloud 有興趣的技術同好。
+
+"
+實戰Docker|使用Windows Server 2016/Windows 10,https://www.kingstone.com.tw//basic/2014713558657?zone=book&lid=search&actid=WISE&kw=Docker&pi=1,Elton Stoneman,碁峰資訊  ,https://cdn.kingstone.com.tw/book/images/product/20147/2014713558657/2014713558657b.jpg,9789864767915,"
+
+本書將引領大家踏上Docker之旅，從關鍵概念和簡單的範例開始，教你如何用Windows Docker容器運行.NET Framework和.NET Core應用程式，然後會逐步進行到更複雜的範例，加上若干真實世界的Docker實作案例研究，從小規模的自製應用程式、到Azure的超大型應用程式都涵蓋其中。 你會從本書學到： ．涵蓋Docker關鍵概念：映像檔、容器、Registry及swarms ．在Windows 10、Windows Server 2016和雲端等環境運行Docker ．跨越多重Docker容器部署和監視分散式解決方案 ．以Docker Swarm運行容器，達到高可用性和容錯功能 ．深入掌握Docker平台安全性，讓應用程式更為安全 ．以Docker運行Jenkins，建構持續部署管線 ．利用Visual Studio為運行在Docker容器裡的應用程式除錯 ．如何規劃導入Docker
+                    
+"
+Google御用Docker叢集管理Kubernetes（2018全新修訂）,https://www.kingstone.com.tw//basic/2013120460102?zone=book&lid=search&actid=WISE&kw=Docker&pi=1,吳龍輝,佳魁      ,https://cdn.kingstone.com.tw/book/images/product/20131/2013120460102/2013120460102b.jpg,9789863796206,"
+
+
+	Kubernetes 是Google 開放原始碼的容器叢集管理系統，它對於容器執行時期、編排、正常服務都抽象設計出了準確完整的API，並以此建立起一個開放原始碼的系統，符合企業化需求，每家企業都可以以此架設出自動化和標準化的底層平台，以最佳化研發和營運效率。Kubernetes 可以說是Google 借助著容器領域的爆發，對於其巨大規模資料中心管理的豐富經驗的一次實作，旨在建立新的技術業界標準。
+
+本書特色
+
+	● Docker使用者一定要學的叢集管理
+	● 支援Docker-machine，Docker-composer
+	● 使用etcd來建立紀錄服務
+	● 使用Mesos來完成發現服務
+	● 可以用在Google的雲端平台
+	● 比Docker-Swarm整合度更棒的容器管理
+
+"
+Docker 專業養成：活用基礎與實踐技能,https://www.kingstone.com.tw//basic/2013120455535?zone=book&lid=search&actid=WISE&kw=Docker&pi=1,熊昌隆,博碩文化  ,https://cdn.kingstone.com.tw/book/images/product/20131/2013120455535/2013120455535b.jpg,9789864342648,"
+
+
+	本書介紹許多Docker的使用方法，並以專門章節示範Docker的實踐之道。透過這些操作範例的引導，避免讀者進行紙上談兵式的閱讀，也使得章節之間的概念藉由範例串聯起來。此外，透過通俗語言將晦澀的知識以生活化的方式展現出來，讓讀者，特別是初學者更容易理解Docker。
+
+本書特色
+
+	*集結各地最新資料，整理出重點菁華，提供瞭解Docker的最佳捷徑。
+	*以淺顯文字說明，從不同角度解讀和展現Docker的概念、原理以及實際案例。
+	*不同領域或者對Docker有著不同認知的開發者，都能從中得到想要的知識。
+
+"
+Docker這樣學才有趣：從入門，到玩直播、挖礦,https://www.kingstone.com.tw//basic/2013120452749?zone=book&lid=search&actid=WISE&kw=Docker&pi=1,余嘉適,松崗      ,https://cdn.kingstone.com.tw/book/images/product/20131/2013120452749/2013120452749b.jpg,9789572246559,"
+
+實際帶領讀者動手操作，了解Docker可以應用的領域及方法從Docker安裝和必學的功能指令教起，即使沒有接觸過的讀者也能逐漸上手。以使用需求的角度來幫助讀者找到使用Docker解決問題的方式。精選九個實用、常用和有趣的Docker實作範例帶領讀者親自動手做。本書的前半段以解決一般學習Docker時，常會遇到的問題和困擾的方式，來幫助讀者快速地找到心中疑難的解答，利用這種方式加深學習的印象。第二個部份開始，則帶領讀者實際運用Docker自動爬Flicker相片、搭配YouTube做影片直播分享，以及運用Docker玩挖礦，讓讀者動手操作實際了解Docker可以應用的領域及方法。此書可以幫助讀者以使用需求的角度來找到使用Docker解決問題的方式，不需要花太多時間在瞭解Docker和Container的運作，也不需要硬背大量的Docker指令，只要明白什麼情況下可以用何種的Docker功能和方式來解決問題，這樣，就能善用Docker來減化日常工作的負擔了。
+                    
+"
+比VM粒度更細的Container時代來臨：使用Docker不再需要架設系統(全新第二版),https://www.kingstone.com.tw//basic/2013120459403?zone=book&lid=search&actid=WISE&kw=Docker&pi=1,浙江大學SEL實驗室,佳魁數位  ,https://cdn.kingstone.com.tw/book/images/product/20131/2013120459403/2013120459403b.jpg,9789863796237,"
+
+
+	自本書第1版出版以來，容器生態圈已經發生翻天覆地的變化。新的開放原始碼專案層出不窮，各個開放原始碼專案都在快速反覆運算演進。Docker已經從本書第1版裡的1.6.2發展為目前的1.10。Kubernetes也從本書第1版裡的0.16發展到現在的1.2，並且在1.0.1版本時宣佈其已經正式進入可投入生產環境（production ready）的狀態。
+
+	 
+
+	本書根據Docker 1.10版和Kubernetes 1.2版對第1版進行全面更新，從實踐者的角度出發，以Docker和Kubernetes為重點，沿著「基本用法介紹」到「核心原理解讀」到「進階實作技巧」，層層推進，全面介紹Docker以及圍繞Docker建置的各種容器雲端平台技術，深入分析Kubernetes背後的技術原理和設計思想。有助於讀者在實際場景中利用Docker容器和容器雲解決問題並啟發新的思考。
+
+	 
+
+	適用：有一定Docker基礎的開發者、架構師、電腦相關科系學生，以及探索基於Docker構建雲端計算平台的技術人員，也非常適合作為大專院校教材或培訓資料。
+
+"
+Docker,https://www.kingstone.com.tw//basic/203c504118900?zone=english&lid=search&actid=WISE&kw=Docker&pi=1,"Matthias, Karl",Oreilly &   ,https://cdn.kingstone.com.tw/english/images/product/7572/9781491917572.jpg,9781491917572,0
+Using Docker,https://www.kingstone.com.tw//basic/203c505966576?zone=english&lid=search&actid=WISE&kw=Docker&pi=1,"Mouat, Adrian",Oreilly &   ,https://cdn.kingstone.com.tw/english/images/product/5769/9781491915769.jpg,9781491915769,"
+
+Docker containers offer simpler, faster, and more robust methods for developing, distributing, and running software than previously available. With this hands-on guide, you'll learn why containers are so important, what you'll gain by adopting Docker, and how to make it part of your development process.Ideal for developers, operations engineers, and system administrators--especially those keen to embrace a DevOps approach--Using Docker will take you from Docker and container basics to running dozens of containers on a multi-host system with networking and scheduling. The core of the book walks you through the steps needed to develop, test, and deploy a web application with Docker.Get started with Docker by building and deploying a simple web applicationUse Continuous Deployment techniques to push your application to production multiple times a dayLearn various options and techniques for logging and monitoring multiple containersExamine networking and service discovery: how do containers find each other and how do you connect them?Orchestrate and cluster containers to address load-balancing, scaling, failover, and schedulingSecure your system by following the principles of defense-in-depth and least privilege
+                    
+"
+第一次用Docker就上手,https://www.kingstone.com.tw//basic/2014713532091?zone=book&lid=search&actid=WISE&kw=Docker&pi=1,李金榜、尹燁、劉天斯等,碁峰資訊  ,https://cdn.kingstone.com.tw/book/images/product/20147/2014713532091/2014713532091b.jpg,9789864764877,"
+
+本書的目的是為了幫助剛開始接觸Docker的初學者快速入門，了解實際應用Docker時應該掌握的知識。 透過本書，您可以了解： ．Docker的特性、使用場景、原理、基本的操作和指令 ．Docker的映像檔管理與倉庫管理 ．Docker的網路和儲存管理 ．Docker的日常維護 ．如何應用Docker Swarm容器叢集 ．如何開發Docker外掛程式 ．Etcd、Cadvisor與Kubernetes的應用 ．Docker原始碼的目錄結構和編譯方法
+                    
+"
+Docker in Practice,https://www.kingstone.com.tw//basic/203c601490772?zone=english&lid=search&actid=WISE&kw=Docker&pi=1,"Miell, Ian",Manning     ,https://cdn.kingstone.com.tw/english/images/product/2729/9781617292729.jpg,9781617292729,0
+Docker入門與實戰第二版,https://www.kingstone.com.tw//basic/2014713528896?zone=book&lid=search&actid=WISE&kw=Docker&pi=1,楊保華、戴王劍、曹亞侖,碁峰資訊  ,https://cdn.kingstone.com.tw/book/images/product/20147/2014713528896/2014713528896b.jpg,9789864764860,"
+
+學習Docker的經典入門書暢銷升級版 在雲端運算時代，開發者將應用轉移到雲端已經解決了硬體管理的問題，然而軟體配置和管理相關的問題依然存在。Docker的出現正好能幫助軟體開發人員，嘗試新的軟體管理方法來解決這個問題。藉由掌握Docker，開發人員便可享受先進的自動化運維理念和工具，無需運維人員介入，即可順利運行於各種執行環境。 透過本書，您可以瞭解： ．Docker和容器的相關基礎知識 ．如何撰寫Dockerfile設定檔 ．如何透過Docker來執行常見的作業系統環境 ．如何利用Docker建置Web服務 ．如何在容器中搭建和配置SQL和NoSQL資料庫軟體 ．如何在Azure公有雲虛擬主機部署Docker ．Docker的核心實作技術 ．Docker使用網路的進階配置方式 ．Docker生態系統
+                    
+"
+Docker in Action,https://www.kingstone.com.tw//basic/203c507206500?zone=english&lid=search&actid=WISE&kw=Docker&pi=1,"Nickoloff, Jeff",Manning     ,https://cdn.kingstone.com.tw/english/images/product/0235/9781633430235.jpg,9781633430235,"
+
+SummaryDocker in Action teaches readers how to create, deploy, and manage applications hosted in Docker containers.Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.About the TechnologyThe idea behind Docker is simple. Create a tiny virtual environment, called a container, that holds just your application and its dependencies. The Docker engine uses the host operating system to build and account for these containers. They are easy to install, manage, and remove. Applications running inside containers share resources, making their footprints small.About the BookDocker in Action teaches readers how to create, deploy, and manage applications hosted in Docker containers. After starting with a clear explanation of the Docker model, you will learn how to package applications in containers, including techniques for testing and distributing applications. You will also learn how to run programs securely and how to manage shared resources. Using carefully designed examples, the book teaches you how to orchestrate containers and applications from installation to removal. Along the way, you'll discover techniques for using Docker on systems ranging from dev-and-test machines to full-scale cloud deployments.What's InsidePackaging containers for deploymentInstalling, managing, and removing containersWorking with Docker imagesDistributing with DockerHubAbout the ReaderReaders need only have a working knowledge of the Linux OS. No prior knowledge of Docker is assumed.About the AuthorJeff Nickoloff, a software engineer, has presented Docker and its applications to hundreds of developers and administrators at Desert Code Camp, Amazon.com, and technology meetups.Table of ContentsPART 1 KEEPING A TIDY COMPUTERWelcome to DockerRunning software in containersSoftware installation simplifiedPersistent storage and shared state with volumesNetwork exposureLimiting risk with isolationPART 2 PACKAGING SOFTWARE FOR DISTRIBUTIONPackaging software in imagesBuild automation and advanced image considerationsPublic and private software distributionRunning customized registriesPART 3 MULTI-CONTAINER AND MULTI-HOST ENVIRONMENTSDeclarative environments with DockerClusters with Machine and Swarm
+                    
+"
+Docker Cookbook,https://www.kingstone.com.tw//basic/203c505757744?zone=english&lid=search&actid=WISE&kw=Docker&pi=1,"Goasguen, S嶵astien",Oreilly &   ,https://cdn.kingstone.com.tw/english/images/product/9712/9781491919712.jpg,9781491919712,"
+
+Whether you're deploying applications on premise or in the cloud, this cookbook provides developers, operators, and IT professionals with more than 130 proven recipes for working with Docker.With these practical solutions, experienced developers with no previous knowledge of Docker will be able to package and deploy distributed applications within a couple of chapters. IT professionals will be able to solve everyday problems, as well as create, run, share, and deploy Docker images. Operators will quickly be able to adopt the tools that will change the way they work.The recipes in this book will help you: Manage containers, mount data volumes, and link containersCreate and share container imagesNetwork containers across single or multiple hostsTackle advanced topics such as Docker configuration and developmentDeploy multi-container applications on a distributed cluster with KubernetesUse a new generation of operating systems optimized for DockerLearn tools for application deployment, continuous integration, service discovery, and orchestrationAccess a Docker host on Amazon AWS, Google GCE, and Microsoft AzureMonitor containers and explore different application use cases
+                    
+"
+Google御用Docker叢集管理Kubernetes,https://www.kingstone.com.tw//basic/2013120404038?zone=book&lid=search&actid=WISE&kw=Docker&pi=1,吳龍輝,佳魁      ,https://cdn.kingstone.com.tw/book/images/product/20131/2013120404038/2013120404038b.jpg,9789863794097,"
+
+
+	Kubernetes 是Google 開放原始碼的容器叢集管理系統，它對於容器執行時期、編排、正常服務都抽象設計出了準確完整的API，並以此建立起一個開放原始碼的系統，符合企業化需求，每家企業都可以以此架設出自動化和標準化的底層平台，以最佳化研發和營運效率。Kubernetes 可以說是Google 借助著容器領域的爆發，對於其巨大規模資料中心管理的豐富經驗的一次實作，旨在建立新的技術業界標準。
+
+本書特色
+
+	● Docker使用者一定要學的叢集管理
+	● 支援Docker-machine，Docker-composer
+	● 使用etcd來建立紀錄服務
+	● 使用Mesos來完成發現服務
+	●  可以用在Google的雲端平台
+	●  比Docker-Swarm整合度更棒的容器管理
+
+	適合：希望學習和使用Kubernetes 以及正在尋找管理資料中心解決方案的軟體工程師和架構師。
+
+"
+Docker錦囊妙計,https://www.kingstone.com.tw//basic/2014713494726?zone=book&lid=search&actid=WISE&kw=Docker&pi=1,Sébastien Goasguen,歐萊禮    ,https://cdn.kingstone.com.tw/book/images/product/20147/2014713494726/2014713494726b.jpg,9789864760800,"
+
+本書提供開發者、維運者和IT專業人員超過130個Docker的使用訣竅，幫助您是公司內部或是在雲端環境部署應用程式。 透過這些實用解決方案，有經驗的開發者，在閱讀過幾個章節後，便能立刻上手Docker，了解如何包裝部署分散式應用程式。IT專業人員，可以利用建立、執行、分享和部署Docker映像檔來可解決日常工作上問題，維運人員則可利用本書介紹的工具來改進工作方式。 本書可幫助您： ．管理容器，掛載data volumes和串連容器 ．建立並分享容器映像檔 ．涵蓋單一主機或多台伺服器的容器網路設定 ．解決如Docker設定和開發相關進階議題 ．在Kubernetes分散式叢集部署多個容器化應用程式 ．使用對Docker最佳化的新世代作業系統 ．學習軟體開發、持續整合、軟體服務發掘和調控等相關工具 ．存取Amazon AWS、Google GCE和微軟Azure的Docker伺服器 ．監控容器並探索各種不同的容器應用情境
+                    
+"
+Genomics in the Cloud,https://www.kingstone.com.tw//basic/203c710511416?zone=english&lid=search&actid=WISE&kw=Docker&pi=1,"O'connor, Brian D.",Oreilly &   ,https://cdn.kingstone.com.tw/english/images/product/5190/9781491975190.jpg,9781491975190,"
+
+Data in the genomics field is booming. In just a few years, organizations such as the National Institutes of Health (NIH) will host 50+ petabytes--or 52.4 million gigabytes--of genomic data, and they're turning to cloud infrastructure to make that data available to the research community. How do you adapt analysis tools and protocols to access and analyze that data in the cloud?With this practical book, researchers will learn how to work with genomics algorithms using open source tools including the Genome Analysis Toolkit (GATK), Docker, WDL, and Terra. Brian O'Connor of the UC Santa Cruz Genomics Institute and Geraldine Van der Auwera, longtime custodian of the GATK user community, guide you through the process. You'll learn by working with real data and genomics algorithms from the field.This book takes you through: Essential genomics and computing technology backgroundBasic cloud computing operationsGetting started with GATKThree major GATK best practices for variant discovery pipelinesAutomating analysis with scripted workflows using WDL and CromwellScaling up workflow execution in the cloud, including parallelization and cost optimizationInteractive analysis in the cloud using Jupyter notebooksSecure collaboration and computational reproducibility using Terra
+                    
+"
+Docker編配的奧義,https://www.kingstone.com.tw//basic/2013120341319?zone=book&lid=search&actid=WISE&kw=Docker&pi=1,Shrikrishna Holla,博碩文化  ,https://cdn.kingstone.com.tw/book/images/product/20131/2013120341319/2013120341319b.jpg,9789864340347,"
+
+
+Linux的新一代虛擬化輕量雲端應用執行容器
+ 輕鬆加快開發工作，有效管理並簡化部署應用程式流程
+
+  
+
+ 自2014年Docker發行後，在雲端與應用程式部署世界中開啟了新的視野，而當Google官方發言人Joe Beda說出「Everything at Google runs in a container」，亦即Google現在的服務都已使用容器來執行後，大家開始真正地正視這個未來的趨勢，也就是「輕量化容器」的技術。
+
+  
+
+ 這個技術的進步不是以「年」計的，它發展的快速程度是以「月」計算的，也就是每個月都有新的開發成果加入，來使其更完善、更有效率…。究竟是那一個如此受寵的技術呢？答案是－「Docker」。
+
+  
+
+ Docker是由DotCloud公司（目前更名為Docker公司）所開發的新一代容器技術，他們不但釋出了Docker成為開放原始碼，並公開表示會全心投入Docker的技術發展。Docker用的是Linux核心技術，利用如：namespaces、cgroups、AppArmor profiles等，來建置出一個隔離的虛擬環境。
+
+  
+
+ 使用Docker有以下優勢：
+ ‧比虛擬機器更有效率地使用主機資源
+ ‧能在應用程式部署至線上環境後，確保它能與在開發環境同樣的正常運作
+ ‧加快雲端多主機的自動化部署
+ ‧更容易除錯與模組化
+ ‧擁有由非常多的使用者所貢獻出各類用途的映像檔可下載
+ ‧具備由官方管理的映像檔案庫(Docker hub)
+
+  
+
+ 在這個趨勢列車高速行馳的過程，你一定不想錯過，一定要加入或瞭解它。
+
+"
+比VM粒度更細的Container時代來臨：使用Docker,https://www.kingstone.com.tw//basic/2013120364479?zone=book&lid=search&actid=WISE&kw=Docker&pi=1,浙江大學SEL實驗室,佳魁      ,https://cdn.kingstone.com.tw/book/images/product/20131/2013120364479/2013120364479b.jpg,9789863792628,"
+
+
+	．從原始程式層面深度解析Docker核心原理
+	．Kubernetes原始程式完全解讀
+	．涵蓋Docker 進階實作技巧
+	．深入分析各種容器雲端平台技術架構
+
+專家推薦
+
+	本書宏觀上描繪容器和容器雲技術發展的浪潮和生態系統，微觀上以Docker 和Kubernetes 為典型進行深度分析。無論是Docker 技術同好，還是系統架構師、雲端開發者、系統管理和運行維護人員，都能在本書中找到適合自己閱讀的要點。－劉俊，百度運行維護部進階架構師，百度最高獎獲得者
+
+	浙江大學SEL實驗室屬於較早接觸並研究開放原始碼PaaS技術的團隊之一，到新一代以Docker 為基礎的PaaS 平台如DEIS、Flynn 等，均有深入的研究和實作經驗。華為PaaS 團隊也在與之交流中汲取不少營養。他們將近年來對Docker容器和Kubernetes、DEIS、Flynn 等PaaS 開放原始碼平台的研究成果結整合冊，內容詳盡且深入淺出。我相信，無論是入門者還是老手，都能夠從中獲益。－劉赫偉，華為中央軟體院進階軟體架構師
+
+	容器技術在大型網際網路企業中已廣泛應用，而Docker 是容器技術中的傑出代表。本書不僅介紹Docker 基礎知識，而且進行程式級的深入分析，並透過對Kubernetes 等技術的說明延伸至叢集作業系統以及對Docker 生態領域的思考，同時結合了大量實作，內容豐富，值得擁有。－王煒煜，百度運行維護部進階架構師，JPaaS 專案負責人
+
+"
+Docker入門與實戰,https://www.kingstone.com.tw//basic/2014713458476?zone=book&lid=search&actid=WISE&kw=Docker&pi=1,楊保華、戴王劍、曹亞侖,碁峰資訊  ,https://cdn.kingstone.com.tw/book/images/product/20147/2014713458476/2014713458476b.jpg,9789863476580,"
+
+認識最夯的虛擬化技術 在雲端運算時代，開發者將應用轉移到雲端已經解決了硬體管理的問題，然而軟體配置和管理相關的問題依然存在。Docker的出現正好能幫助軟體開發人員，嘗試新的軟體管理方法來解決這個問題。藉由掌握Docker，開發人員便可享受先進的自動化運維理念和工具，無需運維人員介入，即可順利運行於各種執行環境。 本書分為三大部分：Docker入門、實戰案例和進階議題。第一部分（第1～8章）介紹Docker與虛擬化技術的基本概念，包括安裝、鏡像、容器、倉庫、資料管理等；第二部分（第9～17章）通過案例介紹Docker的應用方法，包括與各種作業系統平臺、SSH服務的鏡像、Web伺服器與應用、資料庫的應用、各類程式設計語言的介面、私有倉庫等；第三部分（第18～21章）是一些進階議題，如Docker核心技術、安全、進階網路配置、相關專案等。 本書從基本原理開始入手，深入淺出地講解Docker的構建與操作，可協助您快速上手並了解如何應用Docker。
+                    
+"

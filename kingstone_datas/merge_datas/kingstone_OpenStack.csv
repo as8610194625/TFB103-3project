@@ -1,0 +1,128 @@
+﻿書名,書籍網站,作者,出版社,ISBN,圖片網址,書籍簡介
+超前部署企業雲 非懂不可：最強圖解虛擬化，openstack企業雲一日即成,https://www.kingstone.com.tw//basic/2013120584495?zone=book&lid=search&actid=WISE&kw=OpenStack&pi=0,羅偉立、楊文智,深石數位  ,https://cdn.kingstone.com.tw/book/images/product/20131/2013120584495/2013120584495b.jpg,9789865005252,"
+
+
+	在本書中，針對沒有任何系統經驗的管理者或程式開發者，提供一個全新的切入點，從基本的Linux系統安裝到使用Kolla-ansible快速建置openstack服務並搭配底層KVM Hypervisor 節點及外接Ceph分散式儲存系統，來架構出一套完整企業雲平台，最後以客製化WEB Dashboard 虛擬主機需求，結合大量的實戰經驗與案例整合在本書，方便讀者學習、對openstack、KVM、Ceph、 Docker、K8s 這些軟體套件更加的熟識，在系統管理以及開發技術上也有所增長。
+
+	 
+
+本書特色
+
+	 
+
+	配合案例分享,加深讀者的印象。
+
+	多重節點：企業級負載生產環境。
+
+	動態擴充：無停機時間快速增加資源節點，反向也能動態卸除。
+
+	整合儲存：後端掛載多元儲存環境，動態調整管理底層磁碟。
+
+	創新部署：提供雲端部署容器開發環境。
+
+	創新開發：使用API方式，客製化開發的遠端管理，隨時隨地掌握雲端環境。
+
+"
+Openstack Handbook for Architects,https://www.kingstone.com.tw//basic/203c180374849?zone=english&lid=search&actid=WISE&kw=OpenStack&pi=0,"Hynrt, Howerry",Ingram      ,https://cdn.kingstone.com.tw/english/images/product/4933/9781974334933.jpg,9781974334933,0
+OpenStack企業雲端平台：架構與實踐（第3版）,https://www.kingstone.com.tw//basic/2013120460232?zone=book&lid=search&actid=WISE&kw=OpenStack&pi=0,張小斌,上奇科技  ,https://cdn.kingstone.com.tw/book/images/product/20131/2013120460232/2013120460232b.jpg,9789865001193,"
+
+
+	本書結合作者親身經歷的各類OpenStack的諮詢、規劃和實施經驗，以循序漸進的方式，從理論和工程角度，講述了如何將OpenStack變成企業可靠的、託管企業各類生產環境的雲端平台的各項內容，讓OpenStack真正變成我們身邊默默無聞但又實實在在的環境的一分子。
+
+	本書分為9章，分別介紹了OpenStack與雲端、OpenStack社區、OpenStack與AWS、VMware、虛擬化管理工具、虛擬機管理程序與典型應用、OpenStack架構與組件、OpenStack部分組件安裝示例、系統定制技術、OpenStack部署、協力廠商工具架設OpenStack執行環境等內容。
+
+"
+大數據雲端應用Neutron－Openstack網路技數,https://www.kingstone.com.tw//basic/2013120430891?zone=book&lid=search&actid=WISE&kw=OpenStack&pi=0,張華、向輝、劉艷凱,佳魁      ,https://cdn.kingstone.com.tw/book/images/product/20131/2013120430891/2013120430891b.jpg,9789863795094,"
+
+
+第一本介紹Neutron網路技術方面的專書全新上市
+OpenStack & CSDN社區專家傾心力作
+
+
+	三位OpenStack Contributor從事OpenStack網路研發工作的長期累積與心得歸納，以Neutron每一個特性背後的網路背景知識為出發點，進行深入淺出地說明，基本概念與實際操作相結合，同時列出和解釋了大量程式，實用性強。
+
+	全書圖表豐富，技術含量高，以期揭開OpenStack網路技術的神秘面紗，讓讀者透過本書真正了解傳統網路、雲端運算時代的網路，把握網路技術發展的核心思想和精髓。
+
+	適用： OpenStack學習者、有一定基礎的技術工程師，或想深入了解OpenStack Neutron的架構師。發人員、想了解Linux環境下C語言程式設計者。
+
+"
+OpenStack企業雲端平台架構與實踐,https://www.kingstone.com.tw//basic/2013120422568?zone=book&lid=search&actid=WISE&kw=OpenStack&pi=0,張小斌,上奇科技  ,https://cdn.kingstone.com.tw/book/images/product/20131/2013120422568/2013120422568b.jpg,9789863759577,"
+
+
+	本書結合作者親身經歷的各類OpenStack的咨詢、規劃和實施經驗，以循序漸進的方式，從理論和工程角度，講述了如何將OpenStack變成企業可靠的、託管企業各類生產環境的雲端平台的各項內容，讓OpenStack真正變成我們身邊默默聞但又實實在在的環境的一分子。本書分為10章，分別介紹了OpenStack與雲端、OpenStack社區、OpenStack與AWS、VMware、虛擬化管理工具、虛擬機管理程序與典型應用、OpenStack架構與組件、OpenStack部分組件安裝示例、系統定制技術、OpenStack部署、協力廠商工具架設OpenStack 執行環境等內容。
+
+"
+Deploying Openstack,https://www.kingstone.com.tw//basic/203c402613492?zone=english&lid=search&actid=WISE&kw=OpenStack&pi=0,"Pepple, Ken",Oreilly &   ,https://cdn.kingstone.com.tw/english/images/product/6695/9781491946695.jpg,9781491946695,0
+王者歸來：OpenStack雲端系統,https://www.kingstone.com.tw//basic/2013120371040?zone=book&lid=search&actid=WISE&kw=OpenStack&pi=0,戢友,佳魁      ,https://cdn.kingstone.com.tw/book/images/product/20131/2013120371040/2013120371040b.jpg,9789863792925,"
+
+
+	全面涵蓋雲端運算與虛擬化的入門知識，以及OpenStack的部署、解析與擴展；深入講解實用的雲端運算實現方案、虛擬化技巧及OpenStack的部署方案。
+
+	內容涵蓋MySQL、RabbitMQ、Keystone、Swift、Glance、Cinder、Quantum、Nova和Dashboard等大部分重要組件的安裝
+
+	◎ 2種自訂擴展元件，讓讀者對OpenStack的使用舉一反三
+	◎ 3種經典部署方式，可顯著提高部署實戰的能力
+	◎ 14個典型案例，深入剖析OpenStack的內在關鍵技術
+	◎ 35個常見錯誤與分析，可以避免讀者在進行實際操作時走彎路
+	◎ 231個Linux Shell指令搞，完美展現OpenStack的安裝、部署流程
+	◎ 420個Python程式，有助於讀者深入理解OpenStack的架構實現及通信機制
+	◎ 所有實例遵循先提出問題，再分析問題，最後用程式碼實現的寫作風格
+	◎ 對OpenStack用到的關鍵技術和重要元件，提供具體的原始程式碼剖析
+
+本書特色
+
+❶ 說明雲端運算入門所需的虛擬化技術
+	為了將讀者帶入雲端運算的領域，虛擬化技術絕對是必要課題。作者專門介紹了OpenStack 用到的虛擬化技術，並撰寫了大量的實例、程式及指令稿供讀者參考。
+
+❷ 涵蓋OpenStack 大部分元件
+	本書涵蓋MySQL、RabbitMQ、Keystone、Swift、Glance、Cinder、Quantum、Nova 和Dashboard 重要元件的安裝。每一種元件的安裝都單獨成一個模組，並且介紹這些元件之間安裝部署的相互依賴關係。此外，還提供了多種多樣的參考部署方式。透過安裝篇提供安裝指令稿，讀者只需要簡單地設定，便可以快速地部署對應的服務。此外，本書對OpenStack 用到的關鍵技術和重要元件都有原始程式碼剖析。
+
+❸ 案例經典，注重實作
+	為了說明OpenStack 的各種技術細節，書中撰寫了大量的程式和指令稿。為了說明雲端運算設計思想與實現細節，本書的每一章都設計了經典案例、指令稿及程式實現。
+
+❹ 循序漸進，由淺入深
+	本書從雲端運算最基本的虛擬化技術入手，由虛擬機器、虛擬資源的管理引出開放原始碼雲端系統OpenStack 的實現，由淺入深，層層解開了開放原始碼雲端系統OpenStack 的關鍵技術與重要元件。
+
+❺ 提供完整的技術支援
+	本書所有的程式、指令稿和檔案資源均可以在github.com/JiYou/openstack下載，並會提供後續的更新與支援，讓作者與讀者可以面對面直接交流。
+
+"
+Openstack Swift,https://www.kingstone.com.tw//basic/203c410650081?zone=english&lid=search&actid=WISE&kw=OpenStack&pi=0,"Arnold, Joe",Oreilly &   ,https://cdn.kingstone.com.tw/english/images/product/0826/9781491900826.jpg,9781491900826,0
+輕量級OpenStack－Apache CloudStack功能不打折,https://www.kingstone.com.tw//basic/2013120399990?zone=book&lid=search&actid=WISE&kw=OpenStack&pi=0,中國Cloudstack社區編寫小組,佳魁      ,https://cdn.kingstone.com.tw/book/images/product/20131/2013120399990/2013120399990b.jpg,9789863793854,"
+
+
+	■ 第一本系統介紹CloudStack的技術書
+	■ 類似OpenStack的完整架構，但又更小更精實
+	■ 豐富的Web介面，架設相對簡單，是最快速的雲端作業系統
+	■ 支援多種Hypervisor，可以套用在現有的虛擬化架構上
+	■ 快速和主流系統(Amazon、VMware、OpenStack)整合
+	■ 支援主流NFS儲存，當然也支援iSCSI等區塊儲存
+	■ 中小企業100台伺服器以下的最佳選擇
+
+"
+OpenStack企業雲端平台架構與實踐,https://www.kingstone.com.tw//basic/2013120370388?zone=book&lid=search&actid=WISE&kw=OpenStack&pi=0,張小斌,上奇科技  ,https://cdn.kingstone.com.tw/book/images/product/20131/2013120370388/2013120370388b.jpg,9789863756101,"
+
+
+	本書結合作者親身經歷的各類OpenStack的咨詢、規劃和實施經驗，以循序漸進的方式，從理論和工程角度，講述了如何將OpenStack變成企業可靠的、託管企業各類生產環境的雲端平台的各項內容，讓OpenStack真正變成我們身邊默默聞但又實實在在的環境的一分子。本書分為10章，分別介紹了OpenStack與雲端、OpenStack社區、OpenStack與AWS、VMware、虛擬化管理工具、虛擬機管理程序與典型應用、OpenStack架構與組件、OpenStack部分組件安裝示例、系統定制技術、OpenStack部署、協力廠商工具架設OpenStack 執行環境等內容。
+
+"
+實戰私有雲架設|使用OpenStack,https://www.kingstone.com.tw//basic/2014713435866?zone=book&lid=search&actid=WISE&kw=OpenStack&pi=0,張子凡,碁峰資訊  ,https://cdn.kingstone.com.tw/book/images/product/20147/2014713435866/2014713435866b.jpg,9789863472247,"
+
+比官方文件更詳盡的說明本書並非安裝說明書，也不是官方文件的翻譯或翻版，而是在其中包含了更多的資訊，例如，第3章的多點多主機nova-network部署，官方文件對這些內容都沒有非常全面的講述。原理解說，幫助您更加理解OpenStack為了讓讀者更容易理解OpenStack，本書針對一些重要的背景知識加以說明。有助於初接觸或已經在運用OpenStack的人更加了解網路相關知識。而OpenStack適於小中大三類企業的應用模式均做了調整，將OpenStack原來針對的公共雲部署模式轉向企業內私有雲應用，這主要是為了簡化技術維護與管理工作，更適用於企業內網。來自實戰經驗的心得本書內容均來自於各種OpenStack部署實驗與實踐，透過本書提供的資料，讀者可以很快地擁有靈活運用OpenStack的能力。
+                    
+"
+用OpenStack建立如Amazon的雲端環境,https://www.kingstone.com.tw//basic/2013120287068?zone=book&lid=search&actid=WISE&kw=OpenStack&pi=0,陳伯龍、程志鵬、張傑,佳魁      ,https://cdn.kingstone.com.tw/book/images/product/20131/2013120287068/2013120287068b.jpg,9789865764876,"
+
+
+ OpenStack 在過去一段時間以及可預測的未來，都會是雲端運算領域和開放原始碼世界的熱門話題，引起全球IT 界的廣泛關注。2013 年底在香港舉辦的Openstack 雲端運算大會上，OpenStack 技術的會場被觀眾擠爆，可見其火熱程度。印證人們對雲端運算與OpenStack 的熱情。
+
+
+ 本書從雲端運算概念、架構、實現，以及應用的層面剖析雲端運算及OpenStack 技術，重點分析了彈性雲端運算Nova，透過深入剖析OpenStack架構的設計理念及具體實現，結合雲端運算管理平台建設理論，將理論與實踐相結合，讓讀者知其然並知其所以然。
+
+
+ 採用簡單明瞭的語法，段落簡潔，配合大量的圖文及部分核心代碼，具體表述出技術應用原理。文中並穿插筆者團隊積累的一些經驗，特別是在應用篇，為不同場景下雲端運算提供落實的建設實作案例，這在業界是相對少見且比較全面的解決方案。
+
+
+ 本書將建立專門網站推廣OpenStack 的應用，相信不久就可以在http://openstack.upyoo.com 上看到。
+
+"

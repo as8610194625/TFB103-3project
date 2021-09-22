@@ -1,0 +1,384 @@
+﻿書名,書籍網站,作者,出版社,ISBN,圖片網址,書籍簡介
+Polished Ruby Programming,https://www.kingstone.com.tw//basic/203c109947392?zone=english&lid=search&actid=WISE&kw=Ruby&pi=0,"Jeremy,Evans",Packt       ,9781801072724.0,https://cdn.kingstone.com.tw/english/images/product/2724/9781801072724.jpg,"
+
+Become an accomplished Ruby programmer by understanding the design principles, best practices, and trade-offs involved in implementation approaches to keep your Ruby applications maintainable in the long termKey Features: Understand the design principles behind polished Ruby code and trade-offs between implementation approachesUse metaprogramming and DSLs to reduce the amount of code needed without decreasing maintainabilityLearn Ruby web application design principles and strategies for databases, security, and testingBook Description: Most successful Ruby applications become difficult to maintain over time as the codebase grows in size. Polished Ruby Programming provides you with recommendations and advice for designing Ruby programs that are easy to maintain in the long term.This book takes you through implementation approaches for many common programming situations, the trade-offs inherent in each approach, and why you may choose to use different approaches in different situations. You'll start by learning fundamental Ruby programming principles, such as correctly using core classes, class and method design, variable usage, error handling, and code formatting. Moving on, you'll learn higher-level programming principles, such as library design, use of metaprogramming and domain-specific languages, and refactoring. Finally, you'll learn principles specific to web application development, such as how to choose a database and web framework, and how to use advanced security features.By the end of this Ruby programming book, you'll have gained the skills you need to design robust, high-performance, scalable, and maintainable Ruby applications.While most code examples and principles discussed in the book apply to all Ruby versions, some examples and principles are specific to Ruby 3.0, the latest release at the time of publication.What You Will Learn: Use Ruby's core classes and design custom classes effectivelyExplore the principles behind variable usage and method argument choiceImplement advanced error handling approaches such as exponential backoffDesign extensible libraries and plugin systems in RubyUse metaprogramming and DSLs to avoid code redundancyImplement different approaches to testing and understand their trade-offsDiscover design patterns, refactoring, and optimization with RubyExplore database design principles and advanced web app securityWho this book is for: If you already know how to program in Ruby and want to learn more about the principles and best practices behind writing maintainable, scalable, optimized, and well-structured Ruby code, then this Ruby book is for you. Intermediate to advanced-level working knowledge of the Ruby programming language is expected to get the most out of this book.
+                    
+"
+Beginning Ruby 3,https://www.kingstone.com.tw//basic/203c200306829?zone=english&lid=search&actid=WISE&kw=Ruby&pi=0,"Carleton,DiLeo",Apress      ,9781484263235.0,https://cdn.kingstone.com.tw/english/images/product/3235/9781484263235.jpg,"
+
+Learn the principles behind object-oriented programming in Ruby and within a few chapters create a fully functional Ruby 3-based application. You'll gain a basic understanding of many ancillary technologies such as databases, XML, web frameworks, and networking - some of which will be needed for your first Ruby application. Based on the bestselling first and second editions, Beginning Ruby 3, 4th Edition is a leading guide to learn Ruby from the ground up.  The new edition of this book provides the same excellent introduction to Ruby as the previous editions plus updates for the newest version of Ruby, including performance through an improved allocator, decreased heap fragmentation and more. Also, added: details on the just-in-time compiler, fewer limits on GIL (Global Interpreter Lock), and a static type checker.  You'll see why the light and agile Ruby programming language remains a popular open source scripting option for developers building today's web applications. This book can also be used as a textbook or companion to a textbook on beginning Ruby programming. After reading and using this book, you'll have a firm handle to program in the Ruby language.  What You Will Learn  Discover the fundamentals of Ruby and its object-oriented building blocks Use the Ruby libraries, gems, and documentation Work with files and databases Write and deploy Ruby applications Harness the various Ruby web frameworks and use them effectively Do network programming with Ruby   Who This Book Is For  Beginning programmers, programmers new to Ruby, and web developers interested in learning the foundations of the Ruby programming language.
+
+"
+Mineralogy and Geochemistry of Ruby,https://www.kingstone.com.tw//basic/203c101263295?zone=english&lid=search&actid=WISE&kw=Ruby&pi=0,"Frederick Lin,Sutherland",Ingram      ,9783039436156.0,https://cdn.kingstone.com.tw/english/images/product/6156/9783039436156.jpg,"
+
+Ruby, red corundum, is a gem mineral with mineral properties, gem characteristics and chemistry that are reliant on critical trace element substitutions in its aluminum oxide crystal structure. Ruby has attracted scientific and economic interest. It has already been studied extensively regarding its widespread global distribution and the diversity of its geological associations, as revealed by exploration and exploitation. Researchers are becoming increasingly aware that geographic typing of ruby characteristics and its host assemblages may guide further exploration and provide checks on reputed sources of both rough and cut stones. Genetic pointers, based on fluid and solid mineral inclusions, oxygen and other isotope values and pressure and temperature estimates, have already yielded much genetic information. Rare ruby in mantle xenoliths, TP 1100o C, 2GPa, epitaxial diamond in ruby and ruby in diamond have special interest. Amid the present extensive documentation on this singular gem mineral, new insights and co-existing associations remain to be discovered. Although ruby largely appears in metamorphic and metasomatic source rocks, newer studies suggest it may also arise from magmatic sources. Age-dating of a range of mineral inclusions in ruby now allows more precise modelling of ruby genesis. Tectonic aspects of ruby genesis related to early collisional plate events on Earth are also a frontier for further understanding. In addition, ruby growth remains an important phase in metamorphic studies of events in some young collisional zones. This Special Issue planned for Minerals aims to attract further studies on this multi-origin gem mineral. Investigations at the 'economic border' of ruby and sapphire nomenclature and relevant treatments affecting ruby color will be considered.
+                    
+"
+Sustainable Web Development with Ruby on Rails,https://www.kingstone.com.tw//basic/203c011242864?zone=english&lid=search&actid=WISE&kw=Ruby&pi=0,"David Bryant,Copeland",David Bryant Copeland,9780990702849.0,https://cdn.kingstone.com.tw/english/images/product/2849/9780990702849.jpg,"
+
+Learn how to get the most out of Ruby on Rails without making a mess. Create Rails apps that can be sustained for years without accruing carrying costs that make development slow and expensive. This book is a reference of practical tips, all applied in the field over many years of developing Rails apps.
+                    
+"
+Why’s (Poignant) Guide to Ruby,https://www.kingstone.com.tw//basic/203c005132876?zone=english&lid=search&actid=WISE&kw=Ruby&pi=0,"The Lucky Stiff,Why",Snowbooks   ,9781838039509.0,https://cdn.kingstone.com.tw/english/images/product/9509/9781838039509.jpg,0
+Clean Ruby,https://www.kingstone.com.tw//basic/203c103851191?zone=english&lid=search&actid=WISE&kw=Ruby&pi=0,"Carleton,DiLeo",Apress      ,9781484255452.0,https://cdn.kingstone.com.tw/english/images/product/5452/9781484255452.jpg,"
+
+Learn how to make better decisions and write cleaner Ruby code. This book shows you how to avoid messy code that is hard to test and which cripples productivity. Author Carleton DiLeo shares hard-learned lessons gained from years of experience across numerous codebases both large and small. Each chapter covers the topics you need to know to make better decisions and optimize your productivity. Many books will tell you how to do something; this book will tell you why you should do it. Start writing code you love.  What You Will Learn  Build better classes to help promote code reuse Improve your decision making and make better, smarter choicesIdentify bad code and fixed itCreate quality names for all of your variables, classes, and modules Write better, concise classesImprove the quality of your methodsProperly use modules Clarify your Boolean logic See when and how you refactorImprove your understanding of TDD and write better tests Who This Book Is ForThis book is written for Ruby developers. There is no need to learn a new language or translate concepts to Ruby.
+
+"
+Ruby Programming For Beginners,https://www.kingstone.com.tw//basic/203c004212432?zone=english&lid=search&actid=WISE&kw=Ruby&pi=0,"Warren,Tim",Ingram Publishing,9781761033087.0,https://cdn.kingstone.com.tw/english/images/product/3087/9781761033087.jpg,"
+
+RUBY PROGRAMMING FOR BEGINNERS  Those who are efficient in the Ruby programming language is very high in demand right now. If you are unsure of how to create programs with Ruby, this book will guide your from step one in a coding project all the way through to the end.  With the help of this beginners guide you will learn how to program in no time! Follow along with the book to get the drift on how to use Ruby. After you master Ruby, you can move on to Ruby on Rails, which is the framework that goes with Ruby. Soon enough you will become a master programmer using the user-friendliest programming language ever developed.  This will help you to land jobs or even write your own coding for a sweet web application. The sky is the limit once you have read, practiced, and learned the Ruby programming language!  Here Is What You'll Learn About...  What Is Ruby Programming Computer Evaluation Of Ruby Code Objects & Methods Classes & Instances Data Structures Ruby Collections Samples Of Ruby Code Much, Much More!
+                    
+"
+Monster Fruit Trees,https://www.kingstone.com.tw//basic/203c103213752?zone=english&lid=search&actid=WISE&kw=Ruby&pi=0,"Ruby,Burchette",AuthorHouse ,9781665515887.0,https://cdn.kingstone.com.tw/english/images/product/5887/9781665515887.jpg,0
+Anomaly Detection System for Network Traffic using Data Mining,https://www.kingstone.com.tw//basic/203c106370695?zone=english&lid=search&actid=WISE&kw=Ruby&pi=0,"Ruby,Sharma",Ingram      ,9786203305234.0,https://cdn.kingstone.com.tw/english/images/product/5234/9786203305234.jpg,"
+
+Anomaly detection using Density Maximization Fuzzy C-means Algorithm: The rationale for the anomaly detection system using density maximization approach to the fuzzy c-means clustering algorithm. The workflow of a proposed anomaly detection system with density maximization FCM algorithm. The framework of ensemble classifier-based anomaly detection - this approach of anomalous detection is based on the integration of multiple classifiers so that the weakness of one classifier can be compensated by the other classifier. The workflow of the proposed intrusion detection framework based on an ensemble classifier.
+                    
+"
+Wireless Communications: Networks and Systems,https://www.kingstone.com.tw//basic/203c008119089?zone=english&lid=search&actid=WISE&kw=Ruby&pi=0,"Ruby,Long",Ingram      ,9781682858042.0,https://cdn.kingstone.com.tw/english/images/product/8042/9781682858042.jpg,0
+Learn Rails 6,https://www.kingstone.com.tw//basic/203c200306813?zone=english&lid=search&actid=WISE&kw=Ruby&pi=0,"Adam,Notodikromo",Apress      ,9781484260258.0,https://cdn.kingstone.com.tw/english/images/product/0258/9781484260258.jpg,"
+
+Effectively learn and apply software development and engineering techniques to web application development using Rails 6 with this accelerated tutorial. This book teaches modern engineering practices including git flow, containerization, debugging, testing, and deployment. Along the way, you'll see how to build a social network application and then deploy it on a cloud provider such as Amazon Web Services.  After reading and using this book, you'll be able to effectively build and deploy your Rails application to the cloud. You'll also have used the Ruby on Rails framework to carry out the rapid development of an idea into a product without sacrificing quality.  What You Will Learn  Use the Ruby on Rails 6 web development framework Integrate Docker with your Ruby on Rails code Apply software engineering techniques to learning the Rails framework Design, build, and deploy a social networking application to the Amazon cloud  Who This Book Is For Beginners with at least some prior programming experience. Ruby experience is helpful, but not required.  
+
+"
+Mastering Ruby Closures,https://www.kingstone.com.tw//basic/203c710837863?zone=english&lid=search&actid=WISE&kw=Ruby&pi=0,"Hao, Benjamin Tan Wei",Pragmatic   ,9781680502619.0,https://cdn.kingstone.com.tw/english/images/product/2619/9781680502619.jpg,0
+Learning Ruby,https://www.kingstone.com.tw//basic/203c610191364?zone=english&lid=search&actid=WISE&kw=Ruby&pi=0,"Fitzgerald, Michael",Oreilly &   ,9780596519667.0,https://cdn.kingstone.com.tw/english/images/product/9667/9780596519667.jpg,0
+Clasificaci籀n de microorganismos en muestras de agua,https://www.kingstone.com.tw//basic/203c103775067?zone=english&lid=search&actid=WISE&kw=Ruby&pi=0,"Ruby Daniela,Mendieta Mart穩nez",Editorial Academica Espanola,9786203034462.0,https://cdn.kingstone.com.tw/english/images/product/4462/9786203034462.jpg,"
+
+El presente trabajo pretende la identificaci籀n de microorganismos en muestras de aguas de diferentes ambientes, como ser穩a la potable y no, empleando variadas t矇cnicas de procesamiento y clasificaci籀n de im獺genes. Para ello se emplear獺 una base de datos de im獺genes microsc籀picas, identificando los tipos de microorganismo presentes en el agua contaminada. La clasificaci籀n de microorganismos se realiza a trav矇s de t矇cnicas de procesamiento de imagen, basada en informaci籀n obtenida por el dispositivo electr籀nico. Igualmente, Conocer la mayor poblaci籀n de microorganismos presentes en el agua y como 矇stos ser穩an perjudiciales para el consumo humano.
+                    
+"
+為你自己學 Ruby on Rails,https://www.kingstone.com.tw//basic/2014713534675?zone=book&lid=search&actid=WISE&kw=Ruby&pi=0,高見龍,碁峰資訊  ,9789864765836.0,https://cdn.kingstone.com.tw/book/images/product/20147/2014713534675/2014713534675b.jpg,"
+
+名人推薦 •Ruby程式語言發明人 松本行弘 •iThome社長 谷祖惠 •台大電機系教授/CEO, BoniO Inc.葉丙成教授 •立法委員&TEDxTaipei創辦人 許毓仁 ‧使用Ruby及Ruby on Rails最新版本 ‧不管是新手上路或是已有其它程式語言開發經驗都可輕鬆上手 ‧依多年教學經驗，觀察整理出容易卡關的點，幫助快速度過新手撞牆期 ‧使用簡明白話的方式，一步一步介紹並正確使用Ruby on Rails網站開發框架 ‧不只教如何寫(How)，也能讓讀者知道在寫什麼(What)，以及為什麼(Why)要這樣寫 「為你自己學Ruby on Rails」，如其標題，學習不需要為公司、不需要為長官、同事、不需要為別人，只為你自己。 Ruby on Rails是一個非常具有生產力的網站開發框架，透過它本身精良的設計以及大量的外部第三方套件，可以很快的就把一個網站應用程式的雛型做出來。雖然如此，其實Rails 隱藏了許多的技術細節，對新手來說如果沒有適當的指引的話會學得有點辛苦，特別是對完全沒有技術基礎的新手來說難度更高。 不管您是新手或老鳥，只要對Rails這個網站開發框架有興趣都適合閱讀本書。如果您本身已經有其它程式語言或Web開發的經驗，在閱讀本書的前半段應該會相對的比較輕鬆。只要準備一台可以工作的電腦以及一款順手的文字編輯器就可以進行開發了。 希望各位會喜歡本書，一起來學習、體驗Rails這個極富生產力的網站開發框架。
+                    
+"
+深入淺出 Ruby,https://www.kingstone.com.tw//basic/2014713516435?zone=book&lid=search&actid=WISE&kw=Ruby&pi=0,Jay McGavren,歐萊禮    ,9789864762866.0,https://cdn.kingstone.com.tw/book/images/product/20147/2014713516435/2014713516435b.jpg,"
+
+採用適合大腦的學習方法 學會製作自己的類別和物件 使用區塊來切割資料 使用mixin替你的類別加料 對外提供你的web app 『《深入淺出Ruby》以符合語言核心精神的風格來教導Ruby：直接、幽默以及適度的奇想。本書的視覺化方式非常適合那些厭倦了枯燥、無聊技術書籍的讀者。』 —Peter Cooper 《Beginning Ruby》作者 『本書為Ruby提供有趣、平易近人的學習途徑，讓開發人員輕鬆就能獲得對工作有幫助的技術知識。在這學習Ruby的道路上，Jay McGavren是一位親切的嚮導，他不僅會告訴我們怎麼做，還會在問題有多個解決方案可以選擇時，把他的經驗告訴我們。』 —Avdi Grimm Ruby Rogues講者及RubyTapas主廚 你將從本書學到什麼？ Ruby語言怎麼那麼紅？它適合你嗎？嗯，問問你自己：你是否厭倦了其他語言中額外的宣告、關鍵字以及編譯步驟？你想成為一個更有生產力的程式員？那麼你會愛上Ruby。有了這個獨特的動手學習經驗，你將瞭解Ruby是如何替你處理所有這些細節，使得你輕易就能享受「以較少的程式碼做更多事情」的樂趣。 本書為何如此與眾不同 我們認為你的時間寶貴，不應該浪費在與新概念周旋不下的窘境中。《深入淺出Ruby》採取了專為大腦運作而設計的豐富視覺化風格，運用認知科學與學習理論的最新研究成果，精心建構出引發多重感知的學習體驗，讓你輕鬆瞭解Ruby，而且不容易忘記。
+                    
+"
+Ruby Programming,https://www.kingstone.com.tw//basic/203c605485785?zone=english&lid=search&actid=WISE&kw=Ruby&pi=0,"Johansen, Andrew",Ingram      ,9781530063161.0,https://cdn.kingstone.com.tw/english/images/product/3161/9781530063161.jpg,0
+Nosql the Ruby Way,https://www.kingstone.com.tw//basic/203c308174340?zone=english&lid=search&actid=WISE&kw=Ruby&pi=0,"Jordan, Durran",Addison-Wesl,9780321768049.0,https://cdn.kingstone.com.tw/english/images/product/8049/9780321768049.jpg,0
+Extreme Programming with Ruby on Rails,https://www.kingstone.com.tw//basic/203c109308432?zone=english&lid=search&actid=WISE&kw=Ruby&pi=0,"Fernandez, Obie",Addison-Wesl,9780321497109.0,https://cdn.kingstone.com.tw/english/images/product/7109/9780321497109.jpg,0
+Head First Ruby,https://www.kingstone.com.tw//basic/203c501522774?zone=english&lid=search&actid=WISE&kw=Ruby&pi=0,"Mcgavren, Jay",Oreilly &   ,9781449372651.0,https://cdn.kingstone.com.tw/english/images/product/2651/9781449372651.jpg,"
+
+What will you learn from this book?What's all the buzz about this Ruby language? Is it right for you? Well, ask yourself: are you tired of all those extra declarations, keywords, and compilation steps in your other language? Do you want to be a more productive programmer? Then you'll love Ruby. With this unique hands-on learning experience, you'll discover how Ruby takes care of all the details for you, so you can simply have fun and get more done with less code.Why does this book look so different?Based on the latest research in cognitive science and learning theory, Head First Ruby uses a visually rich format to engage your mind, rather than a text-heavy approach to put you to sleep. Why waste your time struggling with new concepts? This multi-sensory learning experience is designed for the way your brain really works.
+                    
+"
+Ruby Performance Optimization,https://www.kingstone.com.tw//basic/203c509993932?zone=english&lid=search&actid=WISE&kw=Ruby&pi=0,"Dymo, Alexander",Pragmatic   ,9781680500691.0,https://cdn.kingstone.com.tw/english/images/product/0691/9781680500691.jpg,"
+
+You don't have to accept slow Ruby or Rails performance. In this comprehensive guide to Ruby optimization, you'll learn how to write faster Ruby code--but that's just the beginning. See exactly what makes Ruby and Rails code slow, and how to fix it. Alex Dymo will guide you through perils of memory and CPU optimization, profiling, measuring, performance testing, garbage collection, and tuning. You'll find that all those ""hard"" things aren't so difficult after all, and your code will run orders of magnitude faster.This is the first book ever that consolidates all the Ruby performance optimization advice in one place. It's your comprehensive guide to memory optimization, CPU optimization, garbage collector tuning, profiling, measurements, performance testing, and more.You'll go from performance rookie to expert. First, you'll learn the best practices for writing Ruby code that's easy not only on the CPU, but also on memory, and that doesn't trigger the dreaded garbage collector. You'll find out that garbage collection accounts for 80% of slowdowns, and often takes more than 50% of your program's execution time. And you'll discover the bottlenecks in Rails code and learn how selective attribute loading and preloading can mitigate the performance costs of ActiveRecord.As you advance to Ruby performance expert, you'll learn how profile your code, how to make sense out of profiler reports, and how to make optimization decisions based on them. You'll make sure slow code doesn't creep back into your Ruby application by writing performance tests, and you'll learn the right way to benchmark Ruby. And finally, you'll dive into the Ruby interpreter internals to really understand why garbage collection makes Ruby so slow, and how you can tune it up. What You Need: Some version of Ruby. The advice from this book applies to all modern Ruby versions from 1.9 to 2.2. 80% of the material will also be useful for legacy Ruby 1.8 users, and there is 1.8-specific advice as well.
+                    
+"
+Text Processing With Ruby,https://www.kingstone.com.tw//basic/203c509581304?zone=english&lid=search&actid=WISE&kw=Ruby&pi=0,"Miller, Rob",Pragmatic   ,9781680500707.0,https://cdn.kingstone.com.tw/english/images/product/0707/9781680500707.jpg,0
+Learn Game Programming With Ruby,https://www.kingstone.com.tw//basic/203c509749743?zone=english&lid=search&actid=WISE&kw=Ruby&pi=0,"Sobkowicz, Mark",Pragmatic   ,9781680500738.0,https://cdn.kingstone.com.tw/english/images/product/0738/9781680500738.jpg,0
+Ruby Pocket Reference,https://www.kingstone.com.tw//basic/203c506871536?zone=english&lid=search&actid=WISE&kw=Ruby&pi=1,"Fitzgerald, Michael",Oreilly &   ,9781491926017.0,https://cdn.kingstone.com.tw/english/images/product/6017/9781491926017.jpg,"
+
+Updated for Ruby 2.2, this handy reference offers brief yet clear explanations of Ruby's core elements--from operators to blocks to documentation creation--and highlights the key features you may work with every day. Need to know the correct syntax for a conditional? Forgot the name of that String method? This book is organized to help you find the facts fast.Ruby Pocket Reference, 2nd Edition is ideal for experienced programmers who are new to Ruby. Whether you've come to Ruby because of Rails, or you want to take advantage of this clean, powerful, and expressive language for other applications, this reference will help you easily pinpoint the information you need.You'll find detailed reference material for: Keywords, operators, comments, numbers, and symbolsVariables, pre-defined global variables, and regular expressionsConditional statements, method use, classes, and exception handlingMethods for the BasicObject, Object, Kernel, String, Array, and Hash classesTime formatting directivesNew syntax since Ruby 1.9
+                    
+"
+Ruby on Rails Tutorial,https://www.kingstone.com.tw//basic/203c412126230?zone=english&lid=search&actid=WISE&kw=Ruby&pi=1,"Hartl, Michael",Addison-Wesl,9780134077703.0,https://cdn.kingstone.com.tw/english/images/product/7703/9780134077703.jpg,0
+Metaprogramming Ruby,https://www.kingstone.com.tw//basic/203c407831611?zone=english&lid=search&actid=WISE&kw=Ruby&pi=1,"Perrotta, Paolo",Pragmatic   ,9781941222126.0,https://cdn.kingstone.com.tw/english/images/product/2126/9781941222126.jpg,0
+10天學會 Ruby on Rails：Web 2.0 網站架設速成（暢銷回饋版）,https://www.kingstone.com.tw//basic/2013120392816?zone=book&lid=search&actid=WISE&kw=Ruby&pi=1,劉至浩、孫以陶,博碩文化  ,9789864341351.0,https://cdn.kingstone.com.tw/book/images/product/20131/2013120392816/2013120392816b.jpg,"
+
+
+寫程式就是這麼簡單！
+
+
+	你是否已經花了很多時間，讀了很多Ruby on Rails或是寫程式的書，卻仍不懂應該怎麼做？你是否已經感到絕望，在找尋一本可以幫你突破的書？
+
+	本書就是你唯一需要的初級Ruby on Rails書籍，保證一定可以解開你對寫程式的困惑，幫助你成為一個軟體工程師。
+
+本書特色
+
+	★ 作者為台灣RoR先驅、數位時代Ruby on Rails程式開發工作營講師。
+	★ Ruby on Rails是近年來最熱門的語言，因為它是最強大、簡單、人性化的語言。
+	★ 許多世界級平台Twitter、Groupon、Airbnb、Github、Hulu等等都是使用Ruby on Rails。
+	★ 就算不會寫程式也可以！作者用最簡單的方式教你如何開發出一個專業級網站。
+	★ 實際開發證實是學寫程式最快的方法(Show, not tell)。
+	★ 你只會學到需要用到的知識，而不是讀死書。
+	★ 開發時遇到問題，可以加入作者的臉書獲得解答。
+
+"
+職業駭客的告白II部曲－Python和Ruby啓發式程式語言的秘密,https://www.kingstone.com.tw//basic/2800000002389?zone=ebook&lid=search&actid=WISE&kw=Ruby&pi=1,秋聲,電子書,,https://cdn.kingstone.com.tw/book/images/product/20131/2013120390652/2013120390652b.jpg,"
+
+
+冒著被駭客圈封殺的風險，也要揭開這業界的秘辛
+全台灣第一本由駭客親手寫的程式語言，只有秋聲才能超越秋聲
+
+
+	「當你未來面對如此狡詐又聰明的敵人時，你只有不斷的學習！」-夢想捍衛資訊安全的鬥士 Nick Sung
+
+	這是一本能夠讓普羅大眾都看得懂的程式語言書籍，目的是要把資訊科學或資訊安全的教育從少數的專家手上推廣到多數國民手上。
+
+	書中內容沒有艱澀的技術，且不需要多麼高深的基礎，讓你在不知不覺中就掌握住Python和Ruby啓發式程式語言。這本書更適合完全沒學過程式語言的讀者 來入門，此書透過令人會心一笑的對話、簡單好懂的觀念，化繁複抽象的程式邏輯於生活周遭許多的話題，讓初涉程式世界的你沒有絲毫恐懼。
+
+	PS:如果你想當駭客或學習程式語言的話，你没有第二本的選擇。
+
+"
+職業駭客的告白２部曲：Python 和Ruby 發式程式語言的秘密,https://www.kingstone.com.tw//basic/2013120390652?zone=book&lid=search&actid=WISE&kw=Ruby&pi=1,秋聲,博碩文化  ,9789864341276.0,https://cdn.kingstone.com.tw/book/images/product/20131/2013120390652/2013120390652b.jpg,"
+
+
+冒著被駭客圈封殺的風險，也要揭開這業界的秘辛
+全台灣第一本由駭客親手寫的程式語言，只有秋聲才能超越秋聲
+
+
+	「當你未來面對如此狡詐又聰明的敵人時，你只有不斷的學習！」-夢想捍衛資訊安全的鬥士 Nick Sung
+
+	這是一本能夠讓普羅大眾都看得懂的程式語言書籍，目的是要把資訊科學或資訊安全的教育從少數的專家手上推廣到多數國民手上。
+
+	書中內容沒有艱澀的技術，且不需要多麼高深的基礎，讓你在不知不覺中就掌握住Python和Ruby啓發式程式語言。這本書更適合完全沒學過程式語言的讀者 來入門，此書透過令人會心一笑的對話、簡單好懂的觀念，化繁複抽象的程式邏輯於生活周遭許多的話題，讓初涉程式世界的你沒有絲毫恐懼。
+
+	PS:如果你想當駭客或學習程式語言的話，你没有第二本的選擇。
+
+"
+Effective Ruby中文版 | 寫出良好Ruby程式的48個具體做法,https://www.kingstone.com.tw//basic/2014713467461?zone=book&lid=search&actid=WISE&kw=Ruby&pi=1,Peter J. Jones,碁峰資訊  ,9789863477297.0,https://cdn.kingstone.com.tw/book/images/product/20147/2014713467461/2014713467461b.jpg,"
+
+如果你是經驗豐富的Ruby程式設計師，《Effective Ruby 中文版》將會協助你利用Ruby所有威力編寫出更穩固、更有效率、更容易維護、執行更順暢的程式碼。藉由近十年的Ruby經驗，Peter J. Jones匯集了48項Ruby的最佳作法、專家建議以及捷徑，並提供實際可行的程式範例作為後盾。 Jones針對Ruby開發的每一項主題，從模組到記憶體到後設程式設計(metaprogramming)都提供了實用的建議；他揭開了鮮為人知的慣用語法、怪癖、陷阱以及強力影響程式碼行為與效能的複雜關係。 每一樣具體做法除了包含具體、有所作為、清楚明確的組織準則，也都有周延的建議和詳細的技術論證以及極富啟發的程式範例。如果同時存在多種選擇，Jones會告訴你該如何針對你的情況從中選擇運作最好的一個。 《Effective Ruby 中文版》將協助你有條不紊的改善你自己的程式碼，不是盲從規則，而是透過徹底瞭解的Ruby程式設計技巧。 這本簡明指南包含的重點如下： ‧如何避免Ruby時而讓人驚訝的特質所造成的陷阱 ‧若想成功使用Rails(及其他大型框架)，應知道哪些繼承階層 ‧如何以遭到誤解的方法讓集合變得超實用 ‧以例外改善程式碼穩定性的最佳方式 ‧極具威力的後設程式設計方式(以及應該避免的技巧) ‧實用、效率的解決方案，包括MiniTest Unit及Spec Testing ‧如何確實管理RubyGem的相依性 ‧如何充分利用Ruby的記憶體管理及剖析工具 ‧如何透過瞭解Ruby直譯器的內部而改善程式碼效率
+                    
+"
+Effective Ruby,https://www.kingstone.com.tw//basic/203c408126619?zone=english&lid=search&actid=WISE&kw=Ruby&pi=1,"Jones, Peter J.",Addison-Wesl,9780133846973.0,https://cdn.kingstone.com.tw/english/images/product/6973/9780133846973.jpg,0
+Ruby物件導向設計實踐： 敏捷入門,https://www.kingstone.com.tw//basic/2013120336582?zone=book&lid=search&actid=WISE&kw=Ruby&pi=1,Sandi Metz,博碩文化  ,9789864340101.0,https://cdn.kingstone.com.tw/book/images/product/20131/2013120336582/2013120336582b.jpg,"
+
+
+Amazon 與 Google Play 暢銷書，眾多人士的高分推薦。
+
+  
+
+ Ruby 程式語言的友善常為人所稱道，不過它也有不利的一面：許多 Ruby 及 Rails 應用程式在設計之初並未考量到後續的演變以及長期的可維護性。網路上總充斥著許多幾乎難以修改或擴展的 Ruby 程式碼。本書將指引你如何藉由強大的物件導向設計技巧來解決這些難題，並且包含了許多簡單且實用的 Ruby 範例。
+
+  
+
+ Sandi Metz 汲取自身生涯中許多的會議及簡報，將物件導向設計運用在基於 Ruby 的實踐上，創造出能夠管理、延展並且令人滿意的程式碼。她不僅將指引你建立出成功的應用程式，還能夠改善過去難以維護的程式碼。除此之外，書中的每一項程式碼範例都可以直接從 poodr.info 網站下載。
+
+  
+
+ 本書是第一本專注於物件導向應用程式設計的 Ruby 書籍。無論你先前的 Ruby 開發經驗如何，你都能夠從中獲益匪淺：
+ •初級的 Ruby 程式設計師能夠學到賴以生存的特定法則。
+ •中級的 Ruby 程式設計師能夠學到多項可以靈活運用的高價值原則。
+ •高級的 Ruby 程式設計師能夠學到可以用來領導開發團隊並且指引同事的共同邏輯。
+
+  
+
+ 本書將指引你：
+ •瞭解物件導向程式設計如何協助你鍛造出容易維護及改版的 Ruby 程式碼。
+ •決定單一 Ruby 類別所應包含的內容。
+ •防止應該彼此分隔的物件糾纏在一起。
+ •在物件之間定義具有靈活性的介面。
+ •藉由鴨子類型降低程式設計的間接成本
+ •成功運用繼承關係。
+ •利用組合來建構物件。
+ •設計出降低成本的測試。
+ •解決不良設計所導致的常見問題。
+
+"
+Ruby on Rails 自習手冊：邁向鐵道工人之路,https://www.kingstone.com.tw//basic/2013120329751?zone=book&lid=search&actid=WISE&kw=Ruby&pi=1,簡煒航,博碩文化  ,9789862019948.0,https://cdn.kingstone.com.tw/book/images/product/20131/2013120329751/2013120329751b.jpg,"
+
+鐵道工招募條件：•熟悉指令介面操作•具程式設計知識：Ruby、Rake•具網頁前端知識：HTML、CSS、JavaScript•具資料庫知識：RMDBS、SQL若符合以上應徵條件，恭喜您歡迎進入簡單、易用又好學的Rails世界。工作指南：開發環境你可以選擇 RadRails 或 RubyMine，如果你個人偏好使用 IDE，也有其他輕量級編輯器選擇：TextMate、Sublime Text、[Vim] 終端機Unix-like 作業系統可以跳過此部分，如果你用的是 OS X 推薦使用 iTerm2 ，Windows 上建議安裝 Rails Installer預設環境，或者使用虛擬機如 VMWare 或 Virtual Box模擬 Unix-like。瀏覽器Chrome、Firefox、Safari、IE都有提供內建的開發者工具值得學習使用，例如模擬手機瀏覽、JavaScript 中斷點、程式碼優化與分析、所見即所得 CSS 修改等。新手鐵道工Q&A：Ruby 就是 Rails嗎？Ruby 與 Rails 是兩樣東西，且它們除了定位截然不同、作者也不同（國籍差很多），Ruby 是程式語言，Rails 則是由 Ruby 撰寫的網站開發框架。rbenv 與 RVM 哪個好？他們兩者都是為了解決特定的問題，用了不同的方法而生的不同的工具。如果你想要簡潔的解決方案，使用 rbenv，如果你想要更多功能，用 RVM 也不錯。Production 環境適合安裝 rbenv 或 RVM 一類的 Ruby 版本控制工具嗎？不建議這麼做，版本控制主要是為了讓我們在 staging 環境或本地開發時，可以方便切換版本以利進行各種測試，除非你真的清楚自己在做什麼。鐵道工的工作哲學：•不要重複你自己（Don，t Repeat Yourself）　旨在軟體開發中，減少重複的信息與程式碼。這可以幫助你的專案更易於維護與擴展，人說樹大必有枯枝，程式多就易孳生臭蟲，可以少就不要多。•慣例優先於設定（Convention Over Configuration）　用一些簡單的常規與慣例（convention）來取代繁瑣的設定（configuration），白話解釋是「養好習慣，省下麻煩」，簡化開發的流程與減輕開發者的痛苦。一位資深鐵道工的經驗談：這四年來，筆者從 Movimpact 微電影平台（已停止運作）、腦袋有動工作室（brainana.com）一路到五倍紅寶石股份有限公司（5xruby.tw）的創辦，有趣的是這些單位的名字湊巧都是筆者命名的，偶爾筆者也懷疑到底是隊友寬宏大量，抑或筆者說不定是個命名的天才？五倍紅寶石是由幾位台灣 Ruby 社群的朋友共同成立的一家公司，希望透過教育訓練、企業培訓等講座，將 Ruby 推廣到校園、企業、開發者。提供的服務包括：程式教育訓練、企業技術培訓與諮詢、活動場地租借與專案委托製作。筆者自五倍紅寶石開業以來主力於 Ruby on Rails 的教材編寫、課程設計，並且在校園、公司企業中開設培訓課程。同樣的主題（Ruby on Rails），也因不同的教授對象而特別設計教材，範圍從高中剛畢業的大一新鮮人，到企業中的工程師。本書也是在這樣的環境下撰寫而成。從 Java 到 Ruby至於筆者最後為什麼選擇了 Ruby ？其實那時寫了 Java 快 4 年的時間，曾經陷入其可跨平台、有豐富函示庫與應用的迷湯之中，認為自己可以用 Java超越任何事物，然後看到一本書就叫「超越 Java：探討程式語言的未來」。如果你對這本書有印象，他的書名掛名 Java，實則偷塞 Ruby，筆者就這樣上當了。序的開頭長這樣：Java 已經存在超過十年了，這段時間，它的成就非凡，它徹底改變我們寫軟體的作法和想法。但是 Java 已顯老態，該是時候了，我們得想想未來接班人是誰。- Bruce Tate 而筆者就這樣的，從被這樣的序給吸引住，到最後合上書頁後的第一個念頭：「不妨給 Ruby 一個嘗試吧？」（這本書很不錯的，作者 Bruce 寫過「輕快的好 Java」）Ruby 好快，也好快樂還記得那時筆者從 C 跳到了 Java，從此有了更多喝茶的時間，這幾年開始寫 Ruby，筆者已經有時間種茶葉了。邪神有云：「天下武功，無堅不破，唯快不破」。但論效能之快大概也沒語言快過 C 與組語了，可是 Ruby 之快不在此面，而在其彈性與簡潔，適合用於 meta programming 和 DSL。動態編程有效的縮短了開發的時間。如果要給Ruby 一個評價，筆者認為 Ruby 就是個什麼都能做的魔法程式語言。希望這本書也能帶給你相同的感受。本書的撰寫對象為略懂網站前端開發與關聯式資料庫的人，主要專注在Rails 的框架介紹與使用，採 Ruby 2.2 與 Rails 4.2 版。這不是一本教授 Ruby的書，如果你對 Ruby 不熟，不建議直接從本書看起。你如果常聽人說 Rails 簡單、易用又好學，但那其實是建立在使用者已具備許多背景知識的前提下才成立的，這意謂 Rails 不是新手的玩具。想直接跳過 Ruby 直接學 Rails 其實是很可惜的一件事。並不是說非要這些背景知識不可，而是當在沒有背景知識的加持之下，硬去挑戰像 Rails 這樣複雜的架構，學途可能會非常吃力。而在你閱讀本書以前，建議先確認自己已經具備以下知識：Q1： http://localhost:3000 這段網址所代表的涵義為何？Q2：以下有一段 HTML，解釋 method 屬性的用途。＜form action=""http://www.google.com/search"" method=""get""＞＜input name=""q"" type=""text""＞＜input type=""submit""＞＜/form＞Q3：以下 HTML 會使瀏覽器送出幾次請求？＜!DOCTYPE html＞＜html＞＜head＞＜title＞Title＜/title＞＜link rel=""stylesheet"" href=""/css/main.css""＞＜script src=""/js/mian.js""＞＜/script＞＜/head＞＜body＞＜img src=""/img/logo.png""＞＜/body＞＜/html＞Q4： 用SQL從以下兩張資料表（posts與users）找出Tony的所有文章。－－－－－－－－－－－－－－－－－－－｜　　　　　posts 資料表　　　　　 ｜－－－－－－－－－－－－－－－－－－－｜　id　 ｜　title　　｜ user_id ｜－－－－－－－－－－－－－－－－－－－｜　 1　 ｜　Lorem 1　｜　　2　　 ｜｜　 2　 ｜　Lorem 2　｜　　3　　 ｜｜　 3　 ｜　Lorem 3　｜　　3　　 ｜｜　 4　 ｜　Lorem 4　｜　　1　　 ｜－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－｜　　users 資料表 　｜－－－－－－－－－－－－｜　id　｜　name 　　｜－－－－－－－－－－－－｜　1　 ｜　John　　 ｜｜　2 　｜　Mary　　 ｜｜　3　 ｜　Tony　　 ｜｜　4　 ｜　Jason 　 ｜－－－－－－－－－－－－Q5：以下 Ruby 程式碼，三者間的差異？{""name"" =＞ ""Weihang"", ""age"" =＞ 24}{:name =＞ ""Weihang"", :age =＞ 24}{name: ""Weihang"", age: 24}Q6：以下三個 Ruby 方法的呼叫，各別被傳入的多少個參數？before_action :set_postget :about, :contacts, :faq, :sitemap, controller: :pagesresources :posts, only: [:index, :create, :update]以上的答案分別為：A1 協定://主機名稱:閘道A2 method 屬性用以決定該表單送出的請求是使用什麼 HTTP 動詞A3 4 次：HTML、JS、CSS、圖片A4 SELECT * FROM posts WHERE user_id = ，3，;A5 後兩者相同且比第一個的寫法效能要好A6 1、5、2如果都能正確對答，表
+                    
+"
+Ruby Tutorial,https://www.kingstone.com.tw//basic/203c206172820?zone=english&lid=search&actid=WISE&kw=Ruby&pi=1,"Fulton, Hal",Addison-Wesl,9780321553737.0,https://cdn.kingstone.com.tw/english/images/product/3737/9780321553737.jpg,0
+Programming Ruby 1.9 & 2.0,https://www.kingstone.com.tw//basic/203c308773288?zone=english&lid=search&actid=WISE&kw=Ruby&pi=1,"Thomas, Dave",Pragmatic   ,9781937785499.0,https://cdn.kingstone.com.tw/english/images/product/5499/9781937785499.jpg,"
+
+Ruby is the fastest growing and most exciting dynamic language out there. If you need to get working programs delivered fast, you should add Ruby to your toolbox.  This book is the only complete reference for both Ruby 1.9 and Ruby 2.0, the very latest version of Ruby.  2013 marks the 20th anniversary of the Ruby language. We're proud that throughout its history, we've continued to cover the latest version of Ruby.  Would you like to go from first idea to working code much, much faster? Do you currently spend more time satisfying the compiler instead of your clients or end users? Are you frustrated with demanding languages that seem to get in your way, instead of getting the work done? Are you using Rails, and want to dig deeper into the underlying Ruby language? If so, then we've got a language and book for you!  Ruby is a fully object-oriented language, much like the classic object-oriented language, Smalltalk. Like Smalltalk, it is dynamically typed (as opposed to Java or C++), but unlike Smalltalk, Ruby features the same conveniences found in modern scripting languages such as Perl and Python.  The combination of the power of a pure object-oriented language with the convenience of a scripting language makes Ruby a favorite tool of intelligent, forward-thinking programmers.  The Pickaxe contains four major sections:  An acclaimed tutorial on using Ruby.  The definitive reference to the language.  Complete documentation of all built-in classes, modules, and methods.  Complete descriptions of all 97 standard libraries.  This is the reference manual for Ruby, including a description of all the standard library modules, a complete reference to all built-in classes and modules (including all the new and changed methods introduced by Ruby 1.9, 1.9.2, 1.9.3, and 2.0). It also includes all the new and changed syntax and semantics introduced since Ruby 1.8. Learn about the new parameter passing rules, local variable scoping in blocks, fibers, and the new block declaration syntax, among other exciting new features. About Ruby 2.0  Ruby 2.0 is a minor update to Ruby 1.9, unlike the more major updates from Ruby 1.8 to Ruby 1.9.  The major language changes in Ruby 2.0 are the addition of keyword arguments and the change to use UTF-8 as the default source file encoding.  There are a number of additions to the standard library, including:  @Enumerator:: Lazy@, which adds support for lazy access to potentially infinite lists.  Refinements allow you to encapsulate changes to third-party classes, and scope their application to individual source files, preventing your changes from polluting the global application.  You'll also find that Ruby 2 is faster, and has memory management improvements that make it more server-friendly.  All told, there are over 110 sections of the book that have been flagged and cross-linked to indicate 2.0 content. What You Need  This book assumes you have a basic understanding of object-oriented programming.  In general, Ruby programmers tend to favor the the command line for running their code, and they tend to use text editors rather than IDEs.  * Ruby runs on Windows, Linux, and Macs.
+                    
+"
+Build Awesome Command-line Applications in Ruby 2,https://www.kingstone.com.tw//basic/203c131101180?zone=english&lid=search&actid=WISE&kw=Ruby&pi=1,"Copeland, David",Pragmatic   ,9781937785758.0,https://cdn.kingstone.com.tw/english/images/product/5758/9781937785758.jpg,0
+Ruby on Rails Tutorial,https://www.kingstone.com.tw//basic/203c312172209?zone=english&lid=search&actid=WISE&kw=Ruby&pi=1,"Hartl, Michael",Addison-Wesl,9780321832054.0,https://cdn.kingstone.com.tw/english/images/product/2054/9780321832054.jpg,0
+10天學會 Ruby on Rails：Web 2.0 網站架設速成,https://www.kingstone.com.tw//basic/2013120279735?zone=book&lid=search&actid=WISE&kw=Ruby&pi=1,酆士昌,博碩文化  ,9789862018347.0,https://cdn.kingstone.com.tw/book/images/product/20131/2013120279735/2013120279735b.jpg,"
+
+
+寫程式就是這麼簡單！
+
+  
+
+ 你是否已經花了很多時間，讀了很多Ruby on Rails或是寫程式的書，卻仍不懂應該怎麼做？你是否已經感到絕望，在找尋一本可以幫你突破的書？
+ 本書就是你唯一需要的初級Ruby on Rails書籍，保證一定可以解開你對寫程式的困惑，幫助你成為一個軟體工程師。
+
+本書特色
+
+ ★作者為台灣RoR先驅、數位時代Ruby on Rails程式開發工作營講師。
+ ★Ruby on Rails是近年來最熱門的語言，因為它是最強大、簡單、人性化的語言。
+ ★許多世界級平台Twitter、Groupon、Airbnb、Github、Hulu等等都是使用Ruby on Rails。
+ ★就算不會寫程式也可以！作者用最簡單的方式教你如何開發出一個專業級網站。
+ ★實際開發證實是學寫程式最快的方法(Show, not tell)。
+ ★你只會學到需要用到的知識，而不是讀死書。
+ ★開發時遇到問題，可以加入作者的臉書獲得解答。
+
+"
+Ruby on Rails 最佳程式設計指南,https://www.kingstone.com.tw//basic/2013120021952?zone=book&lid=search&actid=WISE&kw=Ruby&pi=1,許勇,佳魁      ,9789865908881.0,https://cdn.kingstone.com.tw/book/images/product/20131/2013120021952/2013120021952b.jpg,"
+
+Ruby，一種為簡單快速物件導向程式設計而創的指令碼語言，由日本人松本行弘開發，遵守GPL 協定和Ruby License。Ruby 是一個語法像Smalltalk 一樣完全物件導向、指令稿執行，又有Perl 強大的文字處理功能的程式設計語言。在目前的主流Web 開發技術（例如，J2EE、ASP.NET、PHP、Python 和Ruby）中，基於Ruby 語言的Rails Framework 是製作網站時開發速度最快的工具，可達到J2EE Framework開發速度5～10倍，並且程式碼量只有使用J2EE Framework開發的1/5 以下。因此使用Ruby開發網站，能夠把網站的開發週期縮短5 倍左右。由於程式碼量的大幅度減少，網站整個的維護工作量也大大降低。使用Ruby 可以帶來開發和維護上的好處，極大幅度地降低網站開發週期和維護成本。 本書根據Ruby on Rails在實際開發中的運用，詳細介紹Ruby語言的特性、語言基礎，以及Framework的應用。採用大量的實例進行講解，對使用中的重點、困難進行專門的講解，力求透過實際操作使讀者更容易地使用Ruby on Rails 開發應用程式。內容由淺入深，實用性強，覆蓋面廣，條理清晰，是一本有效、實用的操作指南。如果有一定的B/S應用開發基礎，透過學習本書讀者就可以獨立開發一個大型的互動性網站應用系統。本書適合以下人員參考學習：‧渴望了解Ruby on Rails Framework 的開發人員。‧初步學習Ruby on Rails 開發技術的人員。‧開發實際Rails 應用的Web 開發人員。
+                    
+"
+Ruby on Rails Tutorial and Livelesson Video Bundle,https://www.kingstone.com.tw//basic/203c308175153?zone=english&lid=search&actid=WISE&kw=Ruby&pi=1,"Hartl, Michael",Addison-Wesl,9780321862976.0,https://cdn.kingstone.com.tw/english/images/product/2976/9780321862976.jpg,0
+Exploring Everyday Things With R and Ruby,https://www.kingstone.com.tw//basic/203c312479659?zone=english&lid=search&actid=WISE&kw=Ruby&pi=1,"Chang, Sau Sheong",Oreilly &   ,9781449315153.0,https://cdn.kingstone.com.tw/english/images/product/5153/9781449315153.jpg,"
+
+If you're curious about how things work, this fun and intriguing guide will help you find real answers to everyday problems. By using fundamental math and doing simple programming with the Ruby and R languages, you'll learn how to model a problem and work toward a solution. All you need is a basic understanding of programming. After a quick introduction to Ruby and R, you'll explore a wide range of questions by learning how to assemble, process, simulate, and analyze the available data. You'll learn to see everyday things in a different perspective through simple programs and common sense logic. Once you finish this book, you can begin your own journey of exploration and discovery. Here are some of the questions you'll explore: Determine how many restroom stalls can accommodate an office with 70 employees Mine your email to understand your particular emailing habits Use simple audio and video recording devices to calculate your heart rate Create an artificial society--and analyze its behavioral patterns to learn how specific factors affect our real society
+                    
+"
+Metaprogramming Ruby,https://www.kingstone.com.tw//basic/203c308766174?zone=english&lid=search&actid=WISE&kw=Ruby&pi=1,"Perrotta, Paolo",Pragmatic   ,9781934356470.0,https://cdn.kingstone.com.tw/english/images/product/6470/9781934356470.jpg,0
+Ruby on Rails 3 Tutorial,https://www.kingstone.com.tw//basic/203c109667821?zone=english&lid=search&actid=WISE&kw=Ruby&pi=1,"Hartl, Michael",Addison-Wesl,9780132492546.0,https://cdn.kingstone.com.tw/english/images/product/2546/9780132492546.jpg,0
+Ruby on Rails 3 Tutorial,https://www.kingstone.com.tw//basic/203c109619256?zone=english&lid=search&actid=WISE&kw=Ruby&pi=1,"Hartl, Michael",Addison-Wesl,9780321743121.0,https://cdn.kingstone.com.tw/english/images/product/3121/9780321743121.jpg,0
+"Continuous Testing With Ruby, Rails, and JavaScript",https://www.kingstone.com.tw//basic/203c511970720?zone=english&lid=search&actid=WISE&kw=Ruby&pi=1,"Rady, Ben",Pragmatic   ,9781934356708.0,https://cdn.kingstone.com.tw/english/images/product/6708/9781934356708.jpg,0
+Beginning Ruby,https://www.kingstone.com.tw//basic/203c308443645?zone=english&lid=search&actid=WISE&kw=Ruby&pi=1,"Cooper, Pete",Apress      ,9781430223634.0,https://cdn.kingstone.com.tw/english/images/product/3634/9781430223634.jpg,"
+
+Based on the bestselling first edition, Beginning Ruby: From Novice to Professional, Second Edition is the leading guide for every type of reader who wants to learn Ruby from the ground up. The new edition of this book provides the same excellent introduction to Ruby as the first edition plus updates for the newest version of Ruby, including the addition of the Sinatra and Ramaze web application frameworks and a chapter on GUI development so developers can take advantage of these new trends. Beginning Ruby starts by explaining the principles behind object-oriented programming and within a few chapters builds toward creating a full Ruby application. By the end of the book, in addition to in-depth knowledge of Ruby, you'll also have basic understanding of many ancillary technologies such as SQL, XML, web frameworks, and networking. Introduces readers to the Ruby programming language  Takes readers from basic programming skills to web development with topics like Ruby-based frameworks and GUI programming  Covers many ancillary technologies in order to provide a broader picture (e.g., databases, XML, network daemons)
+                    
+"
+Ruby Characters,https://www.kingstone.com.tw//basic/203c109625909?zone=english&lid=search&actid=WISE&kw=Ruby&pi=1,Not Available (NA),李頂力    ,9781156324226.0,https://cdn.kingstone.com.tw/english/images/product/4226/9781156324226.jpg,0
+Ruby,https://www.kingstone.com.tw//basic/203c109318805?zone=english&lid=search&actid=WISE&kw=Ruby&pi=2,"Ullman, Larry",Peachpit Pr ,9780321553850.0,https://cdn.kingstone.com.tw/english/images/product/3850/9780321553850.jpg,0
+Free Software Programmed in Ruby,https://www.kingstone.com.tw//basic/203c109626131?zone=english&lid=search&actid=WISE&kw=Ruby&pi=2,Not Available (NA),李頂力    ,9781155200446.0,https://cdn.kingstone.com.tw/english/images/product/0446/9781155200446.jpg,0
+Ruby Best Practices,https://www.kingstone.com.tw//basic/2034550180354?zone=english&lid=search&actid=WISE&kw=Ruby&pi=2,Brown-,Oreilly &   ,9780596523008.0,https://cdn.kingstone.com.tw/english/images/product/3008/9780596523008.jpg,"
+
+How do you write truly elegant code with Ruby? Ruby Best Practices is for programmers who want to use Ruby as experienced Rubyists do. Written by the developer of the Ruby project Prawn, this concise book explains how to design beautiful APIs and domain-specific languages with Ruby, as well as how to work with functional programming ideas and techniques that can simplify your code and make you more productive. You'll learn how to write code that's readable, expressive, and much more. Ruby Best Practices will help you: Understand the secret powers unlocked by Ruby's code blocksLearn how to bend Ruby code without breaking it, such as mixing in modules on the flyDiscover the ins and outs of testing and debugging, and how to design for testabilityLearn to write faster code by keeping things simpleDevelop strategies for text processing and file management, including regular expressionsUnderstand how and why things can go wrongReduce cultural barriers by leveraging Ruby's multilingual capabilitiesThis book also offers you comprehensive chapters on driving code through tests, designing APIs, and project maintenance. Learn how to make the most of this rich, beautiful language with Ruby Best Practices.
+                    
+"
+Ruby on Rails程式設計技術詳解,https://www.kingstone.com.tw//basic/2013120172470?zone=book&lid=search&actid=WISE&kw=Ruby&pi=2,許勇,佳魁      ,9789866143403.0,https://cdn.kingstone.com.tw/book/images/product/20131/2013120172470/2013120172470b.jpg,"
+
+本書介紹大量Ruby on Rails 的使用經驗，對使用中的重點、困難部份進行詳細的講解，是一本有效、實用的操作指南。力求透過實際操作使讀者更容易地使用Ruby on Rails 開發應用程式。適合渴望了解Ruby on Rails Framework 的開發人員、初步學習Ruby on Rails 開發技術的人員、實際Rails 應用的Web 開發人員。
+                    
+"
+Curso de Ruby/ Ruby Course,https://www.kingstone.com.tw//basic/203c308800308?zone=english&lid=search&actid=WISE&kw=Ruby&pi=2,"Carlson, Lucas",Ingram      ,9788441521940.0,https://cdn.kingstone.com.tw/english/images/product/1940/9788441521940.jpg,0
+Programming Cocoa with Ruby,https://www.kingstone.com.tw//basic/203c109361500?zone=english&lid=search&actid=WISE&kw=Ruby&pi=2,"Marick, Brian",Oreilly &   ,9781934356197.0,https://cdn.kingstone.com.tw/english/images/product/6197/9781934356197.jpg,0
+Ruby,https://www.kingstone.com.tw//basic/203c109317362?zone=english&lid=search&actid=WISE&kw=Ruby&pi=2,"Berman, Jules J.",Jones &     ,9780763757571.0,https://cdn.kingstone.com.tw/english/images/product/7571/9780763757571.jpg,0
+Programming Ruby 1.9,https://www.kingstone.com.tw//basic/203c308766160?zone=english&lid=search&actid=WISE&kw=Ruby&pi=2,"Thomas, Dave",Pragmatic   ,9781934356081.0,https://cdn.kingstone.com.tw/english/images/product/6081/9781934356081.jpg,0
+Ruby in Practice,https://www.kingstone.com.tw//basic/203c302690783?zone=english&lid=search&actid=WISE&kw=Ruby&pi=2,"Mcanally, Jeremy",Manning     ,9781933988474.0,https://cdn.kingstone.com.tw/english/images/product/8474/9781933988474.jpg,"
+
+Ruby in Practice increases your productivity by showing you specific Ruby techniques you can use in your projects. The book offers detailed strategies for using Ruby in a large-scale environment. You'll see concrete examples of integration, messaging, web development, and databases, all presented in a clear Problem/Solution format. This book won't help you push your deadline back, but it will help you get the job done in less time.Above all, Ruby in Practice is a practical book for developers who want an in depth understanding of the Ruby language and its toolset. The book is divided into three major parts.The first part concentrates on issues that developers face both from within their organizations and from their peers. The authors weigh the costs and benefits of using Ruby in enterprise development projects, the over-riding theme being that every developer should always aim to use the right tool for any particular job. The authors then examine the pros and cons of developing with Ruby, and where appropriate, compare Ruby to other languages, both conceptually and in code.The second part discusses techniques for communication and integration of systems. The authors describe how libraries and techniques are used to facilitate messaging, web development and communication automation. They also focus on how the strategies in the first section can be used with these libraries to make development more flexible and efficient.The last part shows how to manage data and integrate with existing data using Ruby. The authors describe techniques for using existing Ruby libraries that either replace popular Java libraries or can interface with existing data in a different way. They go on to show you how strategies covered in the first section can be used to enable Ruby to interact with existing assets or to build new data systems. Purchase of the print book comes with an offer of a free PDF, ePub, and Kindle eBook from Manning. Also available is all code from the book.
+                    
+"
+Learning Ruby,https://www.kingstone.com.tw//basic/203c109250364?zone=english&lid=search&actid=WISE&kw=Ruby&pi=2,"Fitzgerald, Michael",Oreilly &   ,9780596529864.0,https://cdn.kingstone.com.tw/english/images/product/9864/9780596529864.jpg,0
+"Using Ruby on Rails for Web Development, Introduction Guide to Ruby on Rails",https://www.kingstone.com.tw//basic/203c306753307?zone=english&lid=search&actid=WISE&kw=Ruby&pi=2,"White, Jacob",Emereo Pty  ,9781921573125.0,https://cdn.kingstone.com.tw/english/images/product/3125/9781921573125.jpg,0
+Agile Web Development With Rails 5,https://www.kingstone.com.tw//basic/203c607842363?zone=english&lid=search&actid=WISE&kw=Ruby&pi=2,"Ruby, Sam",Pragmatic   ,9781680501711.0,https://cdn.kingstone.com.tw/english/images/product/1711/9781680501711.jpg,0
+Enterprise Recipes with Ruby and Rails,https://www.kingstone.com.tw//basic/203c109363943?zone=english&lid=search&actid=WISE&kw=Ruby&pi=2,"Schmidt, Maik",Oreilly &   ,9781934356234.0,https://cdn.kingstone.com.tw/english/images/product/6234/9781934356234.jpg,0
+The Ruby Programming Language,https://www.kingstone.com.tw//basic/203c308243565?zone=english&lid=search&actid=WISE&kw=Ruby&pi=2,"Flanagan, David",Oreilly &   ,9780596516178.0,https://cdn.kingstone.com.tw/english/images/product/6178/9780596516178.jpg,"
+
+The Ruby Programming Language is the authoritative guide to Ruby and provides comprehensive coverage of versions 1.8 and 1.9 of the language. It was written (and illustrated!) by an all-star team: David Flanagan, bestselling author of programming language ""bibles"" (including JavaScript: The Definitive Guide and Java in a Nutshell) and committer to the Ruby Subversion repository.Yukihiro ""Matz"" Matsumoto, creator, designer and lead developer of Ruby and author of Ruby in a Nutshell, which has been expanded and revised to become this book.why the lucky stiff, artist and Ruby programmer extraordinaire.This book begins with a quick-start tutorial to the language, and then explains the language in detail from the bottom up: from lexical and syntactic structure to datatypes to expressions and statements and on through methods, blocks, lambdas, closures, classes and modules.The book also includes a long and thorough introduction to the rich API of the Ruby platform, demonstrating -- with heavily-commented example code -- Ruby's facilities for text processing, numeric manipulation, collections, input/output, networking, and concurrency. An entire chapter is devoted to Ruby's metaprogramming capabilities.The Ruby Programming Language documents the Ruby language definitively but without the formality of a language specification. It is written for experienced programmers who are new to Ruby, and for current Ruby programmers who want to challenge their understanding and increase their mastery of the language.
+                    
+"
+Ruby Cookbook,https://www.kingstone.com.tw//basic/203c203242786?zone=english&lid=search&actid=WISE&kw=Ruby&pi=2,"Carlson, Lucas",Oreilly &   ,9780596523695.0,https://cdn.kingstone.com.tw/english/images/product/3695/9780596523695.jpg,0
+Ruby 程式設計,https://www.kingstone.com.tw//basic/2014713424327?zone=book&lid=search&actid=WISE&kw=Ruby&pi=2,David Flanagan,歐萊禮    ,9789866840227.0,https://cdn.kingstone.com.tw/book/images/product/20147/2014713424327/2014713424327b.jpg,"
+
+
+	《Ruby程式設計》是Ruby的權威指南，內容完整地涵蓋了Ruby的1.8 與 1.9版。不論是想要學習Ruby的老練程式員，或是想要進一步瞭解和更精通語言的Ruby程式員，都適合閱讀本書。
+
+"
+Ruby Pocket Reference,https://www.kingstone.com.tw//basic/203c308243555?zone=english&lid=search&actid=WISE&kw=Ruby&pi=2,"Fitzgerald, Michael",Oreilly &   ,9780596514815.0,https://cdn.kingstone.com.tw/english/images/product/4815/9780596514815.jpg,0
+Ruby by Example,https://www.kingstone.com.tw//basic/203c111223953?zone=english&lid=search&actid=WISE&kw=Ruby&pi=2,"Baird, Kevin C.",No Starch Pr,9781593271480.0,https://cdn.kingstone.com.tw/english/images/product/1480/9781593271480.jpg,0
+Ruby on Rails,https://www.kingstone.com.tw//basic/203c308800307?zone=english&lid=search&actid=WISE&kw=Ruby&pi=2,"Hibbs, Curt",Ingram      ,9788441521827.0,https://cdn.kingstone.com.tw/english/images/product/1827/9788441521827.jpg,0
+Ruby錦囊妙計,https://www.kingstone.com.tw//basic/2014713010698?zone=book&lid=search&actid=WISE&kw=Ruby&pi=2,ucas Carlsol,歐萊禮    ,9789866840104.0,https://cdn.kingstone.com.tw/book/images/product/20147/2014713010698/2014713010698b.jpg,"
+
+本書特色 本書榮獲 2007 年第 17 屆 JOLT 大獎提名，以及 Amazon 五顆星的評價。 想要將 Ruby 的威力發揮到淋漓盡致嗎？就現今最熱門的程式語言 Ruby 而言，《Ruby 錦囊妙技》堪稱最完整、最全面的問題解決指南，為真實世界的疑難雜症提供了上百種解決方案，並且附帶了清楚的解釋，以及數千行可用在你自己的專案裡的程式碼。從資料結構和演算法，到與尖端技術的整合，《Ruby 錦囊妙技》涵蓋了每一位程式人員所需的知識與技能。不論是初學者，還是高階 Ruby 程式人員，同樣都能從本書獲益，學習到如何運用下列內容進行編程︰ 字串與數字 資料庫 陣列與雜湊 繪圖 類別、模組、與名稱空間 電子郵件、SSH、與 BitTorrent 之類的網際網路服務 反射機制與中介編程 XML 與 HTML 處理 多工 Ruby on Rails（含 Ajax 整合） 圖形與終端界面 如果你需要進行 Web 應用程式，本書會告訴你如何從 Rails 開始。如果你需要重新命名數千個檔案，你會知道如何使用 Ruby 完成這一類日常工作。你將學會如何讀寫 Excel 試算表、如何使用 Bayesian 過濾器對文字內容進行分類、以及如何建立 PDF 文件。另外，本書甚至包含了一些小絕竅，例如，如何讓鍵盤上的指示燈產生閃爍。 《Ruby 錦囊妙技》是現今關於 Ruby 最有用的一本書。在你需要解決某個問題時，不必靠自己篳路藍縷從頭開始︰你可以先在本書中找找看。 Lucas Carlson 是一名專業的 Ruby 程式人員，專精於 Rails 相關的 Web 程式開發。他已經撰寫過6個程式庫，並對許多其他程式庫具有相當的貢獻，包括 Rails 和 RedCloth。 Leonard Richardson 使用許多語言建立與維護程式庫，包括 Rubyful Soup。 程式人員不是單靠語法吃飯，而是以他們所撰寫的每一行具體、有用的程式碼為生。就此而言，本書的內容全都是實用的秘訣、技巧、知識、與智慧。冀望它的循循善誘，能夠引導讀者諸公到達 Ruby 編程的另一個美麗境界。」 ─ Yukihiro(Matz) Matsumoto，Ruby 創造者 「你或許以為這些只不過是傳統的、刻版的秘訣，實則不然。本書所涵蓋的錦囊妙技真的是非同小可，簡直是棒極了。例如版本控制系統、BitTorent 客戶端、以及遺失恐龍的廣告等等，精彩絕倫，不勝枚舉。本書的內容可謂學習 Ruby 的玉液瓊漿，提升程式能力的心靈雞湯。」 ─ Why the lucky stiff 
+
+"
+Ruby in a Nutshell,https://www.kingstone.com.tw//basic/203c010159054?zone=english&lid=search&actid=WISE&kw=Ruby&pi=2,"Yukihiro,Matsumoto",O'Reilly Media,9780596002145.0,https://cdn.kingstone.com.tw/english/images/product/2145/9780596002145.jpg,"
+
+Ruby is an absolutely pure object-oriented scripting language written in C and designed with Perl and Python capabilities in mind. While its roots are in Japan, Ruby is slowly but surely gaining ground in the US. The goal of Yukihiro Matsumoto, creator of Ruby and author of this book, is to incorporate the strengths of languages like Perl, Python, Lisp and Smalltalk. Ruby is a genuine attempt to combine the best of everything in the scripting world. Since 1993, Ruby mailing lists have been established, Web pages have formed, and a community has grown around it. The language itself is very good at text processing and is notable for its broad object orientation. Ruby is portable and runs under GNU/Linux (and other Unices) as well as DOS, MS Windows and Mac.With Ruby in a Nutshell, Matsumoto offers a practical reference to the features of this new language including the command-line options, syntax, built-in variables, functions, and many commonly used classes and modules. This guide covers the current stable version of Ruby (1.6), yet is applicable to the development version 1.7 and the next planned stable version 1.8. You will find a thorough description of Ruby's language syntax, and a description of the core functionality built into the standard Ruby interpreter, which has more than 800 built-in methods in 42 classes and modules.Ruby finds its power through its built-in libraries, and this handy volume take you through the many useful libraries that come with the standard Ruby distribution--from network access via HTTP and CGI programming, to data persistence using the DBM library. This book concludes with coverage of the unique tools that come with Ruby, including the debugger, profiler, and irb (or interactive ruby.)Find out how Ruby combines the strengths of other languages, and why it has captured the interest of so many open source programmers. As part of the successful ""in a nutshell"" series of books from O'Reilly & Associates, Ruby in a Nutshell is for readers who want a single desktop reference for all their needs.
+                    
+"
+Ruby 學習手冊,https://www.kingstone.com.tw//basic/2014713423955?zone=book&lid=search&actid=WISE&kw=Ruby&pi=2,Michael Fitzgerald,歐萊禮    ,9789866840128.0,https://cdn.kingstone.com.tw/book/images/product/20147/2014713423955/2014713423955b.jpg,"
+
+
+	開車上路前，其實不用鉅細靡細地瞭解整台車的構造，利用 Ruby 程式語言也是如此，用 Ruby 設計程式時，其實不需對它瞭若指掌。《Ruby 學習手冊》同時獻給程式設計老手與菜鳥，所以它宛如幫助人們快速開新車上路的操作指南，在書中提供了很多 Ruby 程式範例，並說明運作方式與原因，剛好足以讓我們自己設計 Ruby 程式。
+
+	各界人士對於 Ruby 的興趣，源自 Rails 網站開發架構的流行，也吸引了來自 Java 和 PHP 的開發者。不過，Ruby 的靈活彈性還有非常多用途。最佳的學習方式，莫過於自己動手做！本書幾乎每頁都有範例，可以讓大家動手玩個夠。
+
+本書內容
+
+	* 提出 Ruby 最重要的特色
+	* 示範 Ruby 中如何利用條件與操作字串
+	* 討論正規運算式
+	* 運算子、Math 模組提供的基本數學函式、有理數……等的使用方式
+	* 詳細說明並示範 Ruby 的陣列與雜湊
+	* 解釋 Ruby 用於檔案處理的工具
+	* 詳細討論 Ruby 的類別與模組（或稱「混成」），還包括關於物件導向語言的簡介
+	* 介紹 XML 處理、Tk toolkit、RubyGems、reflection、RDoc、嵌入式 Ruby、metaprogramming、例外處理……等眾多主題。
+	* 讓讀者熟悉 Rails 的本質，並簡短地介紹 Rails
+	每一章都附有隨堂練習，附錄內容則有一份 Ruby 詞彙表，與本書的參考資源。如果你想動手試駕 Ruby，《Ruby 學習手冊》是上手的最佳選擇。
+
+本書特色
+
+	文字與範例淺顯易懂，適合Ruby與程式設計的初學者；範例非常多，適合已有程式設計經驗，想直接瞭解Ruby語法的資深工程師。
+
+	 
+
+"
+Everyday Scripting with Ruby,https://www.kingstone.com.tw//basic/203c308355262?zone=english&lid=search&actid=WISE&kw=Ruby&pi=2,"Marick, Brian",Pragmatic   ,9780977616619.0,https://cdn.kingstone.com.tw/english/images/product/6619/9780977616619.jpg,0
+Ruby on Rails for Dummies,https://www.kingstone.com.tw//basic/203c109228186?zone=english&lid=search&actid=WISE&kw=Ruby&pi=2,"Barry,Burd",For Dummies ,9780470081204.0,https://cdn.kingstone.com.tw/english/images/product/1204/9780470081204.jpg,0
+The Ruby Way,https://www.kingstone.com.tw//basic/203c109196607?zone=english&lid=search&actid=WISE&kw=Ruby&pi=3,"Fulton, Hal Edwin",Ingram      ,9780672328848.0,https://cdn.kingstone.com.tw/english/images/product/8848/9780672328848.jpg,0
+"The Pony Rider Boys in the Ozarks Or, the Secret of Ruby Mountain",https://www.kingstone.com.tw//basic/203c109548145?zone=english&lid=search&actid=WISE&kw=Ruby&pi=3,"Patchin, Frank Gee",李頂力    ,9781153717205.0,https://cdn.kingstone.com.tw/english/images/product/7205/9781153717205.jpg,0
+Ruby On Rails程式設計入門,https://www.kingstone.com.tw//basic/2014713070630?zone=book&lid=search&actid=WISE&kw=Ruby&pi=3,歐展嘉,松崗      ,9789862042410.0,https://cdn.kingstone.com.tw/book/images/product/20147/2014713070630/2014713070630b.jpg,"
+
+本書特色：1. 這是一本最適合初學者想入門Ruby On Rails的工具書。2. 本書介紹使用NetBeans編輯器，藉以增進開發Rails專案的效率。3. 教導您在Rails中使用Ajax，讓瀏覽器能處理更多的工作及特效。4. 以圖文對照的方式，由淺入深、循序漸進地介紹了Ruby On Rails的知識體系及開發技巧，引導讀者Step by Step完成實用範例。5. 清楚交待程式碼的寫法及用意，讓您真正瞭解撰寫程式的架構與規劃。6. 本書內容均以實作練習為前提，讓初學者能快速學會Ruby on Rails的建置與開發。7. 詳盡說明RJS樣板檔案的設計方式，並且結合CSS樣式檔案之應用。8. 網羅實用的外掛套件，增強您的網站功能。9. 介紹功能強大的jMaki組件的操作方式。10. 結合Flickr照片搜尋範例，快速找到您想要的照片。11. 輕鬆讓Dreamweaver支援編輯Rails的檔案格式。12. 馬上學會如何在網頁裡嵌入線上多媒體影音。13. 簡易敏捷的網站部署教學與路由設定。14. 強力分析MVC模式設計的Web應用架構。光碟內容：各章節範例檔
+                    
+"
+PhotoShop數位相片編修72變,https://www.kingstone.com.tw//basic/2014712561702?zone=book&lid=search&actid=WISE&kw=Ruby&pi=3,Ruby,旗標      ,9789574420438.0,https://cdn.kingstone.com.tw/book/images/product/20147/2014712561702/2014712561702b.jpg,"
+
+完全針對想修照片，但又不想翻閱坊間每本厚厚的影像編修軟體書籍，只想輕輕鬆鬆照著想要的情境去修改自己的相片的愛好攝影者。蒐集整合出最具代表性、普遍性的 72 個有問題照片類型。不教你 Photoshop 所有的功能，只針對你最需要的來講。一張照片一個單元，不需要學會一才能學二。型錄結構編排，翻到你想修的照片類型，step by step 就能修出完美照片。簡單容易，大部份的單元五個步驟左右就完成。 
+
+"
+Programming Ruby,https://www.kingstone.com.tw//basic/203c109154944?zone=english&lid=search&actid=WISE&kw=Ruby&pi=3,"Thomas, David",Pragmatic Bookshelf,9780974514055.0,https://cdn.kingstone.com.tw/english/images/product/4055/9780974514055.jpg,"
+
+Ruby is an increasingly popular, fully object-oriented dynamic programming language, hailed by many practitioners as the finest and most useful language available today. When Ruby first burst onto the scene in the Western world, the Pragmatic Programmers were there with the definitive reference manual, Programming Ruby: The Pragmatic Programmer's Guide.Now in its second edition, author Dave Thomas has expanded the famous Pickaxe book with over 200 pages of new content, covering all the improved language features of Ruby 1.8 and standard library modules. The Pickaxe contains four major sections: An acclaimed tutorial on using Ruby.The definitive reference to the language.Complete documentation on all built-in classes, modules, and methodsComplete descriptions of all 98 standard libraries.If you enjoyed the First Edition, you'll appreciate the expanded content, including enhanced coverage of installation, packaging, documenting Ruby source code, threading and synchronization, and enhancing Ruby's capabilities using C-language extensions. Programming for the World Wide Web is easy in Ruby, with new chapters on XML/RPC, SOAP, distributed Ruby, templating systems, and other web services. There's even a new chapter on unit testing.This is the definitive reference manual for Ruby, including a description of all the standard library modules, a complete reference to all built-in classes and modules (including more than 250 significant changes since the First Edition). Coverage of other features has grown tremendously, including details on how to harness the sophisticated capabilities of irb, so you can dynamically examine and experiment with your running code. ""Ruby is a wonderfully powerful and useful language, and whenever I'm working with it this book is at my side"" --Martin Fowler, Chief Scientist, ThoughtWorks
+                    
+"
+Ruby for Rails,https://www.kingstone.com.tw//basic/203c402763675?zone=english&lid=search&actid=WISE&kw=Ruby&pi=3,"Black, David A.",Manning     ,9781932394696.0,https://cdn.kingstone.com.tw/english/images/product/4696/9781932394696.jpg,"
+
+-The word is out: with """"Ruby on Rails"""" you can build powerful Web applications easily and quickly! And just like the Rails framework itself, Rails applications are Ruby programs. That means you can't tap into the full power of Rails unless you master the Ruby language. """"Ruby for Rails,"""" written by Ruby expert David Black (with a forward by David Heinemeier Hansson), helps Rails developers achieve Ruby mastery. Each chapter deepens your Ruby knowledge and shows you how it connects to Rails. You'll gain confidence working with objects and classes and learn how to leverage Ruby's elegant, expressive syntax for Rails application power. And you'll become a better Rails developer through a deep understanding of the design of Rails itself and how to take advantage of it. Newcomers to Ruby will find a Rails-oriented Ruby introduction that's easy to read and that includes dynamic programming techniques, an exploration of Ruby objects, classes, and data structures, and many neat examples of Ruby and Rails code in action. """"Ruby for Rails"""": the Ruby guide for Rails developers! What's Inside Classes, modules, and objects Collection handling and filtering String and regular expression manipulation Exploration of the Rails source code Ruby dynamics Many more programming concepts and techniques!
+                    
+"
+Ruby Programming for the Absolute Beginner,https://www.kingstone.com.tw//basic/203c109270562?zone=english&lid=search&actid=WISE&kw=Ruby&pi=3,"Ford, Jerry Lee, Jr.",Course Techn,9781598633979.0,https://cdn.kingstone.com.tw/english/images/product/3979/9781598633979.jpg,0
+Beginning Ruby on Rails E-commerce,https://www.kingstone.com.tw//basic/203c109222492?zone=english&lid=search&actid=WISE&kw=Ruby&pi=3,"Hellsten, Christian",Apress      ,9781590597361.0,https://cdn.kingstone.com.tw/english/images/product/7361/9781590597361.jpg,"
+
+Beginning Ruby on Rails E-Commerce: From Novice to Professional is the first book of its kind to guide you through producing e-commerce applications with Rails, the stacked web framework taking the world by storm. The book dives right into the process of creating a production-level web application using agile methodologies and test-driven development combined with Rails best practices. You'll take advantage of the latest crop of Rails plug-ins and helpers that will radically improve your programming schedule. You'll also create a real application step-by-step, plus the book is driven by real-world cases throughout.You will begin by learning how to install Rails and quickly create a product catalog interfaced with your choice of database technologies. Then you'll discover how to build modern, Ajax-powered shopping carts and add useful features like customer feedback modules. Next you'll learn how to integrate your application with open source packages like the Ferret full-text search engine, and how to interface with back-end electronic payment systems. You'll also learn how to make your application work flawlessly with existing production systems using web services, and then ultimately deploy and tune your application for production use.
+                    
+"
+Ruby程式設計密技268,https://www.kingstone.com.tw//basic/2014713009319?zone=book&lid=search&actid=WISE&kw=Ruby&pi=3,青木峰郎,博碩文化  ,9789862010686.0,https://cdn.kingstone.com.tw/book/images/product/20147/2014713009319/2014713009319b.jpg,"
+
+本書最重要的就是幫助那些跨過Ruby入門門檻的人，在解決實際問題上收集各式各樣的秘訣方法。書中滿載了Ruby程式設計的Know-How，並以「字串」、「陣列」、「數值」、「檔案」、「程序」、「CGI」等等為主題，穿插著範例，清楚地解說細部技巧。相信在熟練本書的內容之後，讀者可以快速地提升至Ruby中級學習者的程度。
+                    
+"
+Ruby on Rails:建置與執行,https://www.kingstone.com.tw//basic/2014713002815?zone=book&lid=search&actid=WISE&kw=Ruby&pi=3,Bruce A. Tat,學貫      ,9789867794925.0,https://cdn.kingstone.com.tw/book/images/product/20147/2014713002815/2014713002815b.jpg,"
+
+你已經聽過很多關於 Ruby on Rails 的事，並且想要動手試試。這就是你需要的一本書：快速、沒有廢話的介紹，告訴你如何以 Ruby on Rails 建立真實的應用程式。〈Ruby on Rails：建置與執行〉以七個章節，帶領你從零開始，全速進入 Ruby on Rails 的世界。範圍涵蓋初步程式碼的自動完成（scaffolding 功能），到最後自動化測試的每件事，讓你寫出真正具有回應力，使用者歡喜、具 Ajax 特性的應用程式。Rails 為以資料庫驅動的 Web 應用程式，實作出真正輕量級的開發模型。幾乎沒有組態（configuration）的需要；Rails 根據一套容易遵循的約定，自動建立資料庫表格的對映。開發期間，對應用程式所做的改變會立即呈現，無需其他語言或框架令人生畏的編譯∕部署循環。使用 Rails 開發是件非常單純的事，讓你把焦點放在應用程式真正具有創造性的地方，而不是那些零碎繁瑣的苦工。當然，基礎工作還是要，但只有極少量的程式碼需要撰寫，這促成較少的維護工作，以及更快速的開發流程。 本書範圍涵蓋：使用 ActiveRecord 操作資料庫 使用 Migrations 修改資料庫，而無需 SQL 為資料庫裡資料表之間的關係進行塑模 建立 controller 表達應用程式的基礎操作 以 template 開發 HTML 表現層 將 Ajax 功能注入應用程式 撰寫單元測試，功能測試，以及整合測試 Ruby on Rails 可能是近十年來最重要的開放原始碼專案，為 Web 應用程式的開發帶來全新的變革，讓數十萬開發人員的生活變得輕鬆愉快。如果你沒在使用它，現在就開始吧；〈Ruby on Rails ：建置與執行〉將告訴你怎麼做。
+
+"
+Ruby on Rails快速Web應用開發手冊,https://www.kingstone.com.tw//basic/2014712975561?zone=book&lid=search&actid=WISE&kw=Ruby&pi=3,柳靖,文魁      ,9789862040348.0,https://cdn.kingstone.com.tw/book/images/product/20147/2014712975561/2014712975561b.jpg,"
+
+本書從設計理念、實現方式和開發實例三個角度詳細地闡述了RoR Web應用程式開發框架。全書以實例開篇，力求讓讀者對RoR有一個直觀的印象。隨後，本書以結合小實例的方式詳細介紹了RoR中主要功能的具體實現方式，引導讀者進一步了解RoR。本書的最後為4個完整的實例，這些實例雖不複雜，但其中卻反映出RoR快速開發的理念。本書特色實例引導本書透過設計理念、實現方式和開發實例詳細闡述RoR Web應用程序開發框架。學以致用本書在描述RoR的各種方法、功能和特點時都有實例相配合，從而使讀者能夠運用RoR快速開發出實用的Web應用程式。讀者對象 * 基於RoR快速開發Web應用程式的開發人員。* 準備使用RoR開發Web應用程式的開發人員。* 渴望瞭解RoR框架的開發人員。* 渴望瞭解新技術的技術人員。
+                    
+"
+Ruby on Rails專業網站案例實作,https://www.kingstone.com.tw//basic/2014712969362?zone=book&lid=search&actid=WISE&kw=Ruby&pi=3,旗標      ,停售,9789574424788.0,https://cdn.kingstone.com.tw/book/images/product/20147/2014712969362/2014712969362b.jpg,"
+
+Ruby on Rails 高效率的開發能力，已經在世界各地燃起熊熊火焰，勢不可擋。但「學過 Ruby on Rails ≠能開發 Ruby on Rails 網站」，本書就是專為學過 Ruby on Rails，但動手開發網站時卻不知所措的程式員所撰寫，以網路書店為臨摹對象，跟著專家一步步建制專業級的商務網站。和其他 Ruby on Rails 書籍中的簡易範例不同，本書實作的是功能完整、可以直接上線的多國語系網路書店，帶您一步步實際體現 Ruby on Rails 快速開發、邊測試邊開發 (Test-Driven Development) 的優點。　本書特色：□ 跟著專家一步步建制專業商務網站，晉升 Ruby on Rails 聖堂□ 專業網路書店實作解析 / 拖放式購物車 / 客戶討論區 / 標籤 (Tag) 功能 / 防駭機制 / 付款機制 / 網站佈署 / 多國語系 / 效能調校□ 邊測試邊開發 (Test-Driven Development) 模式，趕上世界頂尖開發潮流 
+
+"
+Ruby on Rails學習手札,https://www.kingstone.com.tw//basic/2014712939051?zone=book&lid=search&actid=WISE&kw=Ruby&pi=3,Steven Holzn,上奇科技  ,9789866884184.0,https://cdn.kingstone.com.tw/book/images/product/20147/2014712939051/2014712939051b.jpg,"
+
+Ruby on Rails可以說是目前最具革命性的網站應用程式開發工具。使用RoR，即使是開發一個功能完備的網路商店，所需要的時間也遠較其他的程式語言來得縮短許多，同時開發難度也大幅降低。 您可以藉由本書同時學到Ruby與Rails的入門知識。本書將告訴您最簡便的安裝方式（包含Linux、Windows、MacOS三種平台），基本的寫作語法，物件的觀念，如何連結資料庫等等。同時還將整合這些基礎知識，帶領您做出諸如購物車、線上目錄這類實用的Web應用程式。 本書將告訴您：如何安裝與使用Ruby及Rails。 Ruby物件導向程式設計。 如何使用Rails開發Web應用程式。 如何透過Rails連結資料庫。 存取cookie與快取頁面的技巧。 在Rails當中使用Ajax的方法。
+                    
+"
+Ruby on Rails網路應用程式開發與建置,https://www.kingstone.com.tw//basic/2014712912603?zone=book&lid=search&actid=WISE&kw=Ruby&pi=3,arton著,博碩文化  ,9789575279790.0,https://cdn.kingstone.com.tw/book/images/product/20147/2014712912603/2014712912603b.jpg,"
+
+Ruby on Rails標榜「生產力比 Java 高 10 倍」，在 Web 開發的世界中捲起廣大的旋風和迴響。在Ruby on Rails 這個 Web 應用程式開發架構出現之後，已成為許多網路應用開發與和程式設計師爭相學習的熱門課題。 本書內容是以動手實作來熟習Ruby on Rails這個架構，說明的內容都以實作練習為前提，讓初學者能由實作中學會Ruby on Rails的建置與開發。在閱讀本書時，首先請跟著每一課的內容實際輸入程式碼，讓它運作起來，接著再實際驗證各程式的運作方式。 全書總共有 10 + 1 課的內容，其中 9 課都是在寫程式與建置開發的動作，每一課都有獨立的主題，最終目的是學會將自製的 Web 應用程式透過 Internet 公開，是入門到應用必備的參考用書。 光碟內容 1.書中範例程式檔 2.Ruby on Rails相關應用程式 
+
+"
+Ruby Programming－向Rudy之父學程式設計,https://www.kingstone.com.tw//basic/2014712909290?zone=book&lid=search&actid=WISE&kw=Ruby&pi=3,高橋征義,博碩文化  ,9789575279776.0,https://cdn.kingstone.com.tw/book/images/product/20147/2014712909290/2014712909290b.jpg,"
+
+Ruby是一套簡單，但十分有內涵的程式語言，近年來隨著網路應用程式的快速流行與開展，Ruby的功能與應用特質使得它漸漸受到全世界的注目，Ruby愛用者正在快速地倍增。 本書由Ruby之父Yukihiro Matsumoto(matz, 松本行弘)監修推薦，在日本是Ruby社群一致推薦的入門好書。本書以24章的內容，詳實完整的講解，再加上許多圖解和範例程式的輔助，是想要學習Ruby程式設計，並搭上網路應用潮流的讀者不能不看的參考好書。 ________________________________________ Enjoy Programming! Ruby是為了讓程式設計更快樂而開發的程式語言。Ruby具有「徹底物件導向」「豐富的程式庫」「親和力高的直覺語法」等多項特徵，但這些特徵並不是Ruby的目的。頂多只能說是為了讓程式設計更有趣而開發的手段罷了。 在程式設計的世界，直到現在已經有各式各樣的程式語言出現而持續運用著。這些語言的開發往往有其目的，例如「可寫出能夠高速運作的程式」「可在短期間學會寫程式」「寫一次到處都能跑」「小朋友也能輕易寫出程式」等等。但是積極主張「讓寫程式更快樂」的程式語言，似乎就不太常見了。或許是沒有人積極地去思考過「人人都來程式設計」這個議題吧。 想當然爾，「讓程式設計更快樂的程式語言」，一定要簡單好用才行。因為麻煩的程式語言就很難讓人感受到「快樂」了。同時，功能也要非常強大才行。要使用無力的語言寫程式是很辛苦的。所以不用說，Ruby是個用起來很簡單又很強大的程式語言。 本書為了讓完全沒有程式設計經驗的讀者也能抓住怎麼靈活地使用Ruby，仔細的說明各種知識。從程式所需要的變數、常數、方法、類別、控制結構等語法的說明，到類別主要的使用方式、簡單的應用等等，盡可能都淺顯地加以解說。或許對完全沒碰過電腦的讀者還是有點吃力，但若您是有自己動手玩過HTML這樣的讀者，應該就能充分活用本書的知識了。另外，若您不是初學者，但想要從頭開始學習Ruby語言，這本書也會派上用場。
+                    
+"
+Women in Engineering,https://www.kingstone.com.tw//basic/203c109251957?zone=english&lid=search&actid=WISE&kw=Ruby&pi=3,"Heap, Ruby",Ingram      ,9781598293289.0,https://cdn.kingstone.com.tw/english/images/product/3289/9781598293289.jpg,0
+Agile Web Development With Rails 4,https://www.kingstone.com.tw//basic/203c308773292?zone=english&lid=search&actid=WISE&kw=Ruby&pi=3,"Ruby, Sam",Pragmatic   ,9781937785567.0,https://cdn.kingstone.com.tw/english/images/product/5567/9781937785567.jpg,"
+
+Rails just keeps on changing. Both Rails 3 and 4, as well as Ruby 1.9 and 2.0, bring hundreds of improvements, including new APIs and substantial performance enhancements. The fourth edition of this award-winning classic has been reorganized and refocused so it's more useful than ever before for developers new to Ruby and Rails.  Rails 4 introduces a number of user-facing changes, and the ebook has been updated to match all the latest changes and new best practices in Rails. This includes full support for Ruby 2.0, controller concerns, Russian Doll caching, strong parameters, Turbolinks, new test and bin directory layouts, and much more.  Ruby on Rails helps you produce high-quality, beautiful-looking web applications quickly. You concentrate on creating the application, and Rails takes care of the details.  Tens of thousands of developers have used this award-winning book to learn Rails. It's a broad, far-reaching tutorial and reference that's recommended by the Rails core team. If you're new to Rails, you'll get step-by-step guidance. If you're an experienced developer, this book will give you the comprehensive, insider information you need.  Rails has evolved over the years, and this book has evolved along with it. We still start with a step-by-step walkthrough of building a real application, and in-depth chapters look at the built-in Rails features. This edition now gives new Ruby and Rails users more information on the Ruby language and takes more time to explain key concepts throughout. Best practices on how to apply Rails continue to change, and this edition keeps up. Examples use Concerns, Russian Doll caching, and Turbolinks, and the book focuses throughout on the right way to use Rails. Additionally, this edition now works on Ruby 2.0, a new release of Ruby with substantial functional and performance improvements.  This edition is for Rails4.0 and beyond.
+                    
+"
+Ruby-Throated Hummingbird,https://www.kingstone.com.tw//basic/203c510363775?zone=english&lid=search&actid=WISE&kw=Ruby&pi=3,"Sargent, Robert R.",Stackpole   ,9780811726887.0,https://cdn.kingstone.com.tw/english/images/product/6887/9780811726887.jpg,0
+U.s. Bridge Conditions and Long-term Bridge Performance,https://www.kingstone.com.tw//basic/203c404725900?zone=english&lid=search&actid=WISE&kw=Ruby&pi=3,"Lacey, Ruby L. (EDT)",Ingram      ,9781631174865.0,https://cdn.kingstone.com.tw/english/images/product/4865/9781631174865.jpg,0
+Agile Web Development With Rails,https://www.kingstone.com.tw//basic/203c511791186?zone=english&lid=search&actid=WISE&kw=Ruby&pi=3,"Ruby, Sam",Pragmatic   ,9781934356548.0,https://cdn.kingstone.com.tw/english/images/product/6548/9781934356548.jpg,0
+Using JRuby,https://www.kingstone.com.tw//basic/2034550198687?zone=english&lid=search&actid=WISE&kw=Ruby&pi=3,Nutter- Charles O.,Pragmatic   ,9781934356654.0,https://cdn.kingstone.com.tw/english/images/product/6654/9781934356654.jpg,0
+Desarrollo web con rails/ Web Development with Rails,https://www.kingstone.com.tw//basic/203c308800382?zone=english&lid=search&actid=WISE&kw=Ruby&pi=3,"Ruby, Sam",Ingram      ,9788441526440.0,https://cdn.kingstone.com.tw/english/images/product/6440/9788441526440.jpg,0

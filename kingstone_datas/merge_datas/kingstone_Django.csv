@@ -1,0 +1,249 @@
+﻿書名,書籍網站,作者,出版社,ISBN,圖片網址,書籍簡介
+Python架站特訓班（第二版）：Django 3最強實戰（附影音/範例）,https://www.kingstone.com.tw//basic/2014713618900?zone=book&lid=search&actid=WISE&kw=Django&pi=0,鄧文淵 、文淵閣工作室,碁峰資訊  ,9789865028862.0,https://cdn.kingstone.com.tw/book/images/product/20147/2014713618900/2014713618900b.jpg,"
+
+最佳熱門組合Python X Django， 讓你初學架站就上手！ Python是目前最受歡迎的程式語言，Django堪稱是當前最熱門的Python網站框架，兩者結合，讓開發複雜的資料庫網站變得更簡單。本書一次綜合架站必備技能，提供相關範例檔，讓Python發揮極大效用，用Django打造出超強互動網站。無論是建置網站時所需的基礎設定、後台配置、頁面路由、MTV開發模式、網站的發行部署等重要環節，都用實例搭配詳細解說引導讀者快速進入架站實戰模式，並且透過專題應用熟悉各種開發技術和方法，全面掌握Django 3的開發核心！ 想要架站，唯有真正實戰 才是最佳體驗！ ■使用Django 3版本語法，網站效率更佳。 ■零基礎建置Django開發環境，避開所有初學障礙。 ■正規化網站開發流程，由Django專案建立與app開發為主軸，領略其中奧義。 ■新一代開發模式，使用視圖與模版學習Django運作方式，了解框架應用原理。 ■使用MTV架構，資料庫、程式與介面獨立設計，網站容易維護。 ■涵蓋大部分網站技術，如使用者認證、檔案上傳、發送電子郵件、圖形驗證碼…等。 ■結合資料庫進行網站開發，運用Django資料庫結構與模式，提供詳細建置流程、操作方式與管理介面的方法。 ■以Django實作資料庫互動的操作精華「查詢、新增、修改與刪除」，讓資料庫應用不再是開發網站者的痛處。 ■運用Cookie與Session記錄瀏覽者與相關資訊，讓不同使用者能在同一網站中儲存並取得不同資料，使用不同服務。 ■深入Django使用者管理，簡單而全面的使用者認證，輕鬆完成網站登入/登出工作，帶入會員機制。 ■規劃5個主題實戰範例：包含新聞公告、網站留言版、網路相簿、電子商務購物車，以及結合網路地圖的美食網頁，架構出專業實用的網站。 ■將網站部署到免費的知名雲端平台「Heroku」，展示自行架設的網站與後續管理都免煩惱。 【超值學習資源】安裝、測試與發布影音教學/範例檔
+                    
+"
+Web Development with Django,https://www.kingstone.com.tw//basic/203c103160063?zone=english&lid=search&actid=WISE&kw=Django&pi=0,"Ben,Shaw",Packt       ,9781839212505.0,https://cdn.kingstone.com.tw/english/images/product/2505/9781839212505.jpg,"
+
+Do you want to develop reliable and secure applications which stand out from the crowd, rather than spending hours on boilerplate code? Then the Django framework is where you should begin. Often referred to as a 'batteries included' web development framework, Django comes with all the core features needed to build a standalone application.Web Development with Django takes this philosophy and equips you with the knowledge and confidence to build real-world applications using Python.Starting with the essential concepts of Django, you'll cover its major features by building a website called Bookr - a repository for book reviews. This end-to-end case study is split into a series of bitesize projects that are presented as exercises and activities, allowing you to challenge yourself in an enjoyable and attainable way.As you progress, you'll learn various practical skills, including how to serve static files to add CSS, JavaScript, and images to your application, how to implement forms to accept user input, and how to manage sessions to ensure a reliable user experience. Throughout this book, you'll cover key daily tasks that are part of the development cycle of a real-world web application.By the end of this book, you'll have the skills and confidence to creatively tackle your own ambitious projects with Django.
+                    
+"
+Building Websites with Django,https://www.kingstone.com.tw//basic/203c103814680?zone=english&lid=search&actid=WISE&kw=Django&pi=0,"Awanish,Ranjan",Bpb Publications,9789389328288.0,https://cdn.kingstone.com.tw/english/images/product/8288/9789389328288.jpg,"
+
+A beginner's guide that will help you get familiar with Django for web development. Key FeaturesLearn to build websites with a strong blend of concepts and practical learning.Set up your public website with advanced functionalities from scratch.Explore Django architecture, components, navigation panel and templates.Description'Building Websites with Django' book teaches readers to develop their high-quality, feature-rich website by learning Django and its various tools. You will learn the best techniques to develop a dynamic website, right from scratch. This book focuses not only on just creating a particular application but rather develops a strong understanding of theoretical concepts with rich examples. You will learn to troubleshoot errors, develop navigation panels and add advanced functionalities like deploying on heroku server. You will read about models, templates, different types of views. You will learn to create apps and learn how to integrate different apps.  By the end of this book, You will create a project from scratch and will deploy it as a public website by yourself. What you will learnCreate a Django project from scratch and deploy them as a public website.Work with Django components such as Model, View, and Template.Interact with the database using Query Sets.Deploy your Django application for free on Heroku.Learn how to use Django's built-in authentication and authorization module effectively.Who this book is forThis book is for early entrepreneurs, beginners, software professionals, bloggers and hobbyists who want to create their online presence on their own without having any prior technical knowledge about web tools. Table of Contents1. Introduction to Django2. An Overview of the MTV Architecture3. Understanding Django Settings4. Django Admin Utility5. Interacting with the Database using Query Sets6. Enhancing your Project7. Understanding Models8. Django Views9. Django Templates10. URL and Regex11. Forms in Django12. Setting up a Project13. The Account app14. The Genre app15. The Post app16. Deploying the WebsiteAbout the Author After completing his engineering in 2015, Awanish started working with one of the largest IT companies. He began with scripting and then developed ETL tools and web applications using Django. He is now working on a Content Management System based on Django CMS. In his free time, Awanish delivers guest lectures at training institutes and develops training videos for e-learning sites. LinkedIn Profile https: //www.linkedin.com/in/awanishranjan/
+                    
+"
+Django for Professionals,https://www.kingstone.com.tw//basic/203c200314917?zone=english&lid=search&actid=WISE&kw=Django&pi=0,"William S,Vincent",Welcometocode,9781735467238.0,https://cdn.kingstone.com.tw/english/images/product/7238/9781735467238.jpg,"
+
+Completely updated for Django 3.1Django for Professionals takes your web development skills to the next level, teaching you how to build production-ready websites with Python and Django.Once you have learned the basics of Django there is a massive gap between building simple ""toy apps"" and what it takes to build a ""production-ready"" web application suitable for deployment to thousands or even millions of users.In the book you'll learn how to:  Build a Bookstore website from scratch Use Docker and PostgreSQL locally to mimic production settings Implement advanced user registration with email Write comprehensive tests Adopt advanced security and performance improvements Add search and file/image uploads If you want to take advantage of all that Django has to offer, Django for Professionals is a comprehensive best practices guide to building and deploying modern websites.Reviews""If you're looking for a guide into the world of Django, then the three-step of Django for Beginners, Django for APIs, and Django for Professionals is ideal: get up and running, get into APIs, which are a cornerstone of modern app development, and then add the bits you need to your fledging app into production, from databases and static files, to user accounts and security. It's a long road. Will's books are an awesome companion.""-CARLTON GIBSON, Django Fellow and Django REST Framework core contributor""When readers interested in web development ask me what to read next after Python Crash Course, I refer them to Will's books: Django for Beginners, Django for APIs, and Django for Professionals. I highly recommend you check out his work.""-ERIC MATTHES, author of Python Crash Course""Will's books are a fantastic resource for web development with Django and Python. I highly recommended them.""-JEFF TRIPLETT, Python Software Foundation Director, DEFNA President, and REVSYS Partner
+
+"
+Actionable Django,https://www.kingstone.com.tw//basic/203c200318748?zone=english&lid=search&actid=WISE&kw=Django&pi=0,"Justin,Dunn",Webucator,9781951959043.0,https://cdn.kingstone.com.tw/english/images/product/9043/9781951959043.jpg,"
+
+This book is a course on Django for Python developers. The better you know Python, the easier it will be to learn Django. Conversely, one of the great things about learning Django is that it will help you improve your Python skills. The Django framework is written beautifully and you have full access to the source code. I encourage you to dig into that code to see why things work the way they do and to learn how you can customize your site to work exactly how you want it to work.What You Will LearnThrough more than 80 exercises and 100s of demos, you will learn to build a fully functional website using Python, Django, PostgreSQL, Visual Studio Code, GitHub, Amazon S3 (for media storage), SendGrid, and Heroku.To get a feel for all you will learn...Visit the home page at djangojokes.com. Refresh the page a couple of times and notice it outputs a random joke each time.You will create a basic home page and about-us page.On the About page (accessible from the footer), click the Work for us link. This takes you to an application form, which will generate an email letting us know that someone has applied. Notice that it includes a Resume field. The user will be able to upload a resume. We will teach you to make sure uploaded files aren't dangerous and to protect private files like resumes.Click the Jokes link in the header. You will see a tabular list of jokes, each of which has a category, zero or more tags, a creator's username, and a rating with the number of votes.Click on the Joke, Creator, or Category heading to sort by those fields. Click again on the same field to sort in the opposite direction.Use the Order By form at the top to sort by other fields.Click on a category, a tag, or a username to filter jokes.Use the Search form at the top to search for jokes.Open a joke and try voting on it. You will get a message saying only logged-in users can vote.Back on the Jokes list, click the New Joke button. Notice that you are taken to a login form. Only logged-in users can create jokes.Click the Register link below the login form or the Sign up link in the header to create an account and complete the registration process, which includes confirming your email address.When you log in, notice that you have the chance to reset your password if you forgot it.Now that you are logged in, click the New Joke button again. Add a really funny (but clean) joke. Because this site is live, we have a joke approval process, so your joke won't immediately be public. Only you will see it, and there will be a ""Pending Approval"" note at the bottom.Notice the Update button. You can update jokes you create.Go back to the Jokes list, and open a joke (not the one that you created). Notice that you can now vote on it. Vote a few times on the same joke. Notice that it lets you change your vote, but doesn't register multiple votes by the same user for the same joke.From the Me menu in the header, click My Django Jokes. It will show your added jokes.From the Me menu, click My Account. Notice that you can update your profile and add an avatar. You will learn to allow users to upload profile pictures. You will also learn to validate the uploaded file.You will also learn to use and customize Django admin, Django's built-in administration interface.Other technologies used, but not taught, in the book include HTML, CSS, Bootstrap, JavaScript, and SQL. Experience with those technologies will serve you well, both in becoming a Django programmer, and in working through this book.
+                    
+"
+Mastering Django,https://www.kingstone.com.tw//basic/203c008105655?zone=english&lid=search&actid=WISE&kw=Django&pi=0,"Nigel,George",Gnw Independent Publishing,9780648884415.0,https://cdn.kingstone.com.tw/english/images/product/4415/9780648884415.jpg,"
+
+Mastering Django is the latest version of Mastering Django: Core-the original, best-selling programmer's reference for Django.Mastering Django is not just a revision of the original book-it has been completely rewritten from the ground up to meet the needs of modern Django programmers.The main goal of this book is to make you a Django expert. By reading this book, you'll learn the skills needed to develop powerful websites quickly, with code that is clean and easy to maintain.This book is also a programmer's manual that provides complete coverage of both Django 2 and Django 3. For developers creating applications for commercial and business-critical deployments, Mastering Django delivers a comprehensive, up-to-date resource for the latest versions of Django.
+
+"
+Django Standalone AppsLearn to Develop Reusable Django Libraries,https://www.kingstone.com.tw//basic/203c007113081?zone=english&lid=search&actid=WISE&kw=Django&pi=0,"Lopatin,Ben",Apress      ,9781484256312.0,https://cdn.kingstone.com.tw/english/images/product/6312/9781484256312.jpg,"
+
+Develop standalone Django apps to serve as the reusable building blocks for larger Django projects. This book explores best practices for publishing these apps, with special considerations for testing Django apps, and strategies for extracting existing functionality into a separate package. This jumpstart reference is divided into four distinct and sequential sections, all containing short, engaging chapters that can be read in a modular fashion, depending on your level of experience. The first section covers the structure and scope of standalone Django apps. The second section digs into questions about pulling code out of existing projects and into new standalone apps for reuse. The third section details additional, advanced technical best practices toward making standalone apps as broadly useful as possible. The fourth and final section covers strategies for managing a published Django app.Django Standalone Apps is the perfect resource for developers who have at least some prior experience working with Django web applications and want to simplify their deployments and share their knowledge as open source packages. What You'll LearnScope a standalone Django app project for optimum usefulnessExtract code from existing projects to reuseTest a standalone app outside of your Django projectReuse your own code for increased delivery cadence and code qualityReview best practices for maintaining a Django app packageWho This Book Is For Professional developers who work with Django. Deep expertise is not required or expected, but readers should have working familiarity with Django.
+                    
+"
+Django for Beginners,https://www.kingstone.com.tw//basic/203c200314916?zone=english&lid=search&actid=WISE&kw=Django&pi=0,"William S,Vincent",Welcometocode,9781735467207.0,https://cdn.kingstone.com.tw/english/images/product/7207/9781735467207.jpg,"
+
+Completely updated for Django 3.1.Django for Beginners is a project-based introduction to Django, the popular Python-based web framework. Suitable for total beginners who have never built a website before as well as professional programmers looking for a fast-paced guide to modern web development and Django fundamentals.In the book you'll learn how to:  Build 5 websites from scratch, including a Blog and Newspaper website Deploy online using security best practices Customize the look and feel of your sites Write tests and run them for all your code Integrate user authentication, email, and custom user models Add permissions and authorizations to make your app more secure Identify common mistakes and errors so you can build your own websitesIf you're curious about Python-based web development, Django for Beginners is a best-practices guide to writing and deploying your own websites quickly.Reviews""When readers interested in web development ask me what to read next after Python Crash Course, I refer them to Will's books: Django for Beginners, Django for APIs, and Django for Professionals. I highly recommend you check out his work.""-ERIC MATTHES, author of Python Crash Course""If you're looking for a guide into the world of Django, then the three-step of Django for Beginners, Django for APIs, and Django for Professionals is ideal: get up and running, get into APIs, which are a cornerstone of modern app development, and then add the bits you need to your fledging app into production, from databases and static files, to user accounts and security. It's a long road. Will's books are an awesome companion.""-CARLTON GIBSON, Django Fellow and Django REST Framework core contributor ""Will's books are a fantastic resource for web development with Django and Python. I highly recommended them""-JEFF TRIPLETT, Python Software Foundation Director, DEFNA President, and REVSYS Partner
+
+"
+Build a Website With Django 3,https://www.kingstone.com.tw//basic/203c007113087?zone=english&lid=search&actid=WISE&kw=Django&pi=0,"George,Nigel",Ingram      ,9780648884408.0,https://cdn.kingstone.com.tw/english/images/product/4408/9780648884408.jpg,"
+
+Build a website with Django 3 is the fourth edition of my popular Django beginners book, fully updated for Django 3.Not only has the book been updated to cover the latest version of Django, but I've added install instructions for macOS users.Your complete introduction to Django 3Build a website with Django 3 covers all the core concepts of Django to get you up and running fast: Why Django is the premier Python framework for developing web applications The big picture - how Django is structured Django Models Django Views Django Templates The Django admin Generic views Simple forms Complex forms and model forms Managing Users Restricted content File uploads Sending email Deploying a Django application Build a real website This book is not about boring theory. You'll be building a fully functioning website as you learn Django. I even show you how to deploy your website to the Internet for free.
+                    
+"
+Django 3 Web Development Cookbook,https://www.kingstone.com.tw//basic/203c004919254?zone=english&lid=search&actid=WISE&kw=Django&pi=0,"Aidas,Bendoraitis",Packt       ,9781838987428.0,https://cdn.kingstone.com.tw/english/images/product/7428/9781838987428.jpg,0
+Django 3 By Example - Third Edition,https://www.kingstone.com.tw//basic/203c008104340?zone=english&lid=search&actid=WISE&kw=Django&pi=0,"Antonio,Mel矇",Packt       ,9781838981952.0,https://cdn.kingstone.com.tw/english/images/product/1952/9781838981952.jpg,0
+Designing Microservices with Django,https://www.kingstone.com.tw//basic/203c103639588?zone=english&lid=search&actid=WISE&kw=Django&pi=0,"Akos,Hochrein",Apress      ,9781484253571.0,https://cdn.kingstone.com.tw/english/images/product/3571/9781484253571.jpg,"
+
+Explore microservices using the Python-based Django framework and review the benefits and drawbacks of them. This book will examine what microservices look like, how they talk to each other, and how they are crafted using the Python programming language and the Django web framework.You'll start by understanding what the key differences are between microservices and monolithic architectures. The book then does a deep dive into how microservices are built and what common models have emerged in our industry. You'll also take an extensive look at communication and ownership patterns and examine methodologies to speed up your architecture evolution by writing less but more distributed code using the Python programming language and the Django web framework. By the end of the book, you'll have a solid understanding of microservices architectures. Armed with a comprehensive and solid toolset, you can begin working toward systems that are more scalable, resilient, and maintainable. What You'll LearnUnderstand the benefits and drawbacks of adopting microservicesDesign systems and architecture for resiliency and distributed ownershipWork with tools for scaling distributed system both in technical and organizational dimensionsExamine the essentials of the Django web framework
+                    
+"
+Django從平凡到超凡－Python架站實作演練,https://www.kingstone.com.tw//basic/2013120543805?zone=book&lid=search&actid=WISE&kw=Django&pi=0,唐元亮,全華      ,9789865033477.0,https://cdn.kingstone.com.tw/book/images/product/20131/2013120543805/2013120543805b.jpg,"
+
+「Django從平凡到超凡」是一本探討動態網頁開發技術的書籍，內容涵蓋非常完整，議題包括網際網路概念、系統開發環境設置、 Django的觀念與技術、動態網頁開發的相關知識、版本控制與雲端部署等，一步一步由淺入深引導讀者建置一個雲端部落格系統。過程中，不僅詳細說明系統開發的步驟，更加入了許多系統開發概念的分析及闡述，這是本書和一般書籍非常不一樣的地方：觀念與技術並重，這讓讀者在熟練技術的過程中，也能正確的了解系統開發的觀念。Django是以Python語言為基礎的高階框架，提供超乎想像的開發速度，所產生的系統不僅安全性高，且因Django簡單而乾淨的設計，使得系統具有良好的架構，未來不僅維護容易，更具有卓越的延展性，是個非常優雅且效能極高的開發框架。本書以Django為基礎，透過開發一套完整的部落格系統來熟悉Django各方面的功能；反過來說，也利用Django優越的特性，來了解系統開發的正確觀念與作法。如果您準備好了，我們就一同進入Django的夢幻領域吧！
+                    
+"
+科班出身的MVC網頁開發（熱銷版）：使用Python+Django,https://www.kingstone.com.tw//basic/2013120517752?zone=book&lid=search&actid=WISE&kw=Django&pi=0,王友釗、黃靜,佳魁      ,9789863797685.0,https://cdn.kingstone.com.tw/book/images/product/20131/2013120517752/2013120517752b.jpg,"
+
+Django是一款基於Python語言及MVC設計模式實現的Web應用開發框架，作為一款可使Web開發工作愉快並且高效的Web開發框架，能夠以最小的代價構建和維護高品質的Web應用。利用模型物件關係對映、URL比對模組、內建範本語言和快取系統，實現業務模組拆分和快速部署，Django嘗試留下一些方法，讓使用者根據需要在Framework之外開發。適用：可以作為開發工具和寶典，透過閱讀和參照實現，可以完成開發者最初的開發指導，也可以作為平台架設的實例指導。商品特色：書中內容來自於團隊實際專案開發經驗和相關知識按系統撰寫而成，由淺入深地帶領讀者進行Django的開發，最終使讀者掌握專案的開發流程，從而運用於自己的專案開發中。
+                    
+"
+Python Machine Learning,https://www.kingstone.com.tw//basic/203c011400510?zone=english&lid=search&actid=WISE&kw=Django&pi=0,"Django,Smith",Yuri Tufano,9781913978839.0,https://cdn.kingstone.com.tw/english/images/product/8839/9781913978839.jpg,"
+
+* Discounted at $ 23.95 instead of $ 39.95 for a few days with 55% OFF for Bookstores! LAST DAYS!! *Start Programming PythonWhat if you could make your program one that can learn by trial and error or based on the information you show?What if you could get a program that could adapt and change based on the user's input?And what if you were able to make all of this happen with the Python coding language, helping beginner's work with more complicated codes?This is all possible with Python machine learning.This guidebook will take some time to look at Python machine learning and all of the neat things that you can do with it.Machine learning is a growing field that many programmers want to spend their time on.But even though this sounds like a complicated part of technology to work with, you will find that with the Python coding language's help, anyone can start writing their codes in machine learning.This guidebook will take a look at all of the different topics that you need to know to get started with Python machine learning. Some of the topics that we will explore inside include: The basics of machine learningThe difference between supervised and unsupervised machine learning.Setting up your new environment in the Python language.Data preprocessing with the help of machine learning.How to use Python coding to help with linear regression.Decision trees and random forests.How to work with support vector regression problems.Can machine learning help with Na簿ve Bayes problems?Accelerated data analysis using the Python code.And so much more!If you have been interested in learning more about machine learning, and you want to learn a few of the codes that can make it happen for you, make sure to check out this guidebook to help you get started!If all of this sounds like your ideal book, hop on over and hit now that buy button!
+                    
+"
+Python for Beginners,https://www.kingstone.com.tw//basic/203c011120973?zone=english&lid=search&actid=WISE&kw=Django&pi=0,"Django,Smith",Yuri Tufano,9781913978648.0,https://cdn.kingstone.com.tw/english/images/product/8648/9781913978648.jpg,"
+
+* Discounted at $ 23.95 instead of $ 39.95 for a few days with 55% OFF! * LAST DAYS!!The Way to Become an Expert CoderHave you ever been interested in writing some of your own codes and creating a program that is going to be strong and impress others?What if you were able to do this without spending years in schools or hours poring over a book and getting as confused as possible?Thanks to this guidebook, you will be able to do just that with the help of the Python coding language.This guidebook is going to take some time looking at the Python coding language and all of the cool things that you are able to do with this along the way.Some of the different topics that we are going to discuss when you are ready to start working with the Python coding language for yourself include: What are some of the basics of the Python language and the benefits of using this over some of the other options?How to install the Python coding and all its tools on the different operating systemsSome of the basics of your code before we get startedClasses and objects and what you can do with themHow to handle and raise your own exceptions in the codeWorking with the conditional statementsHow to create your own lists on this kind of coding languageWorking with lists, loops, and files on this kind of languageThe importance of those functions in PythonHow to work with a bit of data visualizationWhat the regular expressions are all about in the Python coding languageHow to test out some of the codes that you are working on to make sure that they work wellThere are so many different things that you are able to do when it comes to writing your own codes in the Python language.Whether you are a beginner in this kind of language or you have been doing it for some time, make sure to check out this guidebook to learn how the Python coding language is able to work for you.If all of this sounds like your ideal book, then hop on over and hit now that buy button!
+                    
+"
+Python 網頁程式交易APP 實作：Web +MySQL + Django（第二版）,https://www.kingstone.com.tw//basic/2015630628430?zone=book&lid=search&actid=WISE&kw=Django&pi=0,林萍珍,博碩文化  ,9789864343171.0,https://cdn.kingstone.com.tw/book/images/product/20156/2015630628430/2015630628430b.jpg,"
+
+
+學習最新的HTML5+CSS3打好網頁製作的基礎。
+搭配好學實用的Python+MySQL+Django讓你輕鬆打造交易APP！
+
+	本書適合閱讀的對象
+	‧沒有程式概念但想要學程式設計的讀者
+	‧對程式設計在金融科技（FinTech）應用有興趣者
+	‧做金融大數據分析入門有興趣者
+	‧對程式交易應用之基礎入門應用有興趣者
+
+	為回饋廣大支持本書的讀者，在第二版中，作者修正了因Google finance服務中止而無法執行的問題，以及因應各地熱情的迴響、建議及勘誤，務使支持本書的讀者都能吸收到最新、最有用的資訊。
+
+	若再發生類似情形、想要提出勘誤、討論書中相關問題，或是想要下載程式碼，都歡迎到以下網址交流：
+	github.com/letylin/pyptbook
+
+本書特色
+
+	★程式交易：引用Python之TA-Lib套件撰寫交易策略如均線、布林通道與K線組合等技術指標進行回測。
+	★前端：Web介面APP實作，前端技術使用HTML5、CSS3與JavaScript。
+	★股市走勢圖：採用plotly.js將交易策略回測結果標示走勢圖及買點賣。
+	★後端：Django伺服器架設手把手實作，簡單、快速、穩定。
+	★網路爬蟲：以Python撰寫爬蟲程式抓Yahoo finance股市資料。
+	★資料庫：將網路爬蟲的股市資料寫入MySQL資料庫。
+
+"
+Python 新手使用Django 架站技術實作：活用Django ２．０ Web Framework建構動態網站的１６堂課,https://www.kingstone.com.tw//basic/2013120475069?zone=book&lid=search&actid=WISE&kw=Django&pi=0,何敏煌、林亮昀,博碩文化  ,9789864343102.0,https://cdn.kingstone.com.tw/book/images/product/20131/2013120475069/2013120475069b.jpg,"
+
+
+	Python已經是目前最受歡迎的程式語言之一，而Django則是Python語言裡最廣為使用的Web Framework。任何想要以Python來製作動態資料網站的朋友，不需要煩雜的設定，只要以pip安裝之後即可建立一個自帶測試用網頁伺服器的網站開發環境，實踐像是WordPress這類CMS系統所不能做到的客製化功能，是非常方便易學且功能強大的網站開發最佳組合。
+
+	本書的主要目標是希望Python初學者可以在不需要高深程式設計技巧的情況下就可以輕易地運用Django 2.0 Web Framework製作出全功能的動態網站，輕易地運用各式各樣的模組建構出各式各樣實用的特色網站，並有能力把在自己本地端練習的網站實際部署到網路主機上。本書的大綱如下：
+
+1.快速學習建立一個實用的Django網站
+	以一個小型的個人部落格網站為主軸開始，從如何建立網站開發環境、如何規劃網站需求以及設計資料庫的內容、快速建立頁面輸出模板以及資料庫存取，最後再學習如何部署到最受歡迎的各式主機。
+
+2. Django架構深入剖析
+	詳細分析Django的MVC(MTV)架構。先在第4堂課做一個完整但是簡要的介紹，接著再分別就網址如何對應、如何設計模板、Model和資料庫之間的關係等等做深入的教學。
+
+3.實用網站開發技巧
+	介紹特色網站所需要使用到的技巧，包括如何快速建立表單以及表單與資料庫的自動結合，活用網站Session以及使用者驗證技巧，快速建立可以讓使用者透過電子郵件自行註冊的會員網站，連結 Facebook進行驗證帳號的實務，以及結合社群網站帳號註冊及驗證的全方位會員網站。
+
+4.實用網站開發教學
+	以建立一個實用網站為每一堂課的內容，從設計、規劃到實作，一步一步教導學習者也可以在自己的主機環境建構出這些有趣實用的內容，包括迷你小電商網站、WordPress-like CMS管理網站、全功能電子商店網站、名言佳句產生器網站等等，最後再說明部署上線的注意事項以及網站單元測試範例。
+
+【本書實務經驗分享】
+	1.多個務實好用網站範例，詳細的步驟教學，按圖施工，保證成功
+	2.不使用難懂的程式語法，全程使用Python 3，更易於入門學習
+	3.學習如何連結資料庫、社群網站帳號驗證機制、即時運算處理秘訣
+	4.新增使用Mezzanine快速建置CMS網站，實踐客製化功能
+
+"
+Python新手使用Django架站技術實作：活用Django 2.0 Web Framework建構動態網站的16堂課,https://www.kingstone.com.tw//basic/2800000026082?zone=ebook&lid=search&actid=WISE&kw=Django&pi=0,何敏煌、林亮昀,電子書,,https://cdn.kingstone.com.tw/book/images/product/20131/2013120475069/2013120475069b.jpg,"
+
+
+	Python已經是目前最受歡迎的程式語言之一，而Django則是Python語言裡最廣為使用的Web Framework。任何想要以Python來製作動態資料網站的朋友，不需要煩雜的設定，只要以pip安裝之後即可建立一個自帶測試用網頁伺服器的網站開發環境，實踐像是WordPress這類CMS系統所不能做到的客製化功能，是非常方便易學且功能強大的網站開發最佳組合。
+
+	本書的主要目標是希望Python初學者可以在不需要高深程式設計技巧的情況下就可以輕易地運用Django 2.0 Web Framework製作出全功能的動態網站，輕易地運用各式各樣的模組建構出各式各樣實用的特色網站，並有能力把在自己本地端練習的網站實際部署到網路主機上。本書的大綱如下：
+
+1.快速學習建立一個實用的Django網站
+	以一個小型的個人部落格網站為主軸開始，從如何建立網站開發環境、如何規劃網站需求以及設計資料庫的內容、快速建立頁面輸出模板以及資料庫存取，最後再學習如何部署到最受歡迎的各式主機。
+
+2. Django架構深入剖析
+	詳細分析Django的MVC(MTV)架構。先在第4堂課做一個完整但是簡要的介紹，接著再分別就網址如何對應、如何設計模板、Model和資料庫之間的關係等等做深入的教學。
+
+3.實用網站開發技巧
+	介紹特色網站所需要使用到的技巧，包括如何快速建立表單以及表單與資料庫的自動結合，活用網站Session以及使用者驗證技巧，快速建立可以讓使用者透過電子郵件自行註冊的會員網站，連結 Facebook進行驗證帳號的實務，以及結合社群網站帳號註冊及驗證的全方位會員網站。
+
+4.實用網站開發教學
+	以建立一個實用網站為每一堂課的內容，從設計、規劃到實作，一步一步教導學習者也可以在自己的主機環境建構出這些有趣實用的內容，包括迷你小電商網站、WordPress-like CMS管理網站、全功能電子商店網站、名言佳句產生器網站等等，最後再說明部署上線的注意事項以及網站單元測試範例。
+
+【本書實務經驗分享】
+	1.多個務實好用網站範例，詳細的步驟教學，按圖施工，保證成功
+	2.不使用難懂的程式語法，全程使用Python 3，更易於入門學習
+	3.學習如何連結資料庫、社群網站帳號驗證機制、即時運算處理秘訣
+	4.新增使用Mezzanine快速建置CMS網站，實踐客製化功能
+
+"
+Python 網頁程式交易APP 實作：Web +MySQL + Django,https://www.kingstone.com.tw//basic/2015630621196?zone=book&lid=search&actid=WISE&kw=Django&pi=0,林萍珍,博碩文化  ,9789864342846.0,https://cdn.kingstone.com.tw/book/images/product/20156/2015630621196/2015630621196b.jpg,"
+
+
+	學習最新的HTML5+CSS3打好網頁製作的基礎。
+	搭配好學實用的Python+MySQL+Django讓你輕鬆打造交易APP！
+
+	本書(二部曲)特色
+	★程式交易：引用Python之TA-Lib套件撰寫交易策略如均線、布林通道與K線組合等技術指標進行回測。
+	★前端：Web介面APP實作，前端技術使用HTML5、CSS3與JavaScript。
+	★股市走勢圖：採用plotly.js將交易策略回測結果標示走勢圖及買點賣。
+	★後端：Django伺服器架設手把手實作，簡單、快速、穩定。
+	★網路爬蟲：以Python撰寫爬蟲程式抓Google finance股市資料。
+	★資料庫：將網路爬蟲的股市資料寫入MySQL資料庫。
+
+	本書適合閱讀的對象
+	‧沒有程式概念但想要學程式設計的讀者
+	‧對程式設計在金融科技（FinTech）應用有興趣者
+	‧做金融大數據分析入門有興趣者
+	‧對程式交易應用之基礎入門應用有興趣者
+
+"
+科班出身的MVC網頁開發：使用Python+Django,https://www.kingstone.com.tw//basic/2013120447042?zone=book&lid=search&actid=WISE&kw=Django&pi=0,王友釗/黃靜,佳魁數位  ,9789863795728.0,https://cdn.kingstone.com.tw/book/images/product/20131/2013120447042/2013120447042b.jpg,"
+
+
+	Django是一款基於Python語言及MVC設計模式實現的Web應用開發框架，作為一款可使Web開發工作愉快並且高效的Web開發框架，能夠以最小的代價構建和維護高品質的Web應用。
+
+	利用模型物件關係對映、URL比對模組、內建範本語言和快取系統，實現業務模組拆分和快速部署，Django嘗試留下一些方法，讓使用者根據需要在Framework之外開發。
+
+	 
+
+	書中內容來自於團隊實際專案開發經驗和相關知識按系統撰寫而成，由淺入深地帶領讀者進行Django的開發，最終使讀者掌握專案的開發流程，從而運用於自己的專案開發中。     
+
+	 
+
+	適用：可以作為開發工具和寶典，透過閱讀和參照實現，可以完成開發者最初的開發指導，也可以作為平台架設的實例指導。
+
+"
+Python新手使用Django架站的16堂課活用Django Web Framework快速建構動態網站,https://www.kingstone.com.tw//basic/2013120410657?zone=book&lid=search&actid=WISE&kw=Django&pi=0,何敏煌,博碩文化  ,9789864341658.0,https://cdn.kingstone.com.tw/book/images/product/20131/2013120410657/2013120410657b.jpg,"
+
+
+活用Django Web Framework快速建構動態網站
+
+	Python已是目前最受歡迎的程式語言之一，Django則是Python語言裡最廣用的Web Framework。任何想要以Python來製作動態資料網站的朋友，不需要煩雜的設定，只要以pip安裝後即可建立起自帶測試用網頁伺服器的網站開發環境，是非常方便易學且功能強大的網站開發最佳組合。
+
+	本書的主要目標是希望Python初學者可以在不需要高深程式設計技巧的情況下就可以輕易地運用Django Web Framework製作出全功能的動態網站，輕易地運用各式各樣的模組建構出各式各樣實用的特色網站，並有能力把在自己本地端練習的網站實際部署到網路主機上。本書的大綱如下：
+
+	1.快速學習建立一個實用的Django網站(第1堂~第3堂)
+	以一個小型的個人部落格網站為主軸開始，從如何建立網站開發環境、如何規劃網站需求以及設計資料庫的內容、快速建立頁面輸出模板以及資料庫存取，最後再學習如何部署到最受歡迎的各式主機。
+
+	2. Django架構深入剖折(第4堂 ~ 第7堂)
+	詳細分析Django的MVC(MTV)架構。先在第4堂課做一個完整但是簡要的介紹，接著再分別就網址如何對應、如何設計模板、Model和資料庫之間的關係等等做深入的教學。
+
+	3.實用網站開發技巧(第8堂 ~ 第11堂)
+	介紹特色網站所需要使用到的技巧，包括如何快速建立表單以及表單與資料庫的自動結合，活用網站Session以及使用者驗證技巧，快速建立可以讓使用者透過電子郵件自行註冊的會員網站，連結 Facebook進行驗證帳號的實務，以及結合社群網站帳號註冊及驗證的全方位會員網站。
+
+	4.實用網站開發教學(第12堂~ 第16堂)
+	以建立一個實用網站為每一堂課的內容，從設計、規劃到實作，一步一步教導學習者也可以在自己的主機環境建構出這些有趣實用的內容，包括迷你小電商網站、二級網域管理網站、全功能電子商店網站、名言佳句產生器網站等等，最後再說明部署上線的注意事項以及網站單元測試範例。
+
+	【本書實務經驗分享】
+	1.多個務實好用網站範例，學會後可以馬上應用在個人網站
+	2.詳細的步驟教學，按圖施工，保證成功
+	3.全書不使用難懂的程式技巧，更易於入門學習
+	4.部署教學以及實際應用秘訣，讓你輕鬆成為架站高手
+
+"
+Python架站特訓班－－Django最強實戰,https://www.kingstone.com.tw//basic/2014713532251?zone=book&lid=search&actid=WISE&kw=Django&pi=0,鄧文淵總監製、文淵閣工作室編,碁峰資訊  ,9789864765690.0,https://cdn.kingstone.com.tw/book/images/product/20147/2014713532251/2014713532251b.jpg,"
+
+Python應用新經典！ 繼暢銷書《Python初學特訓班》之後的 架站主題實戰代表作！ 最佳熱門組合Python X Django， 讓你初學架站就上手！ Python是目前最受歡迎的程式語言，Django堪稱是當前最熱門的Python網站框架，兩者結合，讓開發複雜的資料庫網站變得更簡單。本書一次綜合架站必備技能，提供相關範例檔，讓Python發揮極大效用，用Django打造出超強互動網站。 想要架站， 唯有真正實戰，才是最佳體驗！ ■零基礎建置Django開發環境，避開所有初學障礙。 ■正規化網站開發流程，由Django專案建立與app開發為主軸，領略其中奧義。 ■新一代開發模式，使用視圖與模版學習Django運作方式，了解框架應用原理。 ■結合資料庫進行網站開發，運用Django資料庫結構與模式，提供詳細建置流程、操作方式與管理介面的方法。 ■以Django實作資料庫互動的操作精華「查詢、新增、修改與刪除」，讓資料庫應用不再是開發網站者的痛處。 ■運用Cookie與Session記錄瀏覽者與相關資訊，讓不同使用者能在同一網站中儲存並取得不同資料，使用不同服務。 ■深入Django使用者管理，簡單而全面的使用者認證，輕鬆完成網站登入/登出工作，帶入會員機制。 ■規劃5個主題實戰範例：包含新聞公告、網路留言版、網路相簿、電子商務購物車，以及結合網路地圖的美食網頁，架構出專業實用的網站。 ■將網站部署到免費的知名雲端平台「Heroku」，展示自行架設的網站與後續管理都免煩惱。
+                    
+"
+Two Scoops of Django,https://www.kingstone.com.tw//basic/203c502386658?zone=english&lid=search&actid=WISE&kw=Django&pi=0,"Greenfeld, Danie",Createspace ,9780981467306.0,https://cdn.kingstone.com.tw/english/images/product/7306/9780981467306.jpg,0
+It，s Django：用Python迅速打造Web應用,https://www.kingstone.com.tw//basic/2014713458896?zone=book&lid=search&actid=WISE&kw=Django&pi=1,袁克倫、楊孟穎,碁峰資訊  ,9789863475460.0,https://cdn.kingstone.com.tw/book/images/product/20147/2014713458896/2014713458896b.jpg,"
+
+Django是以Python語言為基礎的網站框架(Web framework)，採用MTV(或是MVC)架構的Django在網站開發上擁有著快速、簡易、優雅且易維護的特性，又因為是基於Python語言的框架，所以使用者眾多，社群與資源也豐富，適用於各類型網站後端的開發。與Ruby的Rails和JavaScript的Node.js同為現今最熱門的Web framework。 ■ 第一本由國人撰寫的Django專書，真正由淺入深，打好基礎往專家之路邁進。 ■ 精心設計的學習程序並輔以範例說明，引導讀者學習。 ■ 對於完全沒有程式設計經驗和Web開發經驗的讀者，藉由Python的易學性，可以透過Django迅速成為能夠實戰的Web開發者。 ■ 對於已熟悉Python的讀者將可跨入網站設計最佳途徑，藉由Python成熟豐富的第三方函式庫，讓你的網站有無限可能。 ■ 本書是非常適合Django開發者的教學與參考書，細述許多容易被忽略的基礎和觀念，以最新版的Django所撰寫，內容絕不過時。 ■ 不直接給最好的答案，而從最簡單最陽春的方式開始，藉由書中的推演與分析，逐步改進程式碼與架構，帶領讀者思考Django設計上的哲學與養成良好的撰碼習慣。
+                    
+"
+Django Programming,https://www.kingstone.com.tw//basic/203c109505818?zone=english&lid=search&actid=WISE&kw=Django&pi=1,"Claude, Juan Pablo",Addison-Wesl,9780321706270.0,https://cdn.kingstone.com.tw/english/images/product/6270/9780321706270.jpg,0
+Enterprise Drupal,https://www.kingstone.com.tw//basic/203c501671821?zone=english&lid=search&actid=WISE&kw=Django&pi=1,"Beatty, Django",Oreilly &   ,9781491910917.0,https://cdn.kingstone.com.tw/english/images/product/0917/9781491910917.jpg,0
+Django,https://www.kingstone.com.tw//basic/203c109406016?zone=english&lid=search&actid=WISE&kw=Django&pi=1,"Holzner, Steven",Peachpit Pr ,9780321643407.0,https://cdn.kingstone.com.tw/english/images/product/3407/9780321643407.jpg,0
+Pro Django,https://www.kingstone.com.tw//basic/203c109351218?zone=english&lid=search&actid=WISE&kw=Django&pi=1,"Alchin, Marty",Apress      ,9781430210474.0,https://cdn.kingstone.com.tw/english/images/product/0474/9781430210474.jpg,"
+
+Django is the leading Python web application development framework. Learn how to leverage the Django web framework to its full potential in this advanced tutorial and reference. Endorsed by Django, Pro Django more or less picks up where The Definitive Guide to Django left off and examines in greater detail the unusual and complex problems that Python web application developers can face and how to solve them. Provides in-depth information about advanced tools and techniques available in every Django installation  Runs the gamut from the theory of Django's internal operations to actual code that solves real-world problems for high-volume environments  Goes above and beyond other books, leaving the basics behind  Shows how Django can do things even its core developers never dreamed possible
+                    
+"
+Practical Django Projects,https://www.kingstone.com.tw//basic/203c109394529?zone=english&lid=search&actid=WISE&kw=Django&pi=1,"Bennett, James",Apress      ,9781430219385.0,https://cdn.kingstone.com.tw/english/images/product/9385/9781430219385.jpg,"
+
+Build a Django content management system, blog, and social networking site with James Bennett as he introduces version 1.1 of the popular Django framework. You'll work through the development of each project, implementing and running the applications while learning new features along the way.Web frameworks are playing a major role in the creation of today's most compelling web applications, because they automate many of the tedious tasks, allowing developers to instead focus on providing users with creative and powerful features. Python developers have been particularly fortunate in this area, having been able to take advantage of Django, a very popular open-source web framework whose stated goal is to ""make it easier to build better web applications more quickly with less code.""Practical Django Projects introduces this popular framework by way of a series of real-world projects. Readers follow along with the development of each project, implementing and running each application while learning new features along the way. This edition is updated for Django 1.1 and includes an all-new chapter covering practical development tools and techniques you'll be able to apply to your own development workflow.
+                    
+"
+The Definitive Guide to Django,https://www.kingstone.com.tw//basic/203c308443622?zone=english&lid=search&actid=WISE&kw=Django&pi=1,"Holovaty, Adrian",Apress      ,9781430219361.0,https://cdn.kingstone.com.tw/english/images/product/9361/9781430219361.jpg,"
+
+Welcome to the second edition of The Definitive Guide to Django, informally known as The Django Book! This book aims to teach you how to use the Django Web framework to develop Web sites efficiently. When Jacob Kaplan-Moss and I wrote the first edition of this book, Django was still in a pre-1.0 stage. Once Django version 1.0 was released, with its several backward-incompatible changes, the first edition inevitably became outdated and people began demanding an update. I'm happy to report this edition covers Django 1.1 and should serve you well for some time. My thanks go to the many contributors who posted comments, corrections, and rants to, the accompanying Web site for this book, where I posted chapter drafts as I wrote them. You guys are great. Adrian Holovaty Cocreator and co-Benevolent Dictator for Life, Django xxxiii Introduction In the early days, Web developers wrote every page by hand. Updating a Web site meant ed- ing HTML; a ""redesign"" involved redoing every single page, one at a time. As Web sites grew and became more ambitious, it quickly became obvious that that situation was tedious, time-consuming, and ultimately untenable. A group of enterprising hackers at NCSA (the National Center for Supercomputing Applications, where Mosaic, the first graphical Web browser, was developed) solved this problem by letting the Web server spawn external programs that could generate HTML dynamically. They called this protocol the Common Gateway Interface, or CGI, and it changed the Web forever.
+                    
+"
+La guia definitiva de Django / The Definitive Guide to Django,https://www.kingstone.com.tw//basic/203c308800390?zone=english&lid=search&actid=WISE&kw=Django&pi=1,"Holovaty, Adrian",Ingram      ,9788441526945.0,https://cdn.kingstone.com.tw/english/images/product/6945/9788441526945.jpg,0
+Python Web Development with Django,https://www.kingstone.com.tw//basic/203c308122106?zone=english&lid=search&actid=WISE&kw=Django&pi=1,"Forcier, Jeffrey",Addison-Wesl,9780132356138.0,https://cdn.kingstone.com.tw/english/images/product/6138/9780132356138.jpg,0
+Practical Django Projects,https://www.kingstone.com.tw//basic/203c111279850?zone=english&lid=search&actid=WISE&kw=Django&pi=1,"Bennett, James",Apress      ,9781590599969.0,https://cdn.kingstone.com.tw/english/images/product/9969/9781590599969.jpg,0

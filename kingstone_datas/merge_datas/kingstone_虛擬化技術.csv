@@ -1,0 +1,79 @@
+﻿書名,書籍網站,作者,出版社,ISBN,圖片網址,書籍簡介
+Hyper－V虛擬化技術企業現場實戰第二版,https://www.kingstone.com.tw//basic/2014713552815?zone=book&lid=search&actid=WISE&kw=%E8%99%9B%E6%93%AC%E5%8C%96%E6%8A%80%E8%A1%93&pi=0,Patrick Lownds、Charbel Nemnom,碁峰資訊  ,https://cdn.kingstone.com.tw/book/images/product/20147/2014713552815/2014713552815b.jpg,9789864767908,"
+
+幫助您完整掌握Hyper-V完整功能的一本書 本書是Hyper-V系統管理員夢寐以求的參考書籍，藉由本書的指引，能夠協助你精通Hyper-V的部署、移轉與管理，並完成日常工作的自動化。 ．在各種模式（Full、Server Core、和Nano Server）底下安裝與管理Hyper-V的技巧 ．如何部署、移轉與升級Hyper-V及虛擬機器。 ．虛擬機器的磁碟、網路、記憶體、安全性的配置與設定技巧 ．深入了解高可用性與災難復原 ．利用PowerShell讓日常維護工作自動化的技巧 ．深入理解巢狀虛擬化，分散式儲存等新功能 ．虛擬機器的監控與疑難排解秘訣
+                    
+"
+連亞馬遜都用的虛擬化技術：Citrix XenServer6親自架設,https://www.kingstone.com.tw//basic/2013120399600?zone=book&lid=search&actid=WISE&kw=%E8%99%9B%E6%93%AC%E5%8C%96%E6%8A%80%E8%A1%93&pi=0,楊文智,佳魁      ,https://cdn.kingstone.com.tw/book/images/product/20131/2013120399600/2013120399600b.jpg,9789863793786,"
+
+
+	Citrix XenServer 是一套完整免費虛擬化平台, 經由XenCenter可以管理XenServer主機、虛擬主機、虛擬網路、儲存裝置、VM即時移轉、快照、範本..等多種功能。 可以節省整個資料中心成本以及提供資料中心的可靠性替企業帶來高性能的支援
+
+"
+認識虛擬化技術的第一本書(超圖解，學習無負擔),https://www.kingstone.com.tw//basic/2014713479402?zone=book&lid=search&actid=WISE&kw=%E8%99%9B%E6%93%AC%E5%8C%96%E6%8A%80%E8%A1%93&pi=0,高岡将,碁峰資訊  ,https://cdn.kingstone.com.tw/book/images/product/20147/2014713479402/2014713479402b.jpg,9789863478430,"
+
+在家學會虛擬化的基本知識 手邊有台PC 就能「通盤」了解虛擬化的機制與功能！ 專為想了解虛擬化技術基本知識的讀者所寫「想了解虛擬化技術，卻不知道該從何處著手」、「讀過一些虛擬化技術的入門書籍，卻讀不太懂」…我們主要是為了這樣的讀者寫這本書。許多人認為「虛擬化」就是資訊系統的引擎與程式，主要是「專業人員才會學的東西」。但隨著虛擬化技術日漸普遍，社會新鮮人或企業業務員也被認為需要具備「基本的虛擬化知識」。所以本書才以稍微了解電腦知識的「普羅大眾」為目標，希望寫出簡單易懂的內容。 理論與實務並重，滿足各種需求的讀者本書將內容分成「試作(實習)」與「學習(課程)」兩大元素。先了解資料庫的各種組成元素(=試作)，之後再閱讀有關這些元素的解說(=學習)，初學者應該就能深刻地了解何謂虛擬化才對。此外「實習」包括一些謎題與在自家電腦環境就能做出來的內容，但不一定每位讀者的環境都能執行所有內容，這時候大家跳過實習的部分，只閱讀課程的內容也無妨。 透過練習問題檢驗學習成效每一章的最後都會有「練習問題」。基本上只要仔細閱讀各章內容，應該就能輕鬆地回答這些問題。請大家透過這些問題確認自己是否真的讀懂了各章內容。
+                    
+"
+Hyper-V 3.X虛擬化技術企業現場實戰,https://www.kingstone.com.tw//basic/2014713405685?zone=book&lid=search&actid=WISE&kw=%E8%99%9B%E6%93%AC%E5%8C%96%E6%8A%80%E8%A1%93&pi=0,Leandro Carvalho,碁峰資訊  ,https://cdn.kingstone.com.tw/book/images/product/20147/2014713405685/2014713405685b.jpg,9789862768969,"
+
+言簡意賅無廢話，幫助你輕鬆管理私有雲的一本書虛擬化早已證明能夠為企業組織降低成本，私有雲端帶來的集中與彈性，也使伺服器的管理與控制掀起一波改革。微軟新推出的Windows Server 2012 Hyper-V，在許多方面都大有改進，諸如機動性、高可用性與彈性，帶來你所需要的一切，創造、管理與建立起微軟Private Cloud核心元件，達成虛擬化工作分配。本書是每一位Hyper-V系統管理員夢寐以求的完美利器，大家迫不及待想善用這些令人興奮的新功能。透過本書的實用範例，能夠協助你精通Hyper-V的部署、移轉與管理。本書可以幫助你輕鬆地管理你的私有雲。透過本書，你可以了解：．如何部署、移轉與升級Hyper-V及虛擬機器．為虛擬機器設定磁碟、網路、記憶體、安全與稽核．深入高可用性與災難復原．利用PowerShell自動化，節省時間與金錢．認識關於網路虛擬化、無共用儲存即時移轉、Hyper-V複寫等新功能．深入了解你的虛擬機器，並利用監視、報表與疑難排解小秘訣架設伺服器
+                    
+"
+24小時不打烊的雲端服務 ： 專家教你用Windows Server 2012 Hyper：V3.0實戰虛擬化技術,https://www.kingstone.com.tw//basic/2013120240506?zone=book&lid=search&actid=WISE&kw=%E8%99%9B%E6%93%AC%E5%8C%96%E6%8A%80%E8%A1%93&pi=0,王偉任,博碩文化  ,https://cdn.kingstone.com.tw/book/images/product/20131/2013120240506/2013120240506b.jpg,9789862017326,"
+
+新一代的 Hyper-V 3.0 虛擬化技術到底能夠幫助您的企業迎向哪些挑戰，不管是計畫性遷移、非計畫性停機、異地備援、重複資料刪除等進階技術，都內含在Windows Server 2012（Hyper-V 3.0）當中，相信您在閱讀完本書並且實作一遍之後便能有深刻的體會。想學習 Hyper-V 3.0 虛擬化技術卻不知如何著手？ 除了跟著本書進行實戰演練之外，還告訴您如何註冊微軟虛擬學院 MVA 免費線上學習課程，在家進修也OK！沒有時間及設備準備書中所談 Hyper-V 3.0 虛擬化測試環境？ 藉由 Nested Virtualization 概念搭建 Hyper-V in a Box 多層虛擬化運作環境，因此只要「一台」PC主機，馬上實作書中所有 Hyper-V 高可用性服務。書中將會實戰演練哪些 Hyper-V 虛擬化技術？本書將一步一步帶您設定及實戰演練：即時遷移（Live Migration）、儲存即時遷移（Live Storage Migration）、無共用儲存即時遷移（Shared-Nothing Live Migration）、快速遷移（Quick Migration）、Hyper-V 複本（Hyper-V Replica）、重複資料刪除（Data Deduplication）、iSCSI MPIO 多重路徑、VM 虛擬主機監控（VM Monitoring）、叢集感知更新 CAU、VM 虛擬主機反關聯性（VM Anti-Affinity） 等進階技術。
+                    
+"
+漫步雲端：虛擬化技術之實戰VMware,https://www.kingstone.com.tw//basic/2014713233660?zone=book&lid=search&actid=WISE&kw=%E8%99%9B%E6%93%AC%E5%8C%96%E6%8A%80%E8%A1%93&pi=0,張巍,碁峰資訊  ,https://cdn.kingstone.com.tw/book/images/product/20147/2014713233660/2014713233660b.jpg,9789861819693,"
+
+* 完整剖析企業導入虛擬化技術的程序與方法* 涵蓋VMWare進階虛擬化技術的所有細節和要點* 詳實的實作過程與實戰經驗分享雲端運算可說是當前顯學，而虛擬化技術正是其最重要的基礎建設。透過虛擬化技術的導入，企業可以大幅削減伺服器的數量，不僅節省鉅額的硬體採購成本，更能藉此降低電耗，從而降低營運成本。本書作者鑽研虛擬化技術多年，在網路、專業期刊上發表過多篇虛擬化技術相關文章，同時也在網路社群上替許多人解決了虛擬化技術相關的疑難雜症。您可以透過本書了解VMWare在企業中的應用過程，從規劃、佈署，乃至於維護管理，皆有相當深入而具體的描述與說明，想要領先潮流、漫步雲端嗎？相信本書會是您最好的選擇！第1章，虛擬化基礎概念。我們主要討論虛擬化技術的發展歷史、分類以及主流的虛擬化技術實現方式及其特點。同時針對幾大主流虛擬化廠商及其產品線進行了簡單的介紹。第2章，虛擬化技術初探。我們透過對VMware的免費產品VMware Server的安裝和配置來初步瞭解虛擬化的應用架構及其特點。第3~5章，企業級虛擬化解決方案概覽。探討VMware的企業級虛擬化產品VI的應用架構。學習VI單機實驗環境的搭建，並完成其基本功能的測試。第6章，企業級虛擬化解決方案實戰。討論如何設計適合企業應用場景的虛擬化解決方案，如何在生產系統中部署它，以及在部署完成後如何對此解決方案進行維護管理。本部分涉及對企業現有伺服器進行負載分析、整合、P2V、架構的補丁管理以及備份等技術細節。第7章，企業級虛擬化解決方案高級應用。我們主要討論如何配置和使用VI的多路徑技術，以及如何透過編寫簡單的腳本來實現VI架構的自動化管理。附錄部分對ESX3i的安裝和配置進行了講解，還提供VI中常用的命令工具以及一些很有價值的免費工具和網路資源。
+                    
+"
+Hyper-V R2叢集虛擬化技術--容錯移轉、線上備份、集中管理（附DVD),https://www.kingstone.com.tw//basic/2013120255173?zone=book&lid=search&actid=WISE&kw=%E8%99%9B%E6%93%AC%E5%8C%96%E6%8A%80%E8%A1%93&pi=0,周伯恆,益大資訊  ,https://cdn.kingstone.com.tw/book/images/product/20131/2013120255173/2013120255173b.jpg,9789868689206,"
+
+
+ ．精打細算節省虛擬化架設成本
+ ．虛擬化儲存設備選擇及架設
+ ．Hyper-V R2高可用性實現
+ ．完整傳授架設Hyper-V R2 & SCVMM 2008 R2 容錯移轉叢集
+ ．叢集共用存放區Cluster Shared Volumes(CSV)介紹
+ ．Live Migration (即時轉移) & Quick Migration (快速遷移)
+ ．SCVMM 2008 R2 集中式虛擬化管理
+ ．Storage VMotion不同儲存設備移轉
+ ．Physical-to-Virtual (P2V)老系統轉移至虛擬化環境
+ ．Virtual to virtual (V2V)不同虛擬化平台虛擬化環境轉移
+ ．企業災難還原自動化最佳解決方案
+ ．Hyper-V R2 SP1新功能Dynamic memory介紹
+ ．DPM 2010建置Hyper-V R2虛擬化環境備份計畫
+
+  
+
+光碟內容
+
+  
+
+ Hyper-V R2 & SCVMM 2008 R2 教學影片
+ CentOS Linux 系統 VHD 映像檔
+
+"
+Windows Server 2008 R2虛擬化技術 Hyper-V,https://www.kingstone.com.tw//basic/2014713203779?zone=book&lid=search&actid=WISE&kw=%E8%99%9B%E6%93%AC%E5%8C%96%E6%8A%80%E8%A1%93&pi=0,趙驚人,悅知文化  ,https://cdn.kingstone.com.tw/book/images/product/20147/2014713203779/2014713203779b.jpg,9789866348280,"
+
+針對企業IT人員需求，全面性剖析Hyper-V R2深受重視的即時移轉、虛擬機器支援、SLAT等各項新技術，解析SCVMM2008 R2各項規格及功能，各章節增附學習評量，為亟欲導入虛擬化技術者的最佳指導書。■專業角度深入Hyper-V R2　由基礎的安裝操作，到高可用性支援、整合服務，以至最佳管理工具－System Center Virtual Machine Manager 2008 R2的延伸應用，循序漸進的解說，並搭配操作圖例，不論是剛接觸或已有使用經驗的系統人員，都將能透過本書精研Hyper-V R2核心技術。■企業伺服器管理者的最佳利器協助讀者了解現今IT發展的一大趨勢－虛擬化技術，善加利用Hyper-V R2合併伺服器、即時移轉、動態虛擬機器存放等強大功能。同時並針對各章內容設計學習評量，為有志成為微軟新一代作業系統技術專家最佳參考用書。■支援微軟認證：Exam 70-693 | Pro: Windows Server 2008 R2, Virtualization AdministratorExam 70-659 | TS: Windows Server 2008 R2, Server Virtualization
+                    
+"
+Hyper-V虛擬化技術101問-最小支出、,https://www.kingstone.com.tw//basic/2014713173317?zone=book&lid=search&actid=WISE&kw=%E8%99%9B%E6%93%AC%E5%8C%96%E6%8A%80%E8%A1%93&pi=0,周伯恆,文魁      ,https://cdn.kingstone.com.tw/book/images/product/20147/2014713173317/2014713173317b.jpg,9789866382376,"
+
+本書特色：1.Step By Step 步驟安裝Hyper-V & System Center Virtual Machine Manager 2008。2.全文以Q & A表達，直接挑出重點所在，讀者較易了解Hyper-V。3.提供Hyper-V & System Center Virtual Machine Manager 2008教學影片下載，搭配影片學習，降低入門學習門檻。4.詳細說明Hyper-V & System Center Virtual Machine Manager 2008 操作及疑難問題解決方式。5.列舉Hyper-V Server 2008及Windows Server 2008遠端管理操作，收錄目前最新Windows 7及Windows Server 2008 R2遠端管理方式
+                    
+"
+Windows Server2008Hyper-V虛擬化技術,https://www.kingstone.com.tw//basic/2014713125736?zone=book&lid=search&actid=WISE&kw=%E8%99%9B%E6%93%AC%E5%8C%96%E6%8A%80%E8%A1%93&pi=0,趙驚人,悅知文化  ,https://cdn.kingstone.com.tw/book/images/product/20147/2014713125736/2014713125736b.jpg,9789866761751,"
+
+■專業角度深入Hyper-V應用本書作者繼《Windows Server 2008終端機服務》後，再度針對企業IT人員需求，剖析Hyper-V技術，由基礎的安裝設定、操作管理，至高可用性支援，以至Hyper-V的最佳管理工具－System Center Virtual Machine Manager 2008、Windows Server 2008 R2的延伸應用，循序漸進的解說並搭配操作圖例，直指Hyper-V要點，不論是剛接觸或是已實際使用Hyper-V的讀者，都將透過本書體認這項技術精妙之處。■企業伺服器管理者的最佳利器虛擬化技術為現今IT發展的一大趨勢，如何善加利用Hyper-V中合併伺服器、虛擬機器的快速遷移等的強大功能，簡化系統管理與環境，是每個伺服器管理者的當務之急。本書不僅能協助您迅速掌握Hyper-V核心技術，同時支援微軟認證70-652，是有志成為微軟新一代作業系統技術專家的你最佳參考用書。本書特色：在企業不斷面臨高競爭挑戰的今日，能夠有效降低成本、提高IT效能的Hyper-V，可說是Windows Server 2008在虛擬化技術上的完美呈現。本書全面性剖析Hyper-V技術之精要，深入解析SCVMM2008，並率先導入Windows Server 2008 R2的全新規格及功能，為亟欲導入虛擬化技術者的最佳指導書。
+                    
+"
+深入淺出虛擬化技術VMWare與Virtual PC,https://www.kingstone.com.tw//basic/2014713058942?zone=book&lid=search&actid=WISE&kw=%E8%99%9B%E6%93%AC%E5%8C%96%E6%8A%80%E8%A1%93&pi=0,虛擬機之家,博碩文化  ,https://cdn.kingstone.com.tw/book/images/product/20147/2014713058942/2014713058942b.jpg,9789862011218,"
+
+整理目前主流虛擬化技術VMWare Workstation、VMWare Server、Microsoft Virtual PC、Virtual Server、Parallels Workstation和VirtualBox的安裝、設定、功能詳解和應用。除了虛擬機器的單機裝設說明，也以多個實際案例和詳細操作步驟深入介紹組建多台虛擬機器，打造虛擬化的網路環境。本書除了基礎知識和逐步的操作外，更完整深入介紹VMWare Workstation和Microsoft Virtual PC的各項功能，便於讓讀者真正掌握這兩套主流虛擬機器的應用。另外，本書更將虛擬機器的單機和多機實務應用，以充足的案例和實驗應用來介紹，如：無人值守安裝光碟實作、多系統安裝、硬碟無損分割實驗、磁碟陣列實驗、VLAN網路實驗、VMware Team功能、RIS遠端安裝實驗...等等，讓讀者更了解與活用虛擬機器的單機和多機整合。
+                    
+"
