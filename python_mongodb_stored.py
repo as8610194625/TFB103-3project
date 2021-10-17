@@ -1,8 +1,7 @@
 from pymongo import MongoClient, collection
-from pymongo.errors import ConnectionFailure
 import json
 import os
-connection = MongoClient(host='10.2.18.6',port=27017)
+connection = MongoClient(host='127.0.0.1',port=27017)
 db = connection.kingstone
 collection = db['test']
 def kingstone_stored(self):
@@ -19,6 +18,7 @@ def kingstone_stored(self):
                 print("----------")
 
 
-for filename in os.listdir(os.getcwd()+'\\json'):
-    kingstone_stored(os.getcwd()+'\\json\\'+filename)
+for filename in os.listdir(os.getcwd()+'\\kingstone_datas\\json'):
+    kingstone_stored(os.getcwd()+'\\kingstone_datas\\json\\'+filename)
+    # print(filename)
 print('Completed')
