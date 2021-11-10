@@ -4,9 +4,9 @@ import random
 
 def hot():
     hot = []
-    connection = MongoClient(host='127.0.0.1',port=27017)
+    connection = MongoClient(host='10.2.18.6',port=27017)
     db = connection.kingstone
-    collection = db['test']
+    collection = db['cleanbook']
     allbooks = list(collection.find())
     choosetwo = random.sample(allbooks,2)
     for k,i in enumerate (choosetwo):
@@ -15,17 +15,18 @@ def hot():
         hot.append(reply)
     return hot
 def sendButton():  #按鈕樣版
-    connection = MongoClient(host='127.0.0.1',port=27017)
+    connection = MongoClient(host='localhost',port=27017)
     db = connection.kingstone
     collection = db['test']
     allbooks = list(collection.find())
     chooseone = random.choice(allbooks)
-    # choosetwo = random.sample(allbooks,2)
+    choosetwo = random.sample(allbooks,6)
     # hot.append(choosetwo)
+    print(choosetwo)
     imageurl = chooseone['圖片網址']
     book = chooseone['書名']
     url = chooseone['書籍網站']
     # global contents
     contents = chooseone['書籍簡介']
-    print(imageurl,book,url)
+    # print(imageurl,book,url)
 sendButton()
