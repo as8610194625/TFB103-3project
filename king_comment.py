@@ -13,7 +13,7 @@ def crawler(categories):
     files=os.listdir('book_comment')
     crawlered=list(map(lambda x : x[8:11],files))
     categories=list(set(crawlered) ^ set(categories))
-
+    
     for category in categories:
         book_info=[]
         kurl = "https://www.kingstone.com.tw/book/{}/".format(category)

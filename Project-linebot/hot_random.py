@@ -15,18 +15,22 @@ def hot():
         hot.append(reply)
     return hot
 def sendButton():  #按鈕樣版
-    connection = MongoClient(host='localhost',port=27017)
+    connection = MongoClient(host='10.2.18.6',port=27017)
     db = connection.kingstone
-    collection = db['test']
-    allbooks = list(collection.find())
-    chooseone = random.choice(allbooks)
-    choosetwo = random.sample(allbooks,6)
-    # hot.append(choosetwo)
-    print(choosetwo)
-    imageurl = chooseone['圖片網址']
-    book = chooseone['書名']
-    url = chooseone['書籍網站']
+    collection = db['comment1']
+    allbooks = list(collection.find())[0]
+    allbooks.pop('_id')
+    choose = random.sample(allbooks.keys(),5)
+    # allbooks = list(collection.find())
+    # chooseone = random.choice(allbooks)
+    # choosetwo = random.sample(allbooks,6)
+    # # hot.append(choosetwo)
+    # print(choosetwo)
+    # imageurl = chooseone['圖片網址']
+    # book = chooseone['書名']
+    # url = chooseone['書籍網站']
     # global contents
-    contents = chooseone['書籍簡介']
+    # contents = chooseone['書籍簡介']
     # print(imageurl,book,url)
+    
 sendButton()
