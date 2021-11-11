@@ -37,7 +37,7 @@ def random_find():
     collection = db['comment1']
     allbooks = list(collection.find())[0]
     allbooks.pop('_id')
-    choose = random.sample(allbooks.keys(),5)
+    choose = random.sample(set(allbooks.keys()),5)
     return choose
     # print(like_dict)
     # res = es.search(index="kingstone", body={"size":5,"query":{"function_score":{"functions":[{"random_score": {}}]}}})
