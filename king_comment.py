@@ -11,7 +11,7 @@ def crawler(categories):
         os.mkdir('./book_comment')
 
     files=os.listdir('book_comment')
-    crawlered=list(map(lambda x : x[0:3],files))
+    crawlered=list(map(lambda x : x[8:11],files))
     categories=list(set(crawlered) ^ set(categories))
 
     for category in categories:
