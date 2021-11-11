@@ -3,10 +3,11 @@ from pymongo import MongoClient, collection
 import json
 import time 
 import random
-es = Elasticsearch(hosts='10.2.18.6', port=9200)
+
 
 book_all=1
 def you_maybe_like(ISBN):
+    es = Elasticsearch(hosts='10.2.18.6', port=9200)
     # res = es.search(index="kingstone", body={"from":10,"size":20,"query":{"match_all":{}}})
     res = es.search(index="cleanbook_test", body={"query":{"match":{"ISBN":ISBN}}})
     # print(res['hits']['hits'])
@@ -16,6 +17,7 @@ def you_maybe_like(ISBN):
         book_all = hit["_source"]
     return book_all
 def find_book(book):
+    es = Elasticsearch(hosts='10.2.18.6', port=9200)
     res = es.search(index="kingstone", body={"size":5,"query":{"match":{"書籍簡介":{"query":book,"fuzziness":"AUTO"}}}})
     # res = es.search(index="kingstone", body={"query":{"match":{"ISBN":book}}})
     # print(res)
