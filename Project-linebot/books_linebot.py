@@ -7,7 +7,7 @@ from linebot.models import MessageEvent,TextSendMessage,CarouselTemplate,Carouse
 from linebot.models.messages import ImageMessage,TextMessage
 import time
 import json
-
+from elasticsearch import Elasticsearch
 from linebot.models.responses import Content
 import python_mongodb_stored as mongo
 from pymongo import MongoClient, collection
@@ -77,11 +77,11 @@ def handle_message(event):
     #                         [TextSendMessage(text = contents)])
 
 def sendButton(event):  #按鈕樣版
-    connection = MongoClient(host='localhost',port=27017)
-    db = connection.kingstone
-    collection = db['test']
-    allbooks = list(collection.find())
-    chooseone = random.choice(allbooks)
+    es = Elasticsearch(hosts='10.2.18.6', port=9200)
+    seed = int(time.time())
+    res = es.search(index="cleanbook_test", body={"query":{"function_score":{"random_score":{"seed":seed,"field":"_seq_no"}}},"size":1})
+    for chooseone in res['hits']['hits']:
+        chooseone = chooseone['_source']
     # choosebooks = random.sample(allbooks,2)
     # hot.append(choosebooks)
     imageurl = chooseone['圖片網址']

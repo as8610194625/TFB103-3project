@@ -1,6 +1,7 @@
 from elasticsearch import Elasticsearch
 from pymongo import MongoClient, collection
 import json
+import time 
 import random
 es = Elasticsearch(hosts='10.2.18.6', port=9200)
 
@@ -49,3 +50,8 @@ def random_find():
         # print(i,hit["_source"])
     # return books
 # print(random_find())
+# seed = int(time.time())
+# res = es.search(index="cleanbook_test", body={"query":{"function_score":{"random_score":{"seed":seed,"field":"_seq_no"}}},"size":1})
+# for chooseone in res['hits']['hits']:
+#     chooseone = chooseone['_source']
+# print(chooseone)
