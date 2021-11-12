@@ -118,8 +118,10 @@ def sendButton(event):  #按鈕樣版
     except:
         line_bot_api.reply_message(event.reply_token,TextSendMessage(text='發生錯誤！'))
 def sendCarousel(event):  #轉盤樣板
-    
-    random_books = random_find()
+    f = open (r"C:\Users\Tibame\Desktop\TFB103-3project\Project-linebot\recommand_youmaybelike.json","r",encoding="utf-8")
+    like_dict = json.loads(f.read())
+    random_books = random.sample(set(like_dict.keys()),5)
+    # random_books = random_find()
     books = list(map(lambda x:you_maybe_like(x),random_books))
     try:
         message = TemplateSendMessage(
@@ -207,9 +209,10 @@ def sendCarousel(event):  #轉盤樣板
         line_bot_api.reply_message(event.reply_token,message)
     except:
         line_bot_api.reply_message(event.reply_token,TextSendMessage(text='發生錯誤！'))
+        # print('.........')
 # def sendCarousel(event):  #轉盤樣板
 #     time.sleep(0.5)
-#     connection = MongoClient(host='localhost',port=27017)
+#     connection = MongoClient(host='10.2.18.6',port=27017)
 #     db = connection.kingstone
 #     collection = db['test']
 #     allbooks = list(collection.find())
