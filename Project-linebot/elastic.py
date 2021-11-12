@@ -10,18 +10,17 @@ channelSecret=secretFile["channelSecret"]
 
 
 # book_all=1
-def you_maybe_like(ISBN):
+def find_bookisbn(ISBN):
     es = Elasticsearch(hosts='10.2.14.10', port=9200)
-    # res = es.search(index="kingstone", body={"from":10,"size":20,"query":{"match_all":{}}})
     res = es.search(index="cleanbook_test", query={"match":{"ISBN":ISBN}})
     # print(res['hits']['hits'])
     # book = res['hits']['hits'][0]["_source"]
     for hit in res['hits']['hits']:
         # global book_all
         book_all = hit["_source"]
-    
-    return res
-def find_book(book):
+        book_all.pop('書籍簡介')
+    return book_all
+def find_bookname(book):
     es = Elasticsearch(hosts='10.2.14.10', port=9200)
     res = es.search(index="kingstone", size=5,query={"match":{"書籍簡介":{"query":book,"fuzziness":"AUTO"}}})
     # res = es.search(index="kingstone", body={"query":{"match":{"ISBN":book}}})
@@ -35,7 +34,7 @@ def recommend(ISBN_LIST):
     like_dict = json.loads(f.read())
     books = []
     for book in like_dict[ISBN_LIST]:
-        books.append(you_maybe_like(book))
+        books.append(find_bookisbn(book))
     return(books)
 # print(recommend('1905302050014'))
 def random_find():

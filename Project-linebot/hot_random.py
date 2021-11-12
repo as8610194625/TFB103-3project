@@ -35,10 +35,11 @@ def choosebookISBN():  #按鈕樣版
     # global contents
     # contents = chooseone['書籍簡介']
     # print(imageurl,book,url)
-def youmaybelike(isbn):  #轉盤樣板
+def findyoumaybelike(isbn):  #轉盤樣板
     connection = MongoClient(host='10.2.14.10',port=27017)
     db = connection.kingstone
     collection = db['comment_all.json']
     data = collection.find({'ISBN':isbn})
-    return data
-print(list(youmaybelike("9789577431455"))[0])
+    datas = list(data)[0]
+    return datas
+# print(findyoumaybelike("9789577431455")[0])
