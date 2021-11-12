@@ -2,22 +2,23 @@
 from flask import Flask, request, abort
 # import linebot related
 from linebot import LineBotApi, WebhookHandler
-from linebot.exceptions import InvalidSignatureError
+from linebot.exceptions import InvalidSignatureError, LineBotApiError
 from linebot.models import MessageEvent,TextSendMessage,CarouselTemplate,CarouselColumn,StickerSendMessage,LocationSendMessage,TemplateSendMessage,ButtonsTemplate,MessageTemplateAction,URITemplateAction,PostbackTemplateAction, events
 from linebot.models.messages import ImageMessage,TextMessage
 import time
 import json
 from elasticsearch import Elasticsearch
 from linebot.models.responses import Content
+import numpy as np
 import python_mongodb_stored as mongo
 from pymongo import MongoClient, collection
 import random
-from elastic import random_find,you_maybe_like
+from elastic import random_find,you_maybe_like,choosebooks
 # create flask server
 # hotbooks = 1
 app = Flask(__name__)
 
-secretFile=json.load(open("secretFile.txt",'r'))
+secretFile=json.load(open("secretFile.json",'r'))
 channelAccessToken=secretFile['channelAccessToken']
 channelSecret=secretFile["channelSecret"]
 
@@ -68,6 +69,7 @@ def handle_message(event):
         # line_bot_api.push_message(event.reply_token,
         #                     [TextSendMessage(text = ''.join(hot_randome()[1]))])
         sendButton(event)
+        
     elif message == '@直接查詢':
         sendCarousel(event)
     elif message == '@我的最愛':
@@ -77,7 +79,7 @@ def handle_message(event):
     #                         [TextSendMessage(text = contents)])
 
 def sendButton(event):  #按鈕樣版
-    es = Elasticsearch(hosts='10.2.18.6', port=9200)
+    es = Elasticsearch(hosts='10.2.14.10', port=9200)
     seed = int(time.time())
     res = es.search(index="cleanbook_test", body={"query":{"function_score":{"random_score":{"seed":seed,"field":"_seq_no"}}},"size":1})
     for chooseone in res['hits']['hits']:
@@ -118,11 +120,13 @@ def sendButton(event):  #按鈕樣版
     except:
         line_bot_api.reply_message(event.reply_token,TextSendMessage(text='發生錯誤！'))
 def sendCarousel(event):  #轉盤樣板
-    f = open (r"C:\Users\Tibame\Desktop\TFB103-3project\Project-linebot\recommand_youmaybelike.json","r",encoding="utf-8")
-    like_dict = json.loads(f.read())
-    random_books = random.sample(set(like_dict.keys()),5)
+    # f = open (r"C:\Users\Tibame\Desktop\TFB103-3project\Project-linebot\recommand_youmaybelike.json","r",encoding="utf-8")
+    # like_dict = json.loads(f.read())
+    # random_books = random.sample(set(like_dict.keys()),5)
     # random_books = random_find()
-    books = list(map(lambda x:you_maybe_like(x),random_books))
+    # books = list(map(lambda x:you_maybe_like(x),random_books))
+    books = choosebooks()
+    books = np.ndarray.tolist(books)
     try:
         message = TemplateSendMessage(
             alt_text='轉盤樣板',
@@ -135,11 +139,17 @@ def sendCarousel(event):  #轉盤樣板
                         actions=[
                             MessageTemplateAction(
                                 label='簡介',
-                                text=books[0]['書籍簡介']
+                                # text=books[0]['書籍簡介']
+                                text='...'
                             ),
                             URITemplateAction(
                                 label='連結網頁',
                                 uri=books[0]['書籍網站']
+                            ),
+                            MessageTemplateAction(
+                                label='您可能喜歡....',
+                                # text=books[0]['書籍簡介']
+                                text='...'
                             )
                         ]
                     ),
@@ -150,11 +160,17 @@ def sendCarousel(event):  #轉盤樣板
                         actions=[
                             MessageTemplateAction(
                                 label='簡介',
-                                text=books[1]['書籍簡介']
+                                # text=books[1]['書籍簡介']
+                                text='...'
                             ),
                             URITemplateAction(
                                 label='連結網頁',
                                 uri=books[1]['書籍網站']
+                            ),
+                            MessageTemplateAction(
+                                label='您可能喜歡....',
+                                # text=books[0]['書籍簡介']
+                                text='...'
                             )
                         ]
                     ),
@@ -165,41 +181,134 @@ def sendCarousel(event):  #轉盤樣板
                         actions=[
                             MessageTemplateAction(
                                 label='簡介',
-                                text=books[2]['書籍簡介']
+                                # text=books[2]['書籍簡介']
+                                text='...'
                             ),
                             URITemplateAction(
                                 label='連結網頁',
                                 uri=books[2]['書籍網站']
+                            ),
+                            MessageTemplateAction(
+                                label='您可能喜歡....',
+                                # text=books[0]['書籍簡介']
+                                text='...'
+                            )
+                        ]
+                    ),
+                    # CarouselColumn(
+                    #     thumbnail_image_url=books[3]['圖片網址'],
+                    #     title=books[3]['書名'],
+                    #     text=books[3]['ISBN'],
+                    #     actions=[
+                    #         MessageTemplateAction(
+                    #             label='簡介',
+                    #             # text=books[3]['書籍簡介']
+                    #             text='...'
+                    #         ),
+                    #         URITemplateAction(
+                    #             label='連結網頁',
+                    #             uri=books[3]['書籍網站']
+                    #         )
+                    #     ]
+                    # ),
+                    # CarouselColumn(
+                    #     thumbnail_image_url=books[4]['圖片網址'],
+                    #     title=books[4]['書名'],
+                    #     text=books[4]['ISBN'],
+                    #     actions=[
+                    #         MessageTemplateAction(
+                    #             label='簡介',
+                    #             # text=books[4]['書籍簡介']
+                    #             text='...'
+                    #         ),
+                    #         URITemplateAction(
+                    #             label='連結網頁',
+                    #             uri=books[4]['書籍網站']
+                    #         )
+                    #     ]
+                    # )
+                ]
+            )
+        )
+        line_bot_api.reply_message(event.reply_token,message)
+    except:
+        line_bot_api.reply_message(event.reply_token,TextSendMessage(text='發生錯誤！'))
+        print(LineBotApiError)
+        # print('.........')
+def youmaybelike(event,):  #轉盤樣板
+    connection = MongoClient(host='10.2.14.10',port=27017)
+    db = connection.kingstone
+    collection = db['comment1']
+    # random_books = random.sample(set(like_dict.keys()),5)
+    # random_books = random_find()
+    # books = list(map(lambda x:you_maybe_like(x),random_books))
+    books = choosebooks()
+    books = np.ndarray.tolist(books)
+    try:
+        message = TemplateSendMessage(
+            alt_text='轉盤樣板',
+            template=CarouselTemplate(
+                columns=[
+                    CarouselColumn(
+                        thumbnail_image_url=books[0]['圖片網址'],
+                        title=books[0]['書名'],
+                        text=books[0]['ISBN'],
+                        actions=[
+                            MessageTemplateAction(
+                                label='簡介',
+                                # text=books[0]['書籍簡介']
+                                text='...'
+                            ),
+                            URITemplateAction(
+                                label='連結網頁',
+                                uri=books[0]['書籍網站']
+                            ),
+                            MessageTemplateAction(
+                                label='您可能喜歡....',
+                                # text=books[0]['書籍簡介']
+                                text='...'
                             )
                         ]
                     ),
                     CarouselColumn(
-                        thumbnail_image_url=books[3]['圖片網址'],
-                        title=books[3]['書名'],
-                        text=books[3]['ISBN'],
+                        thumbnail_image_url=books[1]['圖片網址'],
+                        title=books[1]['書名'],
+                        text=books[1]['ISBN'],
                         actions=[
                             MessageTemplateAction(
                                 label='簡介',
-                                text=books[3]['書籍簡介']
+                                # text=books[1]['書籍簡介']
+                                text='...'
                             ),
                             URITemplateAction(
                                 label='連結網頁',
-                                uri=books[3]['書籍網站']
+                                uri=books[1]['書籍網站']
+                            ),
+                            MessageTemplateAction(
+                                label='您可能喜歡....',
+                                # text=books[0]['書籍簡介']
+                                text='...'
                             )
                         ]
                     ),
                     CarouselColumn(
-                        thumbnail_image_url=books[4]['圖片網址'],
-                        title=books[4]['書名'],
-                        text=books[4]['ISBN'],
+                        thumbnail_image_url=books[2]['圖片網址'],
+                        title=books[2]['書名'],
+                        text=books[2]['ISBN'],
                         actions=[
                             MessageTemplateAction(
                                 label='簡介',
-                                text=books[4]['書籍簡介']
+                                # text=books[2]['書籍簡介']
+                                text='...'
                             ),
                             URITemplateAction(
                                 label='連結網頁',
-                                uri=books[4]['書籍網站']
+                                uri=books[2]['書籍網站']
+                            ),
+                            MessageTemplateAction(
+                                label='您可能喜歡....',
+                                # text=books[0]['書籍簡介']
+                                text='...'
                             )
                         ]
                     )
@@ -209,116 +318,8 @@ def sendCarousel(event):  #轉盤樣板
         line_bot_api.reply_message(event.reply_token,message)
     except:
         line_bot_api.reply_message(event.reply_token,TextSendMessage(text='發生錯誤！'))
+        print(LineBotApiError)
         # print('.........')
-# def sendCarousel(event):  #轉盤樣板
-#     time.sleep(0.5)
-#     connection = MongoClient(host='10.2.18.6',port=27017)
-#     db = connection.kingstone
-#     collection = db['test']
-#     allbooks = list(collection.find())
-#     choosebooks = random.sample(allbooks,6)
-#     try:
-#         message = TemplateSendMessage(
-#             alt_text='轉盤樣板',
-#             template=CarouselTemplate(
-#                 columns=[
-#                     CarouselColumn(
-#                         thumbnail_image_url=choosebooks[0]['圖片網址'],
-#                         title=choosebooks[0]['書名'],
-#                         text=choosebooks[0]['ISBN'],
-#                         actions=[
-#                             MessageTemplateAction(
-#                                 label='簡介',
-#                                 text=choosebooks[0]['書籍簡介']
-#                             ),
-#                             URITemplateAction(
-#                                 label='連結網頁',
-#                                 uri=choosebooks[0]['書籍網站']
-#                             )
-#                         ]
-#                     ),
-#                     CarouselColumn(
-#                         thumbnail_image_url=choosebooks[1]['圖片網址'],
-#                         title=choosebooks[1]['書名'],
-#                         text=choosebooks[1]['ISBN'],
-#                         actions=[
-#                             MessageTemplateAction(
-#                                 label='簡介',
-#                                 text=choosebooks[1]['書籍簡介']
-#                             ),
-#                             URITemplateAction(
-#                                 label='連結網頁',
-#                                 uri=choosebooks[1]['書籍網站']
-#                             )
-#                         ]
-#                     ),
-#                     CarouselColumn(
-#                         thumbnail_image_url=choosebooks[2]['圖片網址'],
-#                         title=choosebooks[2]['書名'],
-#                         text=choosebooks[2]['ISBN'],
-#                         actions=[
-#                             MessageTemplateAction(
-#                                 label='簡介',
-#                                 text=choosebooks[2]['書籍簡介']
-#                             ),
-#                             URITemplateAction(
-#                                 label='連結網頁',
-#                                 uri=choosebooks[2]['書籍網站']
-#                             )
-#                         ]
-#                     ),
-#                     CarouselColumn(
-#                         thumbnail_image_url=choosebooks[3]['圖片網址'],
-#                         title=choosebooks[3]['書名'],
-#                         text=choosebooks[3]['ISBN'],
-#                         actions=[
-#                             MessageTemplateAction(
-#                                 label='簡介',
-#                                 text=choosebooks[3]['書籍簡介']
-#                             ),
-#                             URITemplateAction(
-#                                 label='連結網頁',
-#                                 uri=choosebooks[3]['書籍網站']
-#                             )
-#                         ]
-#                     ),
-#                     CarouselColumn(
-#                         thumbnail_image_url=choosebooks[4]['圖片網址'],
-#                         title=choosebooks[4]['書名'],
-#                         text=choosebooks[4]['ISBN'],
-#                         actions=[
-#                             MessageTemplateAction(
-#                                 label='簡介',
-#                                 text=choosebooks[4]['書籍簡介']
-#                             ),
-#                             URITemplateAction(
-#                                 label='連結網頁',
-#                                 uri=choosebooks[4]['書籍網站']
-#                             )
-#                         ]
-#                     ),
-#                     CarouselColumn(
-#                         thumbnail_image_url=choosebooks[5]['圖片網址'],
-#                         title=choosebooks[5]['書名'],
-#                         text=choosebooks[5]['ISBN'],
-#                         actions=[
-#                             MessageTemplateAction(
-#                                 label='簡介',
-#                                 text=choosebooks[5]['書籍簡介']
-#                             ),
-#                             URITemplateAction(
-#                                 label='連結網頁',
-#                                 uri=choosebooks[5]['書籍網站']
-#                             )
-#                         ]
-#                     )
-#                 ]
-#             )
-#         )
-#         line_bot_api.reply_message(event.reply_token,message)
-#     except:
-#         line_bot_api.reply_message(event.reply_token,TextSendMessage(text='發生錯誤！'))
-
 # run app
 if __name__ == "__main__":
     app.run(host='localhost',debug=True, port=12345)
