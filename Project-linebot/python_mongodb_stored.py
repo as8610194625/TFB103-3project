@@ -1,10 +1,11 @@
 from pymongo import MongoClient, collection
 import json
 import os
-connection = MongoClient(host='10.2.18.6',port=27017)
-db = connection.kingstone
-collection = db['customers']
+
 def kingstone_stored(self):
+    connection = MongoClient(host='10.2.18.6',port=27017)
+    db = connection.kingstone
+    collection = db['customers']
     try:
         result = collection.insert([self])
         print('已新增',self['_id'])

@@ -7,22 +7,23 @@ import numpy as np
 secretFile=json.load(open("secretFile.json",'r'))
 channelAccessToken=secretFile['channelAccessToken']
 channelSecret=secretFile["channelSecret"]
-
+ip = secretFile["IP"]
 
 # book_all=1
 def find_bookisbn(ISBN):
-    es = Elasticsearch(hosts='10.2.14.10', port=9200)
+    es = Elasticsearch(hosts=ip, port=9200)
     res = es.search(index="cleanbook_test", query={"match":{"ISBN":ISBN}})
     # print(res['hits']['hits'])
     # book = res['hits']['hits'][0]["_source"]
     for hit in res['hits']['hits']:
-        # global book_all
+        global book_all
         book_all = hit["_source"]
         book_all.pop('書籍簡介')
+        # print(book_all)
     return book_all
 def find_bookname(book):
-    es = Elasticsearch(hosts='10.2.14.10', port=9200)
-    res = es.search(index="kingstone", size=5,query={"match":{"書籍簡介":{"query":book,"fuzziness":"AUTO"}}})
+    es = Elasticsearch(hosts=ip, port=9200)
+    res = es.search(index="cleanbook_test", size=3,query={"match":{"書籍簡介":{"query":book,"fuzziness":"AUTO"}}})
     # res = es.search(index="kingstone", body={"query":{"match":{"ISBN":book}}})
     # print(res)
     for i,hit in enumerate(res['hits']['hits']):
@@ -38,7 +39,7 @@ def recommend(ISBN_LIST):
     return(books)
 # print(recommend('1905302050014'))
 def random_find():
-    connection = MongoClient(host='10.2.14.10',port=27017)
+    connection = MongoClient(host=ip,port=27017)
     db = connection.kingstone
     collection = db['comment1']
     allbooks = list(collection.find())[0]
@@ -59,7 +60,7 @@ def random_find():
 def choosebooks():
     choose = []
     seed = int(time.time())
-    es = Elasticsearch(hosts='10.2.14.10', port=9200)
+    es = Elasticsearch(hosts=ip, port=9200)
     res = es.search(index="cleanbook_test", query={"function_score":{"random_score":{"seed":seed,"field":"_seq_no"}}},size=3)
     for chooseone in res['hits']['hits']:
         chooseone = chooseone['_source']
@@ -72,3 +73,8 @@ def choosebooks():
 # print(you_maybe_like("9789577431455"))
 # for i in np.ndarray.tolist(choosebooks()):
 #     print('......',i)
+# isbn_list = ['9789570831818','9789570832167','9789868461963']
+# print(find_bookisbn(isbn_list[0]))
+# books = list(map(find_bookisbn,isbn_list))
+# print(books)
+# print(find_bookisbn('4715006434563'))

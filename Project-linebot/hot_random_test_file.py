@@ -4,10 +4,10 @@ import random
 secretFile=json.load(open("secretFile.json",'r'))
 channelAccessToken=secretFile['channelAccessToken']
 channelSecret=secretFile["channelSecret"]
-
+ip = secretFile["IP"]
 def hot():
     hot = []
-    connection = MongoClient(host='10.2.14.10',port=27017)
+    connection = MongoClient(host=ip,port=27017)
     db = connection.kingstone
     collection = db['cleanbook']
     allbooks = list(collection.find())
@@ -18,28 +18,20 @@ def hot():
     #     hot.append(reply)
     return hot
 def choosebookISBN():  #按鈕樣版
-    connection = MongoClient(host='10.2.14.10',port=27017)
+    connection = MongoClient(host=ip,port=27017)
     db = connection.kingstone
-    collection = db['cleanbook']
-    allbooks = list(collection.find())
-    # allbooks.pop('_id')
-    # choose = random.sample(allbooks.keys(),5)
+    collection = db['inter']
     # allbooks = list(collection.find())
-    # chooseone = random.choice(allbooks)
-    choose = random.sample(allbooks,6)
-    # # hot.append(choosetwo)
-    # print(choose['ISBN'])
-    # imageurl = chooseone['圖片網址']
-    # book = chooseone['書名']
-    # url = chooseone['書籍網站']
-    # global contents
-    # contents = chooseone['書籍簡介']
-    # print(imageurl,book,url)
+    chooseisbn = list(collection.aggregate([{'$project':{'_id':0,'ISBN':1}},{'$sample':{'size':3}}]))
+    # chooseisbn[0] = chooseisbn[0]['ISBN']
+    return [chooseisbn[0]['ISBN'],chooseisbn[1]['ISBN'],chooseisbn[2]['ISBN']]
 def findyoumaybelike(isbn):  #轉盤樣板
-    connection = MongoClient(host='10.2.14.10',port=27017)
+    connection = MongoClient(host=ip,port=27017)
     db = connection.kingstone
     collection = db['comment_all.json']
     data = collection.find({'ISBN':isbn})
-    datas = list(data)[0]
+    datas = list(data)[0]['list']
     return datas
-# print(findyoumaybelike("9789577431455")[0])
+
+# print(findyoumaybelike("9789868949645"))
+# print((choosebookISBN()))
