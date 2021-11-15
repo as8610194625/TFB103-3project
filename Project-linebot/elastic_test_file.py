@@ -4,6 +4,8 @@ import json
 import time 
 import random
 import numpy as np
+
+from books_linebot import findbook_Name
 secretFile=json.load(open("secretFile.json",'r'))
 channelAccessToken=secretFile['channelAccessToken']
 channelSecret=secretFile["channelSecret"]
@@ -26,10 +28,13 @@ def find_bookname(book):
     res = es.search(index="cleanbook_test", size=3,query={"match":{"書籍簡介":{"query":book,"fuzziness":"AUTO"}}})
     # res = es.search(index="kingstone", body={"query":{"match":{"ISBN":book}}})
     # print(res)
+    books = []
     for i,hit in enumerate(res['hits']['hits']):
-        book = hit["_source"]['書名']
-        print(i,book)
-    return book
+        book = hit["_source"]
+        # print(i,book)
+        book.pop('書籍簡介')
+        books.append(book)
+    return books
 def recommend(ISBN_LIST):
     f = open (r"C:\Users\Tibame\Desktop\TFB103-3project\Project-linebot\recommand_youmaybelike.json","r",encoding="utf-8")
     like_dict = json.loads(f.read())
@@ -70,11 +75,5 @@ def choosebooks():
         # print(chooseone)
     choose = np.array(choose)
     return choose
-# print(you_maybe_like("9789577431455"))
-# for i in np.ndarray.tolist(choosebooks()):
-#     print('......',i)
-# isbn_list = ['9789570831818','9789570832167','9789868461963']
-# print(find_bookisbn(isbn_list[0]))
-# books = list(map(find_bookisbn,isbn_list))
-# print(books)
-# print(find_bookisbn('4715006434563'))
+
+print(find_bookname('Python'))
