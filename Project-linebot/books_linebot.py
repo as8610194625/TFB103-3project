@@ -35,7 +35,7 @@ def mongo_user_stored(self):
         print('已新增',self['_id'])
         print("----------")
     except DuplicateKeyError:
-        collection.update({ '_id' : self['_id'] },{ '$addToSet': { 'tag': self['tag'][0] }})
+        collection.update({ '_id' : self['_id'] },{ '$push': { 'tag': self['tag'][0] }})
         print("----------")
     except:
         print('已存在_id',self['_id'],'(因此不寫入)')
@@ -54,7 +54,7 @@ def findbook_ISBN(self):
 def findbook_Name(self):
     es = Elasticsearch(hosts=ip, port=9200)
     res = es.search(index="cleanbook_test", size=10,query={"match":{"書名":self}})
-    # res = es.search(index="kingstone", body={"query":{"match":{"ISBN":book}}})
+    
     # print(res)
     books = []
     for i,hit in enumerate(res['hits']['hits']):
@@ -65,7 +65,7 @@ def findbook_Name(self):
 def findbook_Intro(self):
     es = Elasticsearch(hosts=ip, port=9200)
     res = es.search(index="cleanbook_test", size=10,query={"match":{"書籍簡介":self}})
-    # res = es.search(index="kingstone", body={"query":{"match":{"ISBN":book}}})
+
     # print(res)
     books = []
     for i,hit in enumerate(res['hits']['hits']):
@@ -77,7 +77,7 @@ def findbook_Intro(self):
 def findbook_Author(self):
     es = Elasticsearch(hosts=ip, port=9200)
     res = es.search(index="cleanbook_test", size=10,query={"match":{"作者":{"query":self,"fuzziness":"AUTO"}}})
-    # res = es.search(index="kingstone", body={"query":{"match":{"ISBN":book}}})
+
     # print(res)
     books = []
     for i,hit in enumerate(res['hits']['hits']):
@@ -89,7 +89,7 @@ def findbook_Author(self):
 def random_choosebookISBN():  #按鈕樣版
     connection = MongoClient(host=ip,port=27017)
     db = connection.kingstone
-    collection = db['inter']
+    collection = db['hotbook']
     # allbooks = list(collection.find())
     chooseisbn = list(collection.aggregate([{'$project':{'_id':0,'ISBN':1}},{'$sample':{'size':3}}]))
     # chooseisbn[0] = chooseisbn[0]['ISBN']
@@ -98,7 +98,7 @@ def random_choosebookISBN():  #按鈕樣版
 def findyoumaybelike_ISBN(self):  #轉盤樣板
     connection = MongoClient(host=ip,port=27017)
     db = connection.kingstone
-    collection = db['comment_all.json']
+    collection = db['userCF']
     data = collection.find({'ISBN':self})
     datas = list(data)[0]['list']
     return datas
@@ -124,12 +124,12 @@ def callback():
 @handler.add(MessageEvent, message=TextMessage)
 def handle_message(event):
     message = event.message.text
-    if message == '@熱門隨機':
+    if message == '@暢銷榜推薦':
         sendCarousel(event)
     elif message == '@使用說明':
         instruction(event)
-    elif message == '@我的最愛':
-        myfavorite(event)
+    elif message == '@歷史紀錄':
+        history(event)
         
     elif message == '@團隊介紹':
         team_introduction(event)
@@ -141,12 +141,14 @@ def handle_message(event):
         UseAuthor(event,message)
     elif message[0:1] == '#':
         Usebookintro(event,message)
-    elif message[0:1] != '@':
+    elif message[0:4] == '@查詢中':
+        a=1
+    elif message[0:4] != 'http':
+        a=1
+    elif message[0:4] != 'http':
+        # print('....................:'+message[0:4])
         UsebookName(event,message)
-    
-        
-        s =1
-def myfavorite(event):
+def history(event):
     user_id = event.source.user_id
     connection = MongoClient(host=ip,port=27017)
     db = connection.kingstone
@@ -193,9 +195,16 @@ def myfavorite(event):
         
             line_bot_api.reply_message(event.reply_token, message)
         elif len(book) >= 10:
-            books = '書名：'+'\n書名：'.join([i['書名'] for i in book])
-            message = TextSendMessage(text= books)
+            message = TemplateSendMessage(
+                    alt_text='轉盤樣板',
+                    template=CarouselTemplate(
+                        columns=[carousel(i) for i in book]))
+        
             line_bot_api.reply_message(event.reply_token, message)
+            # book = book[-10:]
+            # books = '書名：'+'\n書名：'.join([i['書名'] for i in book])
+            # message = TextSendMessage(text= books)
+            # line_bot_api.reply_message(event.reply_token, message)
     except:
         line_bot_api.reply_message(event.reply_token,TextSendMessage(text='發生錯誤！'))
 def UsebookName(event,message):
@@ -351,7 +360,7 @@ def sendButton(event):  #按鈕樣版
                     PostbackTemplateAction(  #顯示文字計息
                         label='查看更多資訊',
                         text= book['書籍網站'],
-                        data='#'+book['ISBN']
+                        data='*'+book['ISBN']
                     ),
                     PostbackTemplateAction(
                         label='您可能喜歡....',
@@ -359,9 +368,9 @@ def sendButton(event):  #按鈕樣版
                         data='#'+book['ISBN']
                     ),
                     PostbackTemplateAction(
-                                label='似乎有很像的書',
-                                text='@查詢中',
-                                data='%'+book['ISBN'])
+                            label='似乎有很像的書',
+                            text='@查詢中',
+                            data='%'+book['ISBN'])
                 ]
             )
         )
@@ -369,11 +378,6 @@ def sendButton(event):  #按鈕樣版
     except:
         line_bot_api.reply_message(event.reply_token,TextSendMessage(text='發生錯誤！'))
 def sendCarousel(event):  #轉盤樣板
-    # f = open (r"C:\Users\Tibame\Desktop\TFB103-3project\Project-linebot\recommand_youmaybelike.json","r",encoding="utf-8")
-    # like_dict = json.loads(f.read())
-    # random_books = random.sample(set(like_dict.keys()),5)
-    # random_books = random_find()
-    # books = list(map(lambda x:you_maybe_like(x),random_books))
     isbn_list = random_choosebookISBN()
     books = list(map(findbook_ISBN,isbn_list))
     if len(books[0]['書名']) >20:
@@ -507,8 +511,8 @@ def instruction(event):
     message = [TextSendMessage(
         text="""
         \n使用說明!!!!!!!
-        \n點選輪盤"熱門隨機"，會隨機推選3本書
-        \n點選我的最愛，會有您過去曾點選查看更多資訊的書籍
+        \n點選輪盤"暢銷榜推薦"，會隨機推選3本書
+        \n點選歷史紀錄，會有您過去曾點選查看更多資訊的書籍
         \n可直接在對話框內打上想要查詢的書名，會依據最相近名詞推選10本書
         \n若想查詢"作者"，請在對話框前打上"&"
         \nex:&金庸
@@ -516,10 +520,10 @@ def instruction(event):
         \nex:$9789888570188
         \n若想直接搜尋書籍"簡介"，請在對話框前打上"#"
         \nex:#大地是人類生存的根基，也是人類活動的舞台........
-        """
-        ),
-        ImageSendMessage(original_content_url="https://i.imgur.com/tOGjEkB.jpg",
-        preview_image_url="https://i.imgur.com/tOGjEkB.jpg")
+        """)
+        # ),
+        # ImageSendMessage(original_content_url="https://i.imgur.com/tOGjEkB.jpg",
+        # preview_image_url="https://i.imgur.com/tOGjEkB.jpg")
         ]
     try:
         line_bot_api.reply_message(event.reply_token,message)
@@ -528,18 +532,21 @@ def instruction(event):
 @handler.add(PostbackEvent)
 def handle_postback(event):
     data = event.postback.data
-    print(data)
+    # print(data)
     user_id = event.source.user_id
     user_name = line_bot_api.get_profile(user_id).display_name
-    print(user_id,user_name)
+    # print(user_id,user_name)
     if data[0:1] == '*':
         stored = {'_id':user_id,'userName':user_name,'tag':[data[1:]]}
         mongo_user_stored(stored)
     if data[0:1] == '#':
-        isbn_list = findyoumaybelike_ISBN(data[1:])
-        # print(isbn_list)
-        # books = list(map(findbook_ISBN,isbn_list))
-        you_maybe_like_function(event,isbn_list)
+        try:
+            isbn_list = findyoumaybelike_ISBN(data[1:])
+            # print(isbn_list)
+            # books = list(map(findbook_ISBN,isbn_list))
+            you_maybe_like_function(event,isbn_list)
+        except:
+            sendCarousel(event)
 def you_maybe_like_function(event,isbn_list):  #轉盤樣板
     # books_list = findyoumaybelike_ISBN(isbn)
     books = list(map(findbook_ISBN,isbn_list))
@@ -636,6 +643,7 @@ def you_maybe_like_function(event,isbn_list):  #轉盤樣板
                 )
             )
         line_bot_api.reply_message(event.reply_token,message)
+    
     except:
         line_bot_api.reply_message(event.reply_token,TextSendMessage(text='發生錯誤！'))
 # run app
