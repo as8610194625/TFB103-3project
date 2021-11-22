@@ -214,7 +214,7 @@ def UsebookName(event,message):
         if len(book['書名']) > 20:
             book['書名'] = book['書名'][:20]+'...'
         else:
-          book['書名'] = book['書名']
+            book['書名'] = book['書名']
         return CarouselColumn(
                         thumbnail_image_url=book['圖片網址'],
                         title=book['書名'],
@@ -241,7 +241,7 @@ def UsebookName(event,message):
                                 text='@查詢中',
                                 data='%'+book['ISBN'])])
     try:
-     
+    
         message = TemplateSendMessage(
                 alt_text='轉盤樣板',
                 template=CarouselTemplate(
@@ -257,7 +257,7 @@ def Usebookintro(event,message):
         if len(book['書名']) > 20:
             book['書名'] = book['書名'][:20]+'...'
         else:
-          book['書名'] = book['書名']
+            book['書名'] = book['書名']
         return CarouselColumn(
                         thumbnail_image_url=book['圖片網址'],
                         title=book['書名'],
@@ -284,7 +284,7 @@ def Usebookintro(event,message):
                                 text='@查詢中',
                                 data='%'+book['ISBN'])])
     try:
-     
+    
         message = TemplateSendMessage(
                 alt_text='轉盤樣板',
                 template=CarouselTemplate(
@@ -300,7 +300,7 @@ def UseAuthor(event,message):
         if len(book['書名']) > 20:
             book['書名'] = book['書名'][:20]+'...'
         else:
-          book['書名'] = book['書名']
+            book['書名'] = book['書名']
         return CarouselColumn(
                         thumbnail_image_url=book['圖片網址'],
                         title=book['書名'],
@@ -327,7 +327,7 @@ def UseAuthor(event,message):
                                 text='@查詢中',
                                 data='%'+book['ISBN'])])
     try:
-     
+    
         message = TemplateSendMessage(
                 alt_text='轉盤樣板',
                 template=CarouselTemplate(
@@ -547,7 +547,116 @@ def handle_postback(event):
             you_maybe_like_function(event,isbn_list)
         except:
             sendCarousel(event)
+    if data[0:1] == '%':
+        try:
+            isbn_list = findyoumaybelike_ISBN(data[1:])
+            # print(isbn_list)
+            # books = list(map(findbook_ISBN,isbn_list))
+            other_like_function(event,isbn_list)
+        except:
+            sendCarousel(event)
 def you_maybe_like_function(event,isbn_list):  #轉盤樣板
+    
+    # books_list = findyoumaybelike_ISBN(isbn)
+    books = list(map(findbook_ISBN,isbn_list))
+    if len(books[0]['書名']) >20:
+        books[0]['書名']=books[0]['書名'][:20]+'.....'
+    elif len(books[1]['書名']) >20:
+        books[1]['書名']=books[1]['書名'][:20]+'.....'
+    elif len(books[2]['書名']) >20:
+        books[2]['書名']=books[2]['書名'][:20]+'.....'
+    try:
+        message = TemplateSendMessage(
+            alt_text='轉盤樣板',
+            template=CarouselTemplate(
+                columns=[
+                    CarouselColumn(
+                            thumbnail_image_url=books[0]['圖片網址'],
+                            title=books[0]['書名'],
+                            text=books[0]['作者'],
+                            actions=[
+                                PostbackTemplateAction(
+                                    label='查看更多資訊',
+                                    # text=books[0]['書籍簡介']
+                                    text=books[0]['書籍網站'],
+                                    data='*'+books[0]['ISBN']
+                                ),
+                                # URITemplateAction(
+                                #     label='連結網頁',
+                                #     uri=books[0]['書籍網站']
+                                # ),
+                                PostbackTemplateAction(
+                                    label='您可能喜歡....',
+                                    text='@查詢中',
+                                    data='#'+books[0]['ISBN']
+                                ),
+                                PostbackTemplateAction(
+                                label='似乎有很像的書',
+                                text='@查詢中',
+                                data='%'+books[0]['ISBN'])
+                            ]
+                        ),
+                        CarouselColumn(
+                            thumbnail_image_url=books[1]['圖片網址'],
+                            title=books[1]['書名'],
+                            text=books[1]['作者'],
+                            actions=[
+                                PostbackTemplateAction(
+                                    label='查看更多資訊',
+                                    # text=books[1]['書籍簡介']
+                                    text=books[1]['書籍網站'],
+                                    data='*'+books[1]['ISBN']
+                                ),
+                                # URITemplateAction(
+                                #     label='連結網頁',
+                                #     uri=books[1]['書籍網站']
+                                # ),
+                                PostbackTemplateAction(
+                                    label='您可能喜歡....',
+                                    text='@查詢中',
+                                    data='#'+books[1]['ISBN']
+                                ),
+                                PostbackTemplateAction(
+                                label='似乎有很像的書',
+                                text='@查詢中',
+                                data='%'+books[1]['ISBN'])
+                            ]
+                        ),
+                        CarouselColumn(
+                            thumbnail_image_url=books[2]['圖片網址'],
+                            title=books[2]['書名'],
+                            text=books[2]['作者'],
+                            actions=[
+                                PostbackTemplateAction(
+                                    label='查看更多資訊',
+                                    # text=books[2]['書籍簡介']
+                                    text=books[2]['書籍網站'],
+                                    data='*'+books[2]['ISBN']
+                                ),
+                                # URITemplateAction(
+                                #     label='連結網頁',
+                                #     uri=books[2]['書籍網站']
+                                # ),
+                                PostbackTemplateAction(
+                                    label='您可能喜歡....',
+                                    text='@查詢中',
+                                    data='#'+books[2]['ISBN']
+                                ),
+                                PostbackTemplateAction(
+                                label='似乎有很像的書',
+                                text='@查詢中',
+                                data='%'+books[2]['ISBN'])
+                            ]
+                        )
+                    ]
+                )
+            )
+        line_bot_api.reply_message(event.reply_token,message)
+    
+    except:
+        line_bot_api.reply_message(event.reply_token,TextSendMessage(text='發生錯誤！'))
+def other_like_function(event,isbn_list):
+    
     # books_list = findyoumaybelike_ISBN(isbn)
     books = list(map(findbook_ISBN,isbn_list))
     if len(books[0]['書名']) >20:
