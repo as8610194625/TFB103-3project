@@ -31,7 +31,7 @@ docker-compose up
 ``` 
 3.使用另一個終端機cd到localtest_docker下，執行:
 ```
-curl $(docker port chatbot_ngrok 4040)/api/tunnels
+curl $(docker port ngrok 4040)/api/tunnels
 ```
 把「https:....」貼到LINE BOT DEVELOPER 的Webhook ，再加上/callback
 
