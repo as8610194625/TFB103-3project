@@ -1,0 +1,122 @@
+version: '3.7'
+
+services:
+  product-service:
+    build: .
+    container_name: server
+    volumes:
+      - ./Project-linebot:/line-bot
+    ports: 
+      - '5000:5000'
+    tty: true
+    stdin_open: true
+    command: python books_linebot.py
+    networks:
+        tfb103project:
+            ipv4_address: 172.28.0.6
+    # network_mode: "host"
+    # networks:
+    #   - elastic
+  ngrok:
+    image: wernight/ngrok
+    container_name: ngrok 
+    ports: 
+      - '4040'
+    depends_on:
+      - product-service
+    # network_mode: "host"
+    networks:
+        tfb103project:
+            ipv4_address: 172.28.0.7
+    tty: true
+    stdin_open: true
+    command: ngrok http server:12345 -region ap
+    # command: ngrok http 12345 -region ap
+  mongo:
+    image: mongo
+    container_name: mongo
+    restart: always
+    ports:
+      - 27017:27017
+    volumes:
+    #   - ./mongod.conf.orig:/etc/mongod.conf.orig
+      - ./datas/mongodata:/data/db
+    networks:
+        tfb103project:
+            ipv4_address: 172.28.0.2
+    # depends_on:
+    #   - product-service
+  es01:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.14.1
+    restart: on-failure
+    container_name: es01
+    environment:
+      - node.name=es01
+      - cluster.name=es-docker-cluster
+      - discovery.seed_hosts=es02
+      - cluster.initial_master_nodes=es01,es02
+      - bootstrap.memory_lock=true
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    volumes:
+      - ./datas/data01:/usr/share/elasticsearch/data
+    ports:
+      - 9200:9200
+    networks:
+        tfb103project:
+            ipv4_address: 172.28.0.3
+    # depends_on:
+    #   - product-service
+  es02:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.14.1
+    container_name: es02
+    restart: on-failure
+    environment:
+      - node.name=es02
+      - cluster.name=es-docker-cluster
+      - discovery.seed_hosts=es01
+      - cluster.initial_master_nodes=es01,es02
+      - bootstrap.memory_lock=true
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    volumes:
+      - ./datas/data02:/usr/share/elasticsearch/data
+    ports:
+      - 9201:9200
+    networks:
+        tfb103project:
+            ipv4_address: 172.28.0.4
+    # depends_on:
+    #   - product-service
+  kibana:
+    image: docker.elastic.co/kibana/kibana:7.14.1
+    container_name: kibana
+    restart: on-failure
+    volumes:
+      - ./kibana.yml:/usr/share/kibana/config/kibana.yml
+      - ./zh-TW.json:/usr/share/kibana/x-pack/plugins/translations/translations/zh-TW.json
+      - ./zh-CN.json:/usr/share/kibana/x-pack/plugins/translations/translations/zh-CN.json
+    networks:
+        tfb103project:
+            ipv4_address: 172.28.0.5
+    ports:
+      - 5601:5601
+    depends_on:
+      - es01
+    # depends_on:
+    #   - product-service
+
+networks:
+  tfb103project:
+  #   driver: bridge
+    ipam:
+        driver: default
+        config:
+            - subnet: 172.28.0.0/16
+              gateway: 172.28.0.1

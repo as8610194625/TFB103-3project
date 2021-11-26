@@ -5,15 +5,11 @@ from linebot import LineBotApi, WebhookHandler
 from linebot.exceptions import InvalidSignatureError, LineBotApiError
 from linebot.models import MessageEvent,TextSendMessage,CarouselTemplate,CarouselColumn,ImageSendMessage,PostbackEvent,TemplateSendMessage,ButtonsTemplate,MessageTemplateAction,URITemplateAction,PostbackTemplateAction, events
 from linebot.models.messages import ImageMessage,TextMessage
-import time
 import json
 from elasticsearch import Elasticsearch
-from linebot.models.responses import Content
-from linebot.models.template import ConfirmTemplate
-import numpy as np
 from pymongo import MongoClient, collection
 from pymongo.errors import DuplicateKeyError
-import random
+
 
 # create flask server
 
@@ -36,6 +32,18 @@ def mongo_user_stored(self):
         print("----------")
     except DuplicateKeyError:
         collection.update({ '_id' : self['_id'] },{ '$push': { 'tag': self['tag'][0] }})
+        print("----------")
+    except:
+        print('已存在_id',self['_id'],'(因此不寫入)')
+        print("----------")
+
+def cfmodel_stored(self):
+    connection = MongoClient(host=ip,port=27017)
+    db = connection.kingstone
+    collection = db['CFmodel']
+    try:
+        collection.insert([self])
+        print('已新增',self['_id'])
         print("----------")
     except:
         print('已存在_id',self['_id'],'(因此不寫入)')
@@ -102,6 +110,13 @@ def findyoumaybelike_ISBN(self):  #轉盤樣板
     data = collection.find({'ISBN':self})
     datas = list(data)[0]['list']
     return datas
+def findsimilar_ISBN(self):  #轉盤樣板
+    connection = MongoClient(host=ip,port=27017)
+    db = connection.kingstone
+    collection = db['similar']
+    data = collection.find({'ISBN':self})
+    datas = list(data)[0]['list']
+    return datas
 
 @app.route("/callback", methods=['POST'])
 def callback():
@@ -143,7 +158,7 @@ def handle_message(event):
         Usebookintro(event,message)
     elif message[0:4] == '@查詢中':
         a=1
-    elif message[0:4] != 'http':
+    elif message[0:4] == 'http':
         a=1
     elif message[0:4] != 'http':
         # print('....................:'+message[0:4])
@@ -153,7 +168,7 @@ def history(event):
     connection = MongoClient(host=ip,port=27017)
     db = connection.kingstone
     collection = db['customers']
-    isbn_list = list(collection.find({"_id":user_id},{"_id":0,"tag":1}))[0]['tag']
+    isbn_list = reversed(list(collection.find({"_id":user_id},{"_id":0,"tag":1}))[0]['tag'][-10:])
     print(isbn_list)
     book = list(map(findbook_ISBN,isbn_list))
     def carousel(book):
@@ -189,14 +204,14 @@ def history(event):
     try:
         if len(book) < 10 :
             message = TemplateSendMessage(
-                    alt_text='轉盤樣板',
+                    alt_text='歷史紀錄',
                     template=CarouselTemplate(
                         columns=[carousel(i) for i in book]))
         
             line_bot_api.reply_message(event.reply_token, message)
         elif len(book) >= 10:
             message = TemplateSendMessage(
-                    alt_text='轉盤樣板',
+                    alt_text='歷史紀錄',
                     template=CarouselTemplate(
                         columns=[carousel(i) for i in book]))
         
@@ -243,7 +258,7 @@ def UsebookName(event,message):
     try:
     
         message = TemplateSendMessage(
-                alt_text='轉盤樣板',
+                alt_text='找書囉~',
                 template=CarouselTemplate(
                     columns=[carousel(i) for i in book]))
         line_bot_api.reply_message(event.reply_token, message)
@@ -286,7 +301,7 @@ def Usebookintro(event,message):
     try:
     
         message = TemplateSendMessage(
-                alt_text='轉盤樣板',
+                alt_text='找書囉~',
                 template=CarouselTemplate(
                     columns=[carousel(i) for i in book]))
         line_bot_api.reply_message(event.reply_token, message)
@@ -329,7 +344,7 @@ def UseAuthor(event,message):
     try:
     
         message = TemplateSendMessage(
-                alt_text='轉盤樣板',
+                alt_text='找找作者~',
                 template=CarouselTemplate(
                     columns=[carousel(i) for i in book]))
         line_bot_api.reply_message(event.reply_token, message)
@@ -351,7 +366,7 @@ def sendButton(event):  #按鈕樣版
     # contents = chooseone['書籍簡介'][:20]
     try:
         message = TemplateSendMessage(
-            alt_text='按鈕樣板',
+            alt_text='這裡有一本書',
             template=ButtonsTemplate(
                 thumbnail_image_url=book['圖片網址'],  #顯示的圖片
                 title=book['書名'],  #主標題
@@ -388,7 +403,7 @@ def sendCarousel(event):  #轉盤樣板
         books[2]['書名']=books[2]['書名'][:20]+'.....'
     try:
         message = TemplateSendMessage(
-            alt_text='轉盤樣板',
+            alt_text='找書囉~',
             template=CarouselTemplate(
                 columns=[
                     CarouselColumn(
@@ -538,7 +553,9 @@ def handle_postback(event):
     # print(user_id,user_name)
     if data[0:1] == '*':
         stored = {'_id':user_id,'userName':user_name,'tag':[data[1:]]}
+        cfstored = {"ISBN":data[1:],'USER':user_id,"USERSTAR":5.0}
         mongo_user_stored(stored)
+        cfmodel_stored(cfstored)
     if data[0:1] == '#':
         try:
             isbn_list = findyoumaybelike_ISBN(data[1:])
@@ -549,10 +566,10 @@ def handle_postback(event):
             sendCarousel(event)
     if data[0:1] == '%':
         try:
-            isbn_list = findyoumaybelike_ISBN(data[1:])
+            isbn_list = findsimilar_ISBN(data[1:])
             # print(isbn_list)
             # books = list(map(findbook_ISBN,isbn_list))
-            other_like_function(event,isbn_list)
+            similar(event,isbn_list)
         except:
             sendCarousel(event)
 def you_maybe_like_function(event,isbn_list):  #轉盤樣板
@@ -567,7 +584,7 @@ def you_maybe_like_function(event,isbn_list):  #轉盤樣板
         books[2]['書名']=books[2]['書名'][:20]+'.....'
     try:
         message = TemplateSendMessage(
-            alt_text='轉盤樣板',
+            alt_text='您可能喜歡的書~',
             template=CarouselTemplate(
                 columns=[
                     CarouselColumn(
@@ -655,7 +672,7 @@ def you_maybe_like_function(event,isbn_list):  #轉盤樣板
     
     except:
         line_bot_api.reply_message(event.reply_token,TextSendMessage(text='發生錯誤！'))
-def other_like_function(event,isbn_list):
+def similar(event,isbn_list):
     
     # books_list = findyoumaybelike_ISBN(isbn)
     books = list(map(findbook_ISBN,isbn_list))
@@ -667,7 +684,7 @@ def other_like_function(event,isbn_list):
         books[2]['書名']=books[2]['書名'][:20]+'.....'
     try:
         message = TemplateSendMessage(
-            alt_text='轉盤樣板',
+            alt_text='似乎有很像的書呢!',
             template=CarouselTemplate(
                 columns=[
                     CarouselColumn(
@@ -747,6 +764,58 @@ def other_like_function(event,isbn_list):
                                 text='@查詢中',
                                 data='%'+books[2]['ISBN'])
                             ]
+                        ),
+                        CarouselColumn(
+                            thumbnail_image_url=books[3]['圖片網址'],
+                            title=books[3]['書名'],
+                            text=books[3]['作者'],
+                            actions=[
+                                PostbackTemplateAction(
+                                    label='查看更多資訊',
+                                    # text=books[2]['書籍簡介']
+                                    text=books[3]['書籍網站'],
+                                    data='*'+books[3]['ISBN']
+                                ),
+                                # URITemplateAction(
+                                #     label='連結網頁',
+                                #     uri=books[2]['書籍網站']
+                                # ),
+                                PostbackTemplateAction(
+                                    label='您可能喜歡....',
+                                    text='@查詢中',
+                                    data='#'+books[3]['ISBN']
+                                ),
+                                PostbackTemplateAction(
+                                label='似乎有很像的書',
+                                text='@查詢中',
+                                data='%'+books[3]['ISBN'])
+                            ]
+                        ),
+                        CarouselColumn(
+                            thumbnail_image_url=books[4]['圖片網址'],
+                            title=books[4]['書名'],
+                            text=books[4]['作者'],
+                            actions=[
+                                PostbackTemplateAction(
+                                    label='查看更多資訊',
+                                    # text=books[2]['書籍簡介']
+                                    text=books[4]['書籍網站'],
+                                    data='*'+books[4]['ISBN']
+                                ),
+                                # URITemplateAction(
+                                #     label='連結網頁',
+                                #     uri=books[2]['書籍網站']
+                                # ),
+                                PostbackTemplateAction(
+                                    label='您可能喜歡....',
+                                    text='@查詢中',
+                                    data='#'+books[4]['ISBN']
+                                ),
+                                PostbackTemplateAction(
+                                label='似乎有很像的書',
+                                text='@查詢中',
+                                data='%'+books[4]['ISBN'])
+                            ]
                         )
                     ]
                 )
@@ -757,4 +826,4 @@ def other_like_function(event,isbn_list):
         line_bot_api.reply_message(event.reply_token,TextSendMessage(text='發生錯誤！'))
 # run app
 if __name__ == "__main__":
-    app.run(host='localhost',debug=True, port=12345)
+    app.run(host='0.0.0.0',debug=True, port=12345)

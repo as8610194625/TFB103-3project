@@ -8,6 +8,7 @@ services:
       - ./Project-linebot:/line-bot
     ports: 
       - '5000:5000'
+      # - '12345:12345'
     tty: true
     stdin_open: true
     command: python books_linebot.py
