@@ -11,6 +11,7 @@ from pymongo import MongoClient, collection
 from pymongo.errors import DuplicateKeyError
 
 
+
 # create flask server
 
 app = Flask(__name__)
@@ -21,9 +22,9 @@ channelSecret=secretFile["channelSecret"]
 ip = secretFile["IP"]
 line_bot_api =LineBotApi(channelAccessToken)
 handler=WebhookHandler(channelSecret)
-
+# MongoClient(host=ip,port=27017)
 def mongo_user_stored(self):
-    connection = MongoClient(host=ip,port=27017)
+    connection = MongoClient("mongodb+srv://tfb103:tfb103@bei7.k2ier.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
     db = connection.kingstone
     collection = db['customers']
     try:
@@ -38,7 +39,7 @@ def mongo_user_stored(self):
         print("----------")
 
 def cfmodel_stored(self):
-    connection = MongoClient(host=ip,port=27017)
+    connection = MongoClient("mongodb+srv://tfb103:tfb103@bei7.k2ier.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
     db = connection.kingstone
     collection = db['CFmodel']
     try:
@@ -50,68 +51,67 @@ def cfmodel_stored(self):
         print("----------")
 
 def findbook_ISBN(self):
-    es = Elasticsearch(hosts=ip, port=9200)
-    res = es.search(index="cleanbook_test", query={"match":{"ISBN":self}})
-    # print(res['hits']['hits'])
-    # book = res['hits']['hits'][0]["_source"]
+    es = Elasticsearch(
+    cloud_id="TFB103:dXMtZWFzdC0xLmF3cy5mb3VuZC5pbyRjM2I1NDU5OWEwZmQ0MWEyODg4MThjYWY0ODI2YjBiMiRkNzllZjg5MWFhMzk0NTc3ODE4MjI4NTE4ZWJjNjg3NA==",
+    http_auth=("TFB103", "TFB103")
+)
+    res = es.search(index="kingstone", query={"match":{"ISBN":self}})
     for hit in res['hits']['hits']:
-        # global book_all
         book_all = hit["_source"]
         book_all.pop('書籍簡介')
     return book_all
 def findbook_Name(self):
-    es = Elasticsearch(hosts=ip, port=9200)
-    res = es.search(index="cleanbook_test", size=10,query={"match":{"書名":self}})
-    
-    # print(res)
+    es = Elasticsearch(
+    cloud_id="TFB103:dXMtZWFzdC0xLmF3cy5mb3VuZC5pbyRjM2I1NDU5OWEwZmQ0MWEyODg4MThjYWY0ODI2YjBiMiRkNzllZjg5MWFhMzk0NTc3ODE4MjI4NTE4ZWJjNjg3NA==",
+    http_auth=("TFB103", "TFB103")
+)
+    res = es.search(index="kingstone", size=10,query={"match":{"書名":self}})
     books = []
-    for i,hit in enumerate(res['hits']['hits']):
+    for hit in res['hits']['hits']:
         book = hit["_source"]
         book.pop('書籍簡介')
         books.append(book)
     return books
 def findbook_Intro(self):
-    es = Elasticsearch(hosts=ip, port=9200)
-    res = es.search(index="cleanbook_test", size=10,query={"match":{"書籍簡介":self}})
-
-    # print(res)
+    es = Elasticsearch(
+    cloud_id="TFB103:dXMtZWFzdC0xLmF3cy5mb3VuZC5pbyRjM2I1NDU5OWEwZmQ0MWEyODg4MThjYWY0ODI2YjBiMiRkNzllZjg5MWFhMzk0NTc3ODE4MjI4NTE4ZWJjNjg3NA==",
+    http_auth=("TFB103", "TFB103")
+)
+    res = es.search(index="kingstone", size=10,query={"match":{"書籍簡介":self}})
     books = []
-    for i,hit in enumerate(res['hits']['hits']):
+    for hit in res['hits']['hits']:
         book = hit["_source"]
         book.pop('書籍簡介')
         books.append(book)
-        # print(i,book)
     return books
 def findbook_Author(self):
-    es = Elasticsearch(hosts=ip, port=9200)
-    res = es.search(index="cleanbook_test", size=10,query={"match":{"作者":{"query":self,"fuzziness":"AUTO"}}})
-
-    # print(res)
+    es = Elasticsearch(
+    cloud_id="TFB103:dXMtZWFzdC0xLmF3cy5mb3VuZC5pbyRjM2I1NDU5OWEwZmQ0MWEyODg4MThjYWY0ODI2YjBiMiRkNzllZjg5MWFhMzk0NTc3ODE4MjI4NTE4ZWJjNjg3NA==",
+    http_auth=("TFB103", "TFB103")
+)
+    res = es.search(index="kingstone", size=10,query={"match":{"作者":{"query":self,"fuzziness":"AUTO"}}})
     books = []
     for i,hit in enumerate(res['hits']['hits']):
         book = hit["_source"]
         book.pop('書籍簡介')
         books.append(book)
-        # print(i,book)
     return books
 def random_choosebookISBN():  #按鈕樣版
-    connection = MongoClient(host=ip,port=27017)
+    connection = MongoClient("mongodb+srv://tfb103:tfb103@bei7.k2ier.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
     db = connection.kingstone
     collection = db['hotbook']
-    # allbooks = list(collection.find())
     chooseisbn = list(collection.aggregate([{'$project':{'_id':0,'ISBN':1}},{'$sample':{'size':3}}]))
-    # chooseisbn[0] = chooseisbn[0]['ISBN']
     return [chooseisbn[0]['ISBN'],chooseisbn[1]['ISBN'],chooseisbn[2]['ISBN']]
 
 def findyoumaybelike_ISBN(self):  #轉盤樣板
-    connection = MongoClient(host=ip,port=27017)
+    connection = MongoClient("mongodb+srv://tfb103:tfb103@bei7.k2ier.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
     db = connection.kingstone
     collection = db['userCF']
     data = collection.find({'ISBN':self})
     datas = list(data)[0]['list']
     return datas
 def findsimilar_ISBN(self):  #轉盤樣板
-    connection = MongoClient(host=ip,port=27017)
+    connection = MongoClient("mongodb+srv://tfb103:tfb103@bei7.k2ier.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
     db = connection.kingstone
     collection = db['similar']
     data = collection.find({'ISBN':self})
@@ -161,11 +161,10 @@ def handle_message(event):
     elif message[0:4] == 'http':
         a=1
     elif message[0:4] != 'http':
-        # print('....................:'+message[0:4])
         UsebookName(event,message)
 def history(event):
     user_id = event.source.user_id
-    connection = MongoClient(host=ip,port=27017)
+    connection = MongoClient("mongodb+srv://tfb103:tfb103@bei7.k2ier.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
     db = connection.kingstone
     collection = db['customers']
     isbn_list = reversed(list(collection.find({"_id":user_id},{"_id":0,"tag":1}))[0]['tag'][-10:])
@@ -187,11 +186,6 @@ def history(event):
                                 text=book['書籍網站'],
                                 data='*'+book['ISBN']
                             ),
-                            # URITemplateAction(
-                            #     label='連結網頁',
-                            #     alt_uri=books[0]['書籍網站'],
-                            #     uri=books[0]['書籍網站']
-                            # ),
                             PostbackTemplateAction(
                                 label='您可能喜歡....',
                                 text='@查詢中',
@@ -216,10 +210,6 @@ def history(event):
                         columns=[carousel(i) for i in book]))
         
             line_bot_api.reply_message(event.reply_token, message)
-            # book = book[-10:]
-            # books = '書名：'+'\n書名：'.join([i['書名'] for i in book])
-            # message = TextSendMessage(text= books)
-            # line_bot_api.reply_message(event.reply_token, message)
     except:
         line_bot_api.reply_message(event.reply_token,TextSendMessage(text='發生錯誤！'))
 def UsebookName(event,message):
@@ -237,15 +227,9 @@ def UsebookName(event,message):
                         actions=[
                             PostbackTemplateAction(
                                 label='查看更多資訊',
-                                # text=books[0]['書籍簡介']
                                 text=book['書籍網站'],
                                 data='*'+book['ISBN']
                             ),
-                            # URITemplateAction(
-                            #     label='連結網頁',
-                            #     alt_uri=books[0]['書籍網站'],
-                            #     uri=books[0]['書籍網站']
-                            # ),
                             PostbackTemplateAction(
                                 label='您可能喜歡....',
                                 text='@查詢中',
@@ -280,15 +264,9 @@ def Usebookintro(event,message):
                         actions=[
                             PostbackTemplateAction(
                                 label='查看更多資訊',
-                                # text=books[0]['書籍簡介']
                                 text=book['書籍網站'],
                                 data='*'+book['ISBN']
                             ),
-                            # URITemplateAction(
-                            #     label='連結網頁',
-                            #     alt_uri=books[0]['書籍網站'],
-                            #     uri=books[0]['書籍網站']
-                            # ),
                             PostbackTemplateAction(
                                 label='您可能喜歡....',
                                 text='@查詢中',
@@ -323,15 +301,9 @@ def UseAuthor(event,message):
                         actions=[
                             PostbackTemplateAction(
                                 label='查看更多資訊',
-                                # text=books[0]['書籍簡介']
                                 text=book['書籍網站'],
                                 data='*'+book['ISBN']
                             ),
-                            # URITemplateAction(
-                            #     label='連結網頁',
-                            #     alt_uri=books[0]['書籍網站'],
-                            #     uri=books[0]['書籍網站']
-                            # ),
                             PostbackTemplateAction(
                                 label='您可能喜歡....',
                                 text='@查詢中',
@@ -352,18 +324,12 @@ def UseAuthor(event,message):
     except:
         line_bot_api.reply_message(event.reply_token,TextSendMessage(text='發生錯誤！'))
 def sendButton(event):  #按鈕樣版
-    # es = Elasticsearch(hosts=ip, port=9200)
-    # seed = int(time.time())
-    # res = es.search(index="cleanbook_test",size=1,query={"function_score":{"random_score":{"seed":seed,"field":"_seq_no"}}})
-    # for chooseone in res['hits']['hits']:
-    #     chooseone = chooseone['_source']
     message = event.message.text
     book = findbook_ISBN(message[1:])
     if len(book['書名']) > 20:
         book['書名']=book['書名'][:10]+'...'
     else:
         book['書名']=book['書名']
-    # contents = chooseone['書籍簡介'][:20]
     try:
         message = TemplateSendMessage(
             alt_text='這裡有一本書',
@@ -413,14 +379,9 @@ def sendCarousel(event):  #轉盤樣板
                             actions=[
                                 PostbackTemplateAction(
                                     label='查看更多資訊',
-                                    # text=books[0]['書籍簡介']
                                     text=books[0]['書籍網站'],
                                     data='*'+books[0]['ISBN']
                                 ),
-                                # URITemplateAction(
-                                #     label='連結網頁',
-                                #     uri=books[0]['書籍網站']
-                                # ),
                                 PostbackTemplateAction(
                                     label='您可能喜歡....',
                                     text='@查詢中',
@@ -439,14 +400,9 @@ def sendCarousel(event):  #轉盤樣板
                             actions=[
                                 PostbackTemplateAction(
                                     label='查看更多資訊',
-                                    # text=books[1]['書籍簡介']
                                     text=books[1]['書籍網站'],
                                     data='*'+books[1]['ISBN']
                                 ),
-                                # URITemplateAction(
-                                #     label='連結網頁',
-                                #     uri=books[1]['書籍網站']
-                                # ),
                                 PostbackTemplateAction(
                                     label='您可能喜歡....',
                                     text='@查詢中',
@@ -465,14 +421,9 @@ def sendCarousel(event):  #轉盤樣板
                             actions=[
                                 PostbackTemplateAction(
                                     label='查看更多資訊',
-                                    # text=books[2]['書籍簡介']
                                     text=books[2]['書籍網站'],
                                     data='*'+books[2]['ISBN']
                                 ),
-                                # URITemplateAction(
-                                #     label='連結網頁',
-                                #     uri=books[2]['書籍網站']
-                                # ),
                                 PostbackTemplateAction(
                                     label='您可能喜歡....',
                                     text='@查詢中',
@@ -492,7 +443,6 @@ def sendCarousel(event):  #轉盤樣板
     except:
         line_bot_api.reply_message(event.reply_token,TextSendMessage(text='發生錯誤！'))
         print(LineBotApiError)
-        # print('.........')
 def team_introduction(event):
     message = TextSendMessage(
         text="""
@@ -537,9 +487,6 @@ def instruction(event):
         \n📚若想直接搜尋書籍"簡介"，請在對話框前打上"#"                
         \nEX:#今天天氣好
         """)
-        # ),
-        # ImageSendMessage(original_content_url="https://i.imgur.com/tOGjEkB.jpg",
-        # preview_image_url="https://i.imgur.com/tOGjEkB.jpg")
         ]
     try:
         line_bot_api.reply_message(event.reply_token,message)
@@ -548,10 +495,8 @@ def instruction(event):
 @handler.add(PostbackEvent)
 def handle_postback(event):
     data = event.postback.data
-    # print(data)
     user_id = event.source.user_id
     user_name = line_bot_api.get_profile(user_id).display_name
-    # print(user_id,user_name)
     if data[0:1] == '*':
         stored = {'_id':user_id,'userName':user_name,'tag':[data[1:]]}
         cfstored = {"ISBN":data[1:],'USER':user_id,"USERSTAR":5.0}
@@ -560,16 +505,12 @@ def handle_postback(event):
     if data[0:1] == '#':
         try:
             isbn_list = findyoumaybelike_ISBN(data[1:])
-            # print(isbn_list)
-            # books = list(map(findbook_ISBN,isbn_list))
             you_maybe_like_function(event,isbn_list)
         except:
             sendCarousel(event)
     if data[0:1] == '%':
         try:
             isbn_list = findsimilar_ISBN(data[1:])
-            # print(isbn_list)
-            # books = list(map(findbook_ISBN,isbn_list))
             similar(event,isbn_list)
         except:
             sendCarousel(event)
@@ -595,14 +536,9 @@ def you_maybe_like_function(event,isbn_list):  #轉盤樣板
                             actions=[
                                 PostbackTemplateAction(
                                     label='查看更多資訊',
-                                    # text=books[0]['書籍簡介']
                                     text=books[0]['書籍網站'],
                                     data='*'+books[0]['ISBN']
                                 ),
-                                # URITemplateAction(
-                                #     label='連結網頁',
-                                #     uri=books[0]['書籍網站']
-                                # ),
                                 PostbackTemplateAction(
                                     label='您可能喜歡....',
                                     text='@查詢中',
@@ -621,14 +557,9 @@ def you_maybe_like_function(event,isbn_list):  #轉盤樣板
                             actions=[
                                 PostbackTemplateAction(
                                     label='查看更多資訊',
-                                    # text=books[1]['書籍簡介']
                                     text=books[1]['書籍網站'],
                                     data='*'+books[1]['ISBN']
                                 ),
-                                # URITemplateAction(
-                                #     label='連結網頁',
-                                #     uri=books[1]['書籍網站']
-                                # ),
                                 PostbackTemplateAction(
                                     label='您可能喜歡....',
                                     text='@查詢中',
@@ -647,14 +578,9 @@ def you_maybe_like_function(event,isbn_list):  #轉盤樣板
                             actions=[
                                 PostbackTemplateAction(
                                     label='查看更多資訊',
-                                    # text=books[2]['書籍簡介']
                                     text=books[2]['書籍網站'],
                                     data='*'+books[2]['ISBN']
                                 ),
-                                # URITemplateAction(
-                                #     label='連結網頁',
-                                #     uri=books[2]['書籍網站']
-                                # ),
                                 PostbackTemplateAction(
                                     label='您可能喜歡....',
                                     text='@查詢中',
@@ -695,14 +621,9 @@ def similar(event,isbn_list):
                             actions=[
                                 PostbackTemplateAction(
                                     label='查看更多資訊',
-                                    # text=books[0]['書籍簡介']
                                     text=books[0]['書籍網站'],
                                     data='*'+books[0]['ISBN']
                                 ),
-                                # URITemplateAction(
-                                #     label='連結網頁',
-                                #     uri=books[0]['書籍網站']
-                                # ),
                                 PostbackTemplateAction(
                                     label='您可能喜歡....',
                                     text='@查詢中',
@@ -721,14 +642,9 @@ def similar(event,isbn_list):
                             actions=[
                                 PostbackTemplateAction(
                                     label='查看更多資訊',
-                                    # text=books[1]['書籍簡介']
                                     text=books[1]['書籍網站'],
                                     data='*'+books[1]['ISBN']
                                 ),
-                                # URITemplateAction(
-                                #     label='連結網頁',
-                                #     uri=books[1]['書籍網站']
-                                # ),
                                 PostbackTemplateAction(
                                     label='您可能喜歡....',
                                     text='@查詢中',
@@ -747,14 +663,9 @@ def similar(event,isbn_list):
                             actions=[
                                 PostbackTemplateAction(
                                     label='查看更多資訊',
-                                    # text=books[2]['書籍簡介']
                                     text=books[2]['書籍網站'],
                                     data='*'+books[2]['ISBN']
                                 ),
-                                # URITemplateAction(
-                                #     label='連結網頁',
-                                #     uri=books[2]['書籍網站']
-                                # ),
                                 PostbackTemplateAction(
                                     label='您可能喜歡....',
                                     text='@查詢中',
@@ -773,14 +684,9 @@ def similar(event,isbn_list):
                             actions=[
                                 PostbackTemplateAction(
                                     label='查看更多資訊',
-                                    # text=books[2]['書籍簡介']
                                     text=books[3]['書籍網站'],
                                     data='*'+books[3]['ISBN']
                                 ),
-                                # URITemplateAction(
-                                #     label='連結網頁',
-                                #     uri=books[2]['書籍網站']
-                                # ),
                                 PostbackTemplateAction(
                                     label='您可能喜歡....',
                                     text='@查詢中',
@@ -799,14 +705,9 @@ def similar(event,isbn_list):
                             actions=[
                                 PostbackTemplateAction(
                                     label='查看更多資訊',
-                                    # text=books[2]['書籍簡介']
                                     text=books[4]['書籍網站'],
                                     data='*'+books[4]['ISBN']
                                 ),
-                                # URITemplateAction(
-                                #     label='連結網頁',
-                                #     uri=books[2]['書籍網站']
-                                # ),
                                 PostbackTemplateAction(
                                     label='您可能喜歡....',
                                     text='@查詢中',

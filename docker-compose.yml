@@ -8,13 +8,12 @@ services:
       - ./Project-linebot:/line-bot
     ports: 
       - '5000:5000'
-      # - '12345:12345'
     tty: true
     stdin_open: true
     command: python books_linebot.py
   ngrok:
     image: wernight/ngrok
-    container_name: chatbot_ngrok 
+    container_name: ngrok 
     ports: 
       - '4040'
     depends_on:

@@ -8,3 +8,5 @@ RUN pip3 install Flask
 RUN pip3 install line-bot-sdk
 RUN pip3 install pymongo
 RUN pip3 install elasticsearch
+RUN pip3 install 'pymongo[srv]'
+RUN pip3 install elasticsearch async
