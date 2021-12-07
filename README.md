@@ -4,9 +4,11 @@
 ```
 At : crewdatas_functions
 ```
->資料
+>資料及程式來源
 ```
-At : kingstone_datas/json & book_comment
+At : 在 localtest_docker 的 資料庫中 (MongoDB、Elasticseach)
+auto_CF.py為協同過濾演算法KNN且會直接資料儲存至local資料庫
+word2vec.ipynb為woed2vec講解
 ```
 >Line Bot Server 及 功能 程式
 ```
@@ -18,7 +20,7 @@ docker-compose up
 ```
 ## 本地測試操作步驟
 
-1.打開SecretFile.txt
+1.進入localtest_docker/Project-linebot，打開SecretFile.txt
 把需要的資料貼到對應的位置
 對照:
 |channelAccessToken|channelSecret|
@@ -53,3 +55,6 @@ sudo vim /etc/sysctl.conf
 vm.max_map_count=262144
 sudo sysctl -p
 ```
+
+專題概念及程式講解影片說明(https://youtu.be/W5NzAx0uaQU)
+專題LineBot呈現影片(https://youtu.be/NcUBxpgMnto)

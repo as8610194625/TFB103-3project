@@ -34,7 +34,7 @@ book_features_df.fillna(0, inplace = True)
 
 book_features_df_matrix = csr_matrix(book_features_df.values)
 
-# 建立餘弦相似模型 (K-近鄰演算法)
+# 建立餘弦相似模型 (K-近鄰演算法) (KNN)
 
 nearest_neighbor_model = NearestNeighbors(metric = 'cosine', algorithm = 'brute')
 nearest_neighbor_model.fit(book_features_df_matrix)
