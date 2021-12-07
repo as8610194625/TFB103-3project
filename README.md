@@ -22,10 +22,10 @@ docker-compose up
 
 1.進入localtest_docker/Project-linebot，打開SecretFile.txt
 把需要的資料貼到對應的位置
-對照:
-|channelAccessToken|channelSecret|
-|:---|:---|:---|:---
-|LINE Message API Token|LINE channel Secret
+對照:<br>
+|channelAccessToken|channelSecret|<br>
+|------------------|--------------|<br>
+|LINE Message API Token|LINE channel Secret|
 
 2.cd到localtest_docker下執行:
 ```
